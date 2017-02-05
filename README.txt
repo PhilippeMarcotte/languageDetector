@@ -8,3 +8,4 @@ https://github.com/goldsmith/Wikipedia
 
 machine.py:
 This is the main script. Simply execute it to see the results of the learning process.
+The script requires numpy, scipy, sklearn and matplotlib.
