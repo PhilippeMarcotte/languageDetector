@@ -1,4 +1,4 @@
-Machine learning software that learns to distinguish the five following languages : English, French, Dutch, Spanish and Italian
+Machine learning software that learns to distinguish written languages.
 
 wikipediaScraper.py:
 args : -h, -l --languages, -n --numberOfArticles
