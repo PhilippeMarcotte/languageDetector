@@ -2,7 +2,7 @@ Machine learning software that learns to distinguish written languages.
 
 wikipediaScraper.py:
 args : -h, -l --languages, -n --numberOfArticles
-The purpose of this script is to collect 500 articles of each languages from Wikipedia. It requires the library Wikipedia to be installed.
+The purpose of this script is to collect a certain numer of random articles of each languages from Wikipedia. It requires the library Wikipedia to be installed.
 
 https://github.com/goldsmith/Wikipedia
 
