@@ -1,0 +1,190 @@
+Der Boden (von ahd. bodam), umgangssprachlich auch Erde oder Erdreich genannt, ist der oberste, im Regelfall belebte Teil der Erdkruste. Nach unten wird der Boden von festem oder lockerem Gestein begrenzt, nach oben meist durch eine Vegetationsdecke sowie die Erdatmosphäre.
+Abhängig davon, ob umgangssprachlich oder als Teil eines Fachvokabulars, und in letzterem Fall wiederum abhängig davon, in welchem Fach, hat der Ausdruck „Boden“ unterschiedliche Bedeutungen:
+In der Bodenkunde, der Bodengeographie, der Biologie und der Geologie sind es die stark belebten oberen Dezimeter der Erdoberfläche, wobei Geologen in erster Linie nicht mit rezenten Böden in Berührung kommen, sondern mit Böden, die sich vor geologischen Zeiträumen einmal an der Erdoberfläche befanden und heute meist zu Gestein verfestigt sind (siehe Paläoboden).
+Im Bauwesen und in der Bodenmechanik versteht man unter „Boden“ bzw. „Erde“ das Baumaterial für sogenannte Erdbauwerke sowie das Material, das den Untergrund von Bauwerken bildet und/oder für Baumaßnahmen bewegt werden muss (vgl. → Erdbau).
+In der Raumplanung und der Geodäsie ist der Boden die tatsächliche Erdoberfläche.
+Für die Allgemeinheit ist es der „Grund und Boden“, also meist das Grundstück (bzw. der Baugrund) mit seinem örtlichen Bodenpreis.
+Im Folgenden wird der Begriff „Boden“ aus Sicht der Geo- und Biowissenschaften behandelt, insbesondere aus Sicht der Bodenkunde. In diesem Sinne werden auch bestimmte Substrate am Grund stehender Gewässer zu den Böden gezählt und als subhydrische und semisubhydrische Böden bezeichnet. Geologen rechnen diese Substrate jedoch zu den Sedimenten und bezeichnen sie als Mudden.
+
+
+== Boden aus Sicht der Bodenkunde und des Bodenschutzes ==
+Aus bodenkundlicher Sicht wird als Boden die von bodenbildenden Prozessen geprägte Grenzzone zwischen der Lithosphäre (Gesteinsschicht) und der Biosphäre mit der Erdatmosphäre oder Hydrosphäre bezeichnet. Dieser Bereich (die Pedosphäre) besteht aus der mineralischen Bodensubstanz (ca. 47 %), der organischen Bodensubstanz (ca. 3 %), dem Bodenwasser (ca. 25 %) und der Bodenluft (ca. 25 %).
+Der Boden besteht aus anorganischen Mineralien und dem organischen Humus und ist im Raum in einem Bodengefüge angeordnet. Die Hohlräume sind mit Bodenlösungen und Bodenluft gefüllt. Die Gefügestruktur macht den Oberboden für gewöhnlich krümelig, weswegen man in diesem Zusammenhang auch von der Krume spricht. Die wichtigste Rolle spielt der Boden als zentrale Lebensgrundlage für Pflanzen und direkt oder indirekt für Tiere und Menschen.
+Die Definition gemäß der Bodenschutzkonzeption der Bundesregierung lautet: „Boden ist das mit Wasser, Luft und Lebewesen durchsetzte, unter dem Einfluss der Umweltfaktoren an der Erdoberfläche entstandene und im Laufe der Zeit sich weiterentwickelnde Umwandlungsprodukt mineralischer und organischer Substanzen mit eigener morphologischer Organisation, das in der Lage ist, höheren Pflanzen als Standort zu dienen. Dadurch ist der Boden in der Lage, eine Lebensgrundlage für Tiere und Menschen zu bilden. Als Raum-Zeit-Struktur ist der Boden ein vierdimensionales System.“
+„Der Boden ist ein von der Erdoberfläche bis zum Grundgestein reichender Ausschnitt aus der Pedosphäre, das heißt jenes Bereiches der Erdrinde, in dem die Lithosphäre durch Atmosphärilien (Sauerstoff, Kohlenstoffdioxid, Stickstoff, Niederschlag, Einstrahlung, Ausgasen …) und Organismen (Bakterien, Algen, Pilze) umgewandelt wurde und in dem derartige Umwandlungen weiterhin ablaufen.“
+
+
+== Entstehung von Böden ==
+
+
+=== Bodenbildende Faktoren ===
+Böden bilden sich in geologischen Zeiträumen relativ schnell, nach menschlichen Maßstäben jedoch relativ langsam. Die Böden im heutigen Mitteleuropa sind im Laufe der letzten 12.000 Jahre, seit dem Ende der letzten Eiszeit, entstanden.
+Primäre Voraussetzung für die Bildung eines Bodens ist ein Ausgangsmaterial aus anstehendem Gestein (Festgestein oder Lockersediment).
+Das Relief darf nicht zu steil sein, da andernfalls das Ausgangsmaterial durch Erosion abgeführt wird, bevor sich daraus ein Boden bilden kann.
+Es dürfen keine größeren Sedimentmengen in das betreffende Gebiet eingetragen werden, da der sich bildende Boden sonst immer wieder verschüttet wird und die Bodenbildung von neuem beginnen muss.
+Das Klima sollte humid (feucht) und nicht zu kalt sein, damit einerseits günstige Lebensbedingungen für Pflanzen und Tiere bestehen und andererseits weil Wasser wichtig für Verwitterungsprozesse ist.
+Auch „fertiger“ Boden ist weiterhin diesen Faktoren unterworfen. Dazu kommen die Bodenlebewesen, als Teil des Bodens, sowie, seit etwa 8.000 Jahren (in Mitteleuropa später) die menschlichen (anthropogene) Einflüsse, wie etwa landwirtschaftliche oder forstwirtschaftliche Nutzung oder Schadstoffeinträge.
+
+
+=== Bodenbildende Prozesse ===
+Bodenbildende Prozesse werden durch bodenbildende Faktoren ausgelöst. Sie haben zweierlei Effekte: Sie verändern ein Ausgangsgestein und wandeln es in Boden um, aber sie verändern auch einen bestehenden Boden.
+
+
+==== Primäre Bodenbildung ====
+Das Ausgangsgestein, wird, unabhängig davon, ob es sich um soliden Fels oder ein Lockersediment handelt, durch Verwitterung physikalisch und chemisch in immer kleinere Teile zerlegt. In einem Festgestein ohnehin vorhandene Klüfte verbreitern sich und bieten Platz für angewehten Staub und Pionierpflanzen. Die Minerale des Ausgangsgesteins werden in andere chemische Verbindungen umgewandelt, die Elemente enthalten, die für Pflanzen und Tiere lebensnotwendig sind und von Pflanzen leichter aufgenommen werden können, z. B. Salze des Calciums, des Magnesiums, des Phosphors oder des Eisens (siehe → Silikatverwitterung). Abgestorbene Pionierpflanzen werden unter Beteiligung von Tieren und Mikroorganismen zunächst in organische Verbindungen wie Zucker, Proteine, Zellulose und anschließend in Huminstoffe zersetzt (Humifizierung). Teilweise werden die organischen Verbindungen auch durch Mikroorganismen weiter in einfache anorganische Verbindungen umgewandelt (Mineralisierung). Verschiedene Prozesse (Bioturbation, Kryoturbation, Peloturbation) sorgen für die Durchmischung von organischer und mineralischer Substanz, sowie die Einbringung von Luft in den Porenraum dieses Gemisches (Pedoturbation). So entsteht im Laufe der Zeit ein belebtes, durchlüftetes Gemisch aus mineralischer und organischer Substanz – Boden. Die organische Substanz ist dabei am stärksten im obersten Bodenhorizont, dem Ober- oder Mutterboden, angereichert.
+Die Bodenbestandteile dienen Lebewesen zur Energieversorgung und zum Wachstum. Durch Verwitterung entstandene Tonminerale und Huminstoffe verbinden sich, z. B. im Darm eines Regenwurms, zum Ton-Humus-Komplex, der Nährstoffe und Wasser „speichern“ kann und den Boden krümelig macht.
+
+
+==== Sekundäre Bodenbildung ====
+Einmal entstandener Boden verändert sich im Laufe der Zeit, insbesondere dann, wenn sich die bodenbestimmenden Faktoren ändern. Es gibt viele Vorgänge, die die Humusbildung beeinflussen oder den Boden anderweitig verändern können. Dazu zählen:
+die Auswaschung von Bodenbestandteilen in tiefere Schichten oder ins Grundwasser, z. B.
+wasserlösliche Salze
+kohlensäurelösliches Calciumcarbonat
+säurelösliche Tonminerale (Tonverlagerung),
+säurelösliches Eisen- und Aluminiumhydroxid sowie Huminstoffe (Podsolierung)
+
+Vergleyung, Pseudovergleyung
+Zudem schreitet in der Regel die primäre Bodenbildung im Grenzbereich von Boden und Ausgangsgestein in die Tiefe fort, sodass sich insgesamt eine Entwicklung von flachgründigen, steinigen, schwach verwitterten, mineralreichen Böden hin zu tiefgründigen, feinkörnigeren, stark verwitterten, ausgewaschenen Böden vollzieht. Aus dem vorhandenen Substrat, der Bodenart, entwickelt sich durch „äußere“ Einflüsse (wie Klima, Vegetation, Nutzungsart) im Laufe der Zeit ein Bodentyp mit spezifischen Eigenschaften. Die Bodenform bildet das Gesamtbild aus Bodenart und Bodentyp.
+
+
+== Bodenfunktionen ==
+Boden kann zahlreiche Funktionen aufweisen. Diese werden im deutschen Bundes-Bodenschutzgesetz (BBodSchG § 2 Abschnitt 2) folgendermaßen eingeteilt und beschrieben :
+Weitere, im Gesetz nicht aufgeführte Funktionen sind möglich. Das deutsche Bodenschutzgesetz gewichtet die Funktionen nicht untereinander.
+In der Regel weist ein Boden mehrere Funktionen gleichzeitig auf. Unversiegelte Flächen besitzen sogar (in aller Regel) alle natürlichen Funktionen gleichzeitig, und erfüllen darüber hinaus Archiv- und auch Nutzungsfunktionen wie Ackerbau oder Forstwirtschaft. In Deutschland ist davon auszugehen, dass bis auf einige Kernzonen in Nationalparks die gesamten Böden unterschiedlichen Nutzungsfunktionen unterliegen.
+Die natürlichen Funktionen und die Archivfunktion werden allerdings durch die menschliche Nutzung verändert. Dieser Einfluss reicht von geringen Veränderungen der Eigenschaften (z.B. Komposteintrag in Gärten) über eine mehr oder weniger schwerwiegende Beeinträchtigung (z.B. Bodenverdichtung) bis hin zur völligen Zerstörung einiger Funktionen. Beispiele einer völligen Zerstörung wären der Abtrag von Hügelgräbern durch Flurbereinigungsmaßnahmen (Zerstörung der Archivfunktion) oder der Ausschluss aller natürlichen Funktionen durch die Versiegelung.
+Eine Beeinträchtigung von mindestens einer Bodenfunktion wird als Bodenschädigung bezeichnet.
+
+
+== Bodeneigenschaften ==
+In der Bodenkunde werden die physikalischen, chemischen und biologischen Eigenschaften verschiedener Böden untersucht. Insgesamt sind Böden überaus komplexe Gebilde, die dutzende verschiedene Eigenschaften aufweisen, die sich alle genseitig beeinflussen. In der Praxis, z.B. bei vielen Bodenproben in der Landwirtschaft, werden nur sehr wenige dieser Parameter näher untersucht. Von besonderer Bedeutung sind meist die Bodenart, der Humusgehalt, der pH-Wert und die Gehalte an Stickstoff, Kalium und Phosphor. Viele andere Größen werden nur bei Bedarf gezielt erfasst.
+Die allermeisten Bodeneigenschaften sind mit entsprechenden Anleitungen und Kennwerttabellen (z.B. die Bodenkundliche Kartieranleitung) ohne viel Technik vor Ort einschätzbar. Mit etwas Erfahrung lassen sich diese z.B. über das Ausgangsmaterial und die Bodenfärbung hinreichend bestimmen. Auch die Nutzung bzw. der Bewuchs mit bestimmten Pflanzenarten (Zeigerarten/Bioindikatoren) kann zuverlässig Hinweise auf Bodeneigenschaften liefern. Exakte Werte, insbesondere bei bodenchemischen Parametern, liefern allerdings nur wissenschaftliche Messungen, oft aber nicht immer im Labor.
+
+
+=== Allgemeine Zusammensetzung ===
+Die grundsätzliche Besonderheit des Lebensraums Boden ist, dass in ihm immer alle drei Phasen nebeneinander vorkommen: Fest, flüssig und gasförmig. Diese sind homogen durchwirkt und untrennbar miteinander verbunden. Dabei setzt sich der feste Bestandteil aus dem mineralischen Grundgerüst zusammen, das oft vereinfacht als "der Boden" wahrgenommen wird. Dieses gibt dem Boden seine feste, greifbare Struktur und prägt durch seinen Aufbau und seine Zusammensetzung viele Bodeneigenschaften entscheidend.
+Der gesamte Bodenkörper ist nicht massiv sondern von zahlreichen mikroskopisch kleinen bis sichtbar großen Hohlräumen (Poren) durchsetzt. Diese machen immerhin im Schnitt etwa 45 % des gesamten Bodenvolumens aus und nehmen damit wesentlich Anteil an seinen Funktionen und Eigenschaften. Die Poren sind, in stark wechselnder Zusammensetzung, von den fluiden Bodenkomponenten gefüllt, dem Bodenwasser (Feuchtigkeit) und der Bodenluft (Durchlüftung).
+Darüber hinaus weist jeder Bodenstandort weltweit ein mehr oder weniger ausgeprägtes Bodenleben auf. Böden sind grundsätzlich keine tote Materie, sondern belebte Biotope. Der Einfluss der Bodenlebewesen auf die Bodeneigenschaften und -funktionen sowie deren Masseanteil schwankt allerdings erheblich. Er reicht von fast nicht nachweisbar (extrem aride Wüstenböden oder Standorte mit sehr hohen Schwermetallgehalten) bis hin zu fast 100 % der Feststoffkomponente (Moore).
+
+
+=== Bodenphysikalische Eigenschaften ===
+Die physikalischen Eigenschaften eines Bodens betreffen mechanische Eigenschaften, Körnung, Wasser und Luft im Boden.
+Zusammensetzung und Struktur
+Die Körnung des Bodens bestimmt wie fein das Bodenmaterial ist; gleichbedeutend sind die Begriffe Bodenart (nicht mit Bodentyp zu verwechseln) und (Boden)-Textur. Sie ist entscheidend für fast alle bodenbildenden Prozesse sowie die Verteilung des Porenvolumens. Die Bestimmung erfolgt über eine Korngrößenanalyse.
+Das Gefüge ist die räumliche Anordnung der festen Bodenbestandteile, die maßgeblich den Wasser- und Lufthaushalt, die Durchwurzelbarkeit, die Nährstoffverfügbarkeit und ähnliche Eigenschaften beeinflusst. In natürlichen Böden geben Material und bodenbildende Prozesse die entstehenden Gefüge vor. Durch menschliche Nutzung (Verdichtung, Pflügen, Bewässerung etc.) kann sich das Gefüge ändern.
+Das Porenvolumen ist das Hohlraumvolumen im Bodenkörper (die Summe des Porenvolumens beträgt fast immer etwa 45 Vol%), das von Wasser, Luft und Lebewesen "gefüllt" werden kann. Primärporen sind abhängig von der Körnung sowie von Art und Zusammensetzung der organischen Bestandteile. Sekundärporen sind abhängig vom Bodengefüge und damit von chemischen Eigenschaften der Minerale, vom Einfluss der Pflanzen (Wurzelröhren) und Tiere (Gänge) und vom Menschen (Verdichtung).
+Die effektive Lagerungsdichte gibt an wie dicht der Boden gelagert ist. Dies ist z.B. entscheidend für die Durchwurzelbarkeit und die Sickerwasserrate.
+Die Bodenerosionsanfälligkeit hängt stark von Relief, Bodenart und Bewuchs ab.
+Die Aggregatsstabilität gibt an, wie stabil das Bodengefüge ist und wie stark Böden dazu neigen zu verschlämmen.
+Luft- und Wasserhaushalt
+Das Wasserhaltevermögen (Wasserkapazität) ist eine ganz wesentliche Bodeneigenschaften, denn alle Böden vermögen Wasser zu speichern und wieder abzugeben. Hiermit hängen wesentliche Eigenschaften der Wasserbindung, -versorgung und -bewegung im Boden zusammen. Die Wasserkapazität eines Bodens wird mit Hilfe einer pF-Kurve (Wasserspannungskurve) dargestellt.
+Das Gesamtporenvolumen, welches identisch mit dem Porenvolumen ist, gibt an, wie viel Wasser ein Boden maximal enthalten kann. Diese Größe wird in nicht speicherbares Wasser, das versickert, und im Boden zurückgehaltenes Wasser, die Feldkapazität, unterteilt. Die Feldkapazität wiederum setzt sich aus der pflanzenverfügbaren nutzbaren Feldkapazität (NFK) und dem nicht pflanzenverfügbaren Totwasser zusammen. Die Verteilung von Sickerwasser, NFK und Totwasser hängt wesentlich mit der Bodenart zusammen. Aus ihr lässt sich z.B. ableiten, wie viel verfügbares Wasser ein Boden speichern kann oder wie hoch seine Infiltrationsrate ist.
+Die Luftkapazität ist der Volumenanteil an Luft im Boden, wenn das nicht speicherbare Wasser komplett versickert ist. Diese Eigenschaft gibt einen ersten Hinweis darauf, wie gut ein Boden belüftet ist.
+Die Bodenfeuchte ist der aktuelle Wassergehalt eines Bodens im Gelände. Sie kann exakt im Labor gemessen oder im Gelände über Merkmale wie Konsistenz (bindige Böden), Färbung oder Wasseraustritt geschätzt werden. Die Bodenfeuchte kann in Einzelfällen wichtig für die Bestimmung des Bodentyps sein (ökologischer Feuchtegrad), unterliegt aber oft starken Schwankungen (Niederschläge, Trockenphasen). Die durchschnittliche Feuchtigkeit eines Bodens entscheidet, wie viel Luft (Sauerstoff) in ihm vorkommt. Bei dauerhaft hoher Wassersättigung kommt es zu reduktiven, also anaeroben Bedingungen.
+Die Bodenluft ist der aktuelle Luftgehalt im Boden, also der Volumenanteil, der von Luft eingenommen wird. Dieser Wert ist so hoch, wie das Gesamtporenvolumen minus dem aktuellen Wassergehalt. Die aktuell enthaltene Bodenluft unterliegt wie der aktuelle Wassergehalt oft starken Schwankungen.
+
+
+=== Bodenchemische Eigenschaften ===
+Die chemischen Eigenschaften eines Bodens betreffen chemische Vorgänge und Zusammensetzungen im Boden wie:
+den Karbonatgehalt (oft als Kalkgehalt abgekürzt): Bei Mineralböden wird dabei im Wesentlichen der Gehalt an Calcium- und Magnesiumcarbonaten (Calcit und Dolomit) verstanden. Die Bestimmung im Gelände erfolgt mit 10-prozentiger Salzsäure anhand der resultierenden Reaktionen. In Mitteleuropa sind kalkreiche Böden ein Zeichen geringer Bodenversauerung.
+den pH-Wert: Alle Böden weisen einen pH-Wert auf. Diese Eigenschaft nimmt großen Einfluss auf fast alle anderen Bodeneigenschaften wie die Nährstoffverfügbarkeit, das Gefüge oder die Auswaschung. Eine pH-Wert-Analyse ist ein entscheidender Bestandteil der Bodenuntersuchung, um den Dünger- und Kalkbedarf von Feldern zu beurteilen.
+den Pufferbereich: Der Boden ist ein chemisches Puffersystem, das den Säuregehalt des Bodens reguliert. Die Puffereigenschaften hängen stark mit dem pH-Wert zusammen. In der Regel wird der Pufferbereich nicht explizit bestimmt, sondern nur eine pH-Wertmessung vorgenommen.
+die Ionenaustauschkapazität. Jeder Boden kann Ionen an sogenannten Austauschern (Tonminerale, Humus, einige Oxide) speichern und wieder abgeben. Die Austauschkapazität gibt an, wie groß das Austausch- und Speichervermögen eines Bodens ist. Die Höhe des Werts hängt nicht nur von Art und Menge der Austauscher ab, sondern auch sehr stark vom pH-Wert. Unterschieden wird zwischen dem potentiellen Wert, also dem maximal möglichen, und dem effektiven, also dem gerade vorliegenden. Generell können sowohl Anionen (Anionenaustauschkapazität, AAK), als auch Kationen (Kationenaustauschkapazität, KAK) gespeichert werden. Die AAK ist nur in einigen tropischen Bodentypen von Bedeutung. Die KAK dagegen kann weltweit als Größe für die Bodenfruchtbarkeit angesehen werden. Je höher sie ist, desto besser können Böden Nährstoffe speichern, und desto fruchtbarer sind sie. Je niedriger sie ist, desto größer ist die Gefahr der Nährstoffauswaschung.
+die chemische Zusammensetzung, also die Häufigkeit der aktuell im Boden vorliegenden Elemente und Stoffe. Von besonderer Bedeutung sind sicherlich die Nährstoffgehalte, z.B. an Stickstoff, Kalium und Phosphor, oder eine Schwermetallbelastung.
+das Redoxpotential. Dieser Wert gibt, grob betrachtet, einen Anhaltspunkt für die Sauerstoffverfügbarkeit im Boden. Diese ist abhängig vom Verhältnis oxidierter und reduzierter Stoffe im Boden. Reduktive Zonen sind anaerob, während oxidative Zonen aerob sind.
+
+
+=== Bodenbiologische Eigenschaften ===
+die Durchwurzelung: Durchwurzelungstiefe und Durchwurzelungsintensität. Die Durchwurzelungsintensität wird gemessen als mittlere Anzahl der Feinwurzeln (Wurzeln mit <2 mm Durchmesser) pro dm².
+das Bodenleben: Die Häufigkeit und das Vorkommen von Mikroorganismen und Tieren im Boden. Die Belebung des Bodens kann direkt (Zählung, Schätzung) oder indirekt (Atmungsraten, Nitrifikation) erfasst werden.
+der Humusgehalt: der Anteil an organischer Substanz (außer Kohle und anthropogenen Kohlenstoffverbindungen) im Boden. Er resultiert aus den Ausscheidungen lebender und den Rückständen abgestorbener Organismen und unterliegt, auch wenn der Gesamtwert relativ stabil ist, einem stetigen Auf-, Um- und Abbau.
+
+
+=== Weitere Eigenschaften ===
+
+Die Bodenfarbe ist die Färbung, Helligkeit und Farbintensität des Bodens. Sie entsteht durch ein Zusammenspiel physikalischer, chemischer und biologischer Prozesse im Boden. Reiner Sand ist von Natur aus farblos-weiß (Quarz). Die wichtigsten Farbgeber im Boden sind Humus (schwarz, grau) und Eisenionen in verschiedenen Formen (oxidativ: braun, rot, gelb, reduktiv: grau). Die Bodenfarbe wird mit den standardisierten Munsell-Farbtafeln bestimmt.
+der technogene Kohlenstoffgehalt: Dieser gibt den Anteil an technogen, also künstlich eingetragenen Kohlenstoff an. In natürlichen Böden kommt dieses Material nicht vor. Technogener Kohlenstoff ist künstlichen Ursprungs (Kohle, Kunststoff, Ruß, Mineralöle, Teer u.ä.) und ist typisch für menschlich beeinflusste Böden wie Kippen, Halden oder Spülbecken. In stark beeinflussten Böden kann der Anteil an technogenem Kohlenstoff sehr hoch sein. Die Trennung von natürlichem und technogenem Kohlenstoff verlangt spezielle Analyseschritte im Labor.
+
+
+== Bodenbestimmung ==
+
+Die Bestimmung eines Bodens, also die Zuteilung zu einem Bodentyp, kann in vielen Fällen im Gelände auf Grund einiger offensichtlicher Eigenschaften wie Bodenart, Farbe und Ausgangsmaterial erfolgen. In manchen Fällen sind weitergehende physikalische und chemische Analysen im Labor notwendig. Entscheidend sind fast immer die vorliegenden Bodenhorizonte (nicht zu verwechseln mit Schichten), also Bereiche innerhalb des Bodens, die charakteristische Merkmale und Eigenschaften besitzen und durch gleiche bodenbildende Prozesse geprägt sind. Horizonte unterscheiden sich untereinander in ihren Eigenschaften wie Gefüge, Bodenart oder Farbe. Um sie zu erkennen, muss ein Bodenprofil angelegt werden.
+International gibt es verschiedene Bodenklassifikationen, so dass ein Boden je nach Klassifikation verschiedene Bezeichnungen oder Einteilungen erfahren kann. In Deutschland wird die Deutsche Bodensystematik angewendet. International sind darüber hinaus die internationale Bodenansprache WRB und die USDA-Bodenklassifikation gebräuchlich. Die früher wichtige FAO-Bodenklassifikation wurde von der WRB abgelöst und hat nur noch wissenschaftshistorischen Wert.
+
+
+== Bodenwertzahl ==
+
+Die Bodenwertzahl (BWZ) oder Bodenzahl ist ein Index für die Bodenfruchtbarkeit. Sie wird im Rahmen einer Bodenschätzung für den Boden einer bestimmten Region bestimmt. Die Bodenzahl setzt den erzielbaren Reinertrag eines Bodens zum fruchtbarsten Schwarzerdeboden der Magdeburger Börde in Beziehung, dessen Wert auf 100 gesetzt wurde. Basierend auf der Bodenzahl wird die Ackerzahl oder Ackerwertzahl ermittelt, in deren Berechnung auch klimatische und topographische Standortfaktoren einfließen.
+
+
+== Gefährdung und Schutz von Böden ==
+
+Böden sind mit ihren Eigenschaften und Funktionen von elementarer Wichtigkeit für die Menschheit und die Natur. Aus diesem Grund ist dieses Umweltmedium seit 1999 in Deutschland gesetzlich geschützt (Bundesbodenschutzgesetz) und damit in seinem Status den anderen beiden Schutzgütern Luft und Wasser gleichgesetzt.
+Die Gefährdungen, denen Böden ausgesetzt sind, sind überaus vielfältig:
+Auslaugung bzw. Auswaschung
+Bodendegradation
+Bodenerosion
+Bodenverdichtung
+Bodenversalzung
+Bodenversauerung
+Bodenverschmutzung bzw. Kontaminierung
+Desertifikation
+Flächenversiegelung
+Saurer Regen
+Einige dieser Vorgänge, wie die Versiegelung, der Saure Regen oder die Verschmutzung mit Schadstoffen kommen in der Natur nicht vor. Andere dagegen sind natürliche Prozesse, die durch menschliche Tätigkeit (Fehl- und Übernutzung) schädigenden Dimensionen erreicht haben.
+Große Bodenflächen weltweit, insbesondere in urbanen Räumen und landwirtschaftlich genutzten Regionen, sind von einer oder mehreren dieser Gefährdungen betroffen. Dadurch kommt es zu großflächigen Bodenschäden. Allein durch Bodenerosion gehen jährlich etwa 25 Millionen Tonnen Oberboden verloren.
+Durch die zunehmende Herabstufung der Wertigkeit von Böden (Bodendegradation) in Kombination mit dem Anstieg der Weltbevölkerung wird sich die nutzbare Fläche pro Mensch von 2012 bis 2050 halbieren.
+
+
+== Internationales ==
+
+
+=== Bodenatlas der Europäischen Union ===
+2005 hat die EU-Kommission erstmals einen Bodenatlas für Europa herausgegeben. In diesem werden der Zustand der und potenzielle oder reale Gefahren für die europäischen Böden beschrieben. Die damals für Wissenschaft, Forschung und Umwelt zuständigen Kommissionsmitglieder Janez Potočnik und Stavros Dimas präsentierten dem Europäischen Parlament den Atlas während der Informationstage zu den Aktivitäten der Gemeinsamen Forschungsstelle der Kommission (GFS). Die Kommission hatte die Erstellung des ersten Bodenatlas Europa koordiniert, indem sie führende europäische Pedologen zusammengeführt hatte. Die Forscher stammen aus über 40 Ländern und sind an Nationalen Bodenkundlichen Forschungsinstituten tätig, die alle im „Netzwerk Europäische Büros für Böden“ der GFS vertreten sind. Bereits vor der eigentlichen Gründung dieses Netzwerkes im Jahre 1996, hatte in den 1970er Jahren die damalige Europäische Gemeinschaft erstmals eine Bodenkarte, seinerzeit im Maßstab 1 : 1 000 000, herausgegeben.
+Der Soil Atlas of Europe enthält Bodenkarten von hoher Qualität sowie leicht verständliche Texte, die durch Fotos ergänzt werden, und beruht auf dem europäischen Bodeninformationssystem MEUSIS, das von der Kommission entwickelt wurde und die gesamte EU mitsamt den angrenzenden Ländern erfasst.
+
+
+=== Global Soil Map ===
+Die International Union of Soil Sciences (IUSS), der internationale Dachverband nationaler und regionaler bodenwissenschaftlicher Vereinigungen, hat eine Initiative ins Leben gerufen, die analog zum Bodenatlas der Europäischen Union, eine weltweite digitale Bodenkarte erstellen soll, die Global Soil Map. Offizieller Start des Projekts war am 17. Februar 2009.
+
+
+=== Lobby- und Öffentlichkeitsarbeit ===
+Um auf die Bedeutung der Böden für die natürlichen Kreisläufe und für die menschlichen Gesellschaften aufmerksam zu machen, rief die Ernährungs- und Landwirtschaftsorganisation der Vereinten Nationen (FAO) das Jahr 2015 zum Internationalen Jahr der Böden aus. Den gleichen Hintergrund haben der Weltbodentag (World Soil Day), der jedes Jahr am 5. Dezember begangen wird, sowie in Deutschland die Kürung des Bodens des Jahres.
+Als Plattform für einen Gedankenaustausch zwischen Wissenschaft, Politik und Wirtschaft zum Thema globaler Bodenschutz findet seit 2012 in unregelmäßigen Abständen in Berlin die Global Soil Week (‚Weltbodenwoche‘) statt.
+
+
+== Siehe auch ==
+Bodenuntersuchung
+Die Bildung der Ackererde durch die Tätigkeit der Würmer
+Haftwasser
+
+
+== Literatur ==
+F. Scheffer, P. Schachtschabel: Lehrbuch der Bodenkunde. Spektrum Akademischer Verlag. 15. Auflage, 2002, ISBN 3-8274-1324-9.
+D.L. Rowell: Bodenkunde. Untersuchungsmethoden und ihre Anwendungen. Springer, Berlin 1997, ISBN 3-540-61825-2.
+W. Zech, G. Hintermaier-Erhard: Böden der Welt. Spektrum Akademischer Verlag 2002, ISBN 3-8274-1348-6.
+G. Hintermaier-Erhard, W. Zech: Wörterbuch der Bodenkunde. Enke 1997, ISBN 3-432-29971-0.
+H.-P. Blume, P. Felix-Henningsen, W.R. Fischer: Handbuch der Bodenkunde. Ecomed Verlag, Landsberg 2002, ISBN 3-609-72232-0.
+H. Kuntze, G. Roeschmann, G. Schwerdtfeger: Bodenkunde. UTB, Stuttgart 1994, ISBN 3-8252-8076-4.
+Winfried E.H. Blum: Bodenkunde in Stichworten. (Hirts Stichwortbücher) Borntraeger, Berlin/Stuttgart 2006, ISBN 3-443-03103-X.
+David R. Montgomery: Dreck – Warum unsere Zivilisation den Boden unter den Füßen verliert. oekom-Verlag, München 2010, ISBN 978-3-86581-197-4.
+Ad-hoc-AG Boden: Bodenkundliche Kartieranleitung. 5. Auflage, Hannover 2005. In Kommission: E. Schweizerbart’sche Verlagsbuchhandlung, ISBN 3-510-95920-5.
+Martin H. Gerzabek: Bodendegradation und -verluste: Böden – gefährdete Haut der Erde? In: Biologie in unserer Zeit. Bd. 36, Nr. 2, 2006, S. 82–90, doi:10.1002/biuz.200610304, ISSN 0045-205X.
+Arwyn Jones, Luca Montanarella, Robert Jones (Hrsg.): Soil atlas of Europe. European Commission Joint Research Centre · Institute for Environment and Sustainability, Luxemburg · Ispra (Varese) 2005, ISBN 92-894-8120-X, EUR 21676 EN (online auf eusoils.jrc.ec).
+Autorenkollektiv: Bodenatlas 2015. 3. Auflage, Heinrich-Böll-Stiftung · Institute for Advanced Sustainability Studies · Bund für Umwelt- und Naturschutz Deutschland · Le Monde diplomatique, Berlin · Potsdam 2015 (online auf der Website der Heinrich-Böll-Stiftung).
+Zeitschriften
+Bundesverband Boden: Bodenschutz. Erhaltung, Nutzung und Wiederherstellung von Böden. Organ des BVB. Erich-Schmidt-Verlag, Berlin, ab 1996, ISSN 1432-170X.
+
+
+== Weblinks ==
+
+World Soil Information. Webpräsenz des International Soil Reference and Information Centre (ISRIC)
+GlobalSoilMap.net Webpräsenz des Projektes zur Erstellung einer globalen digitalen Bodenkarte
+Der Bodenlift, ein Lernspiel zum Aufbau eines Bodenprofils für Kinder der Mittelstufe, auf Bodenreise.ch
+Bodenbelastungen – eine Übersicht. Eine Infobroschüre aus der Rubrik UmweltWissen des Bayerischen Landesamtes für Umwelt (PDF-Datei, 176 kB)
+Beiträge zum Thema „Waldboden“ auf waldwissen.net
+„Boden“ im „Dossier Umwelt“ der Bundeszentrale für politische Bildung
+Projekt HyperSoil Hypermediale Lern- und Arbeitsumgebung zum Themenfeld „Boden“ im (Sach-)Unterricht, Westfälische Wilhelms-Universität Münster
+ahabc.de Online-Magazin rund um das Thema Boden
+
+
+== Einzelnachweise ==

@@ -1,0 +1,13 @@
+Le ribulose-1,5-bisphosphate (RuBP), encore appelé ribulose-1,5-diphosphate, est un métabolite du cycle de Calvin, produit pendant la phase obscure de la photosynthèse. C'est sur le RuBP que se fixe une molécule de dioxyde de carbone sous l'effet de la Rubisco, l'enzyme clé de la fixation du carbone atmosphérique : le CO2 se fixe sur une molécule à cinq atomes de carbone pour former deux molécules organiques à trois atomes de carbone chacune, ce qui représente un gain net d'un atome de carbone organique au cours de cette réaction, à la base de la croissance des organismes photosynthétiques. Cette réaction peut être représentée de la façon suivante :
+
+* Tous ces composés sont ionisés dans le cytosol, de sorte que ces deux atomes d'hydrogènes ne sont là
+que pour équilibrer la réaction ; ils correspondent en réalité à deux cations hydronium H3O+ émis lors
+de l'hydrolyse du composé intermédiaire.
+
+
+== Notes et références ==
+
+(en) Cet article est partiellement ou en totalité issu de l’article de Wikipédia en anglais intitulé « Ribulose-1,5-bisphosphate » (voir la liste des auteurs).
+
+ Portail de la biochimie
+ Portail de la chimie

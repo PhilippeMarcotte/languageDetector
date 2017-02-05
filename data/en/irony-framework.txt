@@ -1,0 +1,24 @@
+Irony is a parser generator framework for language implementation on the .NET platform. Unlike most existing yacc/lex-style solutions, it does not employ code generation of a scanner/parser from grammars written in an external DSL. The grammars for the target language are coded directly in C# instead. The framework implements a LALR(1) parser.
+
+
+== Design ==
+Terminal and nonterminal symbols and production rules are defined in an object oriented flavor of the EBNF using operator overloading. The framework allows for the generation of an abstract syntax tree which can be traversed using the visitor pattern or evaluated using an interpreter.
+
+
+== Uses ==
+Script.NET scripting language
+Visual Studio - Lua Language Support
+
+
+== See also ==
+ANTLR
+Coco/R
+
+
+== References ==
+
+
+== External links ==
+Irony Website
+Scott Hanselman about Irony
+Writing a calculator in C# using Irony, a usage example

@@ -1,0 +1,15 @@
+El decisegundo es una unidad de tiempo que equivale a la décima de un segundo (s). Se abrevia ds.
+1 ds = 0,1 s = 1x10-1 s
+Los cronómetros comunes miden los decisegundos transcurridos.
+
+
+== Equivalencias de otras unidades de tiempo en decisegundos ==
+Un segundo son 10 decisegundos.
+Un minuto son 600 decisegundos.
+Una hora son 36 000 decisegundos.
+Un día son 864 000 decisegundos.
+Una semana son 6 048 000 decisegundos.
+Un mes son 25 920 000 decisegundos.
+Un año son 311 040 000 decisegundos.
+Un siglo son 31 104 000 000 decisegundos.
+Un milenio son 311 040 000 000 decisegundos.

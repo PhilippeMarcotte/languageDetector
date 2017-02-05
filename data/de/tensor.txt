@@ -1,0 +1,8791 @@
+Ein Tensor ist ein mathematisches Objekt aus der Linearen Algebra und Differentialgeometrie. Der Begriff wurde ursprünglich in der Physik eingeführt und erst später mathematisch präzisiert. Auch heute noch ist die Tensoranalysis ein wichtiges Werkzeug in den physikalischen und ingenieurwissenschaftlichen Disziplinen.
+
+
+== Einleitung ==
+Bei einem Tensor handelt es sich um eine mathematische Funktion, die eine bestimmte Anzahl von Vektoren auf einen Wert abbildet. Die Anzahl von Vektoren, die ein Tensor entgegennimmt, wird als Rang 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+   oder Stufe des Tensors bezeichnet.
+Das bestimmende Merkmal von Tensoren ist, dass Tensoren multilinear sind. Sie weisen also für jeden der 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+   Vektoren, welche als Argument übergeben werden, eine lineare Abbildung auf. Die Multilinearität von Tensoren ermöglicht es, den Wert der Funktion als Funktion auf beliebigen Basisvektoren 
+  
+    
+      
+        
+          e
+          
+            n
+          
+        
+      
+    
+    {\displaystyle e_{n}}
+   auszudrücken. Die Werte, auf die der Tensor die Basisvektoren abbildet, werden als die Komponenten des Tensors bezeichnet.
+Beispiel
+Für einen Tensor 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+   mit dem Rang 1 gilt aufgrund der Multilinearität von 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+   für alle 
+  
+    
+      
+        w
+        ,
+        v
+        ∈
+        
+          
+            C
+          
+          
+            n
+          
+        
+        ,
+        c
+        ∈
+        
+          C
+        
+      
+    
+    {\displaystyle w,v\in \mathbb {C} ^{n},c\in \mathbb {C} }
+   der Zusammenhang:
+
+  
+    
+      
+        T
+        (
+        v
+        +
+        c
+        
+        w
+        )
+        =
+        T
+        (
+        v
+        )
+        +
+        c
+        
+        T
+        (
+        w
+        )
+      
+    
+    {\displaystyle T(v+c\,w)=T(v)+c\,T(w)}
+  
+Gleichermaßen gilt für einen Tensor 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+   vom Rang 2 für alle 
+  
+    
+      
+        u
+        ,
+        v
+        ,
+        w
+        ∈
+        
+          
+            C
+          
+          
+            n
+          
+        
+        ,
+        c
+        ∈
+        
+          C
+        
+      
+    
+    {\displaystyle u,v,w\in \mathbb {C} ^{n},c\in \mathbb {C} }
+   der Zusammenhang:
+
+  
+    
+      
+        T
+        (
+        u
+        +
+        c
+        
+        v
+        ,
+        w
+        )
+        =
+        T
+        (
+        u
+        ,
+        w
+        )
+        +
+        c
+        
+        T
+        (
+        v
+        ,
+        w
+        )
+      
+    
+    {\displaystyle T(u+c\,v,w)=T(u,w)+c\,T(v,w)}
+  ,
+sowie
+
+  
+    
+      
+        T
+        (
+        u
+        ,
+        v
+        +
+        c
+        
+        w
+        )
+        =
+        T
+        (
+        u
+        ,
+        v
+        )
+        +
+        c
+        
+        T
+        (
+        u
+        ,
+        w
+        )
+      
+    
+    {\displaystyle T(u,v+c\,w)=T(u,v)+c\,T(u,w)}
+  .
+
+
+=== Komponenten von Tensoren ===
+Seien 
+  
+    
+      
+        
+          e
+          
+            1
+          
+        
+        ,
+        
+          e
+          
+            2
+          
+        
+        ,
+        …
+        ,
+        
+          e
+          
+            n
+          
+        
+      
+    
+    {\displaystyle e_{1},e_{2},\dots ,e_{n}}
+   Basisvektoren des Raums 
+  
+    
+      
+        
+          
+            C
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \mathbb {C} ^{n}}
+  , so lassen sich die Vektoren 
+  
+    
+      
+        v
+        ,
+        w
+      
+    
+    {\displaystyle v,w}
+   wie folgt in Komponenten darstellen:
+
+  
+    
+      
+        
+          
+            
+              
+                v
+                =
+              
+              
+                
+                  v
+                  
+                    1
+                  
+                
+                
+                
+                  e
+                  
+                    1
+                  
+                
+                +
+                
+                  v
+                  
+                    2
+                  
+                
+                
+                
+                  e
+                  
+                    2
+                  
+                
+                +
+                ⋯
+                +
+                
+                  v
+                  
+                    n
+                  
+                
+                
+                
+                  e
+                  
+                    n
+                  
+                
+              
+              
+                =
+                
+                  ∑
+                  
+                    i
+                    =
+                    1
+                  
+                  
+                    n
+                  
+                
+                
+                  v
+                  
+                    i
+                  
+                
+                
+                
+                  e
+                  
+                    i
+                  
+                
+              
+              
+                =
+                
+                  v
+                  
+                    i
+                  
+                
+                
+                
+                  e
+                  
+                    i
+                  
+                
+              
+            
+            
+              
+                w
+                =
+              
+              
+                
+                  w
+                  
+                    1
+                  
+                
+                
+                
+                  e
+                  
+                    1
+                  
+                
+                +
+                
+                  w
+                  
+                    2
+                  
+                
+                
+                
+                  e
+                  
+                    2
+                  
+                
+                +
+                ⋯
+                +
+                
+                  w
+                  
+                    n
+                  
+                
+                
+                
+                  e
+                  
+                    n
+                  
+                
+              
+              
+                =
+                
+                  ∑
+                  
+                    j
+                    =
+                    1
+                  
+                  
+                    n
+                  
+                
+                
+                  w
+                  
+                    j
+                  
+                
+                
+                
+                  e
+                  
+                    j
+                  
+                
+              
+              
+                =
+                
+                  w
+                  
+                    j
+                  
+                
+                
+                
+                  e
+                  
+                    j
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{rcll}v=&v_{1}\,e_{1}+v_{2}\,e_{2}+\dots +v_{n}\,e_{n}&=\sum _{i=1}^{n}v_{i}\,e_{i}&=v^{i}\,e_{i}\\w=&w_{1}\,e_{1}+w_{2}\,e_{2}+\dots +w_{n}\,e_{n}&=\sum _{j=1}^{n}w_{j}\,e_{j}&=w^{j}\,e_{j}\end{array}}}
+  
+Dann gilt für den Tensor 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+   vom Rang 2:
+
+  
+    
+      
+        T
+        (
+        v
+        ,
+        w
+        )
+        =
+        T
+        (
+        
+          v
+          
+            i
+          
+        
+        
+        
+          e
+          
+            i
+          
+        
+        ,
+         
+        
+          w
+          
+            j
+          
+        
+        
+        
+          e
+          
+            j
+          
+        
+        )
+        =
+        
+          v
+          
+            i
+          
+        
+        
+        
+          w
+          
+            j
+          
+        
+        
+        T
+        (
+        
+          e
+          
+            i
+          
+        
+        ,
+        
+          e
+          
+            j
+          
+        
+        )
+        =
+        
+          v
+          
+            i
+          
+        
+        
+        
+          w
+          
+            j
+          
+        
+        
+        
+          T
+          
+            i
+            j
+          
+        
+      
+    
+    {\displaystyle T(v,w)=T(v^{i}\,e_{i},\ w^{j}\,e_{j})=v^{i}\,w^{j}\,T(e_{i},e_{j})=v^{i}\,w^{j}\,T_{ij}}
+  
+Die Werte 
+  
+    
+      
+        
+          T
+          
+            i
+            j
+          
+        
+        =
+        T
+        (
+        
+          e
+          
+            i
+          
+        
+        ,
+        
+          e
+          
+            j
+          
+        
+        )
+      
+    
+    {\displaystyle T_{ij}=T(e_{i},e_{j})}
+   sind hierbei die Komponenten des Tensors für die jeweiligen Basisvektoren. Der Tensor selbst ist hierbei – im Gegensatz zu den Komponenten des Tensors – unabhängig davon, welches Basissystem verwendet wird.
+
+
+==== Basistransformation ====
+Um die Komponenten 
+  
+    
+      
+        
+          T
+          
+            i
+            j
+          
+        
+      
+    
+    {\displaystyle T_{ij}}
+   von einem Basissystem 
+  
+    
+      
+        
+          
+            B
+          
+        
+      
+    
+    {\displaystyle {\mathcal {B}}}
+   mit den Basisvektoren 
+  
+    
+      
+        
+          e
+          
+            i
+          
+        
+      
+    
+    {\displaystyle e_{i}}
+   in ein anderes Basissystem 
+  
+    
+      
+        
+          
+            
+              B
+            
+          
+          ′
+        
+      
+    
+    {\displaystyle {\mathcal {B}}'}
+   mit den Basisvektoren 
+  
+    
+      
+        
+          e
+          
+            
+              i
+              ′
+            
+          
+        
+      
+    
+    {\displaystyle e_{i'}}
+   zu überführen, wird der metrische Tensor 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+   benötigt. Dieser definiert sich aus dem Zusammenhang:
+
+  
+    
+      
+        
+          e
+          
+            
+              j
+              ′
+            
+          
+        
+        =
+        
+          g
+          
+            i
+          
+          
+            
+              j
+              ′
+            
+          
+        
+        
+        
+          e
+          
+            i
+          
+        
+      
+    
+    {\displaystyle e^{j'}=g_{i}^{j'}\,e^{i}}
+  
+Daraus folgt:
+
+  
+    
+      
+        
+          T
+          
+            
+              i
+              ′
+            
+            
+              j
+              ′
+            
+          
+        
+        =
+        
+          g
+          
+            
+              i
+              ′
+            
+          
+          
+            i
+          
+        
+        
+        
+          g
+          
+            
+              j
+              ′
+            
+          
+          
+            j
+          
+        
+        
+        
+          T
+          
+            i
+            j
+          
+        
+      
+    
+    {\displaystyle T_{i'j'}=g_{i'}^{i}\,g_{j'}^{j}\,T_{ij}}
+  
+
+
+==== Darstellung des Tensors mit Hilfe der Komponenten ====
+Mit Hilfe der Komponenten kann ein Tensor dargestellt werden. Beispielsweise kann ein Tensor 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+   mit Rang 2 in einem gegebenen Basissystem 
+  
+    
+      
+        
+          
+            B
+          
+        
+      
+    
+    {\displaystyle {\mathcal {B}}}
+   wie folgt als Matrix dargestellt werden:
+
+  
+    
+      
+        [
+        T
+        
+          ]
+          
+            
+              B
+            
+          
+        
+        ≡
+        
+          
+            (
+            
+              
+                
+                  
+                    T
+                    
+                      11
+                    
+                  
+                
+                
+                  
+                    T
+                    
+                      12
+                    
+                  
+                
+                
+                  ⋯
+                
+                
+                  
+                    T
+                    
+                      1
+                      n
+                    
+                  
+                
+              
+              
+                
+                  
+                    T
+                    
+                      21
+                    
+                  
+                
+                
+                  
+                    T
+                    
+                      22
+                    
+                  
+                
+                
+                  ⋯
+                
+                
+                  
+                    T
+                    
+                      2
+                      n
+                    
+                  
+                
+              
+              
+                
+                  ⋮
+                
+                
+                  ⋮
+                
+                
+                  ⋱
+                
+                
+                  ⋮
+                
+              
+              
+                
+                  
+                    T
+                    
+                      n
+                      1
+                    
+                  
+                
+                
+                  
+                    T
+                    
+                      n
+                      2
+                    
+                  
+                
+                
+                  ⋯
+                
+                
+                  
+                    T
+                    
+                      n
+                      n
+                    
+                  
+                
+              
+            
+            )
+          
+        
+      
+    
+    {\displaystyle [T]_{\mathcal {B}}\equiv {\begin{pmatrix}T_{11}&T_{12}&\cdots &T_{1n}\\T_{21}&T_{22}&\cdots &T_{2n}\\\vdots &\vdots &\ddots &\vdots \\T_{n1}&T_{n2}&\cdots &T_{nn}\end{pmatrix}}}
+  
+Dadurch lässt sich der Wert 
+  
+    
+      
+        T
+        (
+        v
+        ,
+        w
+        )
+      
+    
+    {\displaystyle T(v,w)}
+   im Rahmen des entsprechenden Basissystems mit Hilfe der Matrixmultiplikation berechnen:
+
+  
+    
+      
+        T
+        (
+        v
+        ,
+        w
+        )
+        =
+        
+          
+            (
+            
+              
+                
+                  
+                    v
+                    
+                      1
+                    
+                  
+                
+                
+                  
+                    v
+                    
+                      2
+                    
+                  
+                
+                
+                  ⋯
+                
+                
+                  
+                    v
+                    
+                      n
+                    
+                  
+                
+              
+            
+            )
+          
+        
+        ⋅
+        
+          
+            (
+            
+              
+                
+                  
+                    T
+                    
+                      11
+                    
+                  
+                
+                
+                  
+                    T
+                    
+                      12
+                    
+                  
+                
+                
+                  ⋯
+                
+                
+                  
+                    T
+                    
+                      1
+                      n
+                    
+                  
+                
+              
+              
+                
+                  
+                    T
+                    
+                      21
+                    
+                  
+                
+                
+                  
+                    T
+                    
+                      22
+                    
+                  
+                
+                
+                  ⋯
+                
+                
+                  
+                    T
+                    
+                      2
+                      n
+                    
+                  
+                
+              
+              
+                
+                  ⋮
+                
+                
+                  ⋮
+                
+                
+                  ⋱
+                
+                
+                  ⋮
+                
+              
+              
+                
+                  
+                    T
+                    
+                      n
+                      1
+                    
+                  
+                
+                
+                  
+                    T
+                    
+                      n
+                      2
+                    
+                  
+                
+                
+                  ⋯
+                
+                
+                  
+                    T
+                    
+                      n
+                      n
+                    
+                  
+                
+              
+            
+            )
+          
+        
+        ⋅
+        
+          
+            (
+            
+              
+                
+                  
+                    w
+                    
+                      1
+                    
+                  
+                
+              
+              
+                
+                  
+                    w
+                    
+                      2
+                    
+                  
+                
+              
+              
+                
+                  ⋮
+                
+              
+              
+                
+                  
+                    w
+                    
+                      n
+                    
+                  
+                
+              
+            
+            )
+          
+        
+      
+    
+    {\displaystyle T(v,w)={\begin{pmatrix}v_{1}&v_{2}&\cdots &v_{n}\end{pmatrix}}\cdot {\begin{pmatrix}T_{11}&T_{12}&\cdots &T_{1n}\\T_{21}&T_{22}&\cdots &T_{2n}\\\vdots &\vdots &\ddots &\vdots \\T_{n1}&T_{n2}&\cdots &T_{nn}\end{pmatrix}}\cdot {\begin{pmatrix}w_{1}\\w_{2}\\\vdots \\w_{n}\end{pmatrix}}}
+  
+Anwendungsbeispiel
+Es soll mit Hilfe des Trägheitstensors 
+  
+    
+      
+        I
+      
+    
+    {\displaystyle I}
+   die Rotationsenergie 
+  
+    
+      
+        
+          E
+          
+            
+              r
+              o
+              t
+            
+          
+        
+      
+    
+    {\displaystyle E_{\mathrm {rot} }}
+   eines starren Körpers mit der Winkelgeschwindigkeit 
+  
+    
+      
+        
+          
+            
+              ω
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {\omega }}}
+   berechnet werden:
+
+  
+    
+      
+        
+          E
+          
+            
+              r
+              o
+              t
+            
+          
+        
+        =
+        
+          
+            1
+            2
+          
+        
+        
+          
+            
+              
+                ω
+                →
+              
+            
+          
+          
+            T
+          
+        
+        I
+        
+          
+            
+              ω
+              →
+            
+          
+        
+        =
+        
+          
+            1
+            2
+          
+        
+        
+          ω
+          
+            α
+          
+        
+        
+          I
+          
+            β
+          
+          
+            α
+          
+        
+        
+          ω
+          
+            β
+          
+        
+        =
+        
+          
+            1
+            2
+          
+        
+        
+          
+            (
+            
+              
+                
+                  
+                    ω
+                    
+                      1
+                    
+                  
+                
+                
+                  
+                    ω
+                    
+                      2
+                    
+                  
+                
+                
+                  
+                    ω
+                    
+                      3
+                    
+                  
+                
+              
+            
+            )
+          
+        
+        ⋅
+        
+          
+            (
+            
+              
+                
+                  
+                    I
+                    
+                      11
+                    
+                  
+                
+                
+                  
+                    I
+                    
+                      12
+                    
+                  
+                
+                
+                  
+                    I
+                    
+                      13
+                    
+                  
+                
+              
+              
+                
+                  
+                    I
+                    
+                      21
+                    
+                  
+                
+                
+                  
+                    I
+                    
+                      22
+                    
+                  
+                
+                
+                  
+                    I
+                    
+                      23
+                    
+                  
+                
+              
+              
+                
+                  
+                    I
+                    
+                      31
+                    
+                  
+                
+                
+                  
+                    I
+                    
+                      32
+                    
+                  
+                
+                
+                  
+                    I
+                    
+                      33
+                    
+                  
+                
+              
+            
+            )
+          
+        
+        ⋅
+        
+          
+            (
+            
+              
+                
+                  
+                    ω
+                    
+                      1
+                    
+                  
+                
+              
+              
+                
+                  
+                    ω
+                    
+                      2
+                    
+                  
+                
+              
+              
+                
+                  
+                    ω
+                    
+                      3
+                    
+                  
+                
+              
+            
+            )
+          
+        
+        .
+      
+    
+    {\displaystyle E_{\mathrm {rot} }={\frac {1}{2}}{\vec {\omega }}^{T}I{\vec {\omega }}={\frac {1}{2}}\omega _{\alpha }I_{\beta }^{\alpha }\omega ^{\beta }={\frac {1}{2}}{\begin{pmatrix}\omega _{1}&\omega _{2}&\omega _{3}\end{pmatrix}}\cdot {\begin{pmatrix}I_{11}&I_{12}&I_{13}\\I_{21}&I_{22}&I_{23}\\I_{31}&I_{32}&I_{33}\end{pmatrix}}\cdot {\begin{pmatrix}\omega _{1}\\\omega _{2}\\\omega _{3}\end{pmatrix}}.}
+  
+
+
+=== Arten von Tensoren ===
+
+Ausgehend von einem endlichdimensionalen Vektorraum bezeichnet man Skalare als Tensoren vom Typ 
+  
+    
+      
+        (
+        0
+        ,
+        0
+        )
+      
+    
+    {\displaystyle (0,0)}
+  , Vektoren als Tensoren vom Typ 
+  
+    
+      
+        (
+        1
+        ,
+        0
+        )
+      
+    
+    {\displaystyle (1,0)}
+   und Kovektoren als Tensoren vom Typ 
+  
+    
+      
+        (
+        0
+        ,
+        1
+        )
+      
+    
+    {\displaystyle (0,1)}
+  . Tensoren höherer Stufe definiert man als multilineare Abbildungen mit Tensoren geringerer Stufe als Argumente und Abbildungswerte. So kann etwa ein Tensor vom Typ 
+  
+    
+      
+        (
+        1
+        ,
+        1
+        )
+      
+    
+    {\displaystyle (1,1)}
+   als lineare Abbildung zwischen Vektorräumen oder als bilineare Abbildung mit einem Vektor und einem Kovektor als Argumente aufgefasst werden.
+Beispielsweise ist der mechanische Spannungstensor in der Physik ein Tensor zweiter Stufe – eine Zahl (Stärke der Spannung) oder ein Vektor (eine Hauptspannungsrichtung) reichen nicht immer zur Beschreibung des Spannungszustandes eines Körpers aus. Als Tensor vom Typ 
+  
+    
+      
+        (
+        0
+        ,
+        2
+        )
+      
+    
+    {\displaystyle (0,2)}
+   aufgefasst ist er eine lineare Abbildung, die einem Flächenelement (als Vektor) die darauf wirkende Kraft (als Kovektor) zuordnet, oder eine bilineare Abbildung, die einem Flächenelement und einem Verschiebungsvektor die Arbeit zuordnet, die bei der Verschiebung des Flächenstücks unter dem Einfluss der wirkenden Spannung verrichtet wird.
+Bezüglich einer fest gewählten Vektorraumbasis erhält man die folgenden Darstellungen der verschiedenen Typen von Tensoren:
+Ein Skalar durch eine einzelne Zahl.
+Ein Vektor durch einen Spaltenvektor.
+Ein Kovektor durch einen Zeilenvektor.
+Ein Tensor zweiter Stufe durch eine Matrix.
+Die Anwendung des Spannungstensors auf ein Flächenelement ist dann z. B. durch das Produkt einer Matrix mit einem Spaltenvektor gegeben. Die Koordinaten von Tensoren höherer Stufe können entsprechend in ein höherdimensionales Schema angeordnet werden. So können diese Komponenten eines Tensors anders als die eines Spaltenvektors oder einer Matrix mehr als ein oder zwei Indizes haben. Ein Beispiel für einen Tensor dritter Stufe, der drei Vektoren des 
+  
+    
+      
+        
+          
+            R
+          
+          
+            3
+          
+        
+      
+    
+    {\displaystyle \mathbb {R} ^{3}}
+   als Argumente hat, ist die Determinante einer 3×3-Matrix als Funktion der Spalten dieser Matrix. Bezüglich einer Orthonormalbasis wird er durch das Levi-Civita-Symbol 
+  
+    
+      
+        
+          ε
+          
+            i
+            j
+            k
+          
+        
+      
+    
+    {\displaystyle \varepsilon _{ijk}}
+   repräsentiert.
+
+
+=== Wort- und Begriffsgeschichte ===
+Das Wort Tensor (lat. tendo „ich spanne“) wurde in den 1840er Jahren von William Rowan Hamilton in die Mathematik eingeführt; er bezeichnete damit den Absolutbetrag seiner Quaternionen, also keinen Tensor im modernen Sinn.
+James Clerk Maxwell scheint den Spannungstensor, den er aus der Elastizitätstheorie in die Elektrodynamik übertrug, selbst noch nicht so genannt zu haben.
+In seiner modernen Bedeutung, als Verallgemeinerung von Skalar, Vektor, Matrix, wird das Wort Tensor erstmals von Woldemar Voigt in seinem Buch Die fundamentalen physikalischen Eigenschaften der Krystalle in elementarer Darstellung (Leipzig, 1898) eingeführt.
+Unter dem Titel absolute Differentialgeometrie entwickelten Gregorio Ricci-Curbastro und dessen Schüler Tullio Levi-Civita um 1890 die Tensorrechnung auf riemannschen Mannigfaltigkeiten; einem größeren Fachpublikum machten sie ihre Ergebnisse 1900 mit dem Buch Calcolo differenziale assoluto zugänglich, das bald in andere Sprachen übersetzt wurde, und aus dem sich Albert Einstein die mathematischen Grundlagen aneignete, die er zur Formulierung der allgemeinen Relativitätstheorie benötigte. Einstein selbst prägte 1916 den Begriff Tensoranalysis und trug mit seiner Theorie maßgeblich dazu bei, den Tensorkalkül bekannt zu machen; er führte überdies die einsteinsche Summenkonvention ein, nach der über doppelt auftretende Indizes unter Weglassung der Summenzeichen summiert wird.
+
+
+=== Unterschiedliche Betrachtungsweisen ===
+Der Begriff des Tensors wird sowohl in der Physik als auch in der Mathematik verwendet. In der Mathematik wird dieses Objekt meistens in der Algebra und der Differentialgeometrie betrachtet. Dabei wird eine koordinatenunabhängige Notation bevorzugt, in den Anwendungen wie der Physik verwendet man dagegen meist die Indexnotation von Tensoren. Weiterhin werden in der Physik häufig Tensorfelder behandelt, die häufig auch einfach als Tensoren bezeichnet werden. Ein Tensorfeld ist eine Abbildung, die jedem Punkt des Raums einen Tensor zuordnet; viele physikalische Feldtheorien handeln von Tensorfeldern. Das prominenteste Beispiel ist die Allgemeine Relativitätstheorie.
+
+
+=== Einsteinsche Summenkonvention ===
+
+Insbesondere in der Tensoranalysis (einem Teilgebiet der Differentialgeometrie) und der Physik ist die einsteinsche Summenkonvention beliebt. Sie verkürzt die Schreibweise von Tensoren. Die Konvention besagt, dass Summenzeichen weggelassen werden können und dabei automatisch über Indizes summiert wird, welche einmal oben und einmal unten stehen. Ein einfaches Beispiel ist die Matrizenmultiplikation. Seien 
+  
+    
+      
+        A
+        ,
+        B
+      
+    
+    {\displaystyle A,B}
+   zwei Matrizen mit den Komponenten 
+  
+    
+      
+        
+          A
+          
+            i
+            k
+          
+        
+      
+    
+    {\displaystyle A_{ik}}
+   und 
+  
+    
+      
+        
+          B
+          
+            k
+            j
+          
+        
+      
+    
+    {\displaystyle B_{kj}}
+  . Dann lautet die Komponentendarstellung des Matrixproduktes
+
+  
+    
+      
+        (
+        A
+        ⋅
+        B
+        
+          )
+          
+            i
+            j
+          
+        
+        =
+        
+          ∑
+          
+            k
+          
+        
+        
+          A
+          
+            i
+            k
+          
+        
+        
+          B
+          
+            k
+            j
+          
+        
+        .
+      
+    
+    {\displaystyle (A\cdot B)_{ij}=\sum _{k}A_{ik}B_{kj}.}
+  
+Mit der einsteinschen Summenkonvention schreibt man
+
+  
+    
+      
+        
+          
+            (
+            A
+            ⋅
+            B
+            
+              )
+              
+                i
+              
+            
+          
+          
+            j
+          
+        
+        =
+        
+          
+            
+              A
+              
+                i
+              
+            
+          
+          
+            k
+          
+        
+        
+          
+            B
+            
+              k
+            
+          
+        
+        
+          
+          
+            j
+          
+        
+        .
+      
+    
+    {\displaystyle {(A\cdot B)^{i}}_{j}={A^{i}}_{k}{B^{k}}\!_{j}.}
+  
+
+
+=== Ko- und Kontravarianz ===
+Die Begriffe ko- und kontravariant beziehen sich im Zusammenhang mit der Tensorrechnung auf die Koordinatendarstellungen von Vektoren, Linearformen und Tensoren höherer Stufe. Sie beschreiben, wie sich solche Koordinatendarstellungen bezüglich eines Basiswechsels im zugrundeliegenden Vektorraum verhalten.
+Legt man in einem 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  -dimensionalen Vektorraum 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+   eine Basis 
+  
+    
+      
+        (
+        
+          e
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          e
+          
+            n
+          
+        
+        )
+      
+    
+    {\displaystyle (e_{1},\dots ,e_{n})}
+   fest, so kann jeder Vektor 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+   dieses Raumes durch ein Zahlentupel 
+  
+    
+      
+        (
+        
+          x
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          x
+          
+            n
+          
+        
+        )
+      
+    
+    {\displaystyle (x^{1},\dots ,x^{n})}
+  , seine Koordinaten, gemessen und dargestellt werden, 
+  
+    
+      
+        v
+        =
+        
+          e
+          
+            k
+          
+        
+        
+        
+          x
+          
+            k
+          
+        
+      
+    
+    {\displaystyle v=e_{k}\,x^{k}}
+  . (Hier und im weiteren verwenden wir die Einsteinsche Summenkonvention.) Geht man zu einer anderen Basis von 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+   über, so ändert sich der Vektor selbst nicht, aber die Koordinaten der neuen Basis werden andere sein. Genauer: Ist die neue Basis durch 
+  
+    
+      
+        
+          e
+          
+            j
+          
+          ′
+        
+        =
+        
+          e
+          
+            k
+          
+        
+        
+        
+          A
+          
+            k
+          
+        
+        
+          
+
+          
+          
+            j
+          
+        
+      
+    
+    {\displaystyle e'_{j}=e_{k}\,A^{k}{}_{j}}
+   in der alten Basis bestimmt, so ergeben sich die neuen Koordinaten durch Vergleich in
+
+  
+    
+      
+        v
+        =
+        
+          e
+          
+            k
+          
+        
+        
+        
+          x
+          
+            k
+          
+        
+        =
+        
+          e
+          
+            j
+          
+          ′
+        
+        
+        
+          x
+          
+            ′
+            
+              j
+            
+          
+        
+        =
+        
+          e
+          
+            k
+          
+        
+        
+        
+          A
+          
+            k
+          
+        
+        
+          
+
+          
+          
+            j
+          
+        
+        
+        
+          x
+          
+            ′
+            
+              j
+            
+          
+        
+      
+    
+    {\displaystyle v=e_{k}\,x^{k}=e'_{j}\,x'^{j}=e_{k}\,A^{k}{}_{j}\,x'^{j}}
+  
+also 
+  
+    
+      
+        
+          x
+          
+            k
+          
+        
+        =
+        
+          A
+          
+            k
+          
+        
+        
+          
+
+          
+          
+            j
+          
+        
+        
+        
+          x
+          
+            ′
+            
+              j
+            
+          
+        
+      
+    
+    {\displaystyle x^{k}=A^{k}{}_{j}\,x'^{j}}
+   oder
+
+  
+    
+      
+        
+          x
+          ′
+        
+        
+          
+          
+            j
+          
+        
+        =
+        (
+        
+          A
+          
+            −
+            1
+          
+        
+        
+          )
+          
+            j
+          
+        
+        
+          
+
+          
+          
+            k
+          
+        
+        
+        
+          x
+          
+            k
+          
+        
+      
+    
+    {\displaystyle x'\,^{j}=(A^{-1})^{j}{}_{k}\,x^{k}}
+  .
+Dreht man zum Beispiel eine orthogonale Basis in einem dreidimensionalen euklidischen Raum 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+   um 
+  
+    
+      
+        
+          30
+          
+            ∘
+          
+        
+      
+    
+    {\displaystyle 30^{\circ }}
+   um die z-Achse, so drehen sich die Koordinatenvektoren im Koordinatenraum 
+  
+    
+      
+        
+          
+            R
+          
+          
+            3
+          
+        
+      
+    
+    {\displaystyle \mathbb {R} ^{3}}
+   ebenfalls um die z-Achse, aber in der entgegengesetzten Richtung um 
+  
+    
+      
+        −
+        
+          30
+          
+            ∘
+          
+        
+      
+    
+    {\displaystyle -30^{\circ }}
+  .
+Dieses der Basistransformation entgegengesetzte Transformationsverhalten nennt man kontravariant. Oft werden Vektoren zur Abkürzung der Notation mit ihren Koordinatenvektoren identifiziert, so dass Vektoren allgemein als kontravariant bezeichnet werden.
+Eine Linearform oder Kovektor 
+  
+    
+      
+        α
+        ∈
+        
+          V
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle \alpha \in V^{*}}
+   ist dagegen eine skalarwertige lineare Abbildung 
+  
+    
+      
+        α
+        :
+        V
+        →
+        
+          K
+        
+      
+    
+    {\displaystyle \alpha :V\to \mathbb {K} }
+   auf dem Vektorraum. Man kann ihr als Koordinaten ihre Werte auf den Basisvektoren, 
+  
+    
+      
+        
+          α
+          
+            k
+          
+        
+        =
+        α
+        (
+        
+          e
+          
+            k
+          
+        
+        )
+      
+    
+    {\displaystyle \alpha _{k}=\alpha (e_{k})}
+  , zuordnen. Die Koordinatenvektoren einer Linearform transformieren sich wie das Basistupel als
+
+  
+    
+      
+        
+          α
+          
+            j
+          
+          ′
+        
+        =
+        α
+        (
+        
+          e
+          
+            j
+          
+          ′
+        
+        )
+        =
+        α
+        (
+        
+          e
+          
+            k
+          
+        
+        
+        
+          A
+          
+            k
+          
+        
+        
+          
+
+          
+          
+            j
+          
+        
+        )
+        =
+        
+          α
+          
+            k
+          
+        
+        
+        
+          A
+          
+            k
+          
+        
+        
+          
+
+          
+          
+            j
+          
+        
+      
+    
+    {\displaystyle \alpha '_{j}=\alpha (e'_{j})=\alpha (e_{k}\,A^{k}{}_{j})=\alpha _{k}\,A^{k}{}_{j}}
+  
+weshalb man dieses Transformationsverhalten kovariant nennt. Identifiziert man wieder Linearformen mit ihren Koordinatenvektoren, so bezeichnet man auch allgemein Linearformen als kovariant. Hierbei geht, wie bei Vektoren, die zugrundeliegende Basis aus dem Kontext hervor. Man spricht in diesem Kontext auch von Dualvektoren.
+Diese Kurzbezeichnung wird auf Tensorprodukte ausgedehnt (Symbol: Tensormultiplikation 
+  
+    
+      
+        ⊗
+      
+    
+    {\displaystyle \otimes }
+  ). Faktoren, die Vektorräume sind, nennt man kontravariant, Faktoren, die Dualräume sind, nennt man kovariant.
+
+
+=== Invarianten von Tensoren 1. und 2. Stufe ===
+Als Invarianten bezeichnet man aus Tensorkoordinaten gebildete Skalare, die sich unter orthogonalen Koordinatentransformation nicht ändern. Für Tensoren 1. Stufe (Vektoren) führt die Bildung der vom Skalarprodukt induzierten Norm zu einer Invarianten
+
+  
+    
+      
+        
+          I
+          
+            1
+          
+        
+        =
+        
+          x
+          
+            j
+          
+        
+        
+          x
+          
+            j
+          
+        
+        =
+        
+          x
+          
+            ′
+            
+              j
+            
+          
+        
+        
+          x
+          
+            j
+          
+          ′
+        
+        
+        .
+      
+    
+    {\displaystyle I_{1}=x^{j}x_{j}=x'^{j}x'_{j}\;.}
+  
+Für Tensoren 2. Stufe im dreidimensionalen euklidischen Raum lassen sich im Allgemeinen sechs irreduzible Invarianten (d. h. Invarianten, die nicht durch andere Invarianten ausgedrückt werden können) finden:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  I
+                  
+                    1
+                  
+                
+              
+              
+                =
+                
+                  A
+                  
+                    i
+                    i
+                  
+                
+              
+              
+              
+                =
+                
+                  S
+                  p
+                  u
+                  r
+                
+                
+                  (
+                  A
+                  )
+                
+                
+                ,
+              
+            
+            
+              
+                
+                  I
+                  
+                    2
+                  
+                
+              
+              
+                =
+                
+                  A
+                  
+                    i
+                    j
+                  
+                
+                
+                  A
+                  
+                    j
+                    i
+                  
+                
+              
+              
+              
+                =
+                
+                  S
+                  p
+                  u
+                  r
+                
+                
+                  (
+                  
+                    A
+                    
+                      2
+                    
+                  
+                  )
+                
+                
+                ,
+              
+            
+            
+              
+                
+                  I
+                  
+                    3
+                  
+                
+              
+              
+                =
+                
+                  A
+                  
+                    i
+                    j
+                  
+                
+                
+                  A
+                  
+                    i
+                    j
+                  
+                
+              
+              
+              
+                =
+                
+                  S
+                  p
+                  u
+                  r
+                
+                
+                  (
+                  A
+                  
+                    A
+                    
+                      T
+                    
+                  
+                  )
+                
+                
+                ,
+              
+            
+            
+              
+                
+                  I
+                  
+                    4
+                  
+                
+              
+              
+                =
+                
+                  A
+                  
+                    i
+                    j
+                  
+                
+                
+                  A
+                  
+                    j
+                    k
+                  
+                
+                
+                  A
+                  
+                    k
+                    i
+                  
+                
+              
+              
+              
+                =
+                
+                  S
+                  p
+                  u
+                  r
+                
+                
+                  (
+                  
+                    A
+                    
+                      3
+                    
+                  
+                  )
+                
+                
+                ,
+              
+            
+            
+              
+                
+                  I
+                  
+                    5
+                  
+                
+              
+              
+                =
+                
+                  A
+                  
+                    i
+                    j
+                  
+                
+                
+                  A
+                  
+                    j
+                    k
+                  
+                
+                
+                  A
+                  
+                    i
+                    k
+                  
+                
+              
+              
+              
+                =
+                
+                  S
+                  p
+                  u
+                  r
+                
+                
+                  (
+                  
+                    A
+                    
+                      2
+                    
+                  
+                  
+                    A
+                    
+                      T
+                    
+                  
+                  )
+                
+                
+                ,
+              
+            
+            
+              
+                
+                  I
+                  
+                    6
+                  
+                
+              
+              
+                =
+                
+                  A
+                  
+                    i
+                    j
+                  
+                
+                
+                  A
+                  
+                    j
+                    k
+                  
+                
+                
+                  A
+                  
+                    l
+                    k
+                  
+                
+                
+                  A
+                  
+                    i
+                    l
+                  
+                
+              
+              
+              
+                =
+                
+                  S
+                  p
+                  u
+                  r
+                
+                
+                  (
+                  
+                    A
+                    
+                      2
+                    
+                  
+                  
+                    
+                      (
+                      
+                        A
+                        
+                          2
+                        
+                      
+                      )
+                    
+                    
+                      T
+                    
+                  
+                  )
+                
+                
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{alignedat}{2}I_{1}&=A_{ii}&&=\mathrm {Spur} \left(A\right)\;,\\I_{2}&=A_{ij}A_{ji}&&=\mathrm {Spur} \left(A^{2}\right)\;,\\I_{3}&=A_{ij}A_{ij}&&=\mathrm {Spur} \left(AA^{T}\right)\;,\\I_{4}&=A_{ij}A_{jk}A_{ki}&&=\mathrm {Spur} \left(A^{3}\right)\;,\\I_{5}&=A_{ij}A_{jk}A_{ik}&&=\mathrm {Spur} \left(A^{2}A^{T}\right)\;,\\I_{6}&=A_{ij}A_{jk}A_{lk}A_{il}&&=\mathrm {Spur} \left(A^{2}\left(A^{2}\right)^{T}\right)\;.\end{alignedat}}}
+  
+Im Falle von symmetrischen Tensoren 2. Stufe (z. B. dem Verzerrungstensor) fallen die Invarianten 
+  
+    
+      
+        
+          I
+          
+            2
+          
+        
+        =
+        
+          I
+          
+            3
+          
+        
+      
+    
+    {\displaystyle I_{2}=I_{3}}
+   und 
+  
+    
+      
+        
+          I
+          
+            4
+          
+        
+        =
+        
+          I
+          
+            5
+          
+        
+      
+    
+    {\displaystyle I_{4}=I_{5}}
+   zusammen. Außerdem lässt sich 
+  
+    
+      
+        
+          I
+          
+            6
+          
+        
+      
+    
+    {\displaystyle I_{6}}
+   über die anderen 3 Invarianten darstellen (ist also nicht mehr irreduzibel). Die Determinante ist auch eine Invariante, sie lässt sich beispielsweise für 
+  
+    
+      
+        3
+        ×
+        3
+      
+    
+    {\displaystyle 3\times 3}
+  -Matrizen über die irreduziblen Invarianten 
+  
+    
+      
+        
+          I
+          
+            1
+          
+        
+      
+    
+    {\displaystyle I_{1}}
+  , 
+  
+    
+      
+        
+          I
+          
+            2
+          
+        
+      
+    
+    {\displaystyle I_{2}}
+   und 
+  
+    
+      
+        
+          I
+          
+            4
+          
+        
+      
+    
+    {\displaystyle I_{4}}
+   darstellen als
+
+  
+    
+      
+        
+          D
+          e
+          t
+        
+        (
+        A
+        )
+        =
+        
+          
+            1
+            6
+          
+        
+        
+          I
+          
+            1
+          
+          
+            3
+          
+        
+        −
+        
+          
+            1
+            2
+          
+        
+        
+          I
+          
+            1
+          
+        
+        
+          I
+          
+            2
+          
+        
+        +
+        
+          
+            1
+            3
+          
+        
+        
+          I
+          
+            4
+          
+        
+        .
+      
+    
+    {\displaystyle \mathrm {Det} (A)={\frac {1}{6}}I_{1}^{3}-{\frac {1}{2}}I_{1}I_{2}+{\frac {1}{3}}I_{4}.}
+  
+Für antisymmetrische Tensoren gilt 
+  
+    
+      
+        
+          I
+          
+            1
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle I_{1}=0}
+  , 
+  
+    
+      
+        
+          I
+          
+            2
+          
+        
+        =
+        −
+        
+          I
+          
+            3
+          
+        
+      
+    
+    {\displaystyle I_{2}=-I_{3}}
+  , 
+  
+    
+      
+        
+          I
+          
+            4
+          
+        
+        =
+        −
+        
+          I
+          
+            5
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle I_{4}=-I_{5}=0}
+   und 
+  
+    
+      
+        
+          I
+          
+            6
+          
+        
+      
+    
+    {\displaystyle I_{6}}
+   lässt sich wieder auf 
+  
+    
+      
+        
+          I
+          
+            2
+          
+        
+      
+    
+    {\displaystyle I_{2}}
+   zurückführen. Somit haben im dreidimensionalen euklidischen Raum symmetrische Tensoren 2. Stufe drei irreduzible Invarianten und antisymmetrische Tensoren 2. Stufe eine irreduzible Invariante.
+
+
+== Definition ==
+
+
+=== (r,s)-Tensorraum ===
+Im Folgenden sind alle Vektorräume endlichdimensional. Mit 
+  
+    
+      
+        L
+        (
+        E
+        ;
+        K
+        )
+      
+    
+    {\displaystyle L(E;K)}
+   bezeichne man die Menge aller Linearformen aus dem 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+  -Vektorraum 
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+   in den Körper 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+  . Sind 
+  
+    
+      
+        
+          E
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          E
+          
+            k
+          
+        
+      
+    
+    {\displaystyle E_{1},\dotsc ,E_{k}}
+   Vektorräume über 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+  , so werde der Vektorraum der Multilinearformen 
+  
+    
+      
+        
+          E
+          
+            1
+          
+        
+        ×
+        
+          E
+          
+            2
+          
+        
+        ×
+        ⋯
+        ×
+        
+          E
+          
+            k
+          
+        
+        →
+        K
+      
+    
+    {\displaystyle E_{1}\times E_{2}\times \dotsb \times E_{k}\to K}
+   mit 
+  
+    
+      
+        
+          L
+          
+            k
+          
+        
+        (
+        
+          E
+          
+            1
+          
+        
+        ,
+        
+          E
+          
+            2
+          
+        
+        ,
+        …
+        ,
+        
+          E
+          
+            k
+          
+        
+        ;
+        K
+        )
+      
+    
+    {\displaystyle L^{k}(E_{1},E_{2},\dotsc ,E_{k};K)}
+   bezeichnet.
+Ist 
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+   ein 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+  -Vektorraum, so wird mit 
+  
+    
+      
+        
+          E
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle E^{*}}
+   sein Dualraum bezeichnet. Dann ist 
+  
+    
+      
+        
+          L
+          
+            k
+          
+        
+        (
+        
+          E
+          
+            1
+          
+          
+            ∗
+          
+        
+        ,
+        
+          E
+          
+            2
+          
+          
+            ∗
+          
+        
+        ,
+        …
+        ,
+        
+          E
+          
+            k
+          
+          
+            ∗
+          
+        
+        ;
+        K
+        )
+      
+    
+    {\displaystyle L^{k}(E_{1}^{*},E_{2}^{*},\dotsc ,E_{k}^{*};K)}
+   isomorph zum Tensorprodukt
+
+  
+    
+      
+        
+          E
+          
+            1
+          
+        
+        ⊗
+        
+          E
+          
+            2
+          
+        
+        ⊗
+        ⋯
+        ⊗
+        
+          E
+          
+            k
+          
+        
+      
+    
+    {\displaystyle E_{1}\otimes E_{2}\otimes \dotsb \otimes E_{k}}
+   (vergleiche hierzu den Abschnitt Tensorprodukte und Multilinearformen).
+Setze nun für einen fixierten Vektorraum 
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+   mit Dualraum 
+  
+    
+      
+        
+          E
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle E^{*}}
+  
+
+  
+    
+      
+        
+          T
+          
+            s
+          
+          
+            r
+          
+        
+        (
+        E
+        ,
+        K
+        )
+        =
+        
+          L
+          
+            r
+            +
+            s
+          
+        
+        (
+        
+          E
+          
+            ∗
+          
+        
+        ,
+        …
+        ,
+        
+          E
+          
+            ∗
+          
+        
+        ,
+        E
+        ,
+        …
+        ,
+        E
+        ;
+        K
+        )
+      
+    
+    {\displaystyle T_{s}^{r}(E,K)=L^{r+s}(E^{*},\dotsc ,E^{*},E,\dotsc ,E;K)}
+  
+mit 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+   Einträgen von 
+  
+    
+      
+        
+          E
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle E^{*}}
+   und 
+  
+    
+      
+        s
+      
+    
+    {\displaystyle s}
+   Einträgen von 
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+  . Dieser Vektorraum realisiert das Tensorprodukt
+
+  
+    
+      
+        
+          
+            
+              
+                E
+                ⊗
+                ⋯
+                ⊗
+                E
+              
+              ⏟
+            
+          
+          
+            r
+            
+               Faktoren
+            
+          
+        
+        ⊗
+        
+          
+            
+              
+                
+                  E
+                  
+                    ∗
+                  
+                
+                ⊗
+                ⋯
+                ⊗
+                
+                  E
+                  
+                    ∗
+                  
+                
+              
+              ⏟
+            
+          
+          
+            s
+            
+               Faktoren
+            
+          
+        
+      
+    
+    {\displaystyle \underbrace {E\otimes \dots \otimes E} _{r{\text{ Faktoren}}}\otimes \underbrace {E^{*}\otimes \dots \otimes E^{*}} _{s{\text{ Faktoren}}}}
+  
+Elemente dieser Menge heißen Tensoren, kontravariant der Stufe 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+   und kovariant der Stufe 
+  
+    
+      
+        s
+      
+    
+    {\displaystyle s}
+  . Kurz spricht man von Tensoren vom Typ 
+  
+    
+      
+        (
+        r
+        ,
+        s
+        )
+      
+    
+    {\displaystyle (r,s)}
+  . Die Summe 
+  
+    
+      
+        r
+        +
+        s
+      
+    
+    {\displaystyle r+s}
+   heißt Stufe oder Rang des Tensors.
+Es gibt natürliche Isomorphismen der folgenden Art:
+
+  
+    
+      
+        
+          
+            
+              
+              
+                
+                  L
+                  
+                    k
+                  
+                
+                (
+                
+                  E
+                  
+                    1
+                  
+                
+                ,
+                
+                  E
+                  
+                    2
+                  
+                
+                ,
+                …
+                ,
+                
+                  E
+                  
+                    k
+                  
+                
+                ;
+                K
+                )
+              
+            
+            
+              
+                ≅
+              
+              
+                
+                  L
+                  
+                    m
+                  
+                
+                (
+                
+                  E
+                  
+                    1
+                  
+                
+                ,
+                …
+                ,
+                
+                  E
+                  
+                    m
+                  
+                
+                ;
+                
+                  E
+                  
+                    m
+                    +
+                    1
+                  
+                  
+                    ∗
+                  
+                
+                ⊗
+                ⋯
+                ⊗
+                
+                  E
+                  
+                    k
+                  
+                  
+                    ∗
+                  
+                
+                )
+              
+            
+            
+              
+                ≅
+              
+              
+                L
+                (
+                
+                  E
+                  
+                    1
+                  
+                
+                ⊗
+                ⋯
+                ⊗
+                
+                  E
+                  
+                    m
+                  
+                
+                ,
+                
+                  E
+                  
+                    m
+                    +
+                    1
+                  
+                  
+                    ∗
+                  
+                
+                ⊗
+                ⋯
+                ⊗
+                
+                  E
+                  
+                    k
+                  
+                  
+                    ∗
+                  
+                
+                )
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}&L^{k}(E_{1},E_{2},\dotsc ,E_{k};K)\\\cong &L^{m}(E_{1},\dotsc ,E_{m};E_{m+1}^{*}\otimes \dotsb \otimes E_{k}^{*})\\\cong &L(E_{1}\otimes \dotsb \otimes E_{m},E_{m+1}^{*}\otimes \dotsb \otimes E_{k}^{*})\end{aligned}}}
+  
+Das heißt, man kann Tensoren der Stufe 
+  
+    
+      
+        r
+        +
+        s
+        >
+        2
+      
+    
+    {\displaystyle r+s>2}
+   auch induktiv als multilineare Abbildungen zwischen Tensorräumen geringerer Stufe definieren. Dabei hat man für einen Tensor eines bestimmten Typs mehrere äquivalente Möglichkeiten.
+In der Physik sind die Vektorräume in der Regel nicht identisch, z. B. kann man einen Geschwindigkeitsvektor und einen Kraftvektor nicht addieren. Man kann jedoch die Richtungen miteinander vergleichen, d. h. die Vektorräume bis auf einen skalaren Faktor miteinander identifizieren. Daher kann die Definition von Tensoren des Typs 
+  
+    
+      
+        (
+        r
+        ,
+        s
+        )
+      
+    
+    {\displaystyle (r,s)}
+   entsprechend angewendet werden. Es sei außerdem erwähnt, dass (dimensionsbehaftete) Skalare in der Physik Elemente aus eindimensionalen Vektorräumen sind und dass Vektorräume mit Skalarprodukt mit ihrem Dualraum identifiziert werden können. Man arbeitet z. B. mit Kraftvektoren, obwohl Kräfte ohne die Verwendung des Skalarprodukts als Kovektoren anzusehen sind.
+
+
+=== Äußeres Tensorprodukt ===
+Als (äußeres) Tensorprodukt oder Tensormultiplikation bezeichnet man eine Verknüpfung 
+  
+    
+      
+        ⊗
+      
+    
+    {\displaystyle \otimes }
+   zwischen zwei Tensoren. Sei 
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+   ein Vektorraum und seien 
+  
+    
+      
+        
+          t
+          
+            1
+          
+        
+        ∈
+        
+          T
+          
+            
+              s
+              
+                1
+              
+            
+          
+          
+            
+              r
+              
+                1
+              
+            
+          
+        
+        (
+        E
+        )
+      
+    
+    {\displaystyle t_{1}\in T_{s_{1}}^{r_{1}}(E)}
+   und 
+  
+    
+      
+        
+          t
+          
+            2
+          
+        
+        ∈
+        
+          T
+          
+            
+              s
+              
+                2
+              
+            
+          
+          
+            
+              r
+              
+                2
+              
+            
+          
+        
+        (
+        E
+        )
+      
+    
+    {\displaystyle t_{2}\in T_{s_{2}}^{r_{2}}(E)}
+   Tensoren. Das (äußere) Tensorprodukt von 
+  
+    
+      
+        
+          t
+          
+            1
+          
+        
+      
+    
+    {\displaystyle t_{1}}
+   und 
+  
+    
+      
+        
+          t
+          
+            2
+          
+        
+      
+    
+    {\displaystyle t_{2}}
+   ist der Tensor 
+  
+    
+      
+        
+          t
+          
+            1
+          
+        
+        ⊗
+        
+          t
+          
+            2
+          
+        
+        ∈
+        
+          T
+          
+            
+              s
+              
+                1
+              
+            
+            +
+            
+              s
+              
+                2
+              
+            
+          
+          
+            
+              r
+              
+                1
+              
+            
+            +
+            
+              r
+              
+                2
+              
+            
+          
+        
+        (
+        E
+        )
+      
+    
+    {\displaystyle t_{1}\otimes t_{2}\in T_{s_{1}+s_{2}}^{r_{1}+r_{2}}(E)}
+  , der durch
+
+  
+    
+      
+        
+          (
+          
+            t
+            
+              1
+            
+          
+          ⊗
+          
+            t
+            
+              2
+            
+          
+          )
+          (
+          
+            β
+            
+              1
+            
+          
+          ,
+          …
+          ,
+          
+            β
+            
+              
+                r
+                
+                  1
+                
+              
+            
+          
+          ,
+          
+            γ
+            
+              1
+            
+          
+          ,
+          …
+          ,
+          
+            γ
+            
+              
+                r
+                
+                  2
+                
+              
+            
+          
+          ,
+          
+            f
+            
+              1
+            
+          
+          ,
+          …
+          ,
+          
+            f
+            
+              
+                s
+                
+                  1
+                
+              
+            
+          
+          ,
+          
+            g
+            
+              1
+            
+          
+          ,
+          …
+          ,
+          
+            g
+            
+              
+                s
+                
+                  2
+                
+              
+            
+          
+          )
+        
+        :=
+        
+          t
+          
+            1
+          
+        
+        (
+        
+          β
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          β
+          
+            
+              r
+              
+                1
+              
+            
+          
+        
+        ,
+        
+          f
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          f
+          
+            
+              s
+              
+                1
+              
+            
+          
+        
+        )
+        
+          t
+          
+            2
+          
+        
+        (
+        
+          γ
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          γ
+          
+            
+              r
+              
+                2
+              
+            
+          
+        
+        ,
+        
+          g
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          g
+          
+            
+              s
+              
+                2
+              
+            
+          
+        
+        )
+      
+    
+    {\displaystyle \left(t_{1}\otimes t_{2})(\beta ^{1},\dotsc ,\beta ^{r_{1}},\gamma ^{1},\dotsc ,\gamma ^{r_{2}},f_{1},\dotsc ,f_{s_{1}},g_{1},\dotsc ,g_{s_{2}}\right):=t_{1}(\beta ^{1},\dotsc ,\beta ^{r_{1}},f_{1},\dotsc ,f_{s_{1}})t_{2}(\gamma ^{1},\dotsc ,\gamma ^{r_{2}},g_{1},\dotsc ,g_{s_{2}})}
+  
+definiert ist. Hierbei sind die 
+  
+    
+      
+        
+          β
+          
+            j
+          
+        
+        ,
+        
+          γ
+          
+            j
+          
+        
+        ∈
+        
+          E
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle \beta ^{j},\gamma ^{j}\in E^{*}}
+   und die 
+  
+    
+      
+        
+          f
+          
+            j
+          
+        
+        ,
+        
+          g
+          
+            j
+          
+        
+        ∈
+        E
+      
+    
+    {\displaystyle f_{j},g_{j}\in E}
+  .
+
+
+=== Beispiele ===
+Im Folgenden seien 
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+   und 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+   endlichdimensionale Vektorräume.
+Die Menge der (0,0)-Tensoren ist isomorph zum zugrunde liegenden Körper 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+  . Sie ordnen keiner Linearform und keinem Vektor ein Körperelement zu. Deshalb die Bezeichnung als (0,0)-Tensoren.
+(0,1)-Tensoren ordnen keiner Linearform und einem Vektor eine Zahl zu, entsprechen somit den Linearformen 
+  
+    
+      
+        L
+        (
+        E
+        ,
+        K
+        )
+        =
+        
+          E
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle L(E,K)=E^{*}}
+   auf 
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+  .
+(1,0)-Tensoren ordnen einer Linearform und keinem Vektor eine Zahl zu. Sie sind somit Elemente des bidualen Vektorraums 
+  
+    
+      
+        
+          E
+          
+            ∗
+            ∗
+          
+        
+      
+    
+    {\displaystyle E^{**}}
+  . Sie entsprechen bei endlichdimensionalen den Ausgangsvektorräumen 
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+  , da hier 
+  
+    
+      
+        
+          T
+          
+            0
+          
+          
+            1
+          
+        
+        (
+        E
+        )
+        ≅
+        
+          E
+          
+            ∗
+            ∗
+          
+        
+        ≅
+        E
+      
+    
+    {\displaystyle T_{0}^{1}(E)\cong E^{**}\cong E}
+   gilt (siehe Isomorphismus).
+Eine lineare Abbildung 
+  
+    
+      
+        E
+        →
+        F
+      
+    
+    {\displaystyle E\to F}
+   zwischen endlichdimensionalen Vektorräumen kann als Element von 
+  
+    
+      
+        
+          E
+          
+            ∗
+          
+        
+        ⊗
+        F
+      
+    
+    {\displaystyle E^{*}\otimes F}
+   aufgefasst werden und ist dann ein (1,1)-Tensor.
+Eine Bilinearform 
+  
+    
+      
+        E
+        ×
+        E
+        →
+        K
+      
+    
+    {\displaystyle E\times E\to K}
+   lässt sich als ein Element von 
+  
+    
+      
+        
+          E
+          
+            ∗
+          
+        
+        ⊗
+        
+          E
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle E^{*}\otimes E^{*}}
+   auffassen, also als ein (0,2)-Tensor. Insbesondere lassen sich also Skalarprodukte als (0,2)-Tensor auffassen.
+Das Kronecker-Delta 
+  
+    
+      
+        δ
+      
+    
+    {\displaystyle \delta }
+   ist wieder ein (0,2)-Tensor. Es ist ein Element von 
+  
+    
+      
+        
+          E
+          
+            ∗
+          
+        
+        ⊗
+        
+          E
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle E^{*}\otimes E^{*}}
+  , und somit also eine multilineare Abbildung 
+  
+    
+      
+        δ
+        :
+        E
+        ×
+        E
+        →
+        
+          R
+        
+      
+    
+    {\displaystyle \delta \colon E\times E\to \mathbb {R} }
+  . Multilineare Abbildungen sind durch die Wirkung auf die Basisvektoren eindeutig bestimmt. So ist das Kronecker-Delta eindeutig durch
+
+  
+    
+      
+        δ
+        (
+        
+          e
+          
+            i
+          
+        
+        ,
+        
+          e
+          
+            j
+          
+        
+        )
+        =
+        
+          {
+          
+            
+              
+                
+                  1
+                  ,
+                
+                
+                  
+                    falls 
+                  
+                  i
+                  =
+                  j
+                  ,
+                
+              
+              
+                
+                  0
+                  ,
+                
+                
+                  
+                    falls 
+                  
+                  i
+                  ≠
+                  j
+                  ,
+                
+              
+            
+          
+          
+        
+      
+    
+    {\displaystyle \delta (e_{i},e_{j})=\left\{{\begin{matrix}1,&{\mbox{falls }}i=j,\\0,&{\mbox{falls }}i\neq j,\end{matrix}}\right.}
+  
+
+bestimmt.
+Die Determinante von 
+  
+    
+      
+        n
+        ×
+        n
+      
+    
+    {\displaystyle n\times n}
+  -Matrizen, aufgefasst als alternierende Multilinearform der Spalten, ist ein (0,n)-Tensor. Bezüglich einer Orthonormalbasis wird er durch das Levi-Civita-Symbol ("Epsilontensor") dargestellt. Speziell in drei Dimensionen ist die Determinante 
+  
+    
+      
+        det
+        :
+        
+          
+            R
+          
+          
+            3
+          
+        
+        ×
+        
+          
+            R
+          
+          
+            3
+          
+        
+        ×
+        
+          
+            R
+          
+          
+            3
+          
+        
+        →
+        
+          R
+        
+      
+    
+    {\displaystyle \det \colon \mathbb {R} ^{3}\times \mathbb {R} ^{3}\times \mathbb {R} ^{3}\to \mathbb {R} }
+   ein Tensor dritter Stufe und es gilt 
+  
+    
+      
+        
+          ε
+          
+            i
+            j
+            k
+          
+        
+        =
+        det
+        (
+        
+          e
+          
+            i
+          
+        
+        ,
+        
+          e
+          
+            j
+          
+        
+        ,
+        
+          e
+          
+            k
+          
+        
+        )
+      
+    
+    {\displaystyle \varepsilon _{ijk}=\det(e_{i},e_{j},e_{k})}
+   für die Elemente einer Orthonormalbasis. Sowohl das Kronecker-Delta als auch das Levi-Civita-Symbol werden häufig verwendet, um Symmetrieeigenschaften von Tensoren zu untersuchen. Das Kronecker-Delta ist symmetrisch bei Vertauschungen der Indizes, das Levi-Civita-Symbol antisymmetrisch, so dass man mit ihrer Hilfe Tensoren in symmetrische und antisymmetrische Anteile zerlegen kann.
+Ein weiteres Beispiel für einen kovarianten Tensor 2. Stufe ist der Trägheitstensor.
+In der Elastizitätstheorie verallgemeinert man die hookesche Gleichung über den Zusammenhang zwischen Kräften und zugehörigen Dehnungen und Verzerrungen in einem elastischen Medium ebenfalls mit Hilfe der Tensorrechnung durch Einführung des Verzerrungstensors, der Verzerrungen, Deformationen beschreibt, und des Spannungstensors, der die die Deformationen verursachenden Kräfte beschreibt. Siehe dazu auch unter Kontinuumsmechanik nach.
+Sei 
+  
+    
+      
+        (
+        V
+        ,
+        g
+        )
+      
+    
+    {\displaystyle (V,g)}
+   ein Vektorraum mit Skalarprodukt 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+  . Wie oben bereits erwähnt, ist das Skalarprodukt 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+   linear in beiden Argumenten, also ein (0,2)-Tensor bzw. ein zweifach kovarianter Tensor. Man spricht auch von einem metrischen Tensor oder kurz „Metrik“. Dabei ist zu beachten, dass 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+   selbst keine Metrik im Sinne eines metrischen Raums ist, aber eine solche erzeugt. Mit 
+  
+    
+      
+        
+          g
+          
+            i
+            j
+          
+        
+      
+    
+    {\displaystyle g_{ij}}
+   werden die Koordinaten der Metrik bezüglich einer Basis des Vektorraums 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+   bezeichnet; 
+  
+    
+      
+        
+          v
+          
+            i
+          
+        
+      
+    
+    {\displaystyle v^{i}}
+   und 
+  
+    
+      
+        
+          w
+          
+            j
+          
+        
+      
+    
+    {\displaystyle w^{j}}
+   seien die Koordinaten der Vektoren 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+   und 
+  
+    
+      
+        w
+      
+    
+    {\displaystyle w}
+   bezüglich derselben Basis. Für die Abbildung zweier Vektoren 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+   und 
+  
+    
+      
+        w
+      
+    
+    {\displaystyle w}
+   unter der Metrik 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+   gilt deshalb
+
+  
+    
+      
+        g
+        (
+        v
+        ,
+        w
+        )
+        =
+        
+          ∑
+          
+            i
+            ,
+            j
+          
+        
+        
+          g
+          
+            i
+            j
+          
+        
+        
+          v
+          
+            i
+          
+        
+        
+          w
+          
+            j
+          
+        
+        .
+      
+    
+    {\displaystyle g(v,w)=\sum _{i,j}g_{ij}v^{i}w^{j}.}
+  
+
+Der Übergang zwischen ko- und kontravarianten Tensoren lässt sich mittels der Metrik durch
+
+  
+    
+      
+        
+          x
+          
+            i
+          
+        
+        =
+        
+          ∑
+          
+            j
+          
+        
+        
+          g
+          
+            i
+            j
+          
+        
+        
+          x
+          
+            j
+          
+        
+      
+    
+    {\displaystyle x_{i}=\sum _{j}g_{ij}x^{j}}
+  
+
+bewerkstelligen.
+In der Differentialgeometrie auf Riemannschen Mannigfaltigkeiten ist diese Metrik zusätzlich eine Funktion des Ortes. Eine tensorwertige Funktion des Ortes wird Tensorfeld genannt, im Fall des metrischen Tensors speziell riemannsche Metrik.
+In der Theorie Pseudo-riemannschen Mannigfaltigkeiten wird der Begriff des metrischen Tensors dahingehend verallgemeinert, dass auf die Definitheit des Skalarprodukts verzichtet wird. Wichtigste Anwendung ist die Relativitätstheorie. In der speziellen Relativitätstheorie verwendet man statt der euklidischen Metrik die uneigentliche Metrik des Minkowskiraumes. In der Allgemeinen Relativitätstheorie wird ein Tensorfeld mit derselben Signatur wie die Minkowski-Metrik verwendet.
+
+
+=== Tensoralgebra ===
+
+Sei 
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+   ein Vektorraum über einem Körper 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+  . Dann ist durch
+
+  
+    
+      
+        
+          T
+        
+        (
+        E
+        )
+        =
+        
+          ⨁
+          
+            n
+            ≥
+            0
+          
+        
+        
+          E
+          
+            ⊗
+            n
+          
+        
+        =
+        K
+        ⊕
+        E
+        ⊕
+        (
+        E
+        ⊗
+        E
+        )
+        ⊕
+        (
+        E
+        ⊗
+        E
+        ⊗
+        E
+        )
+        ⊕
+        ⋯
+      
+    
+    {\displaystyle \mathrm {T} (E)=\bigoplus _{n\geq 0}E^{\otimes n}=K\oplus E\oplus (E\otimes E)\oplus (E\otimes E\otimes E)\oplus \dotsb }
+  
+die sogenannte Tensoralgebra definiert. Mit der Multiplikation, die auf den homogenen Bestandteilen durch das Tensorprodukt gegeben ist, wird 
+  
+    
+      
+        
+          T
+        
+        (
+        E
+        )
+      
+    
+    {\displaystyle \mathrm {T} (E)}
+   zu einer unitären assoziativen Algebra.
+
+
+== Basis ==
+
+
+=== Basis & Dimension ===
+Sei 
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+   wie oben ein Vektorraum. Dann sind die Räume 
+  
+    
+      
+        
+          T
+          
+            s
+          
+          
+            r
+          
+        
+        (
+        E
+        )
+      
+    
+    {\displaystyle T_{s}^{r}(E)}
+   ebenfalls wieder Vektorräume. Weiterhin sei 
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+   nun endlichdimensional mit der Basis 
+  
+    
+      
+        {
+        
+          e
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          e
+          
+            n
+          
+        
+        }
+      
+    
+    {\displaystyle \{e_{1},\ldots ,e_{n}\}}
+  . Die duale Basis wird mit 
+  
+    
+      
+        {
+        
+          e
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          e
+          
+            n
+          
+        
+        }
+      
+    
+    {\displaystyle \{e^{1},\ldots ,e^{n}\}}
+   bezeichnet. Der Raum 
+  
+    
+      
+        
+          T
+          
+            s
+          
+          
+            r
+          
+        
+        (
+        E
+        )
+      
+    
+    {\displaystyle T_{s}^{r}(E)}
+   der Tensoren ist dann ebenfalls endlichdimensional und
+
+  
+    
+      
+        
+          {
+          
+            
+            
+              e
+              
+                
+                  i
+                  
+                    1
+                  
+                
+              
+            
+            ⊗
+            ⋯
+            ⊗
+            
+              e
+              
+                
+                  i
+                  
+                    r
+                  
+                
+              
+            
+            ⊗
+            
+              e
+              
+                
+                  j
+                  
+                    1
+                  
+                
+              
+            
+            ⊗
+            ⋯
+            ⊗
+            
+              e
+              
+                
+                  j
+                  
+                    s
+                  
+                
+              
+            
+            |
+          
+          
+            i
+            
+              1
+            
+          
+          ,
+          …
+          ,
+          
+            i
+            
+              r
+            
+          
+          ,
+          
+            j
+            
+              1
+            
+          
+          ,
+          …
+          ,
+          
+            j
+            
+              s
+            
+          
+          =
+          1
+          ,
+          …
+          ,
+          n
+          }
+        
+      
+    
+    {\displaystyle \left\{\left.e_{i_{1}}\otimes \cdots \otimes e_{i_{r}}\otimes e^{j_{1}}\otimes \cdots \otimes e^{j_{s}}\right|i_{1},\ldots ,i_{r},j_{1},\ldots ,j_{s}=1,\ldots ,n\right\}}
+  
+ist eine Basis dieses Raumes. Das heißt, jedes Element 
+  
+    
+      
+        t
+        ∈
+        
+          T
+          
+            s
+          
+          
+            r
+          
+        
+        (
+        E
+        )
+      
+    
+    {\displaystyle t\in T_{s}^{r}(E)}
+   kann durch
+
+  
+    
+      
+        
+          ∑
+          
+            
+              i
+              
+                1
+              
+            
+            ,
+            …
+            ,
+            
+              i
+              
+                r
+              
+            
+            ,
+            
+              j
+              
+                1
+              
+            
+            ,
+            …
+            ,
+            
+              j
+              
+                s
+              
+            
+            =
+            1
+            ,
+            …
+            ,
+            n
+          
+        
+        
+          a
+          
+            
+              j
+              
+                1
+              
+            
+            ,
+            …
+            ,
+            
+              j
+              
+                s
+              
+            
+          
+          
+            
+              i
+              
+                1
+              
+            
+            ,
+            …
+            ,
+            
+              i
+              
+                r
+              
+            
+          
+        
+        
+          e
+          
+            
+              i
+              
+                1
+              
+            
+          
+        
+        ⊗
+        ⋯
+        ⊗
+        
+          e
+          
+            
+              i
+              
+                r
+              
+            
+          
+        
+        ⊗
+        
+          e
+          
+            
+              j
+              
+                1
+              
+            
+          
+        
+        ⊗
+        ⋯
+        ⊗
+        
+          e
+          
+            
+              j
+              
+                s
+              
+            
+          
+        
+      
+    
+    {\displaystyle \sum _{i_{1},\ldots ,i_{r},j_{1},\ldots ,j_{s}=1,\ldots ,n}a_{j_{1},\ldots ,j_{s}}^{i_{1},\ldots ,i_{r}}e_{i_{1}}\otimes \cdots \otimes e_{i_{r}}\otimes e^{j_{1}}\otimes \cdots \otimes e^{j_{s}}}
+  
+dargestellt werden. Die Dimension dieses Vektorraums ist 
+  
+    
+      
+        
+          T
+          
+            s
+          
+          
+            r
+          
+        
+        (
+        E
+        )
+        =
+        
+          n
+          
+            r
+            +
+            s
+          
+        
+      
+    
+    {\displaystyle T_{s}^{r}(E)=n^{r+s}}
+  . Wie in jedem endlichdimensionalen Vektorraum reicht es auch im Raum der Tensoren zu sagen, wie eine Funktion auf der Basis operiert.
+Da die obige Summendarstellung sehr viel Schreibarbeit mit sich bringt, wird oftmals die einsteinsche Summenkonvention verwendet. In diesem Fall schreibt man also
+
+  
+    
+      
+        
+          a
+          
+            
+              j
+              
+                1
+              
+            
+            ,
+            …
+            
+              j
+              
+                s
+              
+            
+          
+          
+            
+              i
+              
+                1
+              
+            
+            ,
+            …
+            ,
+            
+              i
+              
+                r
+              
+            
+          
+        
+        
+          e
+          
+            
+              i
+              
+                1
+              
+            
+          
+        
+        ⊗
+        ⋯
+        ⊗
+        
+          e
+          
+            
+              i
+              
+                r
+              
+            
+          
+        
+        ⊗
+        
+          e
+          
+            
+              j
+              
+                1
+              
+            
+          
+        
+        ⊗
+        ⋯
+        ⊗
+        
+          e
+          
+            
+              j
+              
+                s
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle a_{j_{1},\ldots j_{s}}^{i_{1},\ldots ,i_{r}}e_{i_{1}}\otimes \cdots \otimes e_{i_{r}}\otimes e^{j_{1}}\otimes \cdots \otimes e^{j_{s}}.}
+  
+Oftmals identifiziert man die Komponenten des Tensors mit dem Tensor an sich. Siehe dafür unter Tensordarstellungen der Physik nach.
+
+
+=== Basiswechsel und Koordinatentransformation ===
+Seien 
+  
+    
+      
+        
+          
+            e
+            
+              
+                i
+                
+                  1
+                
+              
+            
+            ′
+          
+          ,
+          …
+          ,
+          
+            e
+            
+              
+                i
+                
+                  n
+                
+              
+            
+            ′
+          
+        
+      
+    
+    {\displaystyle {e'_{i_{1}},\dots ,e'_{i_{n}}}}
+   und 
+  
+    
+      
+        
+          
+            e
+            
+              
+                i
+                
+                  1
+                
+              
+            
+          
+          ,
+          …
+          ,
+          
+            e
+            
+              
+                i
+                
+                  n
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {e_{i_{1}},\dots ,e_{i_{n}}}}
+   jeweils unterschiedliche Basen der Vektorräume 
+  
+    
+      
+        
+          V
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          V
+          
+            n
+          
+        
+         
+      
+    
+    {\displaystyle V_{1},\dots ,V_{n}\ }
+  . Jeder Vektor, also auch jeder Basisvektor 
+  
+    
+      
+        
+          
+            e
+            
+              
+                i
+                
+                  l
+                
+              
+            
+            ′
+          
+        
+      
+    
+    {\displaystyle {e'_{i_{l}}}}
+   kann als Linearkombination der Basisvektoren 
+  
+    
+      
+        
+          
+            e
+            
+              
+                i
+                
+                  l
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {e_{i_{l}}}}
+   dargestellt werden. Der Basisvektor 
+  
+    
+      
+        
+          e
+          
+            
+              i
+              
+                l
+              
+            
+          
+          ′
+        
+      
+    
+    {\displaystyle e'_{i_{l}}}
+   werde dargestellt durch:
+
+  
+    
+      
+        
+          e
+          
+            
+              i
+              
+                l
+              
+            
+          
+          ′
+        
+        =
+        
+          ∑
+          
+            
+              j
+              
+                l
+              
+            
+          
+        
+        
+          a
+          
+            
+              j
+              
+                l
+              
+            
+            ,
+            
+              i
+              
+                l
+              
+            
+          
+        
+        
+          e
+          
+            
+              j
+              
+                l
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle e'_{i_{l}}=\sum _{j_{l}}a_{j_{l},i_{l}}e_{j_{l}}.}
+  
+Die Größen 
+  
+    
+      
+        
+          a
+          
+            
+              j
+              
+                l
+              
+            
+            ,
+            
+              i
+              
+                l
+              
+            
+          
+        
+      
+    
+    {\displaystyle a_{j_{l},i_{l}}}
+   bestimmen also die Basistransformation zwischen den Basen 
+  
+    
+      
+        
+          e
+          
+            
+              i
+              
+                l
+              
+            
+          
+          ′
+        
+      
+    
+    {\displaystyle e'_{i_{l}}}
+   und 
+  
+    
+      
+        
+          e
+          
+            
+              i
+              
+                l
+              
+            
+          
+        
+      
+    
+    {\displaystyle e_{i_{l}}}
+  . Das gilt für alle 
+  
+    
+      
+        l
+        =
+        1
+        ,
+        …
+        ,
+        n
+      
+    
+    {\displaystyle l=1,\dots ,n}
+  . Dieses Verfahren wird Basiswechsel genannt.
+Ferner seien 
+  
+    
+      
+        
+          T
+          
+            
+              
+                i
+                
+                  1
+                
+              
+            
+            ,
+            …
+            ,
+            
+              
+                i
+                
+                  n
+                
+              
+            
+          
+          ′
+        
+      
+    
+    {\displaystyle T'_{{i_{1}},\dots ,{i_{n}}}}
+   die Koordinaten des Tensors 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+   bezüglich der Basis 
+  
+    
+      
+        
+          e
+          
+            
+              i
+              
+                1
+              
+            
+          
+          ′
+        
+        ,
+        …
+        ,
+        
+          e
+          
+            
+              i
+              
+                n
+              
+            
+          
+          ′
+        
+      
+    
+    {\displaystyle e'_{i_{1}},\dots ,e'_{i_{n}}}
+  . Dann ergibt sich für das Transformationsverhalten der Tensorkoordinaten die Gleichung
+
+  
+    
+      
+        
+          T
+          
+            
+              
+                i
+                
+                  1
+                
+              
+            
+            ,
+            …
+            ,
+            
+              
+                i
+                
+                  n
+                
+              
+            
+          
+          ′
+        
+        =
+        
+          ∑
+          
+            
+              j
+              
+                1
+              
+            
+          
+        
+        …
+        
+          ∑
+          
+            
+              j
+              
+                n
+              
+            
+          
+        
+        
+          a
+          
+            
+              j
+              
+                1
+              
+            
+            ,
+            
+              i
+              
+                1
+              
+            
+          
+        
+        …
+        
+          a
+          
+            
+              j
+              
+                n
+              
+            
+            ,
+            
+              i
+              
+                n
+              
+            
+          
+        
+        
+          T
+          
+            
+              
+                j
+                
+                  1
+                
+              
+            
+            ,
+            …
+            ,
+            
+              
+                j
+                
+                  n
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle T'_{{i_{1}},\dots ,{i_{n}}}=\sum _{j_{1}}\dots \sum _{j_{n}}a_{j_{1},i_{1}}\dots a_{j_{n},i_{n}}T_{{j_{1}},\dots ,{j_{n}}}.}
+  
+Es wird in der Regel zwischen der Koordinatendarstellung des Tensors 
+  
+    
+      
+        
+          T
+          
+            
+              
+                i
+                
+                  1
+                
+              
+            
+            ,
+            …
+            ,
+            
+              
+                i
+                
+                  n
+                
+              
+            
+          
+          ′
+        
+      
+    
+    {\displaystyle T'_{{i_{1}},\dots ,{i_{n}}}}
+   und der Transformationsmatrix 
+  
+    
+      
+        
+          a
+          
+            
+              j
+              
+                1
+              
+            
+            ,
+            
+              i
+              
+                1
+              
+            
+          
+        
+        …
+        
+          a
+          
+            
+              j
+              
+                n
+              
+            
+            ,
+            
+              i
+              
+                n
+              
+            
+          
+        
+      
+    
+    {\displaystyle a_{j_{1},i_{1}}\dots a_{j_{n},i_{n}}}
+   unterschieden. Die Transformationsmatrix 
+  
+    
+      
+        
+          a
+          
+            
+              j
+              
+                1
+              
+            
+            ,
+            
+              i
+              
+                1
+              
+            
+          
+        
+        …
+        
+          a
+          
+            
+              j
+              
+                n
+              
+            
+            ,
+            
+              i
+              
+                n
+              
+            
+          
+        
+      
+    
+    {\displaystyle a_{j_{1},i_{1}}\dots a_{j_{n},i_{n}}}
+   ist zwar eine indizierte Größe, aber kein Tensor. Im euklidischen Raum sind das Drehmatrizen und in der speziellen Relativitätstheorie z. B. Lorentz-Transformationen, die sich auch als „Drehungen“ in einem vierdimensionalen Minkowskiraum auffassen lassen. Man spricht in diesem Fall auch von Vierertensoren und Vierervektoren.
+
+
+== Operationen auf Tensoren ==
+Neben dem Tensorprodukt gibt es für (r,s)-Tensoren weitere wichtige Operationen.
+
+
+=== Inneres Produkt ===
+Das innere Produkt eines Vektors 
+  
+    
+      
+        v
+        ∈
+        E
+      
+    
+    {\displaystyle v\in E}
+   (bzw. eines (Ko)Vektors 
+  
+    
+      
+        β
+        ∈
+        
+          E
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle \beta \in E^{*}}
+  ) mit einem Tensor 
+  
+    
+      
+        t
+        ∈
+        
+          T
+          
+            s
+          
+          
+            r
+          
+        
+        (
+        E
+        ;
+        K
+        )
+      
+    
+    {\displaystyle t\in T_{s}^{r}(E;K)}
+   ist der 
+  
+    
+      
+        (
+        r
+        ,
+        s
+        −
+        1
+        )
+      
+    
+    {\displaystyle (r,s-1)}
+   (bzw. 
+  
+    
+      
+        (
+        r
+        −
+        1
+        ,
+        s
+        )
+      
+    
+    {\displaystyle (r-1,s)}
+  -Tensor, welcher durch
+
+  
+    
+      
+        (
+        
+          i
+          
+            v
+          
+        
+        t
+        )
+        
+          (
+          
+            β
+            
+              1
+            
+          
+          ,
+          …
+          ,
+          
+            β
+            
+              r
+            
+          
+          ,
+          ⋅
+          ,
+          
+            v
+            
+              1
+            
+          
+          ,
+          …
+          ,
+          
+            v
+            
+              s
+              −
+              1
+            
+          
+          )
+        
+        =
+        t
+        
+          (
+          
+            β
+            
+              1
+            
+          
+          ,
+          …
+          ,
+          
+            β
+            
+              r
+            
+          
+          ,
+          v
+          ,
+          
+            v
+            
+              1
+            
+          
+          ,
+          …
+          ,
+          
+            v
+            
+              s
+              −
+              1
+            
+          
+          )
+        
+      
+    
+    {\displaystyle (i_{v}t)\left(\beta ^{1},\ldots ,\beta ^{r},\cdot ,v_{1},\ldots ,v_{s-1}\right)=t\left(\beta ^{1},\ldots ,\beta ^{r},v,v_{1},\ldots ,v_{s-1}\right)}
+  
+bzw. durch
+
+  
+    
+      
+        (
+        
+          i
+          
+            β
+          
+        
+        t
+        )
+        
+          (
+          ⋅
+          ,
+          
+            β
+            
+              1
+            
+          
+          ,
+          …
+          ,
+          
+            β
+            
+              r
+              −
+              1
+            
+          
+          ,
+          
+            v
+            
+              1
+            
+          
+          ,
+          …
+          ,
+          
+            v
+            
+              s
+            
+          
+          )
+        
+        =
+        t
+        
+          (
+          β
+          ,
+          
+            β
+            
+              1
+            
+          
+          ,
+          …
+          ,
+          
+            β
+            
+              r
+              −
+              1
+            
+          
+          ,
+          
+            v
+            
+              1
+            
+          
+          ,
+          …
+          ,
+          
+            v
+            
+              s
+            
+          
+          )
+        
+      
+    
+    {\displaystyle (i^{\beta }t)\left(\cdot ,\beta ^{1},\ldots ,\beta ^{r-1},v_{1},\ldots ,v_{s}\right)=t\left(\beta ,\beta ^{1},\ldots ,\beta ^{r-1},v_{1},\ldots ,v_{s}\right)}
+  
+definiert ist. Dies bedeutet, dass der 
+  
+    
+      
+        (
+        r
+        ,
+        s
+        )
+      
+    
+    {\displaystyle (r,s)}
+  -Tensor 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+   an einem festen Vektor 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+   bzw. festen Kovektor 
+  
+    
+      
+        β
+      
+    
+    {\displaystyle \beta }
+   ausgewertet wird.
+
+
+=== Tensorverjüngung ===
+
+Gegeben sei ein (r,s)-Tensor und 
+  
+    
+      
+        1
+        ≤
+        k
+        ≤
+        r
+      
+    
+    {\displaystyle 1\leq k\leq r}
+   und 
+  
+    
+      
+        1
+        ≤
+        l
+        ≤
+        s
+      
+    
+    {\displaystyle 1\leq l\leq s}
+  . Die Tensorverjüngung 
+  
+    
+      
+        
+          C
+          
+            l
+          
+          
+            k
+          
+        
+      
+    
+    {\displaystyle C_{l}^{k}}
+   bildet den Tensor
+
+  
+    
+      
+        ∑
+        
+          β
+          
+            
+              i
+              
+                1
+              
+            
+          
+        
+        ⊗
+        ⋯
+        ⊗
+        
+          β
+          
+            
+              i
+              
+                k
+              
+            
+          
+        
+        ⊗
+        ⋯
+        ⊗
+        
+          β
+          
+            
+              i
+              
+                r
+              
+            
+          
+        
+        ⊗
+        
+          v
+          
+            
+              j
+              
+                1
+              
+            
+          
+        
+        ⊗
+        ⋯
+        ⊗
+        
+          v
+          
+            
+              j
+              
+                l
+              
+            
+          
+        
+        ⊗
+        ⋯
+        ⊗
+        
+          v
+          
+            
+              j
+              
+                s
+              
+            
+          
+        
+      
+    
+    {\displaystyle \sum \beta _{i_{1}}\otimes \cdots \otimes \beta _{i_{k}}\otimes \cdots \otimes \beta _{i_{r}}\otimes v^{j_{1}}\otimes \cdots \otimes v^{j_{l}}\otimes \cdots \otimes v^{j_{s}}}
+  
+auf den Tensor
+
+  
+    
+      
+        
+          
+            
+              
+              
+                
+                  C
+                  
+                    l
+                  
+                  
+                    k
+                  
+                
+                
+                  (
+                  ∑
+                  
+                    β
+                    
+                      
+                        i
+                        
+                          1
+                        
+                      
+                    
+                  
+                  ⊗
+                  ⋯
+                  ⊗
+                  
+                    β
+                    
+                      
+                        i
+                        
+                          k
+                        
+                      
+                    
+                  
+                  ⊗
+                  ⋯
+                  ⊗
+                  
+                    β
+                    
+                      
+                        i
+                        
+                          r
+                        
+                      
+                    
+                  
+                  ⊗
+                  
+                    v
+                    
+                      
+                        j
+                        
+                          1
+                        
+                      
+                    
+                  
+                  ⊗
+                  ⋯
+                  ⊗
+                  
+                    v
+                    
+                      
+                        j
+                        
+                          l
+                        
+                      
+                    
+                  
+                  ⊗
+                  ⋯
+                  ⊗
+                  
+                    v
+                    
+                      
+                        j
+                        
+                          s
+                        
+                      
+                    
+                  
+                  )
+                
+              
+            
+            
+              
+                =
+              
+              
+                
+                ∑
+                
+                  β
+                  
+                    
+                      i
+                      
+                        k
+                      
+                    
+                  
+                
+                (
+                
+                  v
+                  
+                    
+                      j
+                      
+                        l
+                      
+                    
+                  
+                
+                )
+                ⋅
+                (
+                
+                  β
+                  
+                    
+                      i
+                      
+                        1
+                      
+                    
+                  
+                
+                ⊗
+                ⋯
+                ⊗
+                
+                  β
+                  
+                    
+                      i
+                      
+                        k
+                        −
+                        1
+                      
+                    
+                  
+                
+                ⊗
+                
+                  β
+                  
+                    
+                      i
+                      
+                        k
+                        +
+                        1
+                      
+                    
+                  
+                
+                ⊗
+                ⋯
+                ⊗
+                
+                  β
+                  
+                    
+                      i
+                      
+                        r
+                      
+                    
+                  
+                
+                ⊗
+                
+                  v
+                  
+                    
+                      j
+                      
+                        1
+                      
+                    
+                  
+                
+                ⊗
+                ⋯
+                ⊗
+                
+                  v
+                  
+                    
+                      j
+                      
+                        l
+                        −
+                        1
+                      
+                    
+                  
+                
+                ⊗
+                
+                  v
+                  
+                    
+                      j
+                      
+                        l
+                        +
+                        1
+                      
+                    
+                  
+                
+                ⊗
+                ⋯
+                ⊗
+                
+                  v
+                  
+                    
+                      j
+                      
+                        s
+                      
+                    
+                  
+                
+                )
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}&C_{l}^{k}\left(\sum \beta _{i_{1}}\otimes \cdots \otimes \beta _{i_{k}}\otimes \cdots \otimes \beta _{i_{r}}\otimes v^{j_{1}}\otimes \cdots \otimes v^{j_{l}}\otimes \cdots \otimes v^{j_{s}}\right)\\=&\sum \beta _{i_{k}}(v^{j_{l}})\cdot (\beta _{i_{1}}\otimes \cdots \otimes \beta _{i_{k-1}}\otimes \beta _{i_{k+1}}\otimes \cdots \otimes \beta _{i_{r}}\otimes v^{j_{1}}\otimes \cdots \otimes v^{j_{l-1}}\otimes v^{j_{l+1}}\otimes \cdots \otimes v^{j_{s}})\end{aligned}}}
+  
+ab. Dieser Vorgang heißt Tensorverjüngung oder Spurbildung. Im Fall von (1,1)-Tensoren entspricht die Tensorverjüngung
+
+  
+    
+      
+        
+          C
+          
+            1
+          
+          
+            1
+          
+        
+        :
+        
+          V
+          
+            ∗
+          
+        
+        ⊗
+        V
+        →
+        K
+      
+    
+    {\displaystyle C_{1}^{1}:V^{*}\otimes V\to K}
+  
+unter der Identifizierung 
+  
+    
+      
+        
+          V
+          
+            ∗
+          
+        
+        ⊗
+        V
+        ≅
+        
+          E
+          n
+          d
+        
+        (
+        V
+        )
+      
+    
+    {\displaystyle V^{*}\otimes V\cong \mathrm {End} (V)}
+   der Spur eines Endomorphismus.
+Mit Hilfe der einsteinschen Summenkonvention kann man die Tensorverjüngung sehr kurz darstellen. Seien beispielsweise 
+  
+    
+      
+        
+          T
+          
+            i
+          
+          
+            j
+          
+        
+      
+    
+    {\displaystyle T_{i}^{j}}
+   die Koeffizienten (bzw. Koordinaten) des zweistufigen Tensors T bezüglich einer gewählten Basis. Will man diesen (1,1)-Tensor verjüngen, so schreibt man oft anstatt 
+  
+    
+      
+        
+          C
+          
+            1
+          
+          
+            1
+          
+        
+        (
+        T
+        )
+      
+    
+    {\displaystyle C_{1}^{1}(T)}
+   nur die Koeffizienten 
+  
+    
+      
+        
+          T
+          
+            i
+          
+          
+            i
+          
+        
+      
+    
+    {\displaystyle T_{i}^{i}}
+  . Die einsteinsche Summenkonvention besagt nun, dass über alle gleichen Indizes summiert wird und somit 
+  
+    
+      
+        
+          T
+          
+            i
+          
+          
+            i
+          
+        
+      
+    
+    {\displaystyle T_{i}^{i}}
+   ein Skalar ist, die mit der Spur des Endomorphismus übereinstimmt. Der Ausdruck 
+  
+    
+      
+        
+          B
+          
+            i
+          
+        
+        
+          
+
+          
+          
+            j
+          
+        
+        
+          
+
+          
+          
+            i
+          
+        
+      
+    
+    {\displaystyle B_{i}{}^{j}{}_{i}}
+   ist hingegen nicht definiert, weil nur über gleiche Indizes summiert wird, wenn einer oben und einer unten steht. Hingegen ist also 
+  
+    
+      
+        
+          B
+          
+            i
+          
+        
+        
+          
+
+          
+          
+            j
+          
+        
+        
+          
+
+          
+          
+            j
+          
+        
+      
+    
+    {\displaystyle B_{i}{}^{j}{}_{j}}
+   ein Tensor erster Stufe.
+
+
+=== Pull-Back (Rücktransport) ===
+
+Sei 
+  
+    
+      
+        ϕ
+        ∈
+        L
+        (
+        E
+        ,
+        F
+        )
+      
+    
+    {\displaystyle \phi \in L(E,F)}
+   eine lineare Abbildung zwischen Vektorräumen, welche kein Isomorphismus zu sein braucht. Der Rücktransport von 
+  
+    
+      
+        ϕ
+      
+    
+    {\displaystyle \phi }
+   sei eine Abbildung 
+  
+    
+      
+        
+          ϕ
+          
+            ∗
+          
+        
+        ∈
+        L
+        (
+        
+          T
+          
+            s
+          
+          
+            0
+          
+        
+        (
+        F
+        )
+        ,
+        
+          T
+          
+            s
+          
+          
+            0
+          
+        
+        (
+        E
+        )
+        )
+      
+    
+    {\displaystyle \phi ^{*}\in L(T_{s}^{0}(F),T_{s}^{0}(E))}
+  , welche durch
+
+  
+    
+      
+        
+          ϕ
+          
+            ∗
+          
+        
+        t
+        (
+        
+          f
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          f
+          
+            s
+          
+        
+        )
+        =
+        t
+        (
+        ϕ
+        (
+        
+          f
+          
+            1
+          
+        
+        )
+        ,
+        …
+        ,
+        ϕ
+        (
+        
+          f
+          
+            s
+          
+        
+        )
+        )
+      
+    
+    {\displaystyle \phi ^{*}t(f_{1},\ldots ,f_{s})=t(\phi (f_{1}),\ldots ,\phi (f_{s}))}
+  
+definiert ist. Dabei ist 
+  
+    
+      
+        t
+        ∈
+        
+          T
+          
+            s
+          
+          
+            0
+          
+        
+        (
+        F
+        )
+      
+    
+    {\displaystyle t\in T_{s}^{0}(F)}
+   und 
+  
+    
+      
+        
+          f
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          f
+          
+            s
+          
+        
+        ∈
+        E
+      
+    
+    {\displaystyle f_{1},\ldots ,f_{s}\in E}
+  .
+
+
+=== Push-Forward ===
+
+Sei 
+  
+    
+      
+        ϕ
+        :
+        E
+        →
+        F
+      
+    
+    {\displaystyle \phi :E\to F}
+   ein Vektorraumisomorphismus. Definiere den Push-Forward von 
+  
+    
+      
+        ϕ
+      
+    
+    {\displaystyle \phi }
+   durch 
+  
+    
+      
+        
+          ϕ
+          
+            ∗
+          
+        
+        ∈
+        L
+        (
+        
+          T
+          
+            s
+          
+          
+            r
+          
+        
+        (
+        E
+        )
+        ,
+        
+          T
+          
+            s
+          
+          
+            r
+          
+        
+        (
+        F
+        )
+        )
+      
+    
+    {\displaystyle \phi _{*}\in L(T_{s}^{r}(E),T_{s}^{r}(F))}
+   mit
+
+  
+    
+      
+        
+          ϕ
+          
+            ∗
+          
+        
+        t
+        (
+        
+          β
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          β
+          
+            r
+          
+        
+        ,
+        
+          f
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          f
+          
+            s
+          
+        
+        )
+        =
+        t
+        (
+        
+          ϕ
+          
+            ∗
+          
+        
+        (
+        
+          β
+          
+            1
+          
+        
+        )
+        ,
+        …
+        ,
+        
+          ϕ
+          
+            ∗
+          
+        
+        (
+        
+          β
+          
+            r
+          
+        
+        )
+        ,
+        
+          ϕ
+          
+            −
+            1
+          
+        
+        (
+        
+          f
+          
+            1
+          
+        
+        )
+        ,
+        …
+        ,
+        
+          ϕ
+          
+            −
+            1
+          
+        
+        (
+        
+          f
+          
+            s
+          
+        
+        )
+        )
+        .
+      
+    
+    {\displaystyle \phi _{*}t(\beta ^{1},\ldots ,\beta ^{r},f_{1},\ldots ,f_{s})=t(\phi ^{*}(\beta ^{1}),\ldots ,\phi ^{*}(\beta ^{r}),\phi ^{-1}(f_{1}),\ldots ,\phi ^{-1}(f_{s})).}
+  
+Dabei ist 
+  
+    
+      
+        t
+        ∈
+        
+          T
+          
+            s
+          
+          
+            r
+          
+        
+        (
+        E
+        )
+      
+    
+    {\displaystyle t\in T_{s}^{r}(E)}
+  , 
+  
+    
+      
+        
+          β
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          β
+          
+            r
+          
+        
+        ∈
+        
+          F
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle \beta ^{1},\ldots ,\beta ^{r}\in F^{*}}
+   und 
+  
+    
+      
+        
+          f
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          f
+          
+            s
+          
+        
+        ∈
+        F
+      
+    
+    {\displaystyle f_{1},\ldots ,f_{s}\in F}
+  . Mit 
+  
+    
+      
+        
+          ϕ
+          
+            ∗
+          
+        
+        (
+        
+          β
+          
+            i
+          
+        
+        )
+      
+    
+    {\displaystyle \phi ^{*}(\beta ^{i})}
+   wird der Rücktransport der Linearform 
+  
+    
+      
+        
+          β
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \beta ^{i}}
+   notiert. Konkret heißt dies 
+  
+    
+      
+        
+          ϕ
+          
+            ∗
+          
+        
+        (
+        
+          β
+          
+            i
+          
+        
+        (
+        .
+        )
+        )
+        =
+        
+          β
+          
+            i
+          
+        
+        (
+        ϕ
+        (
+        .
+        )
+        )
+      
+    
+    {\displaystyle \phi ^{*}(\beta ^{i}(.))=\beta ^{i}(\phi (.))}
+  . Analog zum Rücktransport kann man beim Push-Forward auf die Isomorphie von 
+  
+    
+      
+        ϕ
+      
+    
+    {\displaystyle \phi }
+   verzichten und diese Operation nur für 
+  
+    
+      
+        (
+        r
+        ,
+        0
+        )
+      
+    
+    {\displaystyle (r,0)}
+  -Tensoren definieren.
+
+
+== Tensorproduktraum ==
+
+In diesem Abschnitt werden Tensorprodukträume definiert. Diese werden typischerweise in der Algebra betrachtet. Diese Definition ist allgemeiner als die der (r,s)-Tensoren, da hier die Tensorräume aus unterschiedlichen Vektorräumen konstruiert werden können.
+
+
+=== Die universelle Eigenschaft ===
+
+Es seien 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+   und 
+  
+    
+      
+        W
+      
+    
+    {\displaystyle W}
+   Vektorräume über dem Körper 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+  . Sind 
+  
+    
+      
+        X
+        ,
+        Y
+      
+    
+    {\displaystyle X,Y}
+   weitere 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+  -Vektorräume, 
+  
+    
+      
+        b
+        :
+        V
+        ×
+        W
+        →
+        X
+      
+    
+    {\displaystyle b:V\times W\to X}
+   eine beliebige bilineare Abbildung und 
+  
+    
+      
+        f
+        :
+        X
+        →
+        Y
+      
+    
+    {\displaystyle f:X\to Y}
+   eine lineare Abbildung, dann ist auch die Verknüpfung 
+  
+    
+      
+        (
+        f
+        ∘
+        b
+        )
+        :
+        V
+        ×
+        W
+        →
+        Y
+      
+    
+    {\displaystyle (f\circ b):V\times W\to Y}
+   eine bilineare Abbildung. Ist also eine bilineare Abbildung gegeben, so kann man daraus auch beliebig viele weitere bilineare Abbildungen konstruieren. Die Frage, die sich ergibt, ist, ob es eine bilineare Abbildung gibt, aus der auf diese Art, durch Verknüpfung mit linearen Abbildungen, alle bilinearen Abbildungen auf 
+  
+    
+      
+        V
+        ×
+        W
+      
+    
+    {\displaystyle V\times W}
+   (auf eindeutige Weise) konstruiert werden können. Ein solches universelles Objekt, d.h. die bilineare Abbildung samt ihrem Bildraum, wird als Tensorprodukt von V und W bezeichnet.
+Definition: Als Tensorprodukt der Vektorräume 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+   und 
+  
+    
+      
+        W
+      
+    
+    {\displaystyle W}
+  , wird jeder 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+  -Vektorraum 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   bezeichnet, zu dem es eine bilineare Abbildung 
+  
+    
+      
+        ϕ
+        :
+        V
+        ×
+        W
+        →
+        X
+      
+    
+    {\displaystyle \phi \colon V\times W\to X}
+   gibt, die die folgende universelle Eigenschaft erfüllt:
+Zu jeder bilinearen Abbildung 
+  
+    
+      
+        b
+        :
+        V
+        ×
+        W
+        →
+        Y
+      
+    
+    {\displaystyle b\colon V\times W\to Y}
+   von 
+  
+    
+      
+        V
+        ×
+        W
+      
+    
+    {\displaystyle V\times W}
+   in einen Vektorraum 
+  
+    
+      
+        Y
+      
+    
+    {\displaystyle Y}
+   existiert genau eine lineare Abbildung 
+  
+    
+      
+        
+          b
+          ′
+        
+        :
+        X
+        →
+        Y
+      
+    
+    {\displaystyle b'\colon X\to Y}
+  , so dass für alle 
+  
+    
+      
+        (
+        v
+        ,
+        w
+        )
+        ∈
+        V
+        ×
+        W
+      
+    
+    {\displaystyle (v,w)\in V\times W}
+   gilt
+
+  
+    
+      
+        b
+        (
+        v
+        ,
+        w
+        )
+        =
+        
+          b
+          ′
+        
+        (
+        ϕ
+        (
+        v
+        ,
+        w
+        )
+        )
+        .
+      
+    
+    {\displaystyle b(v,w)=b'(\phi (v,w)).}
+  
+
+Gibt es einen solchen Vektorraum 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+  , so ist er bis auf Isomorphie eindeutig. Man schreibt 
+  
+    
+      
+        X
+        =
+        V
+        ⊗
+        W
+      
+    
+    {\displaystyle X=V\otimes W}
+   und 
+  
+    
+      
+        ϕ
+        (
+        v
+        ,
+        w
+        )
+        =
+        v
+        ⊗
+        w
+      
+    
+    {\displaystyle \phi (v,w)=v\otimes w}
+  . Die universelle Eigenschaft kann also als 
+  
+    
+      
+        b
+        (
+        v
+        ,
+        w
+        )
+        =
+        
+          b
+          ′
+        
+        (
+        v
+        ⊗
+        w
+        )
+      
+    
+    {\displaystyle b(v,w)=b'(v\otimes w)}
+   geschrieben werden. Zur Konstruktion solcher Produkträume sei auf den Artikel Tensorprodukt verwiesen.
+
+
+=== Tensor als Element des Tensorproduktes ===
+In der Mathematik sind Tensoren Elemente von Tensorprodukten.
+Es sei 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   ein Körper und es seien 
+  
+    
+      
+        
+          V
+          
+            1
+          
+        
+        ,
+        
+          V
+          
+            2
+          
+        
+        ,
+        …
+        ,
+        
+          V
+          
+            s
+          
+        
+      
+    
+    {\displaystyle V_{1},V_{2},\ldots ,V_{s}}
+   Vektorräume über dem Körper 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+  .
+Das Tensorprodukt 
+  
+    
+      
+        
+          V
+          
+            1
+          
+        
+        ⊗
+        ⋯
+        ⊗
+        
+          V
+          
+            s
+          
+        
+      
+    
+    {\displaystyle V_{1}\otimes \cdots \otimes V_{s}}
+   von 
+  
+    
+      
+        
+          V
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          V
+          
+            s
+          
+        
+      
+    
+    {\displaystyle V_{1},\ldots ,V_{s}}
+   ist ein 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+  -Vektorraum, dessen Elemente Summen von Symbolen der Form
+
+  
+    
+      
+        
+          v
+          
+            1
+          
+        
+        ⊗
+        ⋯
+        ⊗
+        
+          v
+          
+            s
+          
+        
+        ,
+        
+        
+          v
+          
+            i
+          
+        
+        ∈
+        
+          V
+          
+            i
+          
+        
+        ,
+      
+    
+    {\displaystyle v_{1}\otimes \cdots \otimes v_{s},\quad v_{i}\in V_{i},}
+  
+sind. Dabei gelten für diese Symbole die folgenden Rechenregeln:
+
+  
+    
+      
+        
+          v
+          
+            1
+          
+        
+        ⊗
+        ⋯
+        ⊗
+        (
+        
+          v
+          
+            i
+          
+          ′
+        
+        +
+        
+          v
+          
+            i
+          
+          ″
+        
+        )
+        ⊗
+        ⋯
+        ⊗
+        
+          v
+          
+            s
+          
+        
+        =
+        (
+        
+          v
+          
+            1
+          
+        
+        ⊗
+        ⋯
+        ⊗
+        
+          v
+          
+            i
+          
+          ′
+        
+        ⊗
+        ⋯
+        ⊗
+        
+          v
+          
+            s
+          
+        
+        )
+        +
+        (
+        
+          v
+          
+            1
+          
+        
+        ⊗
+        ⋯
+        ⊗
+        
+          v
+          
+            i
+          
+          ″
+        
+        ⊗
+        ⋯
+        ⊗
+        
+          v
+          
+            s
+          
+        
+        )
+      
+    
+    {\displaystyle v_{1}\otimes \cdots \otimes (v_{i}'+v_{i}'')\otimes \cdots \otimes v_{s}=(v_{1}\otimes \cdots \otimes v_{i}'\otimes \cdots \otimes v_{s})+(v_{1}\otimes \cdots \otimes v_{i}''\otimes \cdots \otimes v_{s})}
+  
+
+  
+    
+      
+        
+          v
+          
+            1
+          
+        
+        ⊗
+        ⋯
+        ⊗
+        (
+        λ
+        
+          v
+          
+            i
+          
+        
+        )
+        ⊗
+        ⋯
+        ⊗
+        
+          v
+          
+            s
+          
+        
+        =
+        λ
+        (
+        
+          v
+          
+            1
+          
+        
+        ⊗
+        ⋯
+        ⊗
+        
+          v
+          
+            i
+          
+        
+        ⊗
+        ⋯
+        ⊗
+        
+          v
+          
+            s
+          
+        
+        )
+        ,
+        
+        λ
+        ∈
+        K
+      
+    
+    {\displaystyle v_{1}\otimes \cdots \otimes (\lambda v_{i})\otimes \cdots \otimes v_{s}=\lambda (v_{1}\otimes \cdots \otimes v_{i}\otimes \cdots \otimes v_{s}),\quad \lambda \in K}
+  
+Die Tensoren der Form 
+  
+    
+      
+        
+          v
+          
+            1
+          
+        
+        ⊗
+        ⋯
+        ⊗
+        
+          v
+          
+            s
+          
+        
+      
+    
+    {\displaystyle v_{1}\otimes \cdots \otimes v_{s}}
+   heißen elementar. Jeder Tensor lässt sich als Summe von elementaren Tensoren schreiben, aber diese Darstellung ist außer in trivialen Fällen nicht eindeutig, wie man an der ersten der beiden Rechenregeln sieht.
+Ist 
+  
+    
+      
+        {
+        
+          e
+          
+            i
+          
+          
+            (
+            1
+            )
+          
+        
+        ,
+        …
+        ,
+        
+          e
+          
+            i
+          
+          
+            (
+            
+              d
+              
+                i
+              
+            
+            )
+          
+        
+        }
+      
+    
+    {\displaystyle \{e_{i}^{(1)},\ldots ,e_{i}^{(d_{i})}\}}
+   eine Basis von 
+  
+    
+      
+        
+          V
+          
+            i
+          
+        
+      
+    
+    {\displaystyle V_{i}}
+   (für 
+  
+    
+      
+        i
+        =
+        1
+        ,
+        …
+        ,
+        s
+      
+    
+    {\displaystyle i=1,\ldots ,s}
+  ; 
+  
+    
+      
+        
+          d
+          
+            i
+          
+        
+        =
+        dim
+        ⁡
+        
+          V
+          
+            i
+          
+        
+      
+    
+    {\displaystyle d_{i}=\dim V_{i}}
+  ), so ist
+
+  
+    
+      
+        {
+        
+          e
+          
+            1
+          
+          
+            (
+            
+              j
+              
+                1
+              
+            
+            )
+          
+        
+        ⊗
+        ⋯
+        ⊗
+        
+          e
+          
+            s
+          
+          
+            (
+            
+              j
+              
+                s
+              
+            
+            )
+          
+        
+        ∣
+        1
+        ≤
+        i
+        ≤
+        s
+        ,
+        1
+        ≤
+        
+          j
+          
+            i
+          
+        
+        ≤
+        
+          d
+          
+            i
+          
+        
+        }
+      
+    
+    {\displaystyle \{e_{1}^{(j_{1})}\otimes \cdots \otimes e_{s}^{(j_{s})}\mid 1\leq i\leq s,1\leq j_{i}\leq d_{i}\}}
+  
+eine Basis von 
+  
+    
+      
+        
+          V
+          
+            1
+          
+        
+        ⊗
+        ⋯
+        ⊗
+        
+          V
+          
+            s
+          
+        
+        .
+      
+    
+    {\displaystyle V_{1}\otimes \cdots \otimes V_{s}.}
+   Die Dimension von 
+  
+    
+      
+        
+          V
+          
+            1
+          
+        
+        ⊗
+        ⋯
+        ⊗
+        
+          V
+          
+            s
+          
+        
+      
+    
+    {\displaystyle V_{1}\otimes \cdots \otimes V_{s}}
+   ist also das Produkt der Dimensionen der einzelnen Vektorräume 
+  
+    
+      
+        
+          V
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          V
+          
+            s
+          
+        
+        .
+      
+    
+    {\displaystyle V_{1},\ldots ,V_{s}.}
+  
+
+
+=== Tensorprodukte und Multilinearformen ===
+Der Dualraum von 
+  
+    
+      
+        
+          V
+          
+            1
+          
+        
+        ⊗
+        ⋯
+        ⊗
+        
+          V
+          
+            s
+          
+        
+      
+    
+    {\displaystyle V_{1}\otimes \cdots \otimes V_{s}}
+   kann mit dem Raum der 
+  
+    
+      
+        s
+      
+    
+    {\displaystyle s}
+  -Multilinearformen
+
+  
+    
+      
+        
+          V
+          
+            1
+          
+        
+        ×
+        ⋯
+        ×
+        
+          V
+          
+            s
+          
+        
+        →
+        K
+      
+    
+    {\displaystyle V_{1}\times \cdots \times V_{s}\to K}
+  
+identifiziert werden:
+Ist 
+  
+    
+      
+        λ
+        :
+        
+          V
+          
+            1
+          
+        
+        ⊗
+        ⋯
+        ⊗
+        
+          V
+          
+            s
+          
+        
+        →
+        K
+      
+    
+    {\displaystyle \lambda \colon V_{1}\otimes \cdots \otimes V_{s}\to K}
+   eine Linearform auf 
+  
+    
+      
+        
+          V
+          
+            1
+          
+        
+        ⊗
+        ⋯
+        ⊗
+        
+          V
+          
+            s
+          
+        
+        ,
+      
+    
+    {\displaystyle V_{1}\otimes \cdots \otimes V_{s},}
+   so ist die entsprechende Multilinearform
+
+  
+    
+      
+        (
+        
+          v
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          v
+          
+            s
+          
+        
+        )
+        ↦
+        λ
+        (
+        
+          v
+          
+            1
+          
+        
+        ⊗
+        ⋯
+        ⊗
+        
+          v
+          
+            s
+          
+        
+        )
+        .
+      
+    
+    {\displaystyle (v_{1},\ldots ,v_{s})\mapsto \lambda (v_{1}\otimes \cdots \otimes v_{s}).}
+  
+
+Ist 
+  
+    
+      
+        μ
+        :
+        
+          V
+          
+            1
+          
+        
+        ×
+        ⋯
+        ×
+        
+          V
+          
+            s
+          
+        
+        →
+        K
+      
+    
+    {\displaystyle \mu \colon V_{1}\times \cdots \times V_{s}\to K}
+   eine 
+  
+    
+      
+        s
+      
+    
+    {\displaystyle s}
+  -Multilinearform, so ist die entsprechende Linearform auf 
+  
+    
+      
+        
+          V
+          
+            1
+          
+        
+        ⊗
+        ⋯
+        ⊗
+        
+          V
+          
+            s
+          
+        
+      
+    
+    {\displaystyle V_{1}\otimes \cdots \otimes V_{s}}
+   definiert durch
+
+  
+    
+      
+        
+          ∑
+          
+            j
+            =
+            1
+          
+          
+            k
+          
+        
+        
+          v
+          
+            1
+          
+          
+            (
+            j
+            )
+          
+        
+        ⊗
+        ⋯
+        ⊗
+        
+          v
+          
+            s
+          
+          
+            (
+            j
+            )
+          
+        
+        ↦
+        
+          ∑
+          
+            j
+            =
+            1
+          
+          
+            k
+          
+        
+        μ
+        (
+        
+          v
+          
+            1
+          
+          
+            (
+            j
+            )
+          
+        
+        ,
+        …
+        ,
+        
+          v
+          
+            s
+          
+          
+            (
+            j
+            )
+          
+        
+        )
+        .
+      
+    
+    {\displaystyle \sum _{j=1}^{k}v_{1}^{(j)}\otimes \cdots \otimes v_{s}^{(j)}\mapsto \sum _{j=1}^{k}\mu (v_{1}^{(j)},\ldots ,v_{s}^{(j)}).}
+  
+
+Sind alle betrachteten Vektorräume endlichdimensional, so kann man
+
+  
+    
+      
+        (
+        
+          V
+          
+            1
+          
+        
+        ⊗
+        ⋯
+        ⊗
+        
+          V
+          
+            s
+          
+        
+        
+          )
+          
+            ∗
+          
+        
+        
+        
+          u
+          n
+          d
+        
+        
+        
+          V
+          
+            1
+          
+          
+            ∗
+          
+        
+        ⊗
+        ⋯
+        ⊗
+        
+          V
+          
+            s
+          
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle (V_{1}\otimes \cdots \otimes V_{s})^{*}\quad \mathrm {und} \quad V_{1}^{*}\otimes \cdots \otimes V_{s}^{*}}
+  
+miteinander identifizieren, d.h. Elemente von 
+  
+    
+      
+        
+          V
+          
+            1
+          
+          
+            ∗
+          
+        
+        ⊗
+        ⋯
+        ⊗
+        
+          V
+          
+            s
+          
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle V_{1}^{*}\otimes \cdots \otimes V_{s}^{*}}
+   entsprechen 
+  
+    
+      
+        s
+      
+    
+    {\displaystyle s}
+  -Multilinearformen auf 
+  
+    
+      
+        
+          V
+          
+            1
+          
+        
+        ×
+        ⋯
+        ×
+        
+          V
+          
+            s
+          
+        
+        .
+      
+    
+    {\displaystyle V_{1}\times \cdots \times V_{s}.}
+  
+
+
+=== Tensorprodukte eines Vektorraums und Symmetrie ===
+Man kann das Tensorprodukt 
+  
+    
+      
+        
+          
+            
+              T
+            
+          
+          
+            2
+          
+        
+        V
+        :=
+        V
+        ⊗
+        V
+      
+    
+    {\displaystyle {\mathcal {T}}^{2}V:=V\otimes V}
+   eines Vektorraumes 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+   mit sich selbst bilden. Ohne weiteres Wissen über den Vektorraum kann ein Automorphismus des Tensorprodukts definiert werden, der darin besteht, in den reinen Produkten 
+  
+    
+      
+        a
+        ⊗
+        b
+      
+    
+    {\displaystyle a\otimes b}
+   die Faktoren zu vertauschen,
+
+  
+    
+      
+        
+          Π
+          
+            12
+          
+        
+        (
+        a
+        ⊗
+        b
+        )
+        :=
+        b
+        ⊗
+        a
+      
+    
+    {\displaystyle \Pi _{12}(a\otimes b):=b\otimes a}
+  .
+Da das Quadrat dieser Abbildung die Identität ist, folgt, dass für die Eigenwerte nur die Werte 
+  
+    
+      
+        ±
+        1
+      
+    
+    {\displaystyle \pm 1}
+   in Frage kommen.
+Ein 
+  
+    
+      
+        w
+        ∈
+        V
+        ⊗
+        V
+      
+    
+    {\displaystyle w\in V\otimes V}
+  , welches 
+  
+    
+      
+        
+          Π
+          
+            12
+          
+        
+        (
+        w
+        )
+        :=
+        w
+      
+    
+    {\displaystyle \Pi _{12}(w):=w}
+   erfüllt, heißt symmetrisch. Beispiele sind die Elemente
+
+  
+    
+      
+        w
+        =
+        a
+        ⊙
+        b
+        :=
+        
+          
+            1
+            2
+          
+        
+        (
+        a
+        ⊗
+        b
+        +
+        b
+        ⊗
+        a
+        )
+      
+    
+    {\displaystyle w=a\odot b:={\frac {1}{2}}(a\otimes b+b\otimes a)}
+  .
+Die Menge aller symmetrischen Tensoren der Stufe 2 wird mit 
+  
+    
+      
+        
+          
+            
+              S
+            
+          
+          
+            2
+          
+        
+        V
+        =
+        (
+        1
+        +
+        
+          Π
+          
+            12
+          
+        
+        )
+        (
+        V
+        ⊗
+        V
+        )
+      
+    
+    {\displaystyle {\mathcal {S}}^{2}V=(1+\Pi _{12})(V\otimes V)}
+   bezeichnet.
+
+Ein 
+  
+    
+      
+        w
+        ∈
+        V
+        ⊗
+        V
+      
+    
+    {\displaystyle w\in V\otimes V}
+  , welches 
+  
+    
+      
+        
+          Π
+          
+            12
+          
+        
+        (
+        w
+        )
+        :=
+        −
+        w
+      
+    
+    {\displaystyle \Pi _{12}(w):=-w}
+   erfüllt, heißt antisymmetrisch oder alternierend. Beispiele sind die Elemente
+
+  
+    
+      
+        w
+        =
+        a
+        ∧
+        b
+        :=
+        
+          
+            1
+            2
+          
+        
+        (
+        a
+        ⊗
+        b
+        −
+        b
+        ⊗
+        a
+        )
+      
+    
+    {\displaystyle w=a\wedge b:={\frac {1}{2}}(a\otimes b-b\otimes a)}
+  .
+Die Menge aller antisymmetrischen Tensoren der Stufe 2 wird mit 
+  
+    
+      
+        
+          Λ
+          
+            2
+          
+        
+        V
+        :=
+        (
+        1
+        −
+        
+          Π
+          
+            12
+          
+        
+        )
+        (
+        V
+        ⊗
+        V
+        )
+      
+    
+    {\displaystyle \Lambda ^{2}V:=(1-\Pi _{12})(V\otimes V)}
+   bezeichnet.
+
+Mittels 
+  
+    
+      
+        
+          
+            
+              T
+            
+          
+          
+            n
+            +
+            1
+          
+        
+        V
+        :=
+        V
+        ⊗
+        
+          
+            
+              T
+            
+          
+          
+            n
+          
+        
+        V
+      
+    
+    {\displaystyle {\mathcal {T}}^{n+1}V:=V\otimes {\mathcal {T}}^{n}V}
+   können Tensorpotenzen von 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+   beliebiger Stufe gebildet werden. Entsprechend können weitere paarweise Vertauschungen definiert werden. Nur sind diese nicht mehr voneinander unabhängig. So lässt sich jede Vertauschung der Stellen 
+  
+    
+      
+        j
+      
+    
+    {\displaystyle j}
+   und 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+   auf Vertauschungen mit der ersten Stelle zurückführen:
+
+  
+    
+      
+        
+          Π
+          
+            j
+            k
+          
+        
+        =
+        
+          Π
+          
+            1
+            j
+          
+        
+        ∘
+        
+          Π
+          
+            1
+            k
+          
+        
+        ∘
+        
+          Π
+          
+            1
+            j
+          
+        
+        
+        .
+      
+    
+    {\displaystyle \Pi _{jk}=\Pi _{1j}\circ \Pi _{1k}\circ \Pi _{1j}\;.}
+  
+
+
+=== Injektives und projektives Tensorprodukt ===
+
+Falls die Vektorräume, welche man miteinander tensorieren will, eine Topologie besitzen, so ist es wünschenswert, dass ihr Tensorprodukt ebenfalls eine Topologie besitzt. Es gibt natürlich viele Möglichkeiten, eine solche Topologie zu definieren. Das injektive beziehungsweise das projektive Tensorprodukt sind dafür jedoch eine natürliche Wahl.
+
+
+== Tensoranalysis ==
+
+Ursprünglich wurde der Tensorkalkül nicht in dem modernen hier vorgestellten algebraischen Konzept untersucht. Der Tensorkalkül entstand aus Überlegungen zur Differentialgeometrie. Insbesondere Gregorio Ricci-Curbastro und sein Schüler Tullio Levi-Civita haben ihn entwickelt. Man nennt den Tensorkalkül daher auch Ricci-Kalkül. Albert Einstein griff diesen Kalkül in seiner Relativitätstheorie auf, was ihm große Bekanntheit in der Fachwelt einbrachte. Die damaligen Tensoren werden heute als Tensorfelder bezeichnet und spielen in der Differentialgeometrie auch heute noch eine wichtige Rolle. Im Gegensatz zu Tensoren sind Tensorfelder differenzierbare Abbildungen, die jedem Punkt des zugrundeliegenden (oftmals gekrümmten) Raums einen Tensor zuordnen.
+
+
+== Siehe auch ==
+Formelsammlung Tensoralgebra
+
+
+== Literatur ==
+Theodor Bröcker: Lineare Algebra und Analytische Geometrie. Birkhäuser, Basel 2004, ISBN 3-7643-2178-4, Kap. VII: Tensorrechnung.
+R. Abraham, J. E. Marsden, T. Ratiu: Manifolds, tensor analysis, and applications. (= Applied mathematical sciences 75). 2. Auflage. Springer, New York NY u. a. 1998, ISBN 0-387-96790-7.
+Theodore Frankel: The Geometry of Physics. An Introduction. Cambridge University Press, Cambridge u. a. 1997, ISBN 0-521-38334-X.
+Horst Teichmann: Physikalische Anwendungen der Vektor- und Tensorrechnung. (= BI-Hochschultaschenbücher 39). 3. Auflage. Bibliographisches Institut, Mannheim u. a. 1973, ISBN 3-411-00039-2.
+André Lichnerowicz: Einführung in die Tensoranalysis. (= BI Hochschultaschenbuch 77). Bibliographisches Institut, Mannheim u. a. 1966.
+Mikhail Itskov: Tensor algebra and tensor analysis for engineers. 3. Auflage. Springer, Heidelberg u. a. 2013, ISBN 978-3-642-30878-9.
+Adalbert Duschek: Der Tensorbegriff und seine Bedeutung für die Physik, Teil 1,2,3, Physikalische Blätter 1954, 1955, Teil 1, Geometrische Grundlagen, Teil 2, Tensoralgebra, Teil 3, Tensoranalysis
+Karin Reich: Die Entwicklung des Tensorkalküls. Vom absoluten Differentialkalkül zur Relativitätstheorie, Birkhäuser 1994 (zur Geschichte)
+
+
+== Weblinks ==
+Mike Georg Bernhardt: Über Tensoren, Matrizen und Pseudovektoren (PDF, deutsch, 132 kB)
+Joseph C. Kolecki: An Introduction to Tensors for Students of Physics and Engineering (Einführung in die Tensorrechnung für Studenten, PDF, englisch, 328 kB, NASA-Publikation)
+Eigenvalue-Eigenvector Glyphs: Visualizing Zeroth, Second, Fourth and Higher Order Tensors in a Continuum (Webseite zur Visualisierung von Vektoren, englisch)
+Siegfried Petry: Tensorrechnung: Eine Einführung
+
+
+== Einzelnachweise ==

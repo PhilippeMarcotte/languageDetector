@@ -1,0 +1,11 @@
+Il codice aeroportuale IATA è un codice di tre lettere che viene attribuito ai diversi aeroporti in tutto il mondo dalla IATA (International Air Transport Association, Associazione Internazionale del Trasporto Aereo). I codici aeroportuali IATA sono pubblicati ogni tre anni sulla IATA Airline Coding Directory.
+L'assegnazione di questi codici è governata dalla risoluzione 767 della IATA, e viene amministrata dal quartier generale della IATA a Montreal. La IATA fornisce inoltre dei codici per le stazioni ferroviarie e per le compagnie di gestione degli aeroporti.
+I codici non sono univoci: 323 dei 17 576 codici possibili sono usati da più di un aeroporto.
+I caratteri in evidenza sulle etichette che vengono poste sui bagagli al check-in in aeroporto sono un esempio di come questi codici vengono utilizzati; indicano, infatti, qual è l'aeroporto di destinazione del bagaglio.
+Mentre i codici IATA sono i più comuni tra i codici aeroportuali, sono molto usati anche i codici aeroportuali ICAO. Tutti i voli internazionali sono pianificati e tracciati usando i designatori ICAO (Organizzazione Internazionale dell'Aviazione Civile).
+È disponibile un elenco di aeroporti, ordinati per codice IATA, oltre a un elenco di stazioni ferroviarie che condividono il codice con accordi tra linee aeree e linee ferroviarie, come Amtrak, SNCF, Deutsche Bahn, Thalys e Ferrovie Federali Svizzere.
+
+
+== Collegamenti esterni ==
+(EN) ABC degli aeroporti: una spiegazione dei codici identificativi degli aeroporti, skygod.com.
+(EN) Ricerca codice IATA, iata.org.

@@ -1,0 +1,203 @@
+Un paradosso, dal greco παρά (contro) e δόξα (opinione), è, genericamente, la descrizione di un fatto che contraddice l'opinione comune o l'esperienza quotidiana, riuscendo perciò sorprendente, straordinaria o bizzarra; più precisamente, in senso logico-linguistico, indica sia un ragionamento che appare invalido, ma che deve essere accettato, sia un ragionamento che appare corretto, ma che porta a una contraddizione.
+Secondo la definizione, che ne dà Mark Sainsbury, si tratta di "una conclusione evidentemente inaccettabile, che deriva da premesse evidentemente accettabili per mezzo di un ragionamento evidentemente accettabile".
+In filosofia ed economia il termine paradosso è usato spesso anche come sinonimo di antinomia. In matematica invece si distinguono i due termini: il paradosso consiste in una proposizione eventualmente dimostrata e logicamente coerente, ma lontana dall'intuizione; l'antinomia, invece, consiste in una vera e propria contraddizione logica.
+Il paradosso è un potente stimolo per la riflessione. Rivela sia la debolezza della nostra capacità di discernimento sia i limiti di alcuni strumenti intellettuali per il ragionamento.
+È stato così che paradossi basati su concetti semplici hanno spesso portato a grandi progressi intellettuali. Talvolta si è trattato di scoprire nuove regole matematiche o nuove leggi fisiche per rendere accettabili le conclusioni che all'inizio erano "apparentemente inaccettabili". Altre volte si sono individuati i sottili motivi per cui erano fallaci le premesse o i ragionamenti "apparentemente accettabili".
+Sin dall'inizio della storia scritta si hanno riferimenti ai paradossi: dai paradossi di Zenone alle antinomie di Immanuel Kant, fino a giungere ai paradossi della meccanica quantistica e della teoria della relatività generale, l'umanità si è sempre interessata ai paradossi. Un'intera corrente filosofica, il buddhismo zen, affida l'insegnamento della sua dottrina ai koan, indovinelli paradossali.
+
+
+== Paradossi nella vita comune ==
+Molti sono i paradossi in senso letterale, ossia contro l'opinione comune. Ad esempio, si parla molto del riscaldamento globale e dell'effetto serra. Secondo i modelli climatologici accettati, il riscaldamento dell'Artico, con il conseguente scioglimento dei ghiacci, causa il raffreddamento dell'Europa. Quindi l'aumento della temperatura a livello globale genera una diminuzione della stessa a livello locale. Questo è noto come paradosso dell'Artico per meglio dire raffredamento globale.
+Molti paradossi sono alla base di trame di film famosi, ad esempio nel primo Terminator vediamo che un androide è stato mandato a uccidere Sarah Connor per impedire che John Connor nasca, in conseguenza di ciò viene inviato un uomo a fermare l'androide, e infine quest'uomo va a letto con Sarah Connor provocando la nascita di John Connor; in pratica un viaggio nel tempo che ha lo scopo di evitare un evento scatena una serie di conseguenze che portano a provocare l'evento stesso, questo va sotto il nome di paradosso di predestinazione; nel secondo Terminator scopriamo che le macchine hanno origine dai resti del primo terminator inviato, una versione del classico paradosso del nonno. Meno noto è il paradosso del Comma 22 del codice di guerra dei Klingon, desunto quasi letteralmente dal romanzo Comma 22.
+
+
+=== I paradossi dei sensi ===
+Nelle neuroscienze sono noti molti paradossi dovuti all'imperfezione dei sensi, o all'elaborazione dei dati da parte della mente. Ad esempio, è possibile creare un suono che sembra crescere sempre, mentre in realtà è ciclico. Per il tatto, basta provare con un compasso a due punte: sul polpastrello si percepiscono due punte separate di pochi millimetri, mentre sulla schiena se ne percepisce solo una anche a qualche centimetro. Oppure si immergono le mani in due bacinelle di acqua una calda e una fredda; dopo un paio di minuti si immergono entrambe in una bacinella tiepida, e si avranno sensazioni contrastanti: fredda e calda. Le illusioni ottiche sono un altro esempio di paradossi sensoriali.
+
+
+=== Paradossi statistici ===
+In statistica uno dei fenomeni più strani che si hanno è il paradosso di Simpson, di cui si fa un esempio: su una certa malattia, l'ospedale X ha il 55% di successi, l'ospedale Y il 60%. Quindi converrebbe farsi operare in Y.
+Se scomponiamo, a X sono 90% casi gravi, di cui il 50% è risolto (45% del totale), mentre i restanti 10% lievi hanno il 100% (10% sul totale) di successo. A Y il 40% sono casi lievi, di cui risolvono il 90% (36%) e nel 60% di casi gravi il successo è del 40% (24%).
+Quindi in realtà conviene sempre farsi operare in X.
+In pratica, l'interpretazione dei dati è falsata da parametri non considerati.
+
+
+== I paradossi più antichi ==
+
+Il più antico paradosso si ritiene essere il paradosso di Epimenide, in cui il Cretese Epimenide afferma: "Tutti i cretesi sono bugiardi". Poiché Epimenide era originario di Creta, la frase è paradossale. A rigor di logica, moderna ovviamente, questo non è un vero paradosso: detta p la frase di Epimenide, o è vera p o è vera non p. Il contrario di p è Non tutti i cretesi sono bugiardi, ossia Qualche cretese dice la verità, Epimenide non è uno di quelli, e la frase è falsa. Tuttavia la negazione dei quantificatori non era ben chiara nella logica degli antichi greci. Subito dopo troviamo i paradossi di Zenone. Un altro famoso paradosso dell'antichità, questo sì irresolubile, è il paradosso di Protagora, più o meno contemporaneo di Zenone di Elea.
+Alcuni paradossi, poi, hanno preceduto di secoli la loro risoluzione: prendiamo ad esempio il paradosso di Zenone della freccia:
+"Il terzo argomento è quello della freccia. Essa infatti appare in movimento ma, in realtà, è immobile: in ogni istante difatti occuperà solo uno spazio che è pari a quello della sua lunghezza; e poiché il tempo in cui la freccia si muove è fatta di infiniti istanti, essa sarà immobile in ognuno di essi."
+Come si può distinguere la freccia in movimento da quella ferma, e smentire il paradosso? Oggi, ovvero più di due millenni dopo Zenone, sappiamo che, secondo il principio della relatività ristretta, una freccia in moto rispetto all'osservatore appare a questi più corta della stessa freccia ferma rispetto all'osservatore.
+
+
+== Classificazione dei paradossi logici ==
+Esistono varie forme di classificazione dei paradossi. Secondo le loro implicazioni, i paradossi si dividono in:
+Positivi: un esempio ne è la teoria della relatività ristretta. Un paradosso nullo o retorico deriva dal tipico ragionamento sofista, che dimostra una cosa e il suo contrario, come i già citati paradossi di Zenone.
+Negativi: portano il ragionamento a partire da un'ipotesi alla negazione della stessa, e sono in pratica una dimostrazione per assurdo della falsità dell'ipotesi di partenza. Di quest'ultimo tipo sono molti teoremi matematici e fisici, come ad esempio il teorema dell'infinità dei numeri primi o il teorema di Church.
+Se invece categorizziamo che cosa ci appare paradossale secondo i nostri sensi, abbiamo i paradossi visivi, auditivi, tattili, gustativi e olfattivi, più spesso indicati come anomalie o ambiguità, e i paradossi logici e matematici che sono categoria a sé.
+Più diffusa è invece la classificazione di W. V. Quine (1962) che distingueva in tre classi di paradossi:
+Paradosso veridico che produce un risultato apparentemente assurdo sebbene sia dimostrato comunque vero con un argomento valido. Ad esempio il teorema di impossibilità di Arrow stabilisce difficoltà enormi del mappare i voti come risultati di un volere popolare. Il paradosso di Monty Hall dimostra invece che una decisione che ha intuitivamente una probabilità del 50%, quando al contrario non si dia il caso di ciò. Nel ventunesimo secolo, il paradosso del Gran Hotel di Hilbert e del gatto di Schrödinger sono famosi e vividi esempi di una teoria considerata logica ma dalle conclusioni che sembrano paradossali.
+Paradosso "falsidico", più comunemente conosciuto come fallacia, stabilisce che una conclusione non sia falsa perché appaia tale (anzi, può anche sembrare il contrario), ma perché non è valida la sua dimostrazione. Esempi di argomenti del genere sono i sofismi algebrici (come 1=2), scorretti perché poggiano, in qualche punto nascosto, per una divisione per zero, impossibile nei campi numerici e in generale in tutti i domini di integrità. Altri esempi esempi famosi in letteratura sono i paradossi di Zenone.
+Un paradosso non presente fra i punti precedenti dovrebbe essere un'antinomia.
+C'è anche un quarto tipo di paradosso preso in esame, addizionalmente, nel lavoro di Quine: un paradosso che è effettivamente sia vero che falso contemporaneamente, chiamato dialetheia. Nella logica occidentale mainstream si è assunto che non esistessero, seguendo Aristotele, sebbene esistano delle eccezioni della filosofia orientale e nella logica paraconsistente.
+
+
+== Paradossi dell'induzione ==
+Molti ritengono David Hume responsabile di aver introdotto il problema dell'induzione. In realtà, nella versione del paradosso del sorite, tale problema era noto sin dai tempi di Zenone, vero padre del pensiero paradossale. Il paradosso del sorite afferma:
+"Un granello di sabbia che cade non fa rumore, quindi nemmeno due, e nemmeno tre, e così via. Quindi nemmeno un mucchio di sabbia che cade fa rumore".
+Oppure il suo inverso: se tolgo un granello di sabbia a un mucchio, è ancora un mucchio, così se ne tolgo due e così via. Tuttavia 10 granelli non fanno un mucchio. Qual è allora il granello che fa passare da un mucchio a un non-mucchio? Anche se questo problema può essere risolto con la logica fuzzy, ponendo una funzione che al variare dei granelli restituisca un valore compreso tra 0 e 1, ben più difficile è la risoluzione del seguente paradosso:
+1 è un numero piccolo
+se n è un numero piccolo, allora anche n+1 è un numero piccolo
+allora, per l'assioma dell'induzione, ogni numero naturale è piccolo
+Questi problemi sono i principali argomenti di discussione dell'epistemologia moderna, che fondamentalmente si riassumono nella domanda: Quando si può definire vera una teoria?
+
+
+=== Non tutto è vero quello che sembra (solito) ===
+A volte il buon senso, anche il buon senso matematico, può farci prendere degli abbagli.
+Un esempio lo troviamo nella storiella del tacchino induttivista: un tacchino (americano) aveva imparato che ogni mattina, più o meno alla stessa ora, il padrone gli portava da mangiare. Diligentemente memorizzava tutte le piccole differenze, finché, dopo giorni e giorni, poté essere soddisfatto di aver trovato una regola infallibile: tra le nove e le dieci di mattina arrivava inevitabilmente il cibo. Al passare delle settimane e dei mesi la regola trovò sempre conferme... fino al giorno del Ringraziamento, quando il tacchino fu calorosamente invitato sulla tavola della famiglia, come protagonista dell'arrosto tradizionale.
+Esempi più matematici, li troviamo nella teoria dei numeri, nello studio della distribuzione dei numeri primi. Dopo la sconfitta dell'ultimo teorema di Fermat, resta aperta la Congettura di Riemann sulla sua funzione zeta, che collega la distribuzione dei numeri primi con gli zeri di tale funzione. Finora se ne sono trovati miliardi (letteralmente) che giacciono sulla retta x=1/2, e la congettura che tutti gli zeri giacciano su questa linea potrebbe essere dunque accettata come vera. Ma smentite di quello che sembrerebbe evidente sono famose in matematica, e una riguarda proprio i numeri primi.
+La quantità di numeri primi inferiori a un certo numero, diciamo n, solitamente indicata con 
+  
+    
+      
+        Π
+        (
+        n
+        )
+      
+    
+    {\displaystyle \Pi (n)}
+  , può essere approssimata dalla funzione logaritmo integrale, o Li(n), di Gauss, definita come: 
+  
+    
+      
+        L
+        i
+        (
+        x
+        )
+        =
+        
+          ∫
+          
+            0
+          
+          
+            x
+          
+        
+        
+          
+            1
+            
+              l
+              o
+              g
+              (
+              u
+              )
+            
+          
+        
+        d
+        u
+      
+    
+    {\displaystyle Li(x)=\int _{0}^{x}{\frac {1}{log(u)}}du}
+  .
+Questo valore sembra essere sempre maggiore della vera distribuzione dei numeri primi, fino a numeri di centinaia di cifre.
+Tuttavia nel 1914 John Littlewood ha dimostrato invece che 
+  
+    
+      
+        Π
+        (
+        x
+        )
+        −
+        L
+        i
+        (
+        x
+        )
+      
+    
+    {\displaystyle \Pi (x)-Li(x)}
+   per x intero cambia di segno infinite volte. Nel 1986 Herman te Riele ha dimostrato addirittura che esistono più 10180 interi consecutivi per cui 
+  
+    
+      
+        Π
+        (
+        x
+        )
+        −
+        L
+        i
+        (
+        x
+        )
+      
+    
+    {\displaystyle \Pi (x)-Li(x)}
+   non è mai minore di 6,62×10370.
+Quindi, nonostante miliardi di esempi a favore, la veridicità o falsità della congettura (o ipotesi, visto che si pensa generalmente che sia vera) di Riemann è tuttora in discussione.
+Altra paradossale situazione è il teorema di Goodstein: si definisce una particolare funzione iterativa su numeri interi che inizialmente presenta una crescita esponenziale ma, venendo ridotta a ogni iterazione di un semplice 1, dopo innumerevoli iterazioni ritorna a 0. Tornando al teorema, esso ha la caratteristica di non poter essere provato all'interno degli assiomi di base della teoria dei numeri (Assiomi di Zermelo - Fraenkel), e come previsto dal teorema di incompletezza di Gödel, per la sua dimostrazione occorre aggiungere un assioma: l'esistenza dei cardinali transfiniti.
+
+
+== Il paradosso della chiaroveggenza ==
+Uno dei paradossi più intriganti della teoria dei giochi è il paradosso di Newcomb, che riguarda il principio di dominanza, ed è il seguente: supponiamo che esista un oracolo, che sostenga di sapere in anticipo quali saranno le mie decisioni. Egli mette in una busta 1.000.000 €, ma solo se sceglierò solo questa, altrimenti la lascia vuota. Poi mi vengono presentate due buste, una con sicuramente 1.000 €, e l'altra è quella dell'oracolo. Posso scegliere se prendere una sola busta o tutte e due. Se applico il principio di massima utilità, mi conviene prendere solo la seconda, e mi fido dell'oracolo. Se applico il principio di minima perdita, mi conviene sceglierle entrambe: se l'oracolo ha ragione, prendo almeno 1.000 €, se sbaglia 1.001.000 €. Il paradosso nasce dalla visione delle cose: se la scelta dell'oracolo si considera già effettuata al momento della scelta (ovvero l'oracolo è un ciarlatano che tira a indovinare), applichiamo il principio di dominanza, e conviene prendere sempre entrambe le buste. Se invece ammettiamo che il comportamento dell'oracolo sia influenzato dalla nostra scelta, (ovvero che l'oracolo sia realmente preveggente) ammettiamo il principio di utilità e conviene prendere solo la prima. Uno dei due principi non è quindi razionale, oppure non esiste la preveggenza. Si possono trovare argomenti a favore di tutte e due le ipotesi. Tra l'altro, basta che l'oracolo indovini più del 50% delle volte.
+Diversamente, la chiaroveggenza potrebbe anche essere dannosa: supponiamo che ci sia una gara automobilistica in cui valga la regola "perde chi sterza per primo". Due macchine sono lanciate l'una contro l'altra: se uno dei due guidatori è chiaroveggente, la strategia migliore per l'altro è non sterzare; il veggente lo sa, e quindi per evitare l'impatto sterzerà per primo.
+
+
+== Lista dei paradossi più noti ==
+Questi sono alcuni paradossi fondamentali:
+Paradossi di Zenone (esiste il movimento? : Achille e la tartaruga - La freccia)
+Paradosso del mentitore (che cosa è la "verità"?)
+Paradosso di Moore (che cosa significa "sapere"?)
+Paradossi dell'infinito
+Paradosso dell'ipergioco
+Paradosso dei gemelli (dalla teoria della relatività)
+Paradosso di Russell (o del barbiere, nella teoria ingenua degli insiemi)
+Antinomie kantiane
+Paradosso di d'Alembert
+Paradosso di Condorcet
+Paradosso di Monty Hall
+Paradosso di Arrow
+Paradosso meccanico
+
+
+== Note ==
+
+
+== Bibliografia ==
+Roberto Casati e Achille Varzi, Semplicità insormontabili - 39 storie filosofiche, Roma-Bari, Laterza, 2004.
+Daniele Trucco, I paradossi della Chimera, in «Mathesis», Anno CXXIV, Vol. 6, Serie 11, Numero 2, Maggio – Agosto 2014, pp. 75–76.
+Clark, M., I paradossi dalla A alla Z, Milano, Cortina, 2004.
+Sorensen, R., A Brief History of the Paradox, Oxford, Oxford University Press, 2003.
+Rescher, N., Paradoxes: Their Roots, Range, and Resolution, La Salle (IL), Open Court, 2001.
+Piergiorgio Odifreddi, C'era una volta un paradosso - Storie di illusioni e verità rovesciate, Torino, Einaudi, 2001.
+Nicholas Falletta, Il libro dei paradossi, Milano, Longanesi & C., 2001.
+Mark Sainsbury, Paradoxes, Cambridge, Cambridge University Press, 1988.
+Herman te Riele, On the sign of the difference pi(x) - li(x), Math. Comp. 48, 1987 pp. 323–328
+Filippo Spagnolo e Maria Ajello, Schemi di ragionamento in culture differenti: i paradossi logico-linguistici nella cultura europea e cinese (PDF), in Quaderni di Ricerca in Didattica, nº 18, G.R.I.M.-Gruppo Ricerca Insegnamento delle Matematiche (Università di Palermo), 2008, pp. 163-182, ISSN 1592-5137. URL consultato l'11 ottobre 2015.
+
+
+== Voci correlate ==
+Antinomia
+Dilemma
+Logica
+Matematica
+Ossimoro
+Sillogismo
+
+
+== Altri progetti ==
+
+ Wikiquote contiene citazioni sul paradosso
+ Wikizionario contiene il lemma di dizionario «paradosso»
+ Wikimedia Commons contiene immagini o altri file su paradosso
+
+
+== Collegamenti esterni ==
+Paradossi (PDF), ulisse.sissa.it.

@@ -1,0 +1,71 @@
+Christoph Cremer (* 12. Juli 1944 in Freiburg im Breisgau) ist ein deutscher Physiker und Professor an der Ruprecht-Karls-Universität Heidelberg, Honorarprofessor an der Johannes Gutenberg-Universität Mainz und Forschungsgruppenleiter am Institut für Molekulare Biologie in Mainz, der die konventionelle lichtoptische Auflösungsgrenze („Abbe-Limit“) durch unterschiedliche Methoden überwunden hat (1996 Lokalisationsmikroskopie SPDM; 1997 räumlich strukturierte Beleuchtung SMI). Im September 2014 gründete er die gemeinnützige Organisation LuciaOptics zum Einsatz der Super Resolution Mikroskopie in den Bereichen von Molekularbiologie, Biomedizin, Mikrobiologie, Virologie, Pharmazie and Diagnostik.
+
+
+== Leben ==
+Christoph Cremer entstammt einer Familie mit wissenschaftlichem und sozio-theologischem Hintergrund, so war Vater Hubert Cremer Professor für Mathematik und Großrechenanlagen an der RWTH Aachen, sein Onkel Lothar Cremer gilt als einer der führenden Wissenschaftler des 20. Jahrhunderts auf dem Gebiet der Technischen Akustik und seine Tante Erika Cremer, Entwicklerin zu den Grundlagen der Adsorptionsgaschromatographie, war 1940 die erste Physikprofessorin an der Universität Innsbruck. Cremers Mutter Elisabeth Rahner beschrieb bereits in den 1930er Jahren noch heute aktuelle Formen der Zusammenarbeit von Eltern und Kinderbetreuungseinrichtungen, wohingegen ihre Brüder Karl Rahner und Hugo Rahner als überaus bedeutende Theologen des vergangenen Jahrhunderts gelten.
+Sein Bruder Thomas Cremer ist als Medizinprofessor an der Ludwig-Maximilians-Universität München ebenfalls in der Wissenschaft tätig, während der jüngste Bruder Georg Cremer, Professor für Wirtschaftswissenschaften, Generalsekretär des deutschen Caritasverbandes ist.
+Nach einigen Semestern Philosophie und Geschichte an den Universitäten Freiburg und München studierte Christoph Cremer Physik (unterstützt von der Studienstiftung des deutschen Volkes) in München und promovierte in Genetik/Biophysik in Freiburg. Es folgten eine Postdoc-Zeit am Institut für Humangenetik der Universität Freiburg, ein mehrjähriger USA-Aufenthalt an der University of California und die Habilitation (Dr. med. habil. für Allgemeine Humangenetik und Experimentelle Cytogenetik, Medizinische Fakultät Universität Freiburg). Seit 1983 lehrt er als Professor (2004 Ordinarius) für Angewandte Optik und Informationsverarbeitung an der Universität Heidelberg, am Kirchhoff-Institut für Physik. Darüber hinaus ist er wissenschaftliches Mitglied des Interdisziplinären Zentrums für Wissenschaftliches Rechnen (IWR), des Instituts für Pharmazie und Molekulare Biotechnologie, sowie des Bioquant-Zentrums der Universität.
+Christoph Cremer ist an drei laufenden Exzellenzprojekten (2007–2012) der Universität Heidelberg beteiligt sowie Partner im Biotechnologie-Cluster zur zellbasierten und molekularen Medizin, einem der fünf 2008 bewilligten deutschen BMBF Spitzen-Cluster. Als gewählter zweiter Sprecher des Senats (seit 2006) engagiert sich Cremer an der Universität Heidelberg auch hochschulpolitisch. In seiner Funktion als ‚Adjunct’-Professor an der US-University of Maine und als wissenschaftliches Mitglied des renommierten Jackson Laboratory (Bar Harbor/Maine, USA), wo er während der Semesterferien mehrere Wochen im Jahr forscht, ist er am dortigen Aufbau eines biophysikalischen Zentrums (Institute for Molecular Biophysics, IMB) beteiligt, das mit der Universität Heidelberg in einem ‚Global Network’-Vorhaben verbunden ist. Er ist verheiratet mit der Architektin und Künstlerin Letizia Mancino-Cremer, seit 1992 Vorsitzende der Goethe-Gesellschaft Heidelberg.
+Super Resolution Mikroskopie von Prof. Christoph Cremer
+
+
+== Grundlegende Entwicklungen ==
+
+
+=== Konzeption der 4Pi-Mikroskopie ===
+Cremer war schon früh an der Weiterentwicklung der laserbasierten Lichtmikroskopie beteiligt. Erste Ideen hierzu stammten bereits aus seiner Doktorandenzeit in den 1970er Jahren. Gemeinsam mit seinem Bruder Thomas Cremer, inzwischen Professor für Anthropologie und Humangenetik an der Ludwig-Maximilians Universität München, schlug Christoph Cremer in einer Patentschrift im Jahre 1971 die Entwicklung einer Hologramm basierten 4Pi–Laserscanning-Mikroskopie (DE Offenlegungsschrift 2116521) vor. Diese Patentschrift enthält bereits erste Ideen zur Verwendung photoschaltbarer Moleküle zu einer verbesserten lichtoptischen Gewinnung von Nanostrukturinformation.
+Die Grundidee bestand darin, Laserlicht von allen Seiten (Raumwinkel 4Pi) zu einem „spot“ mit einem Durchmesser kleiner als bei der konventionellen Laserscanningmikroskopie zu fokussieren und mit diesem das Objekt punktweise abzutasten; so sollte die optische Auflösung über die konventionelle Grenze (etwa 200 nm lateral, 600 nm axial) hinaus verbessert werden. Seit 1992 wurde die 4Pi-Mikroskopie unter Verwendung von zwei gegenüberliegenden Mikroskopobjektiven hoher Numerischer Apertur von Stefan Hell (derzeit Direktor am Max-Planck-Institut für biophysikalische Chemie, Göttingen) zu einem leistungsfähigen höchstauflösenden Abbildungsverfahren entwickelt.
+
+
+=== Erste DNA-Bestrahlungstechnik für lebende Zellen ===
+Anfang der 1970er Jahre entwickelten die Brüder Christoph und Thomas Cremer eine Laser-UV-Mikrobestrahlungsapparatur, welche erstmals die gezielte Bestrahlung eines Teilbereiches lebender Zellen im Absorptionsmaximum der DNA (257 nm) ermöglichte und die 60 Jahre übliche konventionelle UV-Partialbestrahlung ablöste. Es konnten so zum ersten Mal gezielt (also an vorausgewählten Stellen im Kern lebender Zellen) DNA-Läsionen verursacht werden, ohne die Teilungs- oder Lebensfähigkeit der Zelle auszuschalten. Spezifische kleine Zellbezirke konnten mikrobestrahlt und die Dynamik von dort vorhandenen Makromolekülen mengenmäßig abgeschätzt werden. Darüber hinaus erlaubte die hohe Geschwindigkeit des Verfahrens von Sekundenbruchteilen Bestrahlungsdauer die gezielte Bestrahlung von sich bewegenden Zellorganellen. Diese Entwicklung stellte die Grundlage für wichtige Experimente im Bereich der Erforschung des Erbgutes dar (Nachweis von „Chromosomenterritorien“ in lebenden Säugerzellen) und führte 1979/1980 zu einer erfolgreichen Zusammenarbeit mit der Biologin Christiane Nüsslein-Volhard (heute Direktorin am Max-Planck-Institut für Entwicklungsbiologie Tübingen, Nobelpreis 1995). Christoph Cremer setzte bei dieser Kooperation seine Laser-UV-Mikrobestrahlungsapparatur ein, um zelluläre Veränderungen in frühen Larvenstadien der Taufliege zu erzeugen.
+
+
+=== Entwicklung der Konfokalen Laser-Scanning-Mikroskopie für Fluoreszenz ===
+Auf der Grundlage der bei Bau und Anwendung der Laser-UV-Mikrobestrahlungsapparatur gesammelten Erfahrungen konzipierten die Cremer-Brüder 1978 ein lichtoptisches Laser-Scanning-Verfahren, bei dem die dreidimensionale Objektoberfläche von einem fokussierenden Laserstrahl punktweise abgerastert und dort spezifisch markierte Bereiche zur Fluoreszenz angeregt wurden. Das Bild wurde dann ähnlich wie beim Rasterelektronenmikroskop oder bei dem Scanning Optical Microscope von Davidovits and Egger (US Patent 3643015, 1972) auf elektronischem Wege punktweise zusammengesetzt.
+Besonderer Augenmerk wurde jedoch gelegt auf a) die Bildgebung von spezifisch fluoreszenz-markierten Strukturen b) die Erhöhung des Signalkontrastes in axialer Richtung mithilfe einer in der Bildebene angebrachten kleinen Lochblende vom Durchmesser des dort von einem punktförmigen fluoreszierenden Objekt erzeugten Beugungsscheibchens; diese Grundidee der konfokalen Mikroskopie wurde bereits 1957 von Marvin Minsky zum Patent angemeldet, jedoch ohne Bezug zu Laserlichtquellen (diese waren damals noch nicht vorhanden) und ohne Berücksichtigung von Fluoreszenzanregung. Ein weiterer Unterschied zu verwandten Mikroskopiekonzepten besteht auch darin, dass aufgrund der von Cremer & Cremer gesammelten experimentellen Erfahrungen mit hochstabilen Gaslasern bei ihrem Mikroskopieverfahren auf das „Anregungspinhole“ verzichtet wurde.
+Dieser Konstruktionsplan eines Konfokalen Laser Scanning Fluoreszenz Mikroskops (CSLM), mit dem erstmals die Laser-Scanning-Methode mit der dreidimensionalen (3D) Detektion fluoreszierender Objekte verbunden wurde, brachte Christoph Cremer seine Professur an der Universität Heidelberg ein. Die im folgenden Jahrzehnt insbesondere von Arbeitsgruppen an der Universität Amsterdam und am Heidelberger European Molecular Biology Laboratory (EMBL) und den damit verbundenen Industriepartnern technisch zur Anwendungsreife entwickelte Konfokale Laser Scanning Fluoreszenzmikroskopie hielt in den späteren Jahren einen breiten Einzug in die molekularbiologischen und biomedizinischen Labors und stellt noch heute den Goldstandard dar, soweit es um dreidimensionale Lichtmikroskopie mit konventioneller Auflösung geht.
+
+
+=== Super Resolution Mikroskopie ===
+In vielen Fällen besteht das Ziel der Mikroskopie daran, Größen einzelner kleiner Objekte zu bestimmen. In der herkömmlichen Fluoreszenzmikroskopie ist das ebenfalls nur bis zu Werten möglich, die um die konventionelle optische Auflösungsgrenze von etwa 200 nm (lateral) liegen. Die Arbeitsgruppe von Christoph Cremer hat verschiedene Super Resolution Mikroskope, wie das Vertico-SMI entwickelt, basierend auf den unterschiedlichen Technologien und jeweiligen Anforderungen. Derzeit wird eine Auflösung von 5 nm in 2D und eine bestimmbare Moleküldichte von ca. 2,8 × 104 µm−2  erreicht.
+
+
+==== Strukturierte Beleuchtung SMI ====
+Mitte der 1990er Jahre begann Christoph Cremer mit der Entwicklung eines lichtmikroskopischen Verfahrens, das eine wesentliche Verbesserung der Größenauflösung fluoreszenzmarkierter zellulärer Nanostrukturen gestattete. Diesmal nutzte er das Prinzip der Weitfeldmikroskopie in Verbindung mit strukturierter Laserbeleuchtung (SMI: räumlich strukturierte Beleuchtung, engl. spatially modulated illumination). Gegenwärtig wird damit eine Auflösung von 30 – 40 nm (etwa 1/16 – 1/13 der verwendeten Wellenlänge) erreicht. Zusätzlich war diese Technologie nicht mehr den Geschwindigkeitsbeschränkungen der fokussierenden Mikroskopie unterworfen, so dass damit die 3D Analyse ganzer Zellen in kurzen Beobachtungszeiten (derzeit im Bereich weniger Sekunden) möglich wird.
+
+
+==== Lokalisationsmikroskopie SPDM ====
+Ebenfalls seit Mitte der 1990er Jahre konzipierte und realisierte Christoph Cremer fluoreszenzoptische Verfahren der Weitfeldmikroskopie, die eine Verbesserung der effektiven optischen Auflösung (im Sinne der kleinsten detektierbaren Distanz zwischen zwei lokalisierten Objekten) um ein Vielfaches der konventionellen Auflösung zum Ziel hatten (SPDM, Lokalisationsmikroskopie, engl. spectral precision distance/position determination microscopy).
+
+
+==== SPMDphymod - Lokalisationsmikroskopie mit normalen Fluoreszenzmolekülen ====
+2008 fand Cremers Arbeitsgruppe heraus, dass unter bestimmten photophysikalischen Bedingungen auch viele „ganz gewöhnliche“ Farbstoffmoleküle wie GFP, RFP, YFP, Fluorescein oder Alexa-Farbstoffe und nicht nur photoschaltbare Farbstoffe für die optische Nanoskopie eingesetzt werden können. Durch die Kombination vieler tausender Einzelaufnahmen derselben Zelle wurden mithilfe von laseroptischen Präzisionsmessungen „Lokalisationsbilder“ mit wesentlich verbesserter optischer Auflösung gewonnen. Dies erweitert die Anwendbarkeit der SPDM-Methode auf zahlreiche Gebiete der biophysikalischen, zellbiologischen und medizinischen Forschung, wie auch die hochauflösende Untersuchung von Viren.
+
+
+==== LIMON: 3D Super Resolution Mikroskopie ====
+LIMON (Light MicrOscopical nanosizing microscopy) wurde 2001 an der Universität Heidelberg entwickelt und kombiniert die beiden Methoden Lokalisationsmikroskopie und Strukturierte Beleuchtung zur 3D Super Resolution Mikroskopie mit einer eine Auflösung von 40 nm in 3D. Für Durch diese Zweifarben-Kolokalsiations 3D Super Resolution Mikroskopie wurde die räumlichen Anordnung der beiden bei Brustkrebs aktiven Gene Her2/neu und HER3 mit einer Genauigkeit von etwa 25 nm bestimmt, sowie die für die Krebsentstehung vermutlich relevante Clusterbildung auf Einzelmolekülebene analysiert.
+
+
+== Auszeichnung ==
+Heidelberger Innovationsforum 2009: Schnellstes Lichtmikroskop der Welt zur besten Geschäftsidee gekürt.
+
+
+== Einzelnachweise ==
+
+
+== Weblinks ==
+Literatur von und über Christoph Cremer im Katalog der Deutschen Nationalbibliothek
+History of Super Resolution Microscopy / Optical Nanoscopy (PDF; 1,0 MB)
+Christoph Cremer´s IMB Institute of Molecular Biology homepage
+"Blinkende Farbstoffe" in Ruperto Carola, Forschungszeitschrift der Universität Heidelberg
+Christoph Cremers Homepage KIP
+Springer Link: European Biophysics Journal, Festschrift zu Christoph Cremer´s 65. Geburtstag
+Pressemitteilung der Universität Heidelberg über nanoskopische Untersuchung lebender Zellverbünde mit gewöhnlichen Farbstoffen
+Pressemitteilung der Universität Heidelberg über aktuelle Entwicklungen der Lichtmikroskopie
+Pushing The Limits: Single Molecule Imaging (PDF; 160 KB)
+Grunddesign eines konfokalen Laserscanning-Fluoreszenzmikroskops, Prinzip konfokales Laser Scanning 4Pi (PDF; 83 kB) Fluoreszenzmikroskop 1978
+Verleihung der Schleiden-Medaille 2009 an Thomas Cremer für seine prägenden Arbeiten auf dem Gebiet der Zellkernarchitektur
+Prof. Dr. Georg Cremer, Präsident des deutschen Caritasverbandes
+Prof. Dr. med. Thomas Cremer, LMU
+LuciaOptics

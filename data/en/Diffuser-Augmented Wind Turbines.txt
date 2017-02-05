@@ -1,0 +1,60 @@
+A Diffuser-Augmented Wind Turbine (DAWT) is a wind turbine modified with a cone shaped wind diffuser that is used to increase the efficiency of converting wind power to electrical power. The increased efficiency is possible due to the increased wind speeds that the diffuser can provide. In traditional bare turbines, the rotor blades are vertically mounted at the top of a support tower or shaft. In a DAWT, the rotor blades are mounted within the diffuser, which is then placed on the top of the support tower. Additional modifications can be made to the diffuser in order to further increase efficiency.
+
+
+== Mechanics ==
+Wind power measures how much energy is available in the wind, and it can be represented by the following equation 
+  
+    
+      
+        w
+        =
+        (
+        1
+        
+          /
+        
+        2
+        )
+        r
+        A
+        
+          v
+          
+            3
+          
+        
+      
+    
+    {\displaystyle w=(1/2)rAv^{3}}
+   where r is air density, A is rotor area, and V is wind velocity. This means that the amount of energy available in the wind is directly proportional to the wind speed cubed. For example, assuming that all other variables are held constant, doubling the wind speed would increase the available energy in the wind by 8 times. A slight increase in wind speed results in dramatic increases in wind power. Unfortunately, this also means that if the wind speeds were to slow down even slightly, it’d drastically reduce wind power.
+
+
+== Designs ==
+Most designs include a cone shaped diffuser with the purpose of increasing the velocity of the air as it travels through the turbine. In order for this to be possible, the exit hole of the diffuser must be larger than the entrance hole to properly diffuse the air. As wind flows through the diffuser, it travels along the walls, which causes the exiting wind to form vortices of wind when exiting. These vortices cause most of the air to be diffused away from the center of the exit, which creates a low pressure segment of air behind the turbine. The pressure difference accelerates the high pressure air in the front towards the low pressure air in the back, causing a significant increase in speed. If the diffuser were to instead have an exit hole smaller than its entrance, then the opposite effects would be achieved. A high pressure area would be formed at the exit, which would severely restrict airflow through the diffuser. Additional designs take the basic diffuser and make additional modifications in order to further increase power generation.
+
+
+=== Wind lens ===
+A design by Yuji Ohya, a professor at Kyusu University, further modified the diffuser by adding a broad ring around the exit hole and an inlet shroud at the entrance. This design amplifies the positive effects of a normal diffuser shroud to result in a more efficient diffuser. The brimmed exit hole creates stronger vortices than a regular diffuser, which means that the pressure difference is greater than it would be with a normal diffuser. As a result, wind is able to reach higher speeds. In addition, the inlet shroud at the entrance makes it easier for air to enter, so air won't be slowed down as much going in.
+
+
+=== Multi-Rotor ===
+Other designs are very similar to a diffuser but consist of multiple rotors within it to capture as much electrical energy form the wind. One way to generate more energy would be to increase the rotor area, which can be done in two ways. One way is to increase the diameter of a single rotor, however, this causes unfavorable gains in mass. Another way is to increase the number of rotors per turbine, which does not cause undesirable increases in weight. Systems with up to 45 rotors in one turbine have been tested, and no negative interference has been found between the rotors.
+
+
+== Results ==
+Turbines equipped with a diffuser-shaped shroud and a broad exit ring generate 2-5 times more power than bare wind turbines for any given wind speed or turbine diameter. Further analysis concludes that the Betz's limit can be exceed if the wind turbine were to be equipped with a diffuser. For multi-rotor turbines equipped with a diffuser, the power augmentation is smaller, but still favorable at around 5%-9% increase.
+
+
+== Limitations of Traditional Turbines ==
+Bare wind turbines have several limitations that decrease their efficiency in generating electricity. These limitations play a big role when it comes to mass production of energy.
+
+
+=== Manufacturing ===
+The amount of energy that a bare wind turbine can generate is largely dependent on how big the rotor is, which implies that the bigger a turbine is, the more energy it will produce. However, using large turbines results in heavy overall weights and high manufacturing costs. Heavier turbines are also prone to higher malfunction rates which results in higher maintenance costs. In addition, the bigger the turbine is, the more resources that will have to be invested in transporting the massive parts from the factory to where they will be deployed. This is very rarely a viable option since it defeats the whole purpose of affordable alternative energy.
+
+
+=== Betz's law ===
+In addition to manufacturing limitations, there exist limits within the laws of physics that govern how much energy can be generated. Traditional open turbine designs are also limited by Betz's law, which states that for a bare turbine in open wind, no more than 16/27 of the total wind kinetic energy can be converted to electrical energy. 59% is not the most efficient rate, so several designs have been made in order to get around this limitation. Designs include the addition of a "Wind-Lens" or using multiple rotors within the diffuser.
+
+
+== References ==

@@ -1,0 +1,49 @@
+The Kawasaki KLR650 is a dual-sport motorcycle intended for use on both paved and unpaved roads. It has been a long-standing model in Kawasaki's lineup, having been introduced in 1987 and remaining almost unchanged through the 2007 model. The 2008 model was the first significant redesign of the KLR650 since its inception. It has a 650 cc four-stroke, DOHC, dual-counterbalanced, single-cylinder, water-cooled engine.
+The KLR is widely used as an inexpensive adventure/touring bike. The addition of luggage and personalized modifications (GPS, heated handgrips, larger windscreens) make it more functional on long trips. Bikes have been used for long distance and intercontinental trips, as well as full global circumnavigation rides e.g., by Dr. Gregory Frazier in 2001 and 2002.
+
+
+== Models ==
+
+KLR650-A: The "A" model was introduced in 1987, based on its KLR600 predecessor (1984 to 1986). The "A" model remained nearly unchanged until the introduction of the 2008 model in USA, Canada, Australia and South Africa. It is not sold in Europe due to emission regulations.
+KLR650-B or Tengai: The Tengai got Adventure/Dakar styling, a full fairing blending into the tank, different sidepanels, and an unsprung front mudguard. It was sold in the USA starting 1990 and in other countries for two years afterward - this could be classified as a separate model in its own right as the others are more trail bike orientated. Its name "Tengai" is a traditional Japanese saying which means "The End of The Sky."
+KLR650-C: The "C" model gets completely new bodywork and is a more dirt-oriented motorcycle fitted with stiffer 41 mm (1.6 in) front forks, improved brakes, tubular engine guard, smaller 14 l (3.1 imp gal; 3.7 US gal) fuel tank, and steel wheel rims. Lacking a temperature gauge, it has an over-heat lamp.
+KLR650-E: 2008 was the second major redesign of the KLR650. The primary changes include upgraded 41 mm (1.6 in) forks, a new D-section swingarm, dual beam headlight, dual-piston front and rear brake calipers, upgraded cooling system, 4 mm spokes, cowling and fairing redesign as well as various redesigned parts.
+The U.S. Military has KLR650s modified by Hayes Diversified Technologies to burn military-spec fuels including diesel. (M1030M1) All-new engines were designed to replace the 4-stroke gasoline engines. The new engines employ the original unit-construction main cases and transmission, but with new piston, cylinder, and other components. The balancing system that is used in the gasoline KLR650 engines (to reduce engine vibration) was removed from the military diesel KLR engines. Some components of the military diesel version can be applied to "civilian" KLR650 models, such as the nonspillable absorbed glass mat battery which offers several advantages over the conventional unsealed KLR batteries.
+
+
+== Specifications (1987-2007 KLR650-A) ==
+
+
+== 2008 redesign ==
+In 2008 the KLR650 was radically redesigned with new aesthetics, modern dual headlights and a more powerful engine. The new 651 cc single-cylinder engine puts out 36 bhp (27 kW) at the rear wheel at 6600 rpm and 33.4 ft·lbf (45.3 N·m) of torque at 4950 rpm. other improvements include: New fairing design, new instrument panel, redesigned handlebar control switches, new bar-end weights, revised powerband, revised suspension has reduced travel but with less static sag, new rear swingarm, new turn signals, larger petal-style vented brake rotors, new twin-piston rear brake caliper, increased radiator capacity, fork diameter increased from 38 to 41 mm (1.5 to 1.6 in), new headlight similar to that used on the Kawasaki Ninja 650R, larger luggage rack, firmer seat, larger-diameter wheel spokes, reinforced idler-shaft lever, called the doohickey by KLR riders. Stator "alternator" upgraded to 17amp output, providing an additional 36 watt capacity.
+Criticism of the new design include its wide use of "sportbike plastics" for the new body panels which are prone to cracking and damage in the event of a tip-over, especially true for this genre of dual-sport motorcycles.
+
+
+== Changes over the years ==
+Aside from the colors, not much changed between the 1987 introduction and the 2008 revisions. The key differences are:
+1987: Crankshaft is unique to this year.
+1988: Beefed up the engine cases with extra bolts between the crank and countershaft; crank has a different part number, and may be lighter.
+1990: Countershaft improved with longer splines for increased engagement with sprocket.
+1992: Changes to front brake master cylinder.
+Mid-1996: Changed valve cover, added bracket to hold cam chain bumper; changed crank to heavier unit; improved clutch basket with 1 more clutch plate; changed countershaft sprocket retainer from slotted plate to large nut; changed second and third gear ratios. Kickstarter no longer fits with new clutch basket. At least some early 1996 models had the matte black engine cases and covers rather than the later hammer-finished dark gray coloration found in the 1997 and later models. New left balancer weight/sprocket begins with engine #KLE650AE032206.
+(?) Service manual indicates higher charging system output; only part number change is the rotor. The new power rating is 17 A, 14 V (238 W) @ 7000 rpm; the earlier one was 14 A, 14 V (196 W) @ 8000 rpm (above redline).
+2001 around this time final assembly moved from Japan to Thailand. All major parts still made in Japan.
+2007: New shift lever
+2008: New fairing design, new instrument panel, redesigned handlebar control switches, new bar-end weights, revised powerband, revised suspension has reduced travel but with less static sag, new rear swingarm, new turn signals, larger petal-style vented brake rotors (280 mm front/ 203 mm rear), twin 27 mm piston front caliper (1145 mm piston area), Front brake pad area 1697 mm2, Master cylinder 12 mm piston diameter, new twin-piston rear brake caliper, increased radiator capacity, fork diameter increased from 38 to 41 mm (1.5 to 1.6 in), new headlight similar to that used on the Kawasaki Ninja 650R, larger luggage rack, firmer seat, larger-diameter wheel spokes increased from 3.5 mm to 4 mm, reinforced idler-shaft lever, or doohickey. Stator "alternator" upgraded to 17 A output, providing an additional 36 watt capacity.
+2009: New piston rings are thinner and have more tension, resulting in a significant reduction in oil consumption.
+Mid-2011: New clutch basket with only 6 clutch plates (vs 7 since 1996). The change starts at engine number KL650AEA72320.
+2014 1/2: (Mid year) The 41mm forks were upgraded to make the springs 40% firmer and to increase the firmness of the rebound damping by 27%. The Uni-Trak rear linkage suspension were upgraded to provide a 63% increase spring rate and to increase the firmness of the rebound damping by 83%. Changes to the seat were made to make it narrower with a more tapered front. The width of the rear of the seat has been increased and has become less tapered.
+
+
+== References ==
+
+
+== External links ==
+MotorcycleUSA 2008 KLR650 Review
+KLR650 on Kawasaki's website
+KLR650 vs. DR650 Comparison
+RIDER Magazine 2008 KLR650 Review
+Motorcycle Daily reviews the 2008 KLR650
+2002 KLR650 Review in Minnesota Motorcycle Monthly
+2008 Kawasaki KLR 650 review on the Canadian Motorcycle Guide
+Hayes Diversified Technologies is building the M103M1 for the United States Marine Corps in volume. According to an article in the New York Times Feb. 24, '08, this is a heavily modified Kawasaki KLR650 with a five-speed gearbox and a top speed of more than 90 mph. It gets 96 mpg at a steady speed of 55 mph.

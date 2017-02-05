@@ -1,0 +1,3208 @@
+Une famille de langues est un groupe de langues, descendantes d’une langue-ancêtre commune (appelée proto-langue).
+
+Le classement traditionnel ci-après combine cette logique « généalogique » avec un classement géographique (par exemple pour les langues caucasiennes ou le castillan). Par ailleurs :
+les langues qu'on ne peut pas regrouper avec d'autres sont appelées des isolats ;
+les créoles, pidgins et langues construites, malgré leur filiation souvent aveuglante avec les langues faisant l'objet du classement général, sont classés à part en raison de leur mode de formation ;
+les langues des signes font également l'objet d'un classement à part.
+Une encyclopédie numérique des langues est consultable sur le site du programme Sorosoro pour la préservation de la diversité linguistique.
+
+
+== Liste de langues ==
+Ceci est une liste des langues naturelles ou construites, vivantes ou mortes, classées par familles et par groupes. La notion de famille génétique de langues est décrite plus en détail dans l'article consacré à la linguistique comparée.
+Les tentatives de certains linguistes, fréquentes depuis la deuxième moitié du XXe siècle, proposant de rassembler certaines familles de langue dans des super familles de langues (par exemple considérer que les langues altaïques et ouraliennes font partie d'une même famille dite « ouralo-altaïque ») n'ayant pas donné de résultats probants jusqu'à présent, seules les super familles dont la reconnaissance fait l'objet d'un large consensus, telles que les langues indo-européennes (qui ont été mises en évidence dès le XIXe siècle) ou les langues austronésiennes, sont répertoriées.
+Pour trouver rapidement une langue dans cette liste, faites Ctrl+F (ou Édition > Rechercher dans la barre d'outils de votre navigateur), et tapez le nom de la langue que vous cherchez.
+
+
+== Liste abrégée ==
+
+langues dravidiennes ;
+langues indo-européennes
+langues tokhariennes
+langues anatoliennes
+langues indo-iraniennes
+langues indo-aryennes
+langues iraniennes
+
+groupe grec
+langues romanes
+langues celtiques
+langues germaniques
+langues balto-slaves
+langues baltes
+langues slaves
+
+langues chamito-sémitiques
+langues berbères
+langues tchadiques
+groupe égyptien
+langues couchitiques
+langues sémitiques
+
+langues nilo-sahariennes
+langues nigéro-congolaises
+langues bantoues
+
+langues khoïsan
+langues caucasiennes (un groupe non génétique) :
+langues caucasiennes du Sud ou langues kartvéliennes
+langues caucasiennes du Nord-Ouest ou langues abkhazo-adygiennes
+langues caucasiennes du Nord-Est ou langues nakho-daghestaniennes
+
+langues ouraliennes
+langues finno-ougriennes
+langues samoyèdes
+
+langues ienisseïennes
+langues tchoukotko-kamtchatkiennes
+langues altaïques
+langues turques
+langues mongoles
+langues toungouses
+
+langues japoniques
+langues sino-tibétaines
+langues chinoises
+langues tibéto-birmanes
+
+langues Tai-Kadai
+langues hmong-mien (ou miao-yao)
+langues austroasiatiques
+langues austronésiennes
+langues formosanes
+langues malayo-polynésiennes
+
+langues papoues
+langues aborigènes d'Australie
+langues amérindiennes
+Les groupes suivants sont classés à part :
+pidgins et créoles ;
+langues des signes ;
+langues construites.
+
+
+== Liste ==
+Cette liste n'est pas exhaustive.
+
+
+=== Langues dravidiennes ===
+Ce sont des langues en Inde autres que celles d'origine indo-européenne.
+
+
+==== Dravidien septentrional ====
+brahoui (brahui), kumarbhag paharia, kurukh, kurukh nepali, sauria paharia
+
+
+==== Dravidien central ====
+kolami-naiki : kolami du Nord-Ouest, kolami du Sud-Est
+parji-gadaba : gadaba mudhili, gadaba pottangi ollar, duruwa
+
+
+==== Dravidien sud-central ====
+gondî-kui :
+gondî : gondî septentrional, gondî méridional, khirwar, maria, maria dandami, muria est, muria ouest, muria extrême-ouest, nagarchal, pardhan
+konda-kui :
+konda : konda-dora
+manda-kui :
+kui-kuvi : koya, kui, kuvi
+manda-pengo : manda, pengo
+
+télougou : chenchu, manna-dora, savara, télougou, waddar
+
+
+==== Dravidien méridional ====
+tamoul-kannara :
+kannara : badaga, holiya, kannara, urali
+tamoul-kodagu :
+kodagu : kodagu, kurumba (en), kurumba mullu, kurumban alu, kurumba jennu
+tamoul-malayalam :
+malayalam : aranadan, kadar, malayalam, malapandaram, malaryan, malavedan, paliyan, paniya, ravula
+tamoul : irula, kaikadi, muduva, sankethi, sholaga, tamoul, kurumba betta, yerukula
+mannan
+
+toda-kota : kota, toda
+
+toulou (tulu) :
+toulou (tulu), bellari, kudiya
+koraga : koraga korra, koraga mudu
+
+autres : ullatan
+
+
+==== Isolats ====
+allar, bazigar, bharia, kamar, kanikkaran, kurichiya, malankuravan, vishavan
+
+
+=== Langues indo-européennes ===
+Les langues indo-européennes sont les plus répandues. Elles sont parlées en Europe, en Asie du Nord (Russie), en Iran, en Arménie, en Afghanistan, au Tadjikistan, au Pakistan et dans de nombreuses région de l'Inde, ainsi qu'en Amérique, Afrique et Océanie où leur apparition est toutefois plus récente.
+
+
+==== Langues thraco-illyriennes (paléo-balkaniques) † ====
+Ce regroupement est hypothétique et comprend un vaste ensemble de langues antiques parlées dans les Balkans et ses régions limitrophes. Certains linguistes y rattachent l'Albanais, seule langue vivante qui serait issue du groupe. Plusieurs langues classées comme thraco-illyriennes auparavant ont été reclassées dans d'autres familles.
+messapien-illyrien
+messapien, illyrien
+
+langues thraco-daces
+géto-dace : dace, gète, moésien
+thrace
+Thrace d'Europe : besse, odrysse, édone, satre, bisalte, odomante
+Thrace d’Asie : thynien, bithynien
+
+
+==== Langues tokhariennes † ====
+tokharien A (agnéen), tokharien B (koutchéen), tokharien C (krorainien)
+
+
+==== Langues anatoliennes † ====
+hittite (nésique, nésite ou hittite-nésite/nésique)
+lycien (lycien A), milyen (lycien B), louvite
+
+autres : palaïte, carien, pisidien, sidétique, lydien
+
+
+==== Langues indo-aryennes ====
+langues indo-aryennes (langues indiques) :
+sanskrit (vieil-indien) :
+prâkrits (moyen-indien) :
+pâli
+néo-indien occidental :
+bhili, lahnda, marâthî, râjasthânî, sindhi
+gujarâtî : cingalais, divehi (mahl)
+
+néo-indien central :
+Langues hindi :
+braj bhasha
+haryanvi
+bundeli
+kannauji
+awadhi
+bagheli
+hindoustani (y compris hindî et ourdou)
+chhattisgarhi
+
+autres : bangani, népalais, pahârî, pendjabi occidental, pendjabi oriental
+
+néo-indien oriental :
+assamais, bengalî, bihârî, bihari, oriya, bhojpuri
+
+langues dardiques
+dameli, domaaki, gawar-bati, kalasha, kashmiri, katarqalai (wotapuri), khowar, kohistani de Kalam (kalami), kohistani de l'Indus (mayã), ningalami, pashai, phalura, sawi, shumashti
+shina, brokskat
+
+langues nouristanaises
+waigali, prasun
+
+romanî (appelées aussi "lovãrî", "rrom", "romanès", "romanichel" ou "tsigane")
+
+iranien central
+
+
+==== langues iraniennes ====
+kermanien
+kurde : kurmandji, soranî, kurde méridional
+iranien central
+
+zaza-gorani
+zazaki
+gorani
+
+parthe †
+mède †
+caspien
+gilaki-mazenderani
+semnani
+taleshi
+azéri
+
+baloutchi
+persan
+vieux-persan †
+moyen-persan †
+persan moderne
+
+lori
+fars
+larestani
+bashkardi
+kumzari
+tat
+avestique
+bactrien †
+scythe-ossète
+scythe †
+sarmnate †
+alain †
+ossète
+
+sogdien-Yagnobi
+sogdien †
+yagnobi
+
+choresmien †
+langues saces †
+khotanais
+tumshuquais
+
+pachto
+wanetsi†
+munji-yidgha
+munji
+yidgha
+
+wakhi
+shugni-yazghulami
+shugni-roshani
+yazghulami
+wanji †
+
+zanglichi-zebaki
+ormuri-parachi
+ormuri
+parachi
+
+
+==== Arménien ====
+grabar (arménien ancien ou arménien classique) †
+arménien moyen †
+arménien oriental
+arménien occidental
+hamsheneren, hamshenli (un dialecte de la region de Hamshen, actuellement en Nord-Est de la Turquie, près de la ville de Trabzon)
+
+
+==== Langues helléniques ====
+arcadochypriote † :
+mycénien
+arcadien, chypriote, pamphylien
+
+ionien-attique :
+attique (grec ancien) †
+koinè (moyen grec commun) †
+grec moderne, yévanique (judéo-grec), grec chypriote
+
+grec pontique, cappadocien, romano-grec
+
+ionien †
+
+éolien † : béotien, lesbien, thessalien
+langues grecques occidentales † :
+dorien : argien, corinthien, laconien
+tsakonien, griko
+
+éléen, étolien, locrien, phocidien
+
+
+==== Albanais ====
+tosque : arvanite, arbérèche, tosque
+guègue
+
+
+==== Langues italiques † ====
+Certains linguistes rattachent le vénète à ce groupe.
+langues sabelliques (osco-ombriennes) : osque, samnite, marse, marrucin, pélignien, vestinien, sabin, èque, volsque, ombrien, sud-picène
+langues latino-falisques:
+falisque
+latin : voir les langues romanes pour une liste des langues issues du latin.
+
+
+==== Langues romanes ====
+groupe ibéro-roman
+navarro-aragonais †
+aragonais
+navarrais †
+riojan pré-castillan †
+
+asturoléonais †
+asturien
+Estrémègne
+léonais
+mirandais
+
+castillan ou espagnol
+Europe
+andalou
+castillan aragonais (dialecte castillan parlé en Aragon)
+churro
+castúo
+manchois
+murcien et panocho
+riojan
+
+Afrique
+canarien
+
+Amérique du Sud et Amérique Centrale
+espagnol chilien
+castillan mexicain
+espagnol péruvien
+espagnol rioplatense (Argentine et Uruguay)
+costeñol (Côte Nord de la Colombie)
+
+galaïco-portugais †
+galicien
+judéo-portugais
+fala
+portugais
+
+judéo-espagnol et judéo-espagnol calque
+llanito
+mozarabe †
+
+groupe occitano-roman
+catalan (classement controversé)
+roussillonnais
+léridan
+valencien
+alguérois
+
+occitan ou langue d'oc
+auvergnat
+gascon
+aranais
+béarnais
+
+limousin
+vivaro-alpin (ou Gavot)
+gardiol (vivaro-alpin de Calabre)
+
+languedocien
+bas-vivarois
+haut-auvergnat (ou carladézois)
+rouergat
+
+marchois (parlers intermédiaires du croissant d'Occitanie)
+bourbonnais (variantes sud)
+
+provençal
+judéo-provençal †
+mentonasque
+niçois
+roquebrunasque
+
+francoprovençal (arpitan)
+bressan francoprovençal
+dauphinois
+faetar (Faeto, Celle San Vito)
+fribourgeois
+jurassien
+genevois (langue)
+neuchâtelois
+savoyard
+valaisan
+valdôtain
+vaudois
+forézien
+parler lyonnais
+
+groupe gallo-roman
+français
+Afrique
+camfranglais (Cameroun)
+français de Côte d'Ivoire
+français du Maghreb
+français de La Réunion
+
+Amérique du Nord (français d'Amérique)
+français acadien
+français cadien (ou cajun)
+chiac (anglo-français du Nouveau-Brunswick)
+franco-manitobain
+franco-ontarien
+français québécois
+français terre-neuvien
+
+Antilles et Guyane
+français des Antilles-Guyane (petites Antilles, Haïti et Guyane)
+
+Asie
+français d'Indochine
+
+Europe (français européen)
+judéo-français †
+français d'Alsace
+français de Belgique
+bordeluche (français de Bordeaux)
+français de Corse
+français de France
+français de Jersey
+parler lyonnais
+français du Luxembourg
+parler marseillais
+francitan (français d'Occitanie)
+parler sarthois
+parler savoyard
+parler gaga (parler stéphanois)
+français de Suisse et français fédéral
+tourangeau (Touraine)
+francophonie en Vallée d'Aoste
+
+Moyen-Orient
+français du Liban
+
+Océanie
+français de Nouvelle-Calédonie
+
+autres langues d'oïl
+Est
+lorrain
+vosgien
+
+franc-comtois
+
+Nord
+picard
+wallon
+liégeois
+wallo-picard
+wallo-lorrain
+wallon central
+
+Nord-Est
+champenois
+lorrain
+gaumais
+
+Nord-Ouest
+groupe Ouest
+angevin
+manceau
+mayennais
+
+gallo
+normand
+jersiais
+
+tourangeau
+
+Centre-Ouest
+poitevin-saintongeaispoitevin
+saintongeais
+
+Centre
+berrichon
+bourbonnais
+
+orléanais
+
+Centre-Est
+bourguignon-morvandiau
+
+groupe rhéto-roman
+frioulan
+carnico
+frioulan du Centre-Est
+frioulan de l'Ouest
+
+ladin
+romanche
+
+groupe italo-roman
+italien (langue standard fondée sur le toscan ; elle s'est imposée grâce au prestige des œuvres de Dante)
+parlers gallo-italiques
+bolonais et romagnol (très proches l'un de l'autre)
+émilien
+istrien
+ligure
+lombard
+piémontais
+vénitien
+
+toscan et ses dialectes :
+corse : cismuntincu et pumontincu
+dialectes du nord de la Sardaigne : gallurien et sassarien
+
+dialectes centro-méridionaux
+centre : marchigiano, ombrien et romain du Latium (le romanesco est un dialecte du toscan)
+Sud :
+abruzzais (dialecte du méridional)
+campanien ou napolitain
+lucan ou lucanien (dialecte du méridional) (deux variétés)
+apulien (dialecte du méridional ou napolitain)
+
+extrême-Sud :
+
+calabrais méridional (très proche du sicilien ; au nord de la Calabre, on parle lucan, comme dans les Pouilles du nord)
+salentin
+sicilien
+judéo-italien
+
+sarde
+campidanien
+gallurien et sassarien (en fait deux dialectes corses, donc toscans, mais souvent classés avec le sarde)
+logoudorien
+logoudorien du Nord
+logoudorien du Sud-Ouest
+nuorais
+
+groupe illyro-roman
+dalmate †
+
+groupe roman oriental
+daco-roumain (appelé roumain en Roumanie et moldave en Moldavie)
+parlers septentrionaux : banatéen, marmatien, transylvain, moldave (ce dernier, tant en Roumanie qu'en Moldavie)
+parlers méridionaux : oltéen, monténien, dicien
+
+istro-roumain dit aussi istrien ou cicien
+aroumain dit aussi macédo-roumain, aromoune, zinzare ou valaque (mais "valaque" désigne aussi les parlers méridionaux du daco-roumain)
+mégléno-roumain dit aussi moglénite ou mégéniote
+
+
+==== Langues celtiques ====
+Le ligure ancien † est vu par certains linguistes comme proche des langues celtiques.
+Langues celtiques continentales † : celtibère, gallaique, gaulois, galate, lépontique, norique, lusitain (caractère celtique incertain), tartessien (caractère celtique incertain)
+Langues celtiques insulaires :
+langues gaéliques : écossais (erse), irlandais, moyen irlandais †, vieil irlandais †, mannois (manxois)
+langues brittoniques : breton, cornique, gallois, cambrien †, picte (caractère celtique incertain)
+
+
+==== Langues germaniques ====
+langues germaniques orientales † :
+burgonde, suève, vandale, gotique, gotique de Crimée
+
+langues germaniques occidentales :
+anglo-frison :
+anglais : vieil anglais †, moyen anglais †, anglais moderne naissant †, anglais, scots
+frison : frison occidental, frison oriental, frison septentrional
+
+germano-néerlandais :
+bas-allemand :
+bas-francique :
+afrikaans
+néerlandais : limbourgeois, bas-rhénan, brabançon, flamand occidental, flamand oriental, Flamand de France, hollandais, zélandais
+
+bas-saxon : bas-saxon du nord, estphalien, westphalien
+bas-allemand oriental : mecklembourgeois-poméranien, brandebourgeois, poméranien moyen, poméranien oriental, bas-prussien
+
+haut-allemand :
+moyen-allemand :
+moyen-allemand occidental :
+moyen-francique : francique ripuaire, francique mosellan, francique lorrain, luxembourgeois, francique rhénan, francique rhénan de Lorraine, hessois du Nord, hessois de l'Est, moyen-hessois
+
+moyen-allemand oriental : haut-saxon, thuringien, haut-saxon du Nord, silésien, Lausitzisch-Neumärkisch, haut-prussien
+
+allemand supérieur :
+allemand
+haut-francique : francique méridional, francique oriental
+alémanique : alsacien, souabe, bas-alémanique, moyen-alémanique, haut-alémanique, alémanique supérieur
+austro-bavarois : bavarois septentrional, moyen-bavarois, bavarois méridional, mochène, cimbre
+
+autres : allemand pennsylvanien, yiddish, wilamowicien
+
+langues germaniques septentrionales (langues scandinaves) :
+scandinave occidental : vieux norrois †, islandais, féroïen (féringien), norvégien nynorsk (landsmål)
+scandinave oriental : danois, suédois, gutnisk, norvégien bokmål (riksmål)
+
+
+==== Langues balto-slaves ====
+Ce regroupement ne fait pas l'unanimité, certains linguistes considérant les langues baltes et slaves comme deux familles de langues bien distinctes.
+langues baltes :
+langues baltes occidentales † : galindien, nadruvien, sudovien (yotvingien), vieux prussien, curonien
+langues baltes orientales :
+letton : livonien, latgalien (haut letton), letton occidental
+lituanien : aukštaitien, samogitien
+autres † : sémigalien, sélonien, skalvien
+
+langues slaves :
+langues slaves occidentales :
+tchèque-slovaque : slovaque, tchèque, knaanique (judéo-tchèque)
+léchitique : cachoube, polonais, polabe †, slovince †
+sorabe : haut-sorabe, bas-sorabe
+
+langues slaves méridionales :
+slovène
+serbo-croate : bosnien (bosniaque), croate, serbe, monténégrin
+bulgare, macédonien, vieux-slave †
+
+langues slaves orientales : russe, biélorusse, ruthène, rusyn (langue ausbau), ukrainien
+
+
+=== Langues chamito-sémitiques ===
+Les langues chamito-sémitiques (nommées aussi afro-asiatiques) sont parlées en Afrique septentrionale et saharienne ainsi qu'au Proche-Orient et au Moyen-Orient.
+
+
+==== Langues berbères ====
+chaoui
+chenoui
+chleuh
+kabyle
+judéo-berbère
+mozabite
+rifain
+touareg
+tamasheq
+tamahaq
+tamajaq
+
+siwi
+
+
+==== Langues tchadiques ====
+bana
+gamboura
+gili
+
+haoussa
+massa
+mbuko
+ngala
+
+
+==== Groupe égyptien (éteint) ====
+égyptien ancien
+copte
+bohaïrique (reste en usage comme langue liturgique)
+sahidique
+
+
+==== Langues couchitiques ====
+afar
+agäw ou couchitique central
+bedja
+oromo: waata, borana, orma
+gedeo
+sidamo
+somali
+
+
+==== Langues omotiques ====
+Le positionnement de ces langues est discuté. Elles sont vues, soit comme une sixième branche des langues afro-asiatiques, soit comme le groupe occidental des langues couchitiques.
+basketto
+gamo
+melo
+seze
+wolaytta
+yemsa
+
+
+==== Langues sémitiques ====
+Est
+akkadien (éteint)
+assyrien (éteint)
+babylonien (éteint)
+
+éblaïte (éteint)
+
+Nord-Ouest
+araméen
+araméen samaritain
+syriaque
+mandéen
+néo-araméen occidental
+néo-araméen central
+turoyo
+
+néo-araméen oriental
+soureth
+
+hébreu
+ougaritique (éteint)
+phénicien, punique (éteint)
+
+Centre
+arabe proprement dit ou nord-arabique :
+arabe littéral
+maghrébin
+Arabe marocain
+Arabe marocain bédouin
+Arabe algérien
+arabe tunisien
+
+siculo-arabe
+maltais
+arabe sicilien (éteint)
+
+arabe andalou (éteint)
+groupe bédouin
+arabe libyen
+hassaniya
+arabe saharien
+
+groupe du Nil
+Arabe égyptien
+Arabe saïdi
+Arabe soudanais
+Arabe tchadien
+
+Arabe levantin
+Arabe levantin septentrional
+Arabe levantin méridional
+
+Arabe mésopotamien
+Arabe irakien
+Arabe chypriote maronite
+Arabe anatolien
+Arabe du Khouzistan
+Arabe centrasaiatique
+
+Arabe péninsulaire
+Parlers péninsulaires du sud
+Parlers péninsulaires du nord-est
+Parlers péninsulaires du nord-ouest
+
+Sud
+sudarabique : à l'origine des langues sémitiques de la Corne de l'Afrique
+langues sudarabiques anciennes (4 langues éteintes)
+langue sudarabiques modernes : 6 langues du Yémen et d'Oman menacées de disparition
+mehri (langue)
+hobyotArabe dialectal
+harsusi
+bathari
+shehri
+soqotri
+
+langues éthiosémitiques d'Éthiopie et d'Érythrée
+amharique
+guèze (langue classique aujourd'hui limitée au domaine liturgique)
+langues gouragué
+harari
+tigré
+tigrigna
+
+
+=== Langues nilo-sahariennes ===
+Elles sont parlées en Afrique sub-saharienne : au Tchad, au Soudan, au Niger, au Mali, dans le Nord du Cameroun, en République centrafricaine, au Ghana, au Kenya, en Éthiopie et en Tanzanie.
+langues soudaniques centrales :
+langues bongo-bagirmi : sar, mbay, mamvu, bongo, baka
+
+langues surmiques : mursi
+langues komanes : komo, opo, kwama, uduk, gule
+langues kuliak : ik, nyang'i, soo
+berta
+langues mabanes : masalit
+langues fur : fur
+langues soudaniques orientales :
+langues nilotiques: dinka, nuer, shilluk, turkana, karimojong, maasai, ongamo, teso
+
+langues nubiennes
+langues songhaï
+
+
+=== Langues nigéro-congolaises ===
+
+
+==== Groupe bantou ====
+efik
+tiv
+langues bantoues
+bangala
+bankon
+bekwel
+bemba
+bondei
+chichewa
+comorien
+shingazidja
+shimwali
+shindzuani
+shimaore
+
+douala
+ganda
+giriama
+kikongo
+kikuyu
+kilega
+kimbudu
+kinande
+kinyarwanda-kirundi
+kwese
+lingala
+luganda
+luva
+makua
+mbalanhu
+mbundu
+nguni
+sindebele
+xhosa
+zoulou
+
+nrebele
+nyambo
+shona
+sotho du Nord
+sotho du Sud (sesotho)
+swahili
+tchiluba
+thonga
+tswana
+
+
+==== Groupe gur/voltaïque ====
+dogon
+gulmancema
+koulango
+lobi
+lyélé
+moré
+sénoufo
+mamara
+syenara
+
+bariba ?
+
+
+==== Langues kwa ====
+abé
+akan
+aari
+ewe
+ga
+gurma
+gwa
+ibo
+igala
+ijo
+kru
+yoruba
+
+
+==== Langues mandées ====
+bambara
+bobo
+dan
+dioula
+kpelle
+loma
+mandingue
+konyanka
+malinké de Kita
+malinké de l’Est
+malinké de l’Ouest
+mandinka
+sankaran
+
+marka
+samo-bissa
+soninké
+
+
+==== Langues atlantiques ou ouest-atlantiques ====
+badiaranké
+baga
+banda
+bassari
+bulom
+peul (en anglais : fula ou fulani ; en peul : fulfulde, pulaar, ou pular, selon la region géographique)
+kissi
+sérère
+wolof
+zande
+
+
+==== Langues adamawa-oubanguiennes ====
+Tupuri
+Mbum
+Duru
+
+
+==== Langues kordofaniennes ====
+
+
+==== Autres ====
+édo
+nafaanra
+Fangs
+Fang (langue)
+Bétis
+Bulu (langue)
+Ewondo
+Ntoumou
+
+
+=== Langues khoïsan ===
+Elles sont parlées en Afrique australe, notamment par les Bochimans et les Khoïkhoï.
+langues kx'a
+ǂ’amkoe
+!kung ou khoïsan septentrional
+ju'hoan
+
+langues khoï ou khoïsan central
+khoïkhoï
+nama
+eini †
+korana
+xiri
+
+tshu-khwe
+shua
+tsoa
+kxoe
+naro
+gǁana–gǀwi
+
+kwadi †
+zorotua †
+
+langues tuu ou khoïsan méridional
+taa ou ǃxóõ
+nǁng ou nǀuu
+ǀxam †
+ǂungkue †
+ǁxegwi †
+ǃgãǃne †
+
+hadza
+kamka!e
+khomani
+seroa
+
+sandawe
+
+
+=== Langues caucasiennes ===
+
+Le Caucase est une zone de très grande diversité linguistique, et le foyer de trois familles indépendantes de langues non représentées ailleurs et appelées langues caucasiennes au sens strict. Cette appellation n'implique pas de parenté génétique. Par ailleurs, des langues indo-européennes et altaïques sont également parlées dans le Caucase.
+
+
+==== Langues kartvéliennes ou caucasiennes du Sud ====
+géorgien
+zane ou laze-mingrélien
+laze
+mingrélien
+
+svane
+
+
+==== Langues abkhazo-adygiennes ou caucasiennes du Nord-Ouest ====
+groupe abkhaze-abaza
+abkhaze
+abaza
+
+groupe oubykh
+oubykh
+
+groupe tcherkesse
+tcherkesse oriental
+kabarde
+besleney ou besney
+
+tcherkesse occidental
+adyguéen
+
+
+==== Langues nakho-daghestaniennes ou caucasiennes du Nord-Est ====
+groupe nakh
+tchétchène
+ingouche
+bats ou tsova-tush
+
+groupe avaro-andi
+avar
+andi
+bagwalal
+Botlikh
+godoberi
+akhvakh
+karata
+tindi
+chamalal
+
+groupe tsez
+tsez
+bezhta
+hunzib
+hinukh
+khvarshi
+lak
+dargwa
+
+groupe lezguien
+lezguien
+tabassaran
+agul
+routoul
+tsakhur
+artchi
+kryz
+budukh
+oudi
+khinalug
+
+
+=== Langues ouraliennes ===
+Elles sont parlées en Europe et en Asie du Nord.
+langues finno-ougriennes
+langues fenniques :
+finnois, carélien, lude, olonetsien
+vepse
+ingrien
+vote
+estonien
+live
+
+Langues sames (lapon)
+groupe de l’est
+same d'Akkala
+same d'Inari
+same de Kemi (en)
+same de Kildin
+same skolt
+same de Ter
+
+groupe de l’ouest :
+sous-groupe du nord :
+same de Lule
+same du Nord
+same de Pite
+
+sous-groupe du sud :
+same d'Ume
+same du Sud
+
+langues mordves : erza, mokcha
+mari (tchérémisse)
+langues permiennes
+komi, komi-permiak, zyriène
+
+langues ougriennes
+hongrois
+khanty
+mansi
+
+langues samoyèdes
+langues samoyèdes du Nord
+énètse : énètse de la toundra, énètse des forêts
+nénètse : nénètse de la toundra, nénètse des forêts
+nganassan
+yourats (en)
+
+langues samoyèdes du Sud
+kamasse
+mator
+selkoupe : dialectes de Taz, de Tym, de Ket
+
+
+=== Langues ienisseïennes ===
+Elles étaient parlées dans l'est de la Sibérie. Seul subsiste encore le ket.
+Le ket, le yug, l'arine, l'assane, le pumpokol, le kott
+
+
+=== Langues tchoukotko-kamtchatkiennes ===
+Elles sont parlées dans le nord-est de la Sibérie et dans la presqu'île du Kamtchatka, dans l'extrême est de la Russie.
+Nord
+tchouktche
+koryak-alyutor
+alutor
+Koriak
+kerek
+
+Sud
+itelmène
+
+
+=== Langues altaïques ===
+L'hypothèse de la famille altaïque reste très largement débattue et non consensuelle.
+Elles regrouperaient un total de 558 millions de locuteurs de par le monde et sont essentiellement parlées au Proche et au Moyen-Orient, en Asie centrale et de l'Est et du Nord. Certains linguistes contestent qu'il s'agisse d'un groupe génétique. Depuis les années 1960 des chercheurs y rattachent généralement le coréen et les langues japoniques,.
+Certains réfutaient auparavant la filiation, d'une part par manque de fiabilité des relations dans le vocabulaire de base—mais celles-ci furent consolidées en 2004—et d'autre part à cause de la plus grande simplicité du japonais—fait qui a reçu une explication en 2008.
+
+
+==== Langues coréennes ====
+Coréen
+
+
+==== Langues japoniques ====
+Parlées dans l'archipel japonais et les îles Ryūkyū. Certains linguistes les rapprochent des langues altaïques et les indices sont de plus en plus nombreux (voir l'entête de langues Altaïques).
+japonais
+nombreux dialectes
+
+langues ryukyu
+sous-groupe amami-okinawais
+Nord
+amami du Sud
+kikai
+amami du Nord
+toku-no-shima
+
+Sud
+oki-no-erabu
+okinawaïen
+kunigami
+yoron
+
+sous-groupe sakishima
+miyako
+yaeyama
+yonaguni
+
+
+==== Langues mongoles ====
+bouriate
+kalmouk
+mongol (khalkha)
+mongol de Chine
+oïrate
+dongxiang
+monguor
+bao'an ou bonan
+kangjia
+shira yögur
+daur ou dagur
+khamnigan
+xorein
+
+
+==== Langues toungouses ====
+évène ou lamout
+evenki
+mandchou
+oroch
+orok
+udihe
+ulch
+nanai ou hezhen
+oroqen
+xibe
+
+
+==== Langues turques ====
+altaï
+avar d'Asie (éteint)
+azéri
+bachkir
+dolgane
+gagaouze
+hunnique (éteint)
+kachkaï
+karakalpak
+karatchaï-balkar
+karaïm
+kazakh
+khakasse
+khaladj
+khazar (éteint)
+kirghiz
+koumyk
+krymchak
+nogaï
+ouïghour
+ouzbek
+proto-bulgare (éteint)
+salar
+sary-yugur
+chor
+tatar
+tatar de Crimée
+touvain
+tchouvache
+turc
+turk du Khorassan
+turkmène
+vieux-turc ou vieux-ouïghour (éteint)
+yakoute
+
+
+=== Langues sino-tibétaines ===
+Elles sont essentiellement parlées en Asie de l'Est et du Sud-Est. Selon les linguistes Joseph Greenberg et Merritt Ruhlen, elles constituent le groupe de langues parlées par le plus grand nombre de locuteurs au sein de la macro-famille linguistique des langues dené-caucasiennes. Le terme de "langues sino-tibétaines" est sujet à controverse. L'origine de l'écriture tibétaine remonte à Songtsen Gampo (né vers 609-613~mort en 650) qui fut le 33e roi du Tibet. Songtsen Gampo envoya en Inde des Tibétains pour y étudier le sanskrit. Le ministre Thonmi Sambhota créée l’écriture tibétaine à partir d'un alphabet de l'Inde du nord, probablement le Brahmi, ancêtre d'un certain nombre d'alphabets comme le devanāgarī, le Gujarati ou le Bengali.
+
+
+==== Langues chinoises ====
+chinois archaïque
+chinois médiéval et chinois classique
+cantonais
+mandarin
+Mandarin du sud-ouest en région ex-tai et tibétaines
+Mandarin du Nord-Est en Mandchourie (régions ex-Toungouses)
+Pekinois, Putonghua, Guoyu, Huayu : Mandarin Standard
+Jilu du Hebei
+Jiaoliao (frontière mandchoue)
+Zhongyuan du Henan, Shaanxi et Lanzhou (sud du fleuve Jaune et bassin du Tarim)
+Lanyin : Gansu et pays Ouighour
+Jianghuai : nord est du Yangtse
+
+Jin : sur la boucle du fleuve Jaune
+gan
+Chang-Du
+Da-Tong
+Yi-Liu
+Ji-Cha
+Fu-Guang
+Ying-Yi
+Lei-Zi
+Dong-Sui
+Huai-Yue
+
+hakka
+Tonggu
+
+min
+min nan
+hainan (Hainanese, Qiongwen Hua, Wenchang)
+taïwanais
+sanso
+chaenzo
+
+teochew(Choushan, Chaozhou)
+leizhou (lei Hua, li Hua)
+xiamen
+amoy
+fujian
+
+longdu
+zhenan Min
+
+minbei
+mindong
+groupe des dialectes de Houguan
+groupe des dialectes de Funing
+dialecte de Mango
+
+minzhong
+pu-xian
+putian (putten, xinghua, hinghua, henghua, hsinghua)
+xianyou (hsienyu)
+
+wu
+ping
+xiang
+
+à classer :
+bisu
+
+
+==== Yi ====
+
+bogan
+nusu
+nosu
+
+
+==== Langues tibéto-birmanes ====
+groupe bodique
+bumthang
+tamang-gurung-thakali
+tibétain
+amdo
+balti
+dzongkha
+ladakhi
+sherpa
+
+tshangla
+
+groupe Karen
+bwe
+pwo
+sgaw
+
+groupe kiranti
+hayu
+limbou
+
+groupe lolo-birman
+birman
+nosu
+akha
+biyo
+
+hani
+lipo
+
+meitei
+naxi
+néware
+qianguique
+rGyalrong
+muya
+qiang
+tangoute
+
+groupe sal
+bodo
+jinghpo
+
+trong
+tujia
+bai
+abor-miri-dafla
+mizo-kuki-chin
+mizo
+hmar
+groupe naga
+lotha
+
+angami-pochuri naga
+angami
+ao naga
+sema
+dhimal-toto
+gongdouk
+hruso
+manchad
+mikir
+sulung
+tangkhul naga
+
+taraon-digaru
+tarao
+digaro-mishmi
+
+trong
+zeme naga
+
+
+=== Langues tai-kadai ===
+Les langues tai-kadai sont classées en trois branches :
+Langues kam-tai
+Langues kam-sui : kam, kam du Nord, Sui, Maonan, Mulam, mak et ai-cham, then, chadong, cao miao
+Langues lakkja et be
+be
+Lakkja
+
+Langues tai
+Langues tai du Nord
+Zhuang du Nord
+Bouyei
+Saek
+Langues tai centrales
+Minz zhuang
+Nong zhuang
+Dai zhuang
+Tày
+Cao lan
+
+Langues tai du Sud-ouest
+Thaï
+Lao
+tai nüa
+tai hongjin
+Lü
+Tai ya
+Shan
+Khün
+Tày tac
+tay dam
+tay deng
+tay don
+pa di
+tay sa pa
+ahom
+Tai phake
+Aiton
+khamti
+khamyang
+
+Langues hlai : hlai, cun
+Langues kadai:
+lachi
+gelao : gelao rouge, , gelao vert, gelao blanc, gao
+buyang : buyang ecun, baha, buyang langjia, yerong
+laha
+qabiao
+en
+
+
+=== Langues hmong-mien ===
+Également appelées miao-yao, elles sont parlées essentiellement en Asie du Sud-Est. On distingue trois groupes : Dans la classification chinoise établie par les linguistes Wang, Mao, Meng et Zheng, le hmong se répartit en branches :
+Groupe hmong
+Langues hmong stricto sensu, ou miao
+Langues hmong du Nord (en chinois, Xiangxi)
+Qo xiong (ou Xiangxi occidental)
+miao du Xiangxi occidental (hmong rouge)
+
+Xiangxi oriental
+
+Langues hmong du centre (en chinois, Qiandong)
+hmu du Nord (ou qiandong du Nord)
+hmu de l'Est
+hmu du Sud
+
+Langues hmong occidentales (en chinois, Chuanqiandian)
+chuanqiandian stricto sensu
+huishui
+guiyang
+mashan
+mashan central
+miao de Xinzhai
+
+mashan du Nord
+miao de Shuijingping
+
+mashan du Sud
+
+miao de Luobohe
+miao de Xijia
+
+chong'anjiang
+a hmao (ou diangdongbei)
+
+Langues bunudongnu
+dongnu stricto sensu : dongnu de Dahua, dongnu de Du'an
+
+nunu : nunu de Lingyun, nunu de Bama
+bunuo
+naoklao
+numao : numao, dongmeng
+
+Baheng : baheng, wunai
+Jiongnai
+Younuo
+
+Dans la classification chinoise établie par les linguistes Wang, Mao, Meng et Zheng, le mien se répartit en trois branches :
+Groupe mien ou yao
+mien-kim
+iu mien
+kim mun
+
+biao min
+dzao min
+
+ho nte (she)
+
+
+=== Langues austroasiatiques ===
+Elles sont parlées essentiellement en Asie du Sud-Est.
+
+
+==== Langues asliennes ====
+Il s'agit des langues parlées par une partie des populations aborigènes de la péninsule Malaise, appelées officiellement Orang Asli ("gens des origines" en malais).
+
+
+==== Langues môn-khmer ====
+khasi
+Langues moniques: môn, nyahkur
+khmer ou cambodgien
+nicobar
+langues viêt-muong
+vietnamien
+
+
+==== Langues munda ====
+gorum
+kharia
+korku
+santâlî
+mundari
+ho
+
+
+=== Langues austronésiennes ===
+Elles sont parlées à Taïwan, en Asie du Sud-Est, dans l'océan Pacifique et dans l'ouest de l'océan Indien.
+
+
+==== Langues formosanes ====
+Il s'agit des langues des aborigènes de Taïwan.
+bunun
+yami
+langues atayaliques, dont l'atayal et le seediq ou taroko
+amis
+basay
+kavalan
+siraya
+paiwan
+papora
+pazeh
+saisiyat
+puyuma
+rukai
+langues tsouiques : le tsou, le saaroa, le kanakanabu
+babuza
+thao
+ketangalan
+
+
+==== Langues malayo-polynésiennes ====
+langues malayo-polynésiennes occidentales
+balinais (4)
+batak (4.4)
+langues sulawesi du Sud (2)
+buginais
+makassar (1.6)
+
+chamorro
+dayak
+javanais (75)
+langues malaïques
+malais-indonésien (200)
+minangkabau (6.5)
+langues ibaniques
+
+langues barito
+malgache
+shibushi
+
+paluan
+soundanais (27)
+langues philippines
+tagalog (17)
+filipino (17, l2:60)
+
+langues bisayas
+ilongo
+cebuano (18)
+
+langues bicol (2.5)
+ilocano
+
+langues chamiques : cham, tsat, jarai, chru, haroi, rhade, aceh
+
+langues malayo-polynésiennes centrales-orientales
+langues malayo-polynésiennes centrales
+aru
+buru
+damar
+galoli
+kemak
+selwasan
+seram
+tétoum (1.1)
+
+langues malayo-polynésiennes orientales (en)
+langues Halmahera du Sud-Nouvelle Guinée occidentale
+buli
+giman
+maba
+makiam dalam
+marau
+patani (3)
+weda
+
+langues océaniennes
+langues océaniennes de Nouvelle-Guinée du Nord et de l'Ouest et langues méso-mélanésiennes
+yabem, bukawa
+
+langues océaniennes orientales (régions plus à l'Est que la Nouvelle-Guinée et les Îles Salomon), qui comprennent toutes les langues du Vanuatu, de Nouvelle-Calédonie, de Rotuma, de Fidji, de Micronésie et de Polynésie, en tout 234 langues
+langues du sud du Vanuatu : anejom, lenakel, kwamera, sie, tanna du Nord, tanna du Sud-Ouest, whitesands
+langues du nord et du centre du Vanuatu : araki, ambrym du Sud-Est, dorig, éfaté du Sud, fortsenal, hano (ou raga), hiw, lakon, lelepa, lo-toga, mavea, mwerlap, mwotlap, nume, paama, sa (saa), sakao, tolomako, vurës…
+langues kanak : ajië, drehu, iaai, paicî, xârâcùù…
+langues polynésiennes : futuna-aniwa, futunien, hawaïen, mangarévien, māori, marquisien, mele-fila, niuéen, paumotu, rarotongien, samoan, tahitien, tokelauan, tonguien, tuvaluan, wallisien (faga-uvea)…
+langues micronésiennes : carolinien, chuuk, gilbertin, kosrae, marshallais, mokil, nauruan, pohnpei, tobi…
+fidjien
+
+yap
+
+
+=== Langues papoues ===
+Ces langues, très nombreuses, sont parlées en Nouvelle-Guinée et dans les îles proches. Leur classification interne, encore mal établie, ne fait pas l'objet d'un consensus. Une hypothèse propose de rassembler nombre de familles de langues papoues dans une famille de trans-nouvelle-guinée, mais l'inclusion de plusieurs familles reste controversée. Plusieurs langues papoues restent des langues isolées ou non classées.
+
+
+==== Langues de Trans-Nouvelle-Guinée ====
+
+
+===== Langues anganes =====
+Simbari
+Baruya
+Ampale
+Kawacha
+Kamasa
+Yagwoia
+Ankave
+Ivori
+Lohiki
+Menya
+Kapau
+Angaataha
+
+
+===== Langues asmat-kamoro =====
+Iria-asienara
+Kamoro
+Sempan
+Asmat
+
+
+===== Langues binandéréennes =====
+Suena
+Yekora
+zia
+Binandere
+Ambasi
+Aeka
+Orokaiva
+Hunjara
+Notu
+Yega
+Gaina
+Baruga
+Dogoro
+Korafe
+
+
+===== Langues chimbu =====
+Chimbu
+Kuman
+Golin
+Salt-yui
+Sinasina
+Wahgi
+Nii
+Narak
+Maring
+Medipa
+Kaugel
+
+
+===== Langues dani =====
+Grand Valley dani
+Western dani
+North ngalik (ou yaly)
+South ngalik
+Nduga
+Wano
+
+
+===== Langues eleman =====
+Toaripi
+Uraipi
+Opao
+Keuru
+Orokolo
+
+
+===== Langues enganes =====
+Enga
+Nete
+Iniai
+Ipili
+Huli
+Mendi
+Kewa
+Sau
+
+
+===== Langues goilalanes =====
+Weri
+Biangai
+Kunimaipa
+Tauade
+Fuyug
+
+
+===== Langues kainantu-gorokanes =====
+Langues gorokanes
+Benabena
+Fore
+Gimi
+Gahuku-asaro
+Gende
+Siane
+Yabiyufa
+Kamano-yagaria
+
+Langues kainantu
+Auyana
+Awa
+Gadsup et ontena
+Tairora
+
+
+===== Langues koiarianes =====
+Koita
+Koiari
+Mountain koiari
+Barai
+ömie
+Managalasi
+
+
+===== Langues grand awyu =====
+Sawuy
+Siyagha-yenimu
+Pisa
+Aghu
+Airo-sumagaxe
+Wambon
+Kaeti
+Wangom
+Kotogüt
+
+
+===== Langues mek =====
+langues mek de l'Est
+eipomek
+ketengban
+una
+
+langues mek de l'ouest
+korapun-bromley
+korupun-sela
+kosarek yale
+nalca
+nipsan
+
+
+===== langues ok-oksapmin =====
+langues ok-oksapmin
+groupe des langues ok
+sous-groupe kwer-kopkaka-burumakok
+kopkaka
+sous-groupe kwer-burumakok
+burumakok
+kwer
+
+sous-groupe ok des basses terres
+iwur
+ninggerum
+muyu du Nord
+muyu du Sud
+yonggom
+
+sous-groupe ok des montagnes
+bimin
+faiwol
+sous-groupe mianique
+mian
+suganga
+
+setaman
+telefol
+tifal
+urapmin
+
+sous-groupe ngalum
+sous-groupe tangko-nakai
+nakai
+tangko
+
+oksapmin
+
+
+===== Langues madang =====
+langues adelbert du Sud
+langues de la côte de rai
+langues kalam
+langues croisilles
+amaimon
+groupe dimir-malas : dimir, malas
+groupe kumilan : bepour, brem, mauwake, moere, musar
+groupe mabuso
+sous-groupe gum : amele, bau, gumalu
+sous-groupe panim-isebe : isebe, panim
+
+sihan
+sous-groupe hanseman : bagupi, baimak, gal, garus, matepi, mawan, nake, nobonob, rapting, rempi, saruga
+sous-groupe silopi-utu : silopi, utu
+wagi
+sous-groupe wamas-samosa-murupi-mosimo : mosimo, murupi, samosa, wamas
+yoidik
+
+kare
+sous-groupe kokon : girawa, kein, munit
+
+groupe mugil-kaukombaran
+bargam
+sous-groupe kaukombaran : maia, maiani, mala , miani
+
+groupe numugenan
+usan
+sous-groupe yaben-bilakura : bilakura, yaben
+sous-groupe yarawata-parawen-ukuriguma : parawen, ukuriguma, yarawata
+
+groupe tibor-omosa
+sous-groupe omosan : kobol, pal
+sous-groupe tiboran : kowaki, mawak, pamosu, wanambre
+
+langues kowanes
+korak
+waskia
+
+
+===== Langues Wissel Lakes =====
+Auye
+Dao
+ekari
+moni
+wolani
+
+
+==== Langues trans-nouvelle-guinée controversées ====
+
+
+===== Langues awin-pa =====
+aekyom
+pare
+
+
+===== Langues bird's head du Sud =====
+groupe bird's head du Sud-Ouest : arandai, kemberano, kokoda
+kaburi
+kais
+puragi
+
+
+===== Langues bomberai de l'Ouest =====
+karas
+groupe noyau du bomberai de l'Ouest : baham, iha
+
+
+===== Langues daganes =====
+daga
+dima
+ginuman
+kanasi
+maiwa
+mapena
+onjob
+turaka
+umanakaina
+
+
+===== Langues gogodala-suki =====
+suki
+gogodala
+
+
+===== Langues goilalanes =====
+weri
+biangai
+kunimaipa
+tauade
+fuyug
+
+
+===== Langues inanwatanes =====
+duriankere
+suabo
+
+
+===== Langues kayagar =====
+atohwaim (kaugat)
+groupe kaygir-tamagario : kayagar, tamagario
+
+
+===== Langues kiwaianes =====
+bamu
+kiwai du Nord-Est
+kiwai du Sud
+groupe turawa-kerewo : morigi, kerewo
+waboda
+
+
+===== Langues koiarianes =====
+koita
+koiari
+koiari des montagnes
+barai
+ömie
+managalasi
+
+
+===== Langues konda-yahadian =====
+konda
+yahadian
+
+
+===== Langues kwaleanes =====
+groupe humene-kwale : humene, uare
+mulaha
+
+
+===== Langues mailuanes =====
+bauwaki, ooku
+binahari, binahari-ma
+domu
+laua
+mailu
+morawa
+
+
+===== Langues manubaranes =====
+doromu-koki
+maria
+
+
+===== Langues marind =====
+Boazi
+Zimakani
+Marind
+Bian
+Yaqay
+Warkai
+
+
+===== Langues mombum =====
+koneraw
+mombum (komelom)
+
+
+===== Langues strickland de l'Est =====
+fembe
+konai
+groupe kubo-samo-bibo : gobasi, kubo, samo
+odoodee
+
+
+===== Langues teberanes =====
+dadibi
+folopa
+
+
+===== Langues tirio =====
+abom
+langues du noyau tirio : baramu, bitur, makayam, were
+
+
+===== Langues yarebanes =====
+groupe doriri-abia : aneme wake, moikodi
+groupe yareba-bariji-nawaru : yareba, bariji, nawaru
+
+
+==== Autres familles de langues papoues ====
+
+
+===== Langues amto-musanes =====
+amto
+siawi
+
+
+===== Langues arafundi =====
+andai
+nanubae
+tapei
+
+
+===== Langues bird's head de l'Ouest =====
+groupe seget-moi
+moi
+seget
+
+groupe bird's head du Sud-Ouest
+kalabra
+moraid
+tehit
+
+
+===== Langues bird's head de l'Est =====
+manikion
+groupe meax
+meyah
+moskona
+
+
+===== Langues bulaka river =====
+maklew
+yelmek
+
+
+===== Langues fas =====
+fas
+baibai
+
+
+===== Langues de la frontière =====
+langues bewani
+ningera
+pagi-kilmeri
+ainbai, kilmeri, pagi
+
+umeda
+
+langues taikat-awyi
+taikat, awyi
+
+langues waris
+amanab, auwe, daonda, imonda, manem, senggi, sowanda, waris
+
+
+===== Langues kwomtari =====
+nai
+kwomtari
+
+
+===== Langues lower sepik-ramu =====
+groupe des langues agoan
+abu
+gorovu
+
+ambakich
+groupe des langues lower sepik
+angoram
+chambri
+sous-groupe karawarian
+tabriak
+yimas
+
+sous-groupe nor
+kopar
+murik
+
+groupe des langues ramu
+sous-groupe annaberg
+sous groupe aian
+aiome
+anor
+
+rao
+
+sous-groupe ataitan
+andarum
+tanguat
+sous-groupe tangu-igom
+kanggape
+tanggu
+
+sous-groupe lower ramu
+sous-groupe kire-mikarew
+kire
+mikarewan
+aruamu
+sepen
+
+sous-groupe WAG
+borei
+bosngun-awar
+awar
+bosngun
+
+watam-kaian
+kaian
+watam
+
+sous-groupe tamolan
+breri-romkun
+breri
+romkun
+
+igana
+itutang-midsivindi-akrukai
+akrukay
+inapang
+kominimung
+
+
+===== Langues mairasi =====
+mer
+langues du noyau mairasi : mairasi, semimi
+
+
+===== Langues morehead-maro =====
+groupe kanum
+sous-groupe ngkrn-ngkantr
+ngkantr
+kanum bädi
+kanum ngkâlmpw
+
+kanum sota
+
+kanum smärky
+
+groupe Morehead-Maro
+sous-groupe nambu
+nama
+namat
+nambo
+namo
+neme
+nen
+
+groupe tonda
+arammba
+blafe
+guntai
+rema
+wara-kancha
+kunja
+wara
+
+yei
+
+
+===== Langues ndu =====
+ngala
+groupe du noyau ndu
+sous-groupe ambulas-hanga hundi
+ambulas
+hanga hundi
+
+boikin
+manambu
+sous-groupe sawosique
+sous-groupe bundi-gaikundi
+burui
+gaikundi
+
+koiwat
+sous-groupe sawos
+iatmul
+keak
+sos kundi
+
+sengo
+
+yelogu
+
+
+===== Langues senagi =====
+angor
+dera
+
+
+===== Langues sentani =====
+demta
+groupe du noyau sentani
+nafri
+sentani
+tabla
+
+
+===== Langues sepik =====
+abau
+amal
+groupe des langues iwam-wogamus
+sous-groupe des langues iwamiques : iwam, iwam du Sepik
+sous-groupe des langues wogamusin-chenapian : chenapian, wogamusin
+
+groupe des langues nukuma
+groupe kwanga-menda : kwanga, mende
+kwoma
+
+groupe des langues ram
+awtuw
+karawa
+pouye
+
+groupe des langues sepik des collines
+groupe des langues sepik des collines central
+sous-groupe bahinemique : bahinemo, berinomo, nigilu, wagu
+sous-groupe du noyau sepik des collines central
+bisis
+sous-groupe kapriman-watakataui : kapriman, watakataui
+mari
+sumariup
+
+groupe des langues sepik des collines de l'Est
+alamblak
+kaningra
+
+groupe des langues sepik des collines de l'Ouest
+sous-groupe hewa-paka : hewa, niksek, piame
+saniyo-hiyewe
+
+groupe des langues tama
+groupe des langues mayo-pasi
+yessan-mayo
+sous-groupe yimin-bel : ayi, kalou, pasi
+
+groupe des langues mehek-pahi
+mehek
+pahi
+
+groupe des langues yellow river
+ak
+awun
+namia
+
+
+===== Langues sko =====
+krisa (isaka)
+groupe skou-serra-piore
+sous-groupe serra hills
+puare
+sous-groupe rawo-main serra
+nori
+rawo
+womo-sumararu
+
+sous-groupe skou
+skou
+vanimo
+wutung
+
+warapu
+
+
+===== Langues torricelli =====
+arapesh des montagnes
+arapesh du Sud
+au
+bungain
+Kamasau
+kombio
+Monumbo
+olo
+One
+Valman
+Yil
+
+
+===== Langues yawa =====
+saweru
+yawa
+
+
+=== Langues aborigènes d'Australie ===
+
+
+=== Langues eskimo-aléoutes ou eskaléoutes ===
+Elles sont parlées dans les régions arctiques de l'Amérique du Nord et de la péninsule tchouktche.
+langues eskimos :
+langues inuites :
+iñupiaq
+inuinnaqtun
+inuvialuktun
+inuktitut
+inuktun
+groenlandais
+
+langues yupik :
+sirenik † : éteint, classification incertaine : peut-être une troisième branche des langues eskimos
+naukan
+yupik sibérien central
+yupik de l'Alaska central
+alutiiq
+
+aléoute
+
+
+=== Langues amérindiennes ===
+
+
+==== Langues na-dené ====
+
+Elles sont parlées en Amérique du Nord.
+langues athapascanes
+langues athapascanes septentrionales
+ahtna
+babine
+beaver
+carrier
+chilcotin
+chipewyan
+dogrib
+gwich'in
+han
+kolchan
+Sarsi
+sekani
+slavey
+tanana
+tutchone
+
+langues athapascanes de la côte pacifique
+coquille
+hupa
+mattole
+tolowa
+
+langues athapascanes méridionales (langues apaches)
+apache
+chiricahua
+
+navajo
+
+eyak
+tlingit
+
+
+==== Langues uto-aztèques ====
+Elles sont parlées à l'Ouest des États-Unis et au Mexique.
+Groupes des langues uto-aztèques du Nord
+Branche des langues numiques
+Shoshone
+Comanche
+Ute
+Paiute du Nord
+Paiute du Sud
+Mono
+Kawaiisu
+
+Tubatulabal
+Branche des langues takiques
+Cahuilla
+Cupeño
+Luiseño
+Kitanemuk
+Serrano
+
+Hopi
+
+Groupe des langues uto-aztèques du Sud
+Branche des langues pimiques
+O'odham ou papago, papago-pima
+Pima bajo
+tepehuan du Nord
+Tepehuan du Sud
+
+Branche taracahitique
+Tarahumara
+Mayo
+Yaqui
+Opata (langue morte)
+Eudeve (langue morte)
+
+Branche corachol
+Cora
+Huichol
+
+Nahuatl
+Pipil
+
+
+==== Langues kiowa-tanoanes ====
+Elles sont parlée dans le Sud-Ouest des États-Unis, notamment par les peuples pueblos. Une hypothèse les relie aux langues uto-aztèques.
+kiowa
+Langues tanoan
+towa
+tiwa
+tewa
+
+
+==== Langues algiques ====
+Elles sont parlées en Amérique du Nord.
+wiyot
+yurok
+langues algonquiennes :
+abénaqui oriental
+abénaqui ouest
+arapaho
+Atsina
+blackfoot
+cheyenne
+cri (naskapi, innu, atikamekw)
+delaware (lenape)
+Etchemin (en)
+Mesquakie ou fox
+Nipmuck ou loup A
+loup B
+mahican (mohican)
+Malécite-passamaquoddy
+massachusett
+menominee
+micmac
+miami-illinois
+mohegan-pequot (mohican)
+nanticoke
+narragansett
+ojibwa (chippewa, ottawa, algonquin)
+pamlico
+Potawatomi
+powhatan
+quiripi-naugatuck-unquachog
+shawnee
+shinnecock
+
+Le wiyot et yurok sont parfois rassemblés dans un groupe ritwain. Cette hypothèse est contestée.
+
+
+==== Langues caddoanes ====
+Elles sont parlées en Amérique du Nord.
+Arikara
+Caddo
+Kitsai
+Pawnee
+Wichita
+
+
+==== Langues siouanes ====
+Elles sont parlées en Amérique du Nord.
+langues sioux
+Biloxi
+Ofo
+Tutelo
+moniton, occaneechi, saponi
+Iowa-oto ou Chiwere
+Winnebago
+Dhegiha: Kanza, osage, omaha-ponca, Quapaw
+langues dakota: lakota, santee-sisseton, yankton-yanktonnai, assiniboine, stoney
+crow
+hidatsa
+Mandan
+
+langues catawba
+catawba
+woccon
+
+
+==== Langues iroquoiennes ====
+Elles sont parlées en Amérique du Nord.
+Groupe des langues iroquoiennes du Nord
+Branche des langues des Cinq-Nations: mohawk, oneida
+onondaga
+seneca-cayuga
+susquehannock
+
+Branches de langues de Virginie: tuscarora, nottoway, Meherrin (pas sûr)
+laurentien
+Branche huron-wyandot: huron, wyandot
+
+Groupe de l'iroquoien du Sud: cherokee
+
+
+==== Langues hokanes ====
+L'appartenance des différentes familles de langues au groupe hokan n'est pas parfaitement prouvée.
+
+
+===== Langues shastanes =====
+Shasta
+Shasta de New River
+Okwanuchu
+Konomihu
+
+
+===== Yana =====
+
+
+===== Langues tequistlatèques =====
+Chontal des basses terres
+Chontal des hautes terres
+Chontal de Tequisistlan
+
+
+===== Karuk =====
+Karuk (Karok)
+
+
+===== Chimariko =====
+Chimariko
+
+
+===== Langues pomo =====
+Groupe du pomo de l'Ouest
+Kashaya (Pomo du Sud-Ouest)
+Pomo du Sud
+Pomo central
+
+Pomo du Nord
+Pomo oriental
+Pomo du Sud-Est
+
+
+===== Washo =====
+Washo
+
+
+===== Esselen =====
+Esselen
+
+
+===== Salinan =====
+Antoniano
+Migueleño
+
+
+===== Langues chumash =====
+Chumash du Nord : chumash obispeño
+Chumash du Sud
+Chumash central : chumash purisimeño, chumash ineseño, chumash barbareño, chumash ventureño
+chumash insulaire ou isleño
+
+
+===== Langues yumanes =====
+Langues yumanes du Nord
+walapai (hualapai)
+Havasupai
+yavapai
+paipai
+
+Langues yumanes centrales
+Mojave (mohave)
+Maricopa
+Yuma
+
+Langues Delta-Californie
+Cocopa
+Diegueño
+Diegueño du Nord
+Diegueño du Sud
+Tipai
+
+Kiliwa
+Cochimí (éteint)
+
+
+==== Langues oto-mangues ====
+
+
+===== Langues oto-mangues est =====
+langues popolocas :
+Mazatèque :
+de Mazatlan
+de Huautla
+d'Ayautla
+d'Eloxochitlan
+d'Ixcatlan
+mazatèque de Jalapa
+mazatèque de Chiquihuitlan
+de Soyaltepec
+
+Ixcatèque
+Chocho
+Popoloca
+de Mezontla
+de Coyotepec
+de Santa Inés Ahuatempan
+de San Marcos Tlalcoyalco
+de San Juan Atzingo
+de San Felipe Otlaltepec
+de San Luis Temalacayuca
+
+Langues zapotèques :
+Chatino :
+de la Zona Alta Occidental
+de Lacaho-Yolotepec
+de la Zona Alta Oriental
+de Zacatepec
+de Zenzontepec
+
+Papabuco
+Soltèque
+Zapotèque
+de Aloapam
+d'Amatlan
+d'Asuncion Mixtepec
+d'Ayoquesco
+de Cajonos
+de Chichicapan
+de Choapan
+de Coatecas
+de Coatlan
+d'El Alto
+d'Elotepec
+de Gueva de Humboldt
+de Güila
+de l'Isthme
+de Lachiguiri
+de Lachirioag
+de Lachixio
+de Loxicha
+de Mazaltepec
+de Miahuatlan
+de Mitla
+de Mixtepec
+d'Ocotlan
+d'Ozoltepec
+de Petapa
+de Quiavicuzas
+de Quioquitani Quieri
+de Rincon
+de San Augustin
+de de San Baltazar Loxicha
+de San Juan Guelivia
+de San Pedro Quiatoni
+de San Vicente Coatlan
+de Santa Catarin Albarradas
+de Santa Inés Yatzechi
+de Quiegolani
+de Santiago Lapaguia
+de Santiago Xanica
+de San Domingo Albarradas
+de la Sierra Juarez
+dialecte du sud d'Ixtlan
+dialecte du sud de Rincon
+de Tabaa
+de Tejalapan
+de Texmelucan
+de Tilquiapan
+de Tlacolulita
+de Tomachapan
+de Xadani
+de Xanaguia
+de Yalalag
+de Yareni
+de Yatee
+de Yatzachi
+de Yautepec
+de Zaachila
+de Zaniza
+de Zoogocho
+
+Amuzgo :
+du nord
+du sud
+d'Oaxaca
+d'Ipalapa
+
+Langues mixtèques :
+Mixtèque :
+d'Alacatlatzala
+d'Alcozauca
+d'Amoltepec
+d'Apasco-Apoala
+d'Atatlahuca
+d'Ayutla
+de Cacaloxtepec
+de Chayuco
+de Chazumba
+de Chigmecatitlan
+de Coatzospan
+de Cuyamecalco
+de Diuxi-Tilantongo
+de Huitepec
+d'Itundujia
+d'Ixtayutla
+de Jamiltepec
+de Juxtlahuaca
+de Magdalena Peñasco
+de Metlatonoc
+de Mitlatongo
+de Mixtepec
+du nord de Tlaxiaco
+du nord-ouest d'Oaxaca
+d'Ocotepec
+de l'ouest de Juxtlahuaca
+de Peñoles
+de Pinotepa Nacional
+de San Juan Colorado
+de San Juan Teita
+de San Miguel el Grande
+de San Miguel Piedras
+de Santa Lucia Monteverde
+de Santa Maria Zacatepec
+de Salacayoapan
+de Sindihui
+de Sinicahua
+du sud de Nochixtlan
+du sud de Puebla
+du sud de Tlaxiaco
+de Soyaltepec
+de Tacahua
+de Tamazola
+mixtèque de Tezoatlán
+de Tidaa
+de Tijaltepec
+de Tlazoyaltepec
+de Tututepec
+de Yoloxochitl
+de Yosondua
+de Yucuañe
+de Yutanduchi
+
+Cuicatèque
+Trique :
+de San Juan Copala
+de la Media
+de la Alta
+de la Baja
+
+
+===== Langues oto-mangue ouest =====
+Langues oto-pames :
+Otomi :
+otomi de la sierra
+de la vallée de Mezquital
+de l'État de Mexico
+de Tlaxcala
+de Texcatepec
+de Queretaro
+de Tenango
+de Tilapa
+de Temoaya
+
+Mazahua :
+de l'État de Mexico
+du Michoacan
+
+Ocuiltec
+Matlazinca
+Langues pames :
+pame du Nord
+pame central
+pame du Sud
+
+Chichimeca-Jonaz
+
+Chinantèque :
+de Chiltepec
+chinantèque de Comaltepec
+de Lalana
+de Lealao
+d'Ojitlan
+d'Ozumacin
+de Palantla
+de Quiotepec
+de Sochiapan
+de Tepetolutla
+de Tepinapa
+de Tlacoatzintepec
+d'Usila
+de Valle Nacional
+
+Langues tlapanèques (parfois classées parmi les langues hokan) :
+Tlapanèque (Me'phaa) :
+d'Acatepec
+d'Azoyu
+de Malinaltepec
+de Tlacoapa
+
+Subtiapa (éteint)
+
+Langues mangues :
+Chiapanèque (peut-être éteint)
+Mangue (éteint)
+Chorotega (éteint)
+
+
+==== Langues totonaques ====
+(parfois rattachées aux langues maya)
+Totonaque :
+de Coyutla
+de Mata-Cohuitlan
+des Hautes-terres
+d'Ozumatlan
+de Papantla
+de Necaxa
+de Xicotepec
+de Misantla
+
+Tepehua :
+de Huehuetla
+de Pisaflores
+de Tlachichilco
+
+
+==== Langues mayas ====
+
+langues huaxtèques :
+Huaxtèque:
+de San Luis Potosi
+de Veracruz
+du sud-est
+
+Chicomuceltèque (éteint)
+
+langues mayas :
+langues Chol :
+Chol :
+de Tila
+de Tumbala
+du Tabasco
+
+Chorti
+Cholti (éteint)
+Chontal :
+Chontal de Tamulté de las Sábanas
+Chontal de Buena Vista
+Chontal de Miramar
+
+langue Tzeltal :
+Tzeltal :
+de Bachajon
+d'Oxchuc
+
+Tzotzil :
+de Chamula
+de Chenalho
+de Huixtan
+de San Andres Larrainzar
+de Venustiano Carranza
+de Zinacantan
+
+langues Chuj :
+Chuj :
+d'Ixtatan
+de San Sebastian Coatan
+
+Tojolabal
+
+langues Kanjobal
+Acatèque
+Jacaltèque :
+oriental
+occidental
+
+Kanjobal (Q'anjob'al)
+Mocho'
+
+langues Mam
+Aquacatèque
+Ixil :
+de Nebaj
+de Chajul
+de San Juan Cotzal
+
+Mam :
+du nord
+du sud
+du centre
+de Tajumulco
+de Todos Santos Cuchumatan
+
+Tacanèque
+Tektitèque
+
+Kekchi (Q'eqchi')
+de Carcha
+de Cahabon
+de Chamelco
+
+Pocomam :
+central
+du sud
+oriental
+
+Pocomchi :
+oriental
+occidental
+
+langues Qiché :
+Kaqchikel :
+d'Akatenango
+cenral
+oriental
+occidental
+du nord
+de Santa Maria Jesus
+sud central
+du sud
+de Yepocapa
+
+K'iche' :
+central
+de Cunen
+oriental
+de Joyabaj
+de San Andres
+occidental
+Achi' de Cubulco
+Achi' de Rabinal
+
+Tz'utujil :
+occidental
+oriental
+
+Sacapultèque
+Sipakapense
+Uspantèque
+
+langues yucatèques :
+Itza
+Mopan
+Lacandon
+Yucatèque :
+de Chan Santa Cruz
+du Yucatan
+
+
+==== Langues pénutiennes ====
+L'appartenance des différentes familles de langues au groupe pénutien n'est pas parfaitement prouvée.
+
+
+===== Langues wintuanes =====
+
+
+===== Langues maiduanes =====
+
+
+===== Langues miwok =====
+Groupe miwok oriental
+Sierra Miwok
+Northern sierra miwok
+Central sierra miwok
+Southern sierra miwok
+
+Plains miwok
+Saclan ou bay miwok
+
+Groupe miwok occidental
+Coast miwok
+Bodega miwok
+Marin miwok
+
+Lake miwok
+
+
+===== Langues costanoanes =====
+Groupe du costanoan du Sud
+Mutsun
+Rumsen
+
+Groupe du costanoan du Nord
+Chalon ou costanoan de Soledad
+Awaswas ou costanoan de Santa Cruz
+Tamyen ou costanoan de Santa Clara
+Chochenyo ou costanoan d'East Bay
+Ramaytush ou costanoan de San Francisco
+
+Karkin
+
+
+===== Langues yokuts =====
+
+
+===== Langues pénutiennes de l'Oregon =====
+Takelma
+Langues kalapuyanes
+Groupe de la côte de l'Oregon
+Langues alséanes
+Langues coos
+Langues siuslawanes
+
+
+===== Langues pénutiennes des Plateaux =====
+Langues sahaptiennes
+Nez-percé
+Sahaptin
+
+
+===== Langues tsimshianiques =====
+
+
+==== Langues wakashanes ====
+Langues wakashanes du Sud
+Makah
+Nitinaht
+Nuuchahnulth
+
+Langues wakashanes du Nord
+Heiltsuk ou bella-bella
+Oowekyala
+Haisla
+Kwak'wala ou kwakiutl
+
+
+==== Langues salishennes ====
+
+
+==== Langues barbacoanes ====
+guambiano, totoro, awa pit, tsafiqui, cayapa
+
+
+==== Langues tupi ====
+Elles sont parlées en Amérique du Sud, en Amazonie et rassemblent dix familles de langues.
+
+
+===== Langues tupi-guarani =====
+Kaiwá, guarani
+
+
+===== Langues munduruku =====
+Mundurukú
+
+
+===== Langues mawé =====
+
+
+===== Langues juruna =====
+
+
+===== Langues aweti =====
+
+
+===== Langues mondé =====
+
+
+===== Langues ramarama =====
+
+
+===== Langues arikém =====
+Karitiana
+
+
+===== Langues puruborá =====
+
+
+===== Langues tupari =====
+Ayuru (Wayoró, wayru, ajuru)
+Kepkiriwát
+Makuráp
+Mekens (Mequém, mequens)
+Tupari
+Autres, à classer:
+ariqueme
+kawahib
+oyampi
+tupi
+
+
+==== Langues arawanes ====
+culina, banawá, dení, jarawara, paumarí, jamamadí, suruwahá
+
+
+==== Langues arawakiennes ====
+Langues arawaks septentrionales: apurinã, iñapari, tariana, piapoco, achagua, yucuna, baniwa de l'Içana
+Langues arawaks méridionales: machineri, baure, trinitario, ignaciano
+
+
+==== Langues pano-tacananes ====
+
+
+===== Langues panoanes =====
+amahuaca, capanahua, cashibo, cashinahua, chaninahua, huariapano, marinahua, matses ou mayoruna, chácobo, shipibo-conibo
+
+
+===== Langues tacananes =====
+ese 'ejja, araona, cavineña, tacana, reyesano
+
+
+==== Langues tucanoanes ====
+Barasana, desano, wanano, tucano, bara
+Cubeo
+Koreguaje, orejón, siona
+
+
+==== Langues yanomami ====
+
+
+==== Langues waykuruanes ====
+Kadiwéu,
+Mocovi, toba
+
+
+==== Langues witotoanes ====
+Witoto (Huitoto)
+Bora
+Muinane
+Ocaina
+Nonuya
+
+
+=== Pidgins et créoles ===
+à base lexicale allemande
+unserdeutsch
+
+à base lexicale anglaise
+bichelamar
+créole hawaiien
+créole jamaïcain
+créole nauruan
+gullah
+kriol du Belize
+kriol d'Australie (Créole australien)
+ndjuka
+Pijin des îles Salomon
+pitcairnais
+saramaccan
+sranan (créole surinamien)
+tok pisin
+
+à bas lexicale arabe
+Arabe de Djouba
+Nubi
+
+à base lexicale espagnole
+chavacano
+palenquero
+papiamento (classification non consensuelle)
+chamorro (classification non consensuelle)
+
+à base lexicale française
+créoles français d'Amérique
+avec ap comme marque d'aspect progressif
+créole louisianais
+créole haïtien
+
+avec ka comme marque d'aspect progressif
+créole antillais
+créole guadeloupéen
+créole dominicain
+créole martiniquais
+créole sainte-lucien
+créole trinidadien
+
+créole guyanais
+karipúna
+
+créoles français de l'Océan Indien
+créole bourbonnais
+créole seychellois
+créole réunionnais
+créole mauricien
+créole rodriguais
+
+créoles français de l'Océan Pacifique
+tayo
+
+à base lexicale malaise
+malais peranakan (Indonésie)
+malais d'Ambon (Indonésie)
+malais de Banda (Indonésie)
+betawi (Indonésie)
+créole de Malacca (Malaisie)
+malais baba (Singapour)
+malais de Kupang (Indonésie)
+malais de Sri Lanka
+malais de Manado (Indonésie)
+
+à base lexicale portugaise
+créole de Guinée-Bissau
+créole du Cap-Vert (kriolu, kriol)
+fá d'Ambô
+papiamento (classification non consensuelle)
+
+autres
+chinook
+de la zone Asie du Sud-Est, Océanie, Pacifique
+hiri motu
+
+russenorsk
+
+
+=== Autres langues, isolats et familles de langues non classées ===
+Langues isolées d'Asie : aïnou, burushaski, nivkhe, youkaguire, nihali
+Langues isolées d'Europe : basque
+Langues papoues isolées ou non classées : abinomn, anêm, ata, biksi, bilua, burmeso, dibiyaso, odiai, guriaso, kaki ae, kapori, kembra, keuw, kimki, kol, kosare, kuot, lavukaleve, massep, mawes, maybrat, molof, mor, mpur, papi, purari, pyu, savosavo, suarmin, sulka, tabo, taiap, touo, usku, yale, yele, yerakai
+Langues isolées d'Afrique : shabo (mikeyir), birale, jalaa, laal, hadza, ongota, sandawe
+Langues isolées d'Amérique du Nord : coahuilteco, natchez, atakapa, chitimacha, tunica, haïda, karankawa
+Langues isolées d'Amérique centrale : tarascan, lenca, chontal de Oaxaca ou tequistlatèque, cuitlatèque, huave, xinca
+Langues isolées d'Amérique du Sud : pirahã, trumai, ticuna, yagan
+Langues anciennes éteintes : méroïtique, sumérien, hourrite, élamite, hatti, langues hourro-urartéennes, kassite, étrusque, rhètique, lemnien, langue camunienne, langue des Euganéens, langue nord-picène, langue paléo-sarde, langue des Sicanes, pélasgique, minoen, étéocrétois, étéocypriote, ibère, tartessien (parfois considéré comme celtique) picte (souvent considéré comme celtique) ligure (souvent considéré comme indo-européen).
+
+
+=== Langues des signes ===
+
+Ce sont des langues gestuelles dont la structure iconique et spatiale les distingue des langues orales sur le plan grammatical. La plupart sont utilisées pour la communication avec les personnes sourdes ou malentendantes, ces langues ont été classées par familles selon la langue des signes qui est leur « ancêtre » principal (il existe de nombreux cas de métissage avec les langues utilisées dans les mêmes régions géographique et des phénomènes de créolisation, faisant évoluer les langues des signes). Une classification a été établie par Anderson et Peterson en 1979, qui a été reprise par Henri Wittmann en 1991. Cette dernière propose la liste de familles suivante :
+Famille de la langue des signes française ;
+Famille de la langue des signes britannique ;
+Famille de la langue des signes japonaise ;
+Famille de la langue des signes allemande
+Famille de la langue des signes lyonnaise, qui ne comprend que la langue des signes lyonnaise et la langue des signes de Belgique francophone ;
+Les isolats.
+On peut ajouter à cette liste la famille de la langue des signes arabe dont les langues n'ont pas été traitées par Wittmann.
+Il existe aussi plusieurs langues des signes « auxiliaires », qui sont utilisées par des personnes entendantes lorsque l'usage du langage parlé n'est pas possible (utilisation de mots tabous, vœu de silence, signaux militaires, etc.) ou même dans un but artistique et symbolique (mudrā).
+
+
+=== Langues construites ===
+
+
+==== Langue auxiliaire internationale ====
+espéranto : initiée par Ludwik Lejzer Zamenhof ; la seule utilisée actuellement à grande échelle : l’« Espérantie » compte 120 pays du monde ;
+langues dérivées de l'espéranto ou « espérantides » : ido, mondlango, …
+
+eurolang : projet pour l'union européenne abandonné
+solresol : construite par François Sudre
+universalglot, construite par Jean Pirro
+volapük : construite par Johann Martin Schleyer
+Idiom Neutral : construite par Waldemar Rosenberger
+latino sine flexione : construite par Giuseppe Peano, latin modifié sans déclinaison
+novial : construite par Otto Jespersen
+anglais basic : construite par Charles Kay Ogden, forme d'anglais au vocabulaire simplifié
+interglossa : construite par Lancelot Hogben
+interlingua : construite par l'International Auxiliary Language Association
+interlingue ou occidental : construite par Edgar de Wahl
+kotava : construite par Staren Fetcey
+lingua sistemfrater : construite par Pham Xuan Thai
+europo : construite par Robert Dun
+lojban : "langue logique"
+
+
+==== Langues imaginaires ====
+langues de la Terre du Milieu, créées par le philologue et écrivain J. R. R. Tolkien
+Pnakotique, langue des Grands Anciens dans les mythes de Cthulhu de H.P. Lovecraft
+Nadsat, argot anglo-russe inventé par Anthony Burgess pour son roman L'Orange mécanique
+novlangue créée par George Orwell pour le roman 1984
+langue grand-singe, créée par l'écrivain Edgar Rice Burroughs pour son cycle romanesque Tarzan
+Zorus, créée par Tierb Licosan pour résoudre son étude sur la sémantique textuelle des langages.
+klingon, langue de l'univers de fiction Star Trek
+Zorglangue, dans la série de bande-dessinée Spirou et Fantasio ; son principe est de parler en français, en gardant l'ordre des mots dans la phrase mais en les lisant et les écrivant à l'envers. Le nom vient de son inventeur, le scientifique Zorglub.
+langage schtroumpf, dans la série de bande-dessinée Les Schtroumpfs de Peyo; repose sur le principe de remplacer un mot par le mot « schtroumpf ».
+Na'vi, langue du peuple homonyme vivant sur la lune fictive Pandora du film Avatar de James Cameron et inventée par le Dr Paul Frommer
+
+
+== Notes et références ==
+
+
+=== Sources bibliographiques ===
+(en) Lloyd B. Anderson et David Peterson, A Comparison of Some American, British, Australian, and Swedish Signs : Evidence on Historical Changes in Signs and Some Family Relationships of Sign Languages, 1979, 60 p. (présentation en ligne).
+
+Henri Wittmann, « Classification linguistique des langues signées non vocalement », Revue québécoise de linguistique théorique et appliquée, vol. 10, no 1,‎ 1991, p. 215-288 (lire en ligne).
+
+
+== Annexes ==
+
+
+=== Articles connexes ===
+Langue
+Phylum (linguistique)
+Isolat
+Linguistique
+Langue originelle
+Langue vivante
+Langue morte
+Liste de langues
+Liste des langues des signes
+
+
+=== Liens externes ===
+Cartographie des familles de langues (textes en anglais)
+La comparaison génétique
+Encyclopédie numérique des langues du programme Sorosoro
+
+ Portail des langues

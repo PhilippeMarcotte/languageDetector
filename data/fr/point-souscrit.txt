@@ -1,0 +1,61 @@
+Le point souscrit est un diacritique de l'alphabet latin utilisé dans différentes notations, notamment pour le vietnamien (quốc ngữ), les transcriptions de l'arabe et des langues de l'Inde (avec devanagari) : le hindi et le tamoul principalement.
+
+
+== Asturien ==
+L'asturien utilise le point souscrit dans le digramme ḷḷ et le graphème ḥ. Si ces caractères sont indisponibles, on leur substitue respectivement «l.l» et «h.»
+
+
+== Vietnamien ==
+En vietnamien (quốc ngữ), le point souscrit sert à noter le ton bas tombant glottalisé.
+
+
+== Transcription des langues afroasiatiques ==
+Dans les langues afro-asiatiques, le point souscrit note une consonne emphatique par exemple en arabe:
+ﺪ da (non emphatique)
+ﺾ ḍad (emphatique).
+On utilise donc les consonnes diacritées suivantes : Ḍḍ, Ḥḥ, Ṣṣ, Ṭṭ
+
+
+== Transcription des langues de l'Inde ==
+Pour ces langues, le point souscrit note les consonnes rétroflexes. On utilise les consonnes diacritées suivantes : Ḍḍ, Ṇṇ, Ṣṣ, Ṭṭ
+
+
+== Dictionnaires de l'allemand ==
+Dans les dictionnaires d'allemand, le point souscrit note les voyelles accentuées et tendues.
+
+
+== Épigraphie ==
+Les épigraphistes emploient le point souscrit pour transcrire des lettres dont l’interprétation n’est pas certaine, parce que trop abîmées ou partiellement effacées.
+
+
+== Unicode ==
+Le point souscrit (unicode U+0323) est l'un des diacritiques combinants de la table des caractères Unicode (U+0300 à U+367).
+Des caractères munis d'un point souscrit figurent au titre du latin étendu additionnel dans la table des caractères Unicode (U+1E00 à U+1EFF).
+
+
+== Voir aussi ==
+
+
+=== Articles connexes ===
+Point (signe)
+Ponctuation
+Deux-points
+Point d'exclamation
+Point d'interrogation
+Points de suspension
+Point-virgule
+Point d'ironie
+
+Signe diacritique ou typographique
+Point souscrit
+Point suscrit
+Point médian
+
+Solfège
+Point d'orgue
+Point de prolongation
+
+
+== Notes et références ==
+
+ Portail de l’écriture

@@ -1,0 +1,39 @@
+SmartWater is a traceable liquid and forensic asset marking system (taggant) that is applied to items of value to identify thieves and deter theft. The liquid leaves a long lasting and unique identifier, whose presence is invisible except under an ultraviolet black light.
+
+
+== History ==
+SmartWater was started in the early-1990s by Phil Cleary, a retired British police detective, and his brother Mike Cleary, a chemist, responsible for the development of the technology, whereas Phil created the deterrence and business strategies.
+In 1996, the Clearys won the Prince of Wales Award for Innovation for the 'product with most commercial potential'.
+In 2000, SmartWater was awarded Millennium Product status, with the brothers receiving the award from the British prime minister Tony Blair.
+Mike Cleary is a Chartered Chemist and a Fellow of the Royal Society of Chemistry. Phil Cleary was awarded a Fellowship of the Royal Society of Arts in recognition of his entrepreneurialism and contribution to crime reduction. He is also the author of the thriller book 'Elixir'.
+During the course of a 2013 'proof of concept' trial in London, the Metropolitan Police Service first used the generic term 'traceable liquids' to describe SmartWater and other similar forensic coding products.
+
+
+== Use and effectiveness ==
+In 2005 security expert Bruce Schneier pointed out that abuse of SmartWater was possible, because an owner of a personalised solution can easily administer it to other people's valuable items. However, in 2008, he accepted that SmartWater worked as a deterrent, citing the 2008 publication of a research paper led by Professor Martin Gill, who interviewed criminals and asked whether the presence of SmartWater would deter them from burglary, with 74% saying it would.
+SmartWater has been used to convict criminals and the company claims in press releases to have over 600 convictions.
+In addition, the company developed a crime reduction programme, called 'The SmartWater Strategy'. During the first six months of a pilot scheme in 2009 involving 100 households in a part of Kent, UK, police recorded a 94% reduction in burglary.
+Another area that has used the 'SmartWater Strategy' is Nottingham in England, where 56,000 homes had their property marked with SmartWater and covert operations using SmartWater were instigated by the police. There has been a reported 40% reduction in burglary since the start of the initiative.
+In 2012, SmartWater presented their strategy to officers of the Metropolitan Police, who decided to test SmartWater's concept under controlled conditions. Consequently, a 'proof of concept' trial was initiated in 2013. SmartWater operated in the London Borough of Brent and, following six months of formal assessment, announced an 85% reduction in household burglary.
+
+
+== Composition ==
+SmartWater consists of a liquid containing a code, whose presence can be seen under ultraviolet light. It is intended to be applied to valuable items, so that if they are stolen and later recovered by police, their original owner can be determined after laboratory testing of a sample. Another application is a sprinkler system that sprays a burglar with the (invisible) fluid, which cannot be washed off and lasts for months, to generate evidence that connects a suspect to a specific location.
+SmartWater comes in three variants, "Index Solutions", "Indsol Tracer" and "SmartWater Instant", which use different techniques to embed such a code. According to Phil Cleary, this allows "millions of chemical signatures" and is an identifier superior to genetic fingerprinting DNA.
+The "Index Solutions" variant is a water-based solution containing low-level additives, which are blended using a binary sequence to ensure uniqueness. The Index Solution is contained within a spray system that is activated by an intruder detection unit, similar to a burglar alarm, and marks the intruder with a spray, which the police locate using a black (UV) light.
+The "Indsol Tracer" variant is a polymer emulsion that blends different chemical agents according to a binary code allowing 10 billion different possibilities, as stated by the company.
+The "SmartWater Instant" variant consists mainly of a copolymer of vinyl acetate in isopropyl alcohol. This fluid contains millions of tiny fragments; a unique number called "SIN" ("SmartWater identification number", registered in a national police database together with the owner's details) is encoded into each of those particles.
+
+
+== See also ==
+Invisible ink
+Perfluorocarbon tracer
+Alphadot
+SelectaDNA
+
+
+== References ==
+
+
+== External links ==
+Official website

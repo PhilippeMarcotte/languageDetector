@@ -1,0 +1,72 @@
+Unter Neutraldichtefilter (ND-Filter, Neutralfilter, meist Graufilter) versteht man in der Fotografie gefasste Glas- oder Kunststoffscheiben von optischer Güte, die vor das Objektiv des Fotoapparats geschraubt oder gesteckt werden, um gleichmäßige Abdunklung im Bild zu erzielen. Graufilter sind ebenfalls in der Filmkamera- und Fernsehkameratechnik sowie in der Lichttechnik in Gebrauch. Sie sind homogen neutralgrau eingefärbt, so dass die Farbwiedergabe nicht verfälscht wird.
+Für die Sonnenbeobachtung werden spezielle Neutralfilter, Sonnenfilter, verwendet, die allerdings nur weniger als 0,1 Promille der Sonnenstrahlung durchlassen dürfen.
+
+
+== Anwendungen ==
+
+In der Fotografie kann die Verminderung der durch das Objektiv einfallenden Lichtmenge erforderlich werden, wenn bei vorgegebener Filmempfindlichkeit das Aufnahmelicht zu hell ist und die Abblendmöglichkeit des Objektivs nicht ausreicht, um Überbelichtung zu vermeiden, oder gewünschte Blendenwerte oder Belichtungszeiten nicht eingehalten werden können. Das kann der Fall sein, wenn sich das zu fotografierende Objekt durch die Wahl einer offenen Blende vor unscharfem Hintergrund abheben oder auch durch Langzeitbelichtung ein Wisch- oder Fließeffekt erzielt werden soll.
+Um etwa die Bewegung herabfallenden Wassers fotografisch darstellen zu können, benötigt man 1/60 Sek. Belichtungszeit oder länger. Ist nun das Aufnahmelicht so hell und/oder die Filmempfindlichkeit so hoch, dass sich zur korrekten Belichtung trotz kleinstmöglicher Blende am Objektiv diese 1/60 Sek. nicht einstellen lässt, kommt ein Graufilter zum Einsatz. Insbesondere bei Architekturaufnahmen stören Personen oder Fahrzeuge, die sich vor dem Gebäude bewegen. Hier lässt sich durch den Einsatz von Graufiltern die Belichtungszeit so verlängern, dass die Reizschwelle des Films oder Bildsensors unterschritten wird und Personen oder Fahrzeuge im Bild nicht sichtbar werden.
+Auch in der Filmtechnik werden Graufilter verwendet. Da Filmkameras Bild für Bild mit konstanter Belichtungszeit arbeiten, reicht bei hellen Motiven oft die Abblendmöglichkeit der Objektive nicht aus, um ausgewogen belichtete Aufnahmen zu erzielen. Manche Camcorder haben auch eingebaute Filter, die sich hinzuschalten lassen.
+In der Lichttechnik werden Graufilter zur Verminderung der austretenden Lichtmenge eingesetzt, wenn das Dimmen der Scheinwerfer nicht erwünscht oder möglich ist, etwa wenn dies die Farbtemperatur des Lichtes verändern würde.
+Auch ein variabler Typ, basierend auf dem Polfiltereffekt, mit dem Verlängerungsfaktor 3–8 ist üblich. Dabei werden zwei Polarisationsfilter gegeneinander verdreht. Stehen beide Polfilter parallel, so tritt die geringste Abschwächung auf. Bei genau senkrechter Stellung zueinander wird das Licht idealerweise komplett blockiert. Bei der Kombination von zwei linearen Polarisationsfiltern ist mit einer Restpolarisation zu rechnen, die Autofokus und Belichtungsmessung in Kameras mit Strahlteilern (vor allem Spiegelreflexkameras) beeinträchtigen kann.
+
+
+== Kennzeichnungen ==
+Standardtypen der Graufilter besitzen den Verlängerungsfaktor 2, 4 oder 8. Auf den Filterfassungen wird dazu die Bezeichnung ND 2X, ND 4X oder ND 8X angegeben.
+Bei stärkeren Filtern wird NDx (Neutraldichte) oder ODx (optical density) mit einer nachgestellten Zahl x angegeben. Wenn die große X-Bezeichnung fehlt und der Faktor mit Dezimalzeichen angegeben ist, beispielsweise bei ND 3,0, dann weist das auf die logarithmische Dämpfungsskala nach folgender Berechnungsformel hin:
+
+  
+    
+      
+        x
+        =
+        −
+        log
+        ⁡
+        
+          
+            I
+            
+              I
+              
+                0
+              
+            
+          
+        
+      
+    
+    {\displaystyle x=-\log {\frac {I}{I_{0}}}}
+  
+Die Stärke der Abschwächung berechnet sich aus dem dekadischen Logarithmus des Quotienten aus der einfallenden Intensität und der nach dem Filter messbaren Intensität.
+
+
+=== Vergleichstabelle ===
+Die folgende Tabelle stellt die üblichen Bezeichnungen von NDx (logarithmische Skala), der Angabe von ND…X (x-fache Verlängerung der Verschlusszeit, lineare Skala) und der Anzahl der Blendenstufen, um die sich die Lichtmenge verringert, dar. ND 0 entspricht dem Verzicht auf einen Graufilter (keine Filterwirkung), Polarisationsfilter liegen in ihrer Wirkung um ND 0,45 herum und die Angabe ND 8,0 bedeutet eine Abschwächung der Intensität um den Faktor 100.000.000 = 108.
+Leider werden die Angaben zur ND unterschiedlich angegeben, d. h. die meisten im Handel angebotenen ND8-Filter sind 0,9-ND-Filter. Hier hilft nur immer die komplette Artikelbeschreibung zu lesen.
+
+
+== Kalibrierung ==
+ND-Filter – vor allem mit hoher Filterstärke – entsprechen oftmals nicht exakt der angegebenen Dichte. Bei ND-Filtern mit einer neutralen Dichte von ND 3,0 liegen Abweichungen von einer halben bis ganzen Blendenstufe im üblichen Bereich. Daher ist vor dem Einsatz der Filter eine Kalibrierung der Filterstärke zu empfehlen.
+Dabei werden die Bildergebnisse mit und ohne Filter bei der jeweils errechneten Belichtungszeit verglichen und anschließend die notwendige Belichtungszeit bei Einsatz des Filters angepasst, bis die Ergebnisse deckungsgleich sind.
+Die Kalibrierung kann auch mithilfe einer Smartphone-App durchgeführt werden.
+
+
+== Farbechtheit ==
+Viele ND-Filter haben einen Farbstich, wobei durch die verlängerten Belichtungszeiten mehr Licht im Infrarot-Bereich durchgelassen wird.
+
+
+== Siehe auch ==
+Grauverlauffilter (GND-Filter)
+Effektfilter
+Filter (Fotografie)
+
+
+== Literatur ==
+Rudolph Hanke, ’’Filter-Faszination’’, Monheim/Bayern 1979, Seiten 70 f., ISBN 3-88324-991-2
+
+
+== Weblinks ==
+
+
+== Einzelnachweise ==

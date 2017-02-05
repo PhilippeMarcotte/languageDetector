@@ -1,0 +1,15 @@
+La alteración de un buque (a) es la diferencia entre los asientos (A) de dos flotaciones (F). Si se denomina asiento de la flotación inicial Ai, y al asiento de la flotación final (Af), la alteración será:
+a = Af - Ai
+Ai = Cppi - Cpri
+Af = Cppf - Cprf
+
+
+== Casos posibles de alteración ==
+Suponiendo las denominaciones anteriores resulta:
+Af > Ai --> a > 0 (alteración apopante) o positiva
+Af < Ai --> a < 0 (alteración aproante) o negativa
+Af = Ai --> a = 0 (alteración nula)
+
+
+== Véase también ==
+Variación del calado

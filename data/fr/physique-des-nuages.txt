@@ -1,0 +1,391 @@
+La physique des nuages est l’étude des processus physiques et dynamiques de formation des nuages et des précipitations qui les accompagnent. Les nuages chauds sont formés de microscopiques gouttelettes et les froids de cristaux de glace ou parfois des deux types. Leur formation est contrôlée par la disponibilité de vapeur d'eau dans l’air et des mouvements verticaux dans celui-ci.
+Le mouvement vertical peut être induit par une ascendance à grande échelle, comme dans le cas des dépressions synoptiques, ou à méso-échelle comme dans le cas des orages. La physique qui contrôle ces processus se passe à l’échelle microscopique. Elle est gouvernée par les lois de la mécanique des fluides et la loi de Raoult qui régit la pression de vapeur autour du noyau de condensation. La physique des nuages est toujours un sujet de recherche qui bénéficie de nombreux nouveaux instruments depuis les années 1960, en particulier le radar météorologique, les satellites météorologiques et les disdromètres.
+
+
+== Histoire ==
+L’étude de la physique des nuages commence vraiment au XIXe siècle mais Otto von Guericke émet l’hypothèse que les nuages sont composés de bulles d’eau dès le XVIIe siècle,,. La mesure des flocons de neige remonte cependant à beaucoup plus longtemps, ayant été décrite dans un ouvrage chinois de 1358 av. J.-C.. En 1846, Agustus Waller utilise une toile d'araignée pour capturer ces bulles dans le brouillard mais il découvre qu'elles n'explosent pas au contact de la toile, formant plutôt des gouttes,. Le travail est poursuivi par William Henry Dines en 1880 et Richard Assmann en 1884 lorsqu'ils étudient au microscope les gouttes.
+Dines et d'autres ont alors commencé à étudier la distribution de grosseur de ces gouttes, ou granulométrie. Par exemple, en 1895, le physicien Weisner utilisa un papier-filtre couvert de colorant soluble dans l'eau qu'il mettait sous la pluie. Les gouttes tombant sur le colorant donnaient une mesure de leur diamètre. Malgré le développement des aérostats au XVIIe siècle les premières mesures scientifiques de l'atmosphère portaient sur la température, la pression et le contenu en vapeur d'eau mais ignoraient les nuages. Ce n'est qu'à fin du XIXe siècle que les premières données de la structure des nuages ont été faites in situ.
+La première expérience en laboratoire dans une chambre hyperbare rudimentaire a été faite par Coulier en 1875. Il montra que lorsqu'on diminue la pression et que la température diminue, la vapeur d'eau condense mieux si des poussières sont présentes dans la chambre. Son expérience a été reprise par Aitken et Wilson a montré qu'une certaine sursaturation devait être atteinte pour avoir condensation. Les chercheurs se concentrèrent sur le type de noyau de condensation ayant les meilleures caractéristiques et trouvèrent que le chlorure de sodium, le sel de mer, était l'un des plus communs trouvés dans les gouttes de nuages et de pluie.
+La condensation n'est pas le seul facteur entrant dans la formation des gouttelettes de nuages, le second est la collision entre ces gouttes. Les observations des grêlons a depuis longtemps permis de supposer qu'ils étaient formés en partie par des collisions car ils ont souvent la forme d'un amalgame de grêlons. Descartes avait suggéré dès 1637 que le vent pouvait être à l'origine de collisions de grêlons pour en former de plus gros. La même notion fut suggérée pour les gouttelettes de pluie. En 1904, une expérience a été faite par Leonard qui démontra que les gouttes peuvent effectivement augmenter de volume ainsi mais que ce ne sont pas toutes les collisions qui réussissent, cela dépend de la charge des gouttes et de l'air qu'elles peuvent contenir. Il confirma les hypothèses émises antérieurement qui prédisaient que les gouttes ainsi obtenues ne pouvaient dépasser environ 6 mm de diamètre car leur forme devient trop instable par rapport aux courants d'air qui affectent leur mouvement. Ce processus a été cependant longtemps sous-estimé car la plupart des études dans les latitudes moyennes ont porté sur la formation des cristaux de glace et l'effet Bergeron.
+Le développement de l'aviation au XXe siècle a permis de prendre des observations de plus en plus nombreuses. Non seulement les scientifiques peuvent faire des expériences in situ mais les pilotes commerciaux, militaires et de plaisance peuvent signaler les effets du passage de leur aéronef dans les nuages. À partir de 1940, les vols ont été de plus en plus en haute atmosphère et se sont multipliés. L'introduction du radar à la même époque a permis de mieux sonder les différentes couches des nuages. Depuis cette époque, les expériences et les nouveaux instruments ont permis de raffiner les théories. Ils ont également mené à des études sur la modification du temps.
+
+
+== Formation ==
+L’atmosphère terrestre contient différents gaz dont la vapeur d’eau. L’humidité absolue, en kilogrammes par mètre cube d’air, dépend du contenu en vapeur d'eau mais aussi du volume de la masse d'air considérée. Elle varie donc si la masse d'air est amenée à se dilater. L’humidité relative est elle le rapport entre la pression de vapeur et la pression de vapeur saturante qui quantifie ce qu'un volume d’air peut contenir au maximum en vapeur d'eau, à une température donnée. La variation de température et d'humidité dans la troposphère, dans laquelle les systèmes météorologiques se déplacent, sont régies par la radiation solaire et les sources d'eau en surface. On y retrouve également de fines particules qui influent sur le bilan radiatif et qui serviront de noyaux de condensation pour la vapeur d'eau.
+Tout commence quand l'air est soulevé par les mouvements de l'atmosphère. La température diminue en général avec l'altitude mais comme la quantité de vapeur d'eau reste la même dans le volume soulevé, l'humidité relative augmente jusqu'à saturation. Il s'ensuit trois phénomènes : la condensation, la coalescence et l'effet Bergeron. Les phénomènes électriques jouent également un rôle majeur dans la physique des nuages et des précipitations.
+
+
+=== Condensation ===
+
+Les gouttes commencent à se former dans de l'air généralement au-dessus du point de congélation quand l'air soulevé devient sursaturé par rapport à la température environnante. Dans de l'air pur, où il n'y aurait aucune poussière ou ion, il faudrait atteindre une sursaturation de 500 % avant que la vapeur d'eau ne forme des gouttes à cause de la tension superficielle de l'eau.
+Cependant, ce genre de sursaturation ne se rencontre pas dans l'atmosphère terrestre où les mesures ont montré qu'elle ne dépasse pas 1 %. Des noyaux de condensation, comme des poussières hygroscopique ou des grains de sel, vont absorber la vapeur d'eau et la solution chimique obtenue abaissera la tension de surface nécessaire pour former une goutte. La sursaturation n'aura alors besoin d'être que de quelques dixièmes de 1 % pour mener à la formation de gouttes de nuages.
+Selon les calculs de Köhler, qui s'est servi de la loi de Raoult et de l'effet Gibbs-Thomson, on peut en tirer l'équation suivante qui relie le diamètre (
+  
+    
+      
+        
+          D
+          
+            p
+          
+        
+      
+    
+    {\displaystyle D_{p}}
+  ) de la gouttelette à la pression de vapeur d'eau (
+  
+    
+      
+        
+          p
+          
+            e
+            a
+            u
+          
+        
+        
+      
+    
+    {\displaystyle p_{eau}\qquad }
+  ), la pression de saturation au-dessus d’une surface plane (
+  
+    
+      
+        
+          p
+          
+            0
+          
+        
+        
+      
+    
+    {\displaystyle p^{0}\qquad }
+  ), la tension de surface entre l'eau liquide et la vapeur d'eau (
+  
+    
+      
+        
+          σ
+          
+            e
+            a
+            u
+          
+        
+        
+      
+    
+    {\displaystyle \sigma _{eau}\qquad }
+  ), la masse volumique de l'eau pure (
+  
+    
+      
+        
+          ρ
+          
+            e
+            a
+            u
+          
+        
+        
+      
+    
+    {\displaystyle \rho _{eau}\qquad }
+  ), le nombre de moles de la solution (
+  
+    
+      
+        
+          n
+          
+            s
+          
+        
+        
+      
+    
+    {\displaystyle n_{s}\qquad }
+  ) et la masse molaire de l'eau (
+  
+    
+      
+        
+          M
+          
+            e
+            a
+            u
+          
+        
+        
+      
+    
+    {\displaystyle M_{eau}\qquad }
+  ) :
+
+  
+    
+      
+        ln
+        ⁡
+        
+          (
+          
+            
+              
+                
+                  p
+                  
+                    e
+                    a
+                    u
+                  
+                
+                (
+                
+                  D
+                  
+                    p
+                  
+                
+                )
+              
+              
+                p
+                
+                  0
+                
+              
+            
+          
+          )
+        
+        =
+        
+          
+            
+              4
+              
+                M
+                
+                  e
+                  a
+                  u
+                
+              
+              
+                σ
+                
+                  e
+                  a
+                  u
+                
+              
+            
+            
+              R
+              T
+              
+                ρ
+                
+                  e
+                  a
+                  u
+                
+              
+              
+                D
+                
+                  p
+                
+              
+            
+          
+        
+        −
+        
+          
+            
+              6
+              
+                n
+                
+                  s
+                
+              
+              
+                M
+                
+                  e
+                  a
+                  u
+                
+              
+            
+            
+              π
+              
+                ρ
+                
+                  e
+                  a
+                  u
+                
+              
+              
+                D
+                
+                  p
+                
+                
+                  3
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \ln \left({\frac {p_{eau}(D_{p})}{p^{0}}}\right)={\frac {4M_{eau}\sigma _{eau}}{RT\rho _{eau}D_{p}}}-{\frac {6n_{s}M_{eau}}{\pi \rho _{eau}D_{p}^{3}}}}
+  
+Le diagramme de droite montre l'évolution du diamètre de la goutte d'eau en utilisant un grain de chlorure de sodium de trois différents diamètres comme noyau de condensation. Il augmente à mesure que l'humidité relative augmente mais si l'humidité relative redescend avant d'avoir atteint une valeur légèrement au-dessus de la saturation, repérable par les pics, la gouttelette s'évaporera. Cette portion du graphique montre que la vapeur d'eau et la gouttelette sont en équilibre thermodynamique. Elle est reliée à la formation de brume sèche si l'humidité relative ne dépasse pas la saturation.
+Une fois que l'air a atteint la sursaturation nécessaire, les gouttelettes continueront de croître même si l'humidité relative diminue, en autant que l'air reste saturé, car la tension de surface est moins grande que l'attraction de la vapeur d'eau par la goutte. Les pics portent le nom de « diamètre critique » et la « sursaturation critique » correspondante dépend du type et du diamètre du noyau de condensation.
+Il y a d'abord formation de très fines gouttes qui donnent le nuage. À mesure que ces gouttes montent, elles passent sous le point de congélation mais resteront surfondues s'il n'y pas présence de noyaux de congélation. Ces derniers sont beaucoup moins disponibles que les noyaux de condensation. À mesure qu'elles augmentent de diamètre, un second processus doit intervenir, la coalescence, afin d'atteindre un diamètre suffisant pour former des gouttes de pluie. En effet, les gouttelettes formées par condensation n'atteignent que quelques dizaines de microns dans le temps nécessaire habituellement pour donner de la pluie.
+
+
+=== Coalescence ===
+La coalescence est l'amalgamation de deux ou plusieurs gouttelettes par collision pour en former une plus grosse. Les gouttelettes croissant à des vitesses différentes, selon la concentration de vapeur d'eau, elles se déplaceront à une vitesse différente qui est reliée à leur diamètre et au courant ascendant. Les plus grosses bougeant plus lentement captureront les plus petites en montant puis lorsqu'elles ne peuvent plus être soutenues par le courant, elles redescendront et poursuivront leur croissance de la même façon. Les flocons de neige agissent de la même façon.
+
+
+=== Agrégation ===
+Similaire à la coalescence, il s'agit du processus par lequel des particules solides précipitantes se combinent dans l'atmosphère pour former des particules plus grosses. Les flocons de neige ou les cristaux de glace de différents diamètres se déplaceront dans le courant ascendant ou descendant à des vitesses différentes et entreront en collision. Si l'environnement comporte assez de vapeur d'eau ou que les particules solides comportent une pellicule d'eau surfondue en surface, ils pourront alors « coller » l'un à l'autre. Cela peut amener à la formation de plus gros flocons dans les précipitations stratiformes ou à de gros grêlons dans les orages.
+
+
+=== Effet Bergeron ===
+
+L'effet Bergeron, de son découvreur Tor Bergeron, est le plus efficace des processus de formation des gouttes de pluie ou de neige. Lorsque des cristaux de glace se forment finalement par congélation de gouttelettes, ils ont une pression de saturation moindre que celle des gouttelettes environnantes. Les gouttelettes s'évaporent donc et la vapeur d'eau va se déposer sur les cristaux.
+Ces cristaux finiront également par tomber et entreront en coalescence avec d'autres pour former des flocons de neige. Ils captureront également par coalescence des gouttes ce qui les givrera si la température est sous zéro degré Celsius. Si la température de l'atmosphère est partout sous zéro au-dessus du sol, on aura de la neige. Par contre, si le niveau de congélation n'est pas au sol ou s'il y a des couches au-dessus du zéro en altitude, on aura une variété de types de précipitations : pluie, pluie verglaçante, grésil, etc.
+
+
+== Mouvements verticaux ==
+
+L’air en s’élevant, du fait de la diminution progressive de pression, se détend et se refroidit tant et si bien que le point de rosée finit par atteindre la température de l'environnement et se forme alors un nuage. Si la poussée verticale se poursuit, des précipitations se forment. Il existe deux types de soulèvement : dans le cas où l'air est stable, les nuages sont dits stratiformes. Si l'air est instable les nuages sont dits convectifs
+Les mouvements verticaux dans les nuages stratiformes sont faibles, de l'ordre de moins d'un mètre par seconde, mais s'exercent sur une grande épaisseur de l'atmosphère. Le processus de formation du nuage commence par la condensation. Si la température du nuage passe sous les moins 10 degrés Celsius, l'effet Bergeron peut se déclencher parce que les gouttelettes peuvent se transformer en cristaux de glace. Ils deviendront le principal moteur des précipitations avec la coalescence en second. Si les températures restent plus chaudes, la coalescence dominera.
+Dans les nuages convectifs, le mouvement ascendant est causé par la différence de température entre la parcelle d'air soulevée et l'environnement plus froid en altitude. La parcelle se refroidit en montant mais selon le gradient thermique adiabatique, soit moins que la température de l'environnement dans les cas instables. Elle est donc moins dense que l'environnement et subit une poussée d'Archimède vers le haut. Cette différence est l'énergie potentielle de convection disponible (EPCD). Elle sera plus importante si de la chaleur latente est relâchée par la condensation de vapeur d'eau contenue dans la parcelle. La vitesse de déplacement de la parcelle d'air sera proportionnelle à l'EPCD et peut être de plusieurs dizaines de mètres par seconde. Le condensation y est rapide mais les gouttelettes en surfusion peuvent persister jusqu'à des altitudes très élevées, bien en dessous de la température de congélation. La condensation et la coalescence y sont les facteurs importants. Lorsque le gel se produit sur des noyaux de congélation, on peut obtenir de la grêle.
+Dans les deux cas, lorsque le poids des gouttes est supérieur au courant ascendant, elles se mettent à tomber et donner des précipitations.
+
+
+== Distribution des gouttes ==
+Les trois processus de condensation, d’accrétion des petites gouttes par de plus grosses et de collisions entre gouttes de taille similaire mènent à une variation du diamètre (D) des gouttelettes dont la granulométrie dépend du type de nuage. Selon le temps passé dans le nuage, le mouvement vertical dans celui-ci et la température ambiante, on aura donc des gouttes qui auront une histoire très variée et une distribution de diamètres qui va de quelques dizaines de micromètres à quelques millimètres.
+La valeur moyenne du rayon des gouttelettes de nuage re, ou rayon effectif, peut être calculée par le rapport entre la masse du total des gouttes sur la distribution totale de leur volume. Il s'exprime donc comme :
+
+  
+    
+      
+        
+          r
+          
+            e
+          
+        
+        =
+        
+          
+            
+              
+                
+                  ∫
+                  
+                    0
+                  
+                  
+                    ∞
+                  
+                
+                π
+                ⋅
+                
+                  r
+                  
+                    3
+                  
+                
+                ⋅
+                n
+                (
+                r
+                )
+                
+                d
+                r
+              
+              
+                
+                  ∫
+                  
+                    0
+                  
+                  
+                    ∞
+                  
+                
+                π
+                ⋅
+                
+                  r
+                  
+                    2
+                  
+                
+                ⋅
+                n
+                (
+                r
+                )
+                
+                d
+                r
+              
+            
+          
+        
+      
+    
+    {\displaystyle r_{e}={\dfrac {\int \limits _{0}^{\infty }\pi \cdot r^{3}\cdot n(r)\,dr}{\int \limits _{0}^{\infty }\pi \cdot r^{2}\cdot n(r)\,dr}}}
+   Où : r est le rayon de chaque goutte et n(r) est la distribution.
+Selon la masse d'air et la distribution utilisée, le diamètre moyen des gouttes de nuage tel que noté par télédétection varie autour de 14 μm dans les nuages continentaux et de 15 à 20 % de plus dans ceux maritimes. Il est également possible de calculer une distribution du diamètre des cristaux de glace et le diamètre moyen sera 25 μm sur terre et d'environ 5 % de plus en mer.
+
+
+=== Distribution des gouttes de pluie ===
+
+Les précipitations générées par les nuages auront elles aussi une distribution. Elle sera différente de celle des particules du nuage puisqu'elle en constitue le sous-ensemble ayant le plus gros diamètre lui permettant de vaincre les courants ascendants et d'atteindre le sol. Les différentes précipitations (pluie, neige, grésil, etc.) et les différents types de nuages qui les produisent varient dans le temps et l'espace, les coefficients de la fonction de distribution des gouttes vont varier avec chaque situation. La relation de Marshall-Palmer est encore celle la plus citée mais il faut se rappeler qu'elle est une moyenne de nombreux événements de pluie stratiforme dans les latitudes moyennes.
+La figure montre une distribution une distribution des diamètres de gouttes lors d'événements convectifs en Floride ayant différents taux de précipitations. De nombreuses formes de fonctions de distribution se retrouvent dans la littérature météorologique pour ajuster plus précisément la granulométrie à des événements particuliers. Avec le temps les chercheurs se sont rendu compte que la distribution des gouttes est plus un problème de probabilité de la production des gouttes de différents diamètre selon le type de précipitations qu'une relation déterministe. Il existe donc un continuum de familles de courbes pour la pluie stratiforme, une autre pour la pluie convective.
+
+
+== Chaleur latente ==
+La condensation d'une gramme d'eau dégage environ 2 500 joules ou 600 calories. Sa congélation libère 330 Joules ou 80 calories. L'énergie d'un nuage correspond à la chaleur produite lors de ces changements d'état, appelée chaleur latente de condensation et de congélation. Pendant un orage d'une heure ou deux, un gros cumulonimbus peut ainsi dégager la même quantité d'énergie, estimée à 107 kWh, que l'explosion d'une petite bombe atomique de 20 kilotonnes ou celle d'une centrale nucléaire.
+
+
+== Notes et références ==
+
+
+== Voir aussi ==
+
+
+=== Articles connexes ===
+Météorologie
+Cyclogénèse
+
+
+=== Liens externes ===
+L. Dufour, « Microphysiques des nuages », Ciel et Terre, vol. 77,‎ 1961, p. 68 - 81 (lire en ligne)
+
+
+=== Bibliographie ===
+(en) K. C. Young, Microphysical Processes in Clouds, Oxford Press, 1993, 427 p.
+(en) J. M. Wallace et P.V. Hobbs, Atmospheric Science: An Introductory Survey, Academic Press, 1977, 467 p.
+ Portail de la météorologie
+ Portail de la physique

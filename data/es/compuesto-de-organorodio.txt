@@ -1,0 +1,188 @@
+Un compuesto de organorodio es un compuesto organometálico que contiene enlaces químicos entre átomos de carbono y de rodio (C-Rh). La química de organorodio estudia las propiedades químicas y reactividad del rodio y los compuestos de rodio como catalizadores en reacciones orgánicas.
+Los compuestos organometálicos de rodio comparten muchas características con los de cobalto (ver compuesto de organocobalto) pues ambos elementos pertenecen al Grupo 9 de la tabla periódica. El rodio puede existir en estados de oxidación comprendidos entre +IV y -III pero +I y +III son los más comunes. Los compuestos de rodio (I) (d8 de configuración electrónica) pueden presentar geometrías plano-cuadradas y geometría bipiramidal trigonal. Algunos compuestos de rodio importantes son homolépticos como el dodecacarboniltetrarodio Rh4(CO)12 y el hexadecacarbonilhexarodio Rh6(CO)16. El compuesto de hexarodio es menos preferido debido a su mala solubilidad. Ambos son catalizadores importantes en la hidroformilación de alquenos, a menudo acompañados por un ligando fosfina:
+
+  
+    
+      
+        
+          R
+          H
+          C
+          =
+          C
+          
+            H
+            
+              2
+            
+          
+           
+          +
+           
+          C
+          O
+           
+          +
+           
+          
+            H
+            
+              2
+            
+          
+           
+          
+            
+              →
+              
+                R
+                
+                  h
+                  
+                    4
+                  
+                
+                (
+                C
+                O
+                
+                  )
+                  
+                    12
+                  
+                
+                
+                  /
+                
+                P
+                P
+                
+                  h
+                  
+                    3
+                  
+                
+              
+            
+          
+           
+           
+          R
+          C
+          
+            H
+            
+              2
+            
+          
+          C
+          
+            H
+            
+              2
+            
+          
+          C
+          H
+          O
+        
+      
+    
+    {\displaystyle \mathrm {RHC=CH_{2}\ +\ CO\ +\ H_{2}\ {\xrightarrow {Rh_{4}(CO)_{12}/PPh_{3}}}\ \ RCH_{2}CH_{2}CHO} }
+  
+La reducción del nitrobenceno es otra reacción catalizada por este compuesto tipo:
+
+  
+    
+      
+        
+          P
+          h
+          N
+          
+            O
+            
+              2
+            
+          
+           
+          +
+           
+          
+            C
+            
+              6
+            
+          
+          
+            H
+            
+              6
+            
+          
+           
+          +
+           
+          3
+           
+          C
+          O
+           
+          
+            
+              →
+              
+                R
+                
+                  h
+                  
+                    6
+                  
+                
+                (
+                C
+                O
+                
+                  )
+                  
+                    16
+                  
+                
+              
+            
+          
+           
+           
+          P
+          h
+          N
+          H
+          C
+          O
+          P
+          h
+           
+          +
+           
+          2
+           
+          C
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {PhNO_{2}\ +\ C_{6}H_{6}\ +\ 3\ CO\ {\xrightarrow {Rh_{6}(CO)_{16}}}\ \ PhNHCOPh\ +\ 2\ CO_{2}} }
+  
+El cloruro de ciclooctadienrodio dímero [RhCl(COD)]2 es investigado por su uso en activación de enlaces CH. Un compuesto sándwich de rodio, por ejemplo, el rodoceno y un compuesto medio sándwich como el [(η5-Cp)Rh(CO)2] son bien conocidos.
+
+
+== Ciclometalación ==
+Los compuestos de rodio ciclometalados constituyen una clase importante de compuestos químicos organometálicos. A pesar de que estos compuestos están bien documentados en la literatura, los ciclometalatos de rodio (III) con función azo están en desuso. Un ejemplo típico de esta categoría como el nuevo complejo tiolato hexacoordinado ortometalado de rodio (III) trans-[Rh(C∧N∧S)Cl(PPh3)2] se sintetiza a partir de bencil-2-(fenilazo)feniltioéter y RhCl3·3H2O en presencia de exceso de PPh3 mediante escisiones de los enlaces C(sp2)−H y C(sp3)−S in situ. Este es el primer ejemplo de un compuesto de coordinación del ligando (fenilazo)tiolato. El mecanismo de formación de derivados de azobenceno ortometalados fue descrito llevándose a cabo a través de la coordinación inicial de azo-nitrógeno seguido de la sustitución electrofílica en el anillo fenilo colgante. El PPh3 juega un papel crucial en el proceso de división de C(sp3)-S. La fragmentación reductora por el mecanismo de transferencia de un solo electrón (SET) es probable que sea operativa para la ruptura del enlace C-S. A diferencia de los compuestos análogos (fenilazo)fenolato, el complejo tiolato ortometalado exhibe una onda oxidativa totalmente reversible en 0,82 V vs Ag/AgCl y esta respuesta se supone que está sobre todo centrada en el átomo de azufre del grupo tiolato.
+
+
+== Referencias ==

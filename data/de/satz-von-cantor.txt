@@ -1,0 +1,555 @@
+Der Satz von Cantor besagt, dass eine Menge 
+  
+    
+      
+        
+        A
+      
+    
+    {\displaystyle \,A}
+   weniger mächtig als ihre Potenzmenge 
+  
+    
+      
+        
+          
+            P
+          
+        
+        (
+        A
+        )
+      
+    
+    {\displaystyle {\mathcal {P}}(A)}
+   (der Menge aller Teilmengen) ist, dass also 
+  
+    
+      
+        
+          |
+        
+        
+        A
+        
+          |
+        
+        <
+        
+          |
+        
+        
+          
+            P
+          
+        
+        (
+        A
+        )
+        
+          |
+        
+      
+    
+    {\displaystyle |\,A|<|{\mathcal {P}}(A)|}
+   gilt. Er stammt vom Mathematiker Georg Cantor und ist eine Verallgemeinerung von Cantors zweitem Diagonalargument. Der Satz ist in allen Modellen gültig, die das Aussonderungsaxiom erfüllen.
+Bemerkung: Der Satz gilt für alle Mengen, insbesondere auch für die leere Menge, denn 
+  
+    
+      
+        
+          
+            P
+          
+        
+        (
+        ∅
+        )
+        =
+        {
+        ∅
+        }
+      
+    
+    {\displaystyle {\mathcal {P}}(\emptyset )=\{\emptyset \}}
+   ist einelementig. Allgemein gilt für endliche Mengen, dass die Potenzmenge einer 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  -elementigen Menge 
+  
+    
+      
+        
+          2
+          
+            n
+          
+        
+      
+    
+    {\displaystyle 2^{n}}
+   Elemente hat. Da stets 
+  
+    
+      
+        n
+        <
+        
+          2
+          
+            n
+          
+        
+      
+    
+    {\displaystyle n<2^{n}}
+  , ist der Satz von Cantor für endliche Mengen klar, er gilt aber eben auch für unendliche Mengen.
+
+
+== Beweis ==
+Offensichtlich gilt 
+  
+    
+      
+        
+          |
+        
+        A
+        
+          |
+        
+        ≤
+        
+          |
+        
+        
+          
+            P
+          
+        
+        (
+        A
+        )
+        
+          |
+        
+      
+    
+    {\displaystyle |A|\leq |{\mathcal {P}}(A)|}
+  , da 
+  
+    
+      
+        x
+        ↦
+        {
+        x
+        }
+      
+    
+    {\displaystyle x\mapsto \{x\}}
+   eine injektive Abbildung 
+  
+    
+      
+        A
+        →
+        
+          
+            P
+          
+        
+        (
+        A
+        )
+      
+    
+    {\displaystyle A\to {\mathcal {P}}(A)}
+   ist.
+Wir wollen nun zeigen, dass es keine surjektive Abbildung 
+  
+    
+      
+        A
+        →
+        
+          
+            P
+          
+        
+        (
+        A
+        )
+      
+    
+    {\displaystyle A\to {\mathcal {P}}(A)}
+   geben kann.
+Um einen Widerspruch zu erhalten, nehmen wir an, dass es doch eine surjektive Abbildung 
+  
+    
+      
+        f
+        :
+        A
+        →
+        
+          
+            P
+          
+        
+        (
+        A
+        )
+      
+    
+    {\displaystyle f\colon A\to {\mathcal {P}}(A)}
+   gibt.
+Wir definieren nun 
+  
+    
+      
+        M
+        :=
+        {
+        x
+        ∈
+        A
+        ∣
+        x
+        ∉
+        f
+        (
+        x
+        )
+        }
+        ∈
+        
+          
+            P
+          
+        
+        (
+        A
+        )
+      
+    
+    {\displaystyle M:=\{x\in A\mid x\not \in f(x)\}\in {\mathcal {P}}(A)}
+  . Aufgrund des Aussonderungsaxioms ist 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+   eine Menge und somit 
+  
+    
+      
+        M
+        ∈
+        
+          
+            P
+          
+        
+        (
+        A
+        )
+      
+    
+    {\displaystyle M\in {\mathcal {P}}(A)}
+  . Wegen der Annahme, dass 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+   surjektiv ist, gibt es ein 
+  
+    
+      
+        a
+        ∈
+        A
+      
+    
+    {\displaystyle a\in A}
+   mit 
+  
+    
+      
+        f
+        (
+        a
+        )
+        =
+        M
+      
+    
+    {\displaystyle f(a)=M}
+  . Dann gilt aber nach Definition von 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+  :
+
+  
+    
+      
+        a
+        ∈
+        f
+        (
+        a
+        )
+        =
+        M
+        
+        
+        ⟺
+        
+        a
+        ∉
+        f
+        (
+        a
+        )
+      
+    
+    {\displaystyle a\in f(a)=M\,\iff a\notin f(a)}
+  
+Dieser Widerspruch zeigt, dass die Annahme falsch ist und es keine surjektive Abbildung 
+  
+    
+      
+        A
+        →
+        
+          
+            P
+          
+        
+        (
+        A
+        )
+      
+    
+    {\displaystyle A\to {\mathcal {P}}(A)}
+   geben kann – dann kann es aber erst recht keine bijektive Abbildung geben, was den Fall 
+  
+    
+      
+        
+          |
+        
+        A
+        
+          |
+        
+        =
+        
+          |
+        
+        
+          
+            P
+          
+        
+        (
+        A
+        )
+        
+          |
+        
+      
+    
+    {\displaystyle |A|=|{\mathcal {P}}(A)|}
+   ausschließt, und wir wissen 
+  
+    
+      
+        
+          |
+        
+        A
+        
+          |
+        
+        <
+        
+          |
+        
+        
+          
+            P
+          
+        
+        (
+        A
+        )
+        
+          |
+        
+      
+    
+    {\displaystyle |A|<|{\mathcal {P}}(A)|}
+  .
+
+
+== Historisches ==
+Cantor lieferte einen ersten Beweis in seiner Abhandlung Über eine elementare Frage der Mannigfaltigkeitslehre von 1890. Hierfür zeigte er, dass die Menge aller Funktionen 
+  
+    
+      
+        g
+        :
+        A
+        →
+        
+          
+            {
+          
+        
+        0
+        ,
+        1
+        }
+      
+    
+    {\displaystyle g\colon A\to {\mathcal {\{}}0,1\}}
+   mächtiger ist als 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   selbst, wobei die Menge der Funktionen 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+   die gleiche Mächtigkeit wie die Potenzmenge von 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   besitzt (siehe Potenzmenge#Charakteristische Funktionen). Weitere Beweise stammen von Felix Hausdorff in Grundzüge der Mengenlehre (1914) und von Ernst Zermelo in Untersuchungen über die Grundlagen der Mengenlehre (1908).
+
+
+== Zusammenhang mit Cantors weiteren Arbeiten ==
+Man kann das zweite Diagonalargument von Cantor auch über den Satz von Cantor beweisen, wenn wir wissen, dass 
+  
+    
+      
+        
+          |
+        
+        
+          R
+        
+        
+          |
+        
+        =
+        
+          |
+        
+        
+          
+            P
+          
+        
+        (
+        
+          N
+        
+        )
+        
+          |
+        
+      
+    
+    {\displaystyle |\mathbb {R} |=|{\mathcal {P}}(\mathbb {N} )|}
+  . Denn dann ist 
+  
+    
+      
+        
+          |
+        
+        
+          N
+        
+        
+          |
+        
+        <
+        
+          |
+        
+        
+          R
+        
+        
+          |
+        
+        =
+        
+          |
+        
+        
+          
+            P
+          
+        
+        (
+        
+          N
+        
+        )
+        
+          |
+        
+      
+    
+    {\displaystyle |\mathbb {N} |<|\mathbb {R} |=|{\mathcal {P}}(\mathbb {N} )|}
+  .
+Des Weiteren lässt sich mit dem Satz von Cantor die zweite Cantorsche Antinomie zeigen. Diese besagt, dass die Allklasse 
+  
+    
+      
+        {
+        x
+        ∣
+        x
+        =
+        x
+        }
+      
+    
+    {\displaystyle \{x\mid x=x\}}
+   keine Menge ist, sondern eine echte Klasse. Denn nach Definition wäre die Potenzmenge der Allklasse eine Teilmenge derselben, was dem Satz von Cantor widerspricht.
+
+
+== Quellen ==
+Einführung in die Mengenlehre von Oliver Deiser. Springer, Berlin Heidelberg 2004, 2. Auflage. ISBN 978-3-540-20401-5

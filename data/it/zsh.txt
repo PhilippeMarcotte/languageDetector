@@ -1,0 +1,60 @@
+La Z shell (zsh) è una shell che può essere utilizzata come linea di comando interattiva e come un potente interprete per script di shell.
+Zsh può essere vista come un'estensione della Bourne shell dotata di numerose migliorie, fra le quali alcune caratteristiche mutuate da bash, ksh e Tcsh.
+
+
+== Origini ==
+La prima versione della Z shell fu scritta da Paul Falstad nel 1990, mentre era studente all'Università di Princeton.
+
+
+=== Etimologia ===
+Il nome zsh deriva dal professore di Yale Zhong Shao, allora un assistente presso l'Università di Princeton. Paul Falstad pensò che il nome di login di Shao, "zsh", fosse un buon nome per una shell. 
+
+
+== Funzionalità ==
+
+Le funzionalità degne di nota sono:
+Autocompletamento programmabile che aiuta l'utente ad inserire sia le opzioni che gli argomenti per la maggior parte dei comandi più utilizzati, con supporto pre-attivato per svariate centinaia di comandi
+Condivisione della cronologia dei comandi fra tutte le shell attive
+Funzionalità estesa di globbing che consente di specificare i nomi file senza la necessità di utilizzare un programma esterno quale find
+Manipolazione avanzata di variabili/array
+Modifica di comandi multi-linea in un singolo buffer
+Controllo ortografico
+Varie modalità di compatibilità, ad esempio zsh può emulare il comportamento di una Bourne shell quando eseguita come /bin/sh
+Temi per i prompt, compresa l'abilità di posizionare parti del prompt sul lato destro dello schermo e di nasconderle automaticamente quando si sta inserendo un comando lungo
+Moduli caricabili, che provvedono, fra le altre cose, a fornire: interfaccia TCP completa, controlli per Socket di dominio locale, un client FTP e funzionalità matematiche estese
+Completamente personalizzabile
+Ad attestare le vaste funzionalità di questa shell vi è la famosa prima frase della manpage unix della shell, la cui traduzione è interpretabile come "A causa delle molte funzionalità di zsh, il manuale è stato suddiviso in numerose sezioni", riportando poi un elenco di diciassette punti.
+
+
+== Note ==
+
+
+== Bibliografia ==
+Oliver Kiddle, Peter Stephenson e Jerry Peek, From Bash to Z Shell: Conquering the Command Line, Apress, 2004, ISBN 978-1-59059-376-9.
+
+
+== Voci correlate ==
+Shell (informatica)
+Linguaggio di scripting
+Bash
+
+
+== Collegamenti esterni ==
+
+
+=== Ufficiali ===
+(EN) Sito principale, zsh.org.
+(EN) Pagina del Progetto su Sourceforge, sourceforge.net.
+(EN) Archivio della Mailing List, zsh.org.
+(EN) ZSH Wiki, zshwiki.org.
+
+
+=== Articoli ===
+(EN) Zzappers Best of ZSH Tips, rayninfo.co.uk.
+(EN) TuxRadar: Z Shell Made Easy, tuxradar.com.
+
+
+=== Fan pages ===
+(EN) Adam's ZSH page, adamspiers.org.
+(EN) Christian's ZSH page, strcat.de.
+(EN) ZSH-Lovers, grml.org.

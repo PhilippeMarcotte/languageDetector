@@ -1,0 +1,36 @@
+Steven Howard Weintraub (* 25. Januar 1951 in New York City) ist ein US-amerikanischer Mathematiker und Professor an der Lehigh University. Er befasst sich mit Algebraischer Geometrie, Algebra und Differentialtopologie.
+Weintraub ging auf die Stuyvesant High School in New York und wurde 1974 an der Princeton University bei Wu-Chung Hsiang promoviert (Semi-free 
+  
+    
+      
+        
+          Z
+          
+            p
+          
+        
+      
+    
+    {\displaystyle Z_{p}}
+  -actions on highly connected manifolds). Er befasste sich unter anderem mit Siegelschen Modulflächen und ist Autor mehrerer Lehrbücher.
+
+
+== Schriften ==
+mit W. A. Adkins: Algebra: An Approach via Module Theory, Graduate Texts in Mathematics 136, Springer-Verlag, 1992, 1999
+mit Klaus Hulek, C. Kahn: Moduli Spaces of Abelian Surfaces: Compactification, Degenerations and Theta Functions, Walter de Gruyter, 1993
+Differential Forms: A Complement to Vector Calculus, Academic Press, 1996
+Representation Theory of Finite Groups: Algebra and Arithmetic, American Mathematical Society, 2003 (Graduate Series in Mathematics 59)
+Galois Theory, Springer-Verlag, 2006 (Universitext), 2. Auflage 2009
+Factorization: Unique and Otherwise, A. K. Peters, 2008 (Canadian Mathematical Society Treatises in Mathematics)
+Jordan Canonical Form: Application to Differential Equations, Morgan and Claypool, 2008
+A Guide to Advanced Linear Algebra, Mathematical Association of America, 2011
+mit Ronnie Lee: The Siegel modular variety of degree two and level four, Memoirs AMS, 1998
+mit Ronnie Lee: The Siegel modular variety of degree two and level four: a report in Arithmetic of complex manifolds (Erlangen, 1988), Lecture Notes in Math. 1399, Springer Verlag, 1989, S. 89-102
+mit Ronnie Lee: An interesting algebraic variety, Math. Intelligencer 8, 1986, S. 34-39
+
+
+== Weblinks ==
+Homepage
+
+
+== Einzelnachweise ==

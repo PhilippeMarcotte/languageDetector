@@ -1,0 +1,19 @@
+Oenococcus oeni (Garvie, 1967) Dicks et al. 1995 è un batterio Gram-positivo appartenente alla famiglia delle Leuconostocaceae; rappresenta l'unica specie nota del genere Oenococcus Dicks et al. 1995.
+È responsabile della fermentazione malolattica del vino.
+
+
+== Descrizione ==
+Cocchi disposti a coppie o catenelle, gram positivi, immobili, asporigeni, anaerobi aerotolleranti, eterofermentanti (glucosio -> acido D-lattico 50%min + acido acetico + alcol etilico + anidride carbonica).
+
+
+== Importanza enologica ==
+L'importanza di questa specie di batteri lattici è dovuta al fatto che è quella responsabile della fermentazione malolattica del vino. La malolattica non è una vera fermentazione, bensì una degradazione dell'acido malico in acido L-lattico.
+Questi microrganismi sono capaci di svilupparsi a pH relativamente bassi (pH del vino 3,5-3,7), dannosi invece per gli altri lattobacilli. Perché la fermentazione malolattica avvenga però, sono necessarie alcune condizioni chimico-fisiche fondamentali: temperatura minima di 18-20 °C, concentrazione di anidride solforosa molecolare inferiore a 0,6 mg/l, concentrazione di etanolo inferiore al 10-13% v/v e assenza di residui zuccherini nel vino (che porterebbero ad una fermentazione vera e propria).
+Molte cantine preferiscono ormai inoculare il vino con ceppi selezionati di batteri malolattici che facilitano la partenza della fermentazione malolattica e garantiscono l'assenza di composti indesiderati come metaboliti secondari (per esempio le ammine biogene, tossiche).
+Questo processo può portare importanti vantaggi sui vini sia bianchi che rossi prodotti a latitudini molto alte (Reims, Bordeaux, Alsazia) che hanno un contenuto in acido malico elevato e svantaggi soprattutto per i vini bianchi o i vini base spumante aromatici (Prosecco Moscato ecc.) che maturano a latitudini più basse. Nelle regioni del sud difficilmente si fa questo tipo di processo per la quasi totale assenza dell'acido malico che con le alte temperature viene degradato.
+
+
+== Altri progetti ==
+
+ Wikimedia Commons contiene immagini o altri file su Oenococcus oeni
+ Wikispecies contiene informazioni su Oenococcus oeni

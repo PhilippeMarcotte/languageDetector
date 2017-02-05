@@ -1,0 +1,30 @@
+L’HGPO (Hyper Glycémie Per Os) est un examen de dépistage du diabète sucré (diabète gestationnel, diabète de type 1 et diabète de type 2). Il consiste en l'absorption d'une quantité standard de glucose par voie orale avec suivi de la réponse physiologique de l'organisme (glycémie et insulinémie). Il se réalise sur ordonnance dans un laboratoire médical.
+
+
+== Principes de l'examen ==
+Chez un sujet normal, la prise d'une dose de glucose est suivie d'une augmentation modérée de la glycémie, régulée par un pic d'insulinémie précoce. Ainsi l'observation d'absence de pic insulinémique, d'un pic insulinémique tardif ou d'une forte augmentation de la glycémie sont autant d'anomalies qui révèlent une insulino-résistance ou un diabète sucré.
+
+
+== Déroulement de l'examen ==
+Le sujet doit se présenter à jeun. Il doit cependant avoir eu dans les 3 jours précédant un apport suffisant en glucides (environ 150 à 200 grammes par jour). Le sujet avale une dose de 75 g de glucose diluée dans 150 à 200 ml d'eau. Cette dose peut varier dans le diagnostic du diabète gestationnel (50 à 100g), tandis que chez l'enfant on administrera 1,75 g/kg sans dépasser 75 g. L'insulinémie et la glycémie sont mesurées au moins à deux reprises : lorsque le sujet est à jeun et deux heures après la prise de glucose.
+
+
+== Normes et interprétation ==
+
+
+=== Glycémie ===
+Le résultat est normal si la glycémie ne dépasse pas 1,1 g/l à jeun et 1,4 g/l à la 2e heure. Une intolérance au glucose est révélée lorsque la glycémie dépasse une de ces valeurs et un diabète sucré est diagnostiqué lorsque la glycémie dépasse 1,26 g/l à jeun ou 2 g/l à la 2e heure.
+
+
+=== Insulinémie ===
+Les normes de l'insulinémie sont de 15 µU/ml à jeun et de 80 µU/ml à la 2e heure.
+
+
+== Articles connexes ==
+Test de O'Sullivan
+Diabète néonatal
+
+
+== Liens externes ==
+« tableau HGPO » (Archive • Wikiwix • Archive.is • Google • Que faire ?)
+ Portail de la médecine

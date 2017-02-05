@@ -1,0 +1,250 @@
+Die Ethoxylierung ist die Anlagerung von Ethylenoxid (Oxiran) an Verbindungen wie beispielsweise Alkohole, Phenole, Amine oder Carbonsäuren.
+
+
+== Durchführung ==
+Zur Ethoxylierung wird das Rohmaterial mit einem Katalysator, z.B. Kaliumhydroxid, und mit Ethylenoxid versetzt. Das Gemisch wird unter Stickstoffdruck bei ca. 5 bar auf Temperaturen zwischen 80 und 150 °C aufgeheizt.
+Es wird ein Gemisch mit einem relativ weiten Ethoxylierungsgrad erhalten. Durch Wahl geeigneter Katalysatoren, z. B. Erdalkali-Salze, kann die Verteilung der Kettenlängen allerdings eingeengt werden. Man erhält dann sogenannte "narrow range ethoxylates".
+
+
+== Reaktionsbeispiel ==
+Ethoxylierung eines Alkohols:
+
+  
+    
+      
+        
+          R
+          O
+          H
+          +
+          O
+          
+            H
+            
+              −
+            
+          
+          ⟶
+          R
+          
+            O
+            
+              −
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {ROH+OH^{-}\longrightarrow RO^{-}+H_{2}O} }
+  
+
+  
+    
+      
+        
+          R
+          
+            O
+            
+              −
+            
+          
+          +
+          
+            C
+            
+              2
+            
+          
+          
+            H
+            
+              4
+            
+          
+          O
+          ⟶
+          R
+          O
+          
+            
+              −
+            
+          
+          
+            C
+            
+              2
+            
+          
+          
+            H
+            
+              4
+            
+          
+          
+            O
+            
+              −
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {RO^{-}+C_{2}H_{4}O\longrightarrow RO{\mathord {-}}C_{2}H_{4}O^{-}} }
+  
+
+  
+    
+      
+        
+          R
+          O
+          
+            
+              −
+            
+          
+          
+            C
+            
+              2
+            
+          
+          
+            H
+            
+              4
+            
+          
+          
+            O
+            
+              −
+            
+          
+          +
+          
+            C
+            
+              2
+            
+          
+          
+            H
+            
+              4
+            
+          
+          O
+          ⟶
+          R
+          (
+          O
+          
+            
+              −
+            
+          
+          
+            C
+            
+              2
+            
+          
+          
+            H
+            
+              4
+            
+          
+          
+            )
+            
+              2
+            
+          
+          
+            O
+            
+              −
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {RO{\mathord {-}}C_{2}H_{4}O^{-}+C_{2}H_{4}O\longrightarrow R(O{\mathord {-}}C_{2}H_{4})_{2}O^{-}} }
+  
+
+  
+    
+      
+        
+          ⟶⟶
+          
+            
+              →
+              
+                +
+                
+                  H
+                  
+                    +
+                  
+                
+              
+            
+          
+          R
+          (
+          O
+          
+            
+              −
+            
+          
+          
+            C
+            
+              2
+            
+          
+          
+            H
+            
+              4
+            
+          
+          
+            )
+            
+              n
+            
+          
+          O
+          H
+        
+      
+    
+    {\displaystyle \mathrm {\longrightarrow \longrightarrow {\xrightarrow {+H^{+}}}R(O{\mathord {-}}C_{2}H_{4})_{n}OH} }
+  
+Bei der Ethoxylierung von Aminen braucht die Anlagerung von Ethylenoxid an den Stickstoff im Allgemeinen nicht katalysiert zu werden, da dieser nukleophil genug ist.
+
+
+== Anwendung ==
+Die so erhaltenen Ethoxylate werden in großem Umfang produziert und für vielfältige Zwecke eingesetzt, z. B.:
+Ethoxylate von Fettalkoholen, Rizinusöl, Sorbitanen (mit Fettsäuren verestert), Alkylphenolen, Fettaminen oder Fettsäuren werden als nichtionische Tenside oder als Rohstoff für anionische Tenside verwendet. Durch Ethoxylierung von Polypropylenglycol (PPG) werden Blockcopolymere (Pluronics) erhalten, die ebenfalls als nichtionische Tenside Verwendung finden.
+Durch basenkatalysierte Ethoxylierung von Ethandiol (Ethylenglycol) bzw. durch ringöffnende Polymerisation von Ethylenoxid mit Wasser als Startmolekül erhält man Polyglycole, deren niedermolekulare Homologe (auch verethert und/oder verestert) als Lösemittel eingesetzt werden. Höhere Homologe dienen z. B. als Schmiermittel, zur Herstellung von Hydraulikflüssigkeiten oder als Bindemittel.
+
+
+== Weblinks ==
+Patent der Henkel KGaA

@@ -1,0 +1,28 @@
+UC Browser ist ein Webbrowser für mobile Geräte, der erstmals im August 2004 erschienen ist. Ursprünglich war es eine J2ME-Applikation, jedoch gibt es diese auch für Android, iOS, Windows Phone (ehemals Windows Mobile), Symbian, Java und diverse andere Betriebssysteme. Im März 2014 erreichte die Anwendung über 500 Millionen User weltweit, wobei der größte Teil der Nutzer aus der Volksrepublik China und Indien stammt.
+
+
+== Eigenschaften ==
+Der Internetbrowser verwendet Cloud-Beschleunigung und Datenkompressionstechnologien. Die Server funktionieren als Proxys, welche die Daten vor dem Senden komprimieren. Dies führt dazu, dass Web-Inhalte schneller geladen werden, jedoch steigt dadurch die Latenz. Der Browser kann an verschiedene Netzwerkumgebungen angepasst werden und unterstützt HTML5. Außerdem besitzt er eine Cloud-Synchronisierungsfunktion. Seit August 2014 hat UC Browser einen Werbeblocker integriert.
+
+
+== Systemvoraussetzungen ==
+Unter Android ist mindestens Version 2.2 vorausgesetzt, unter iOS Version 4.3 oder höher. Für die Tabletversionen ist Android 4.0 oder iOS 6.0 erforderlich.
+
+
+== Versionen ==
+Der Browser ist besonders bei Android-Nutzern beliebt, von 500 Millionen aktiven Nutzern im ersten Quartal 2014 verwenden 300 Millionen Googles Android-Betriebssystem.
+
+
+=== Android ===
+Unter Android gibt es diverse Versionen für jeweilige Gerätetypen. Einerseits gibt es die Standardversion, die sich „UC Browser“ nennt. Diese funktioniert auf den meisten Smartphones und Tablets. Zudem gibt es eine spezielle Tabletversion, die „UC Browser HD“ heißt und für Tablets angepasst ist, sodass automatisch tabletoptimierte Versionen von Webseiten aufgerufen werden; außerdem enthält diese Version eine benutzerfreundlichere UI für Tablets. Die „UC Browser Mini“-Version wurde für ältere Smartphones und Mobilfunknetzwerke entwickelt, um Mobilfunkkosten zu sparen. Neuerdings wurde eine spezielle Version entwickelt, wie der „UC Browser for x86 Phones“. Diese App ist für Smartphones und Tablets bestimmt, welche einen Intel x86-Prozessor besitzen.
+
+
+=== iOS ===
+Unter Apples iOS gibt es eine Version für das iPod touch, iPhone und iPad.
+
+
+=== Windows ===
+Für Windows wurde UC Browser als erstes für das mobile Betriebssystem Windows Mobile (heute Windows Phone) entwickelt. Nach der Veröffentlichung von Windows 8 und Windows RT wurde der Browser für diese Betriebssysteme als App im Windows Store veröffentlicht, welcher sowohl die x86-/x64-, als auch die ARM-Plattform unterstützt.
+
+
+== Einzelnachweise ==

@@ -1,0 +1,6 @@
+Coq (gallo en francés) es un sistema de ayuda para la demostración de teoremas que maneja aserciones matemáticas, verifica mecánicamente las pruebas de aserciones, ayuda a encontrar pruebas para esas aserciones y extrae programas certificados (correctos) a partir de las pruebas constructivas de aserciones que representan su especificación formal. Coq trabaja basándose en la teoría del Cálculo de Construcciones Inductivas, que es una teoría derivada del Cálculo de Construcciones.
+Fue desarrollado en Francia, en el proyecto LogiCal, entre el INRIA, la École Polytechnique, la Universidad París XI y el CNRS. Dirigen el desarrollo los investigadores Gilles Dowek y Christine Paulin-Mohring. Coq está escrito en el lenguaje Ocaml.
+
+
+== Enlaces externos ==
+Página de Coq

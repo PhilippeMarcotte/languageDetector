@@ -1,0 +1,49 @@
+STS-84 (englisch Space Transportation System) ist eine Missionsbezeichnung für den US-amerikanischen Space Shuttle Atlantis (OV-104) der NASA. Der Start erfolgte am 15. Mai 1997. Es war die 84. Space-Shuttle-Mission, der 19. Flug der Raumfähre Atlantis, der achte Flug im Rahmen des Shuttle-Mir-Programms und die 6. Kopplung einer US-Raumfähre an die Raumstation Mir.
+
+
+== Mannschaft ==
+
+
+=== Shuttle-Besatzung ===
+Charles Precourt (3. Raumflug), Kommandant
+Eileen Collins (2. Raumflug), Pilotin
+Carlos Noriega (1. Raumflug), Missionsspezialist
+Edward Lu (1. Raumflug), Missionsspezialist
+Jean-François Clervoy (2. Raumflug), Missionsspezialist (Europäische Weltraumorganisation ESA/Frankreich Frankreich)
+Jelena Kondakowa (2. Raumflug), Missionsspezialistin (Roskosmos/Russland Russland)
+
+
+=== Mir-Crew Hinflug ===
+Michael Foale (4. Raumflug)
+
+
+=== Ersatz ===
+James Voss für Foale
+
+
+=== Mir-Crew Rückflug ===
+Jerry Linenger (2. Raumflug)
+(nach einer Flugzeit von 132 Tagen, 4 Stunden und 1 Minute zur Erde zurückgekehrt; Hinflug mit STS-81)
+
+
+== Missionsbeschreibung ==
+Hauptaufgaben der 6. Mir-Docking-Mission waren Material- und Crewtransport. Michael Foale übernahm den Stammplatz in der Station von Jerry Linenger, der nach viermonatigem Flug mit der Atlantis zur Erde zurückkehrte. Ebenfalls an Bord war ein Spacehab-Doppelmodul, in dem verschiedene biologische Experimente mit dem Biorack ausgeführt wurden. Das Biorack enthielt mehrere Kammern und Zentrifugen, in denen verschieden starke Schwerkräfte simuliert werden konnten. Untersucht wurden die Auswirkungen der Schwerelosigkeit und kosmischer Strahlung auf Pflanzenwurzeln, Einzeller und weiße Blutkörperchen. Ein spezieller Strahlungsmonitor zeichnet die Stärke der einfallenden kosmischen Strahlung über die gesamte Flugdauer auf.
+Die Experimente mit dem Biorack wurden auch nach der Kopplung der Raumfähre an die Station fortgesetzt. Kommandant und Pilotin waren in den ersten Tagen ausschließlich mit dem Annäherungsmanöver beschäftigt. Nach Inbetriebnahme und Test der Navigationssysteme wurde eine zusätzliche Kamera installiert, die genau auf das Zielkreuz im Kopplungsadapter der Raumstation ausgerichtet werden muss. Das Docking per Handsteuerung klappte planmäßig, 42 Stunden nach dem Start.
+Hauptaufgabe während des gemeinsamen Fluges war der Transport von 249 Gegenständen zwischen den beiden Raumfahrzeugen. Dazu gehörten vor allem Trinkwasser, Ausrüstungsgegenstände und Forschungsmaterial. So wurde eine Proteinkristallzuchteinheit in die Atlantis transportiert, während in der Gegenrichtung ein neuer Sauerstoffgenerator an Bord der Station gebracht wurde. Während der Mission wurde eine Fotoserie von der Station angefertigt, die Aussagen über ihren Zustand nach zehnjährigem Flug erlauben soll. Ebenso wurden Luft- und Wasserproben in der Station genommen, die später auf der Erde analysiert wurden. Verschiedene Interviews und Videokonferenzen sorgten für kurze Verschnaufpausen. Vor allem Michael Foale, der britischer Abstammung ist, und Carlos Noriega, der in Peru geboren wurde, waren gefragt. Außerdem befanden sich ein ESA-Astronaut und eine russische Raumfahrerin an Bord der Atlantis.
+Jerry Linenger und Michael Foale regelten währenddessen die Übergabemodalitäten. Linenger kehrte nach 132 Tagen an Bord der Raumstation Mir mit der Atlantis auf die Erde zurück. Seinen Platz im Modul Spektr übernahm Michael Foale, der von seinen russischen Kollegen Tsiblijew und Lasutkin mit der Station vertraut gemacht wurde.
+Während des gemeinsamen Fluges von Atlantis und Mir wurden verschiedene Belastungstests durchgeführt. Durch Zünden der Manövriertriebwerke des Shuttle oder der Raumstation werden insbesondere die Kopplungsadapter und die Solarzellenflächen großen Belastungen ausgesetzt. Die Stabilität dieser Strukturen wurde unter verschiedenen Bedingungen gemessen. Diese Untersuchungen sollen auch Rückschlüsse auf die Stabilität der künftigen Internationalen Raumstation ISS zulassen.
+Nach fünf Tagen angestrengter Arbeit wurden die Luken geschlossen und die Atlantis von der Raumstation Mir abgekoppelt. Ein Federmechanismus drückte die beiden Raumflugkörper etwa einen halben Meter auseinander, bevor die Steuertriebwerke der Raumfähre gezündet werden konnten. Bei Zwischenstopps in 30, 100, 500 und 1.000 Metern Entfernung wurde ein von der ESA entwickeltes Annäherungssystem auf Laserbasis getestet. Mit ihm können genaue Daten über Abstand und relative Geschwindigkeit gewonnen werden. Das sonst übliche Umfliegen der Station entfiel damit diesmal. Während Astronaut Linenger verstärkt auf dem Laufband seine Muskeln trainierte, bereiteten seine Kollegen alles für die Rückkehr vor. Alle Apparaturen wurden gesichert, die Systeme des Spacehab abgeschaltet und die Navigationsgeräte getestet. Da alle Tests erfolgreich verliefen, landete die Atlantis planmäßig nach neuntägigem Flug am Cape Canaveral.
+
+
+== Siehe auch ==
+Liste der bemannten Raumflüge
+Shuttle Docking Module
+Liste der Raumfahrer
+Bemannte Raumfahrt
+
+
+== Weblinks ==
+
+NASA-Missionsüberblick (englisch)
+Videozusammenfassung mit Kommentaren der Besatzung (englisch)
+NASA-Videos der Mission (englisch)

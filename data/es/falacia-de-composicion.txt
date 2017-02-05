@@ -1,0 +1,22 @@
+La falacia de composición es una falacia que consiste en inferir que algo es verdadero acerca de un todo solo porque es verdadero acerca de una o varias de sus partes. Por ejemplo: «Esta pieza de metal no puede romperse con un martillo. Por lo tanto, la máquina de la cual es parte no puede romperse con un martillo.» Esto es claramente un razonamiento falaz, pues muchas máquinas pueden romperse hasta sus partes constitutivas aunque sus partes sean irrompibles.
+
+
+== Falacias de composición en economía ==
+También pueden distinguirse falacias de composición en donde se infiere algo acerca de un todo porque es verdadero acerca de todas sus partes. Por ejemplo: «Todos en el país pagan sus deudas. Por lo tanto, el país paga sus deudas.»
+En economía puede resultar ventajoso para un país ser exportador neto (exportar bienes por más valor que los bienes importados) pero este comportamiento de los países no puede generalizarse a todos, ya que no todos los países pueden ser exportadores netos, esto es, exportar más de lo que se importa. Sólo algunos países podrán ser exportadores netos y otros, obligatoriamente serán importadores netos.
+
+
+== Falacia de composición versus falacia de división ==
+El converso de la falacia de composición es la falacia de división, en donde se infiere que algo es verdadero acerca de las partes porque es verdadero acerca del todo.
+
+
+== Falacia de composición versus generalización apresurada ==
+La falacia de composición muchas veces se confunde con la falacia de la generalización apresurada, en la que se infiere algo acerca de una población a partir de una parte no suficientemente representativa de la misma.
+
+
+== Véase también ==
+Mereología
+Falacia de división
+
+
+== Notas y referencias ==

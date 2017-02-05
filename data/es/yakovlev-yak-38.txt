@@ -1,0 +1,101 @@
+El Yakovlev Yak-38 (en ruso: Як-38, designación OTAN: Forger ) fue un caza de despegue vertical a reacción fabricado por la oficina de diseño soviética Yakovlev durante los años 70. Entró en servicio en la Aviación Naval Soviética, convirtiéndose en el segundo avión soviético de estas características que opera en portaaviones, después del Yakovlev Yak-36.
+
+
+== Diseño y desarrollo ==
+A lo largo de los años 60, el OKB de Yakovlev proyectó un avión de despegue vertical (aunque también con capacidad para despegar y aterrizar en distancias cortas, o V/STOL), construido con un turborreactor R27V-300 en la parte trasera y dos motores de sustentación delanteros, Kolesov RD36-35FV instalados detrás de la cabina del piloto.
+
+La Armada Soviética se interesó en el concepto y aprobó la construcción de los primeros prototipos a finales de 1967; el propósito era contar con una fuerza embarcada de cazas navales V/STOL en los portaaviones tipo Kiev, para misiones de intercepción y reconocimiento. El avión se designó Yak-36M, a pesar de sus notables diferencias respecto al Yak-36 original. Cinco prototipos Yak-36M fueron pedidos, incluyendo un biplaza de entrenamiento.
+Dos bombarderos Túpolev Tu-16 se usaron en el programa de pruebas, para probar la aerodinámica de los fuselajes del Yak-36M. Posteriormente, los aviones se completaron y estuvieron listos para los vuelos de prueba; el primer vuelo cautivo del Yak-36M tuvo lugar el 22 de septiembre de 1970, y el primer vuelo convencional el 2 de diciembre de ese mismo año.
+Las primeras pruebas de vuelo fueron muy complicadas, debido a la falta de un control de vuelo por computadora y cables fly by wire y la primera transición, de vuelo vertical a horizontal y luego, aterrizaje vertical, no pudo efectuarse hasta el 25 de febrero de 1972, con el piloto de pruebas Mikhail S. Deksbah a los controles. El 18 de noviembre del mismo año, Deksbah realizó el primer despegue vertical desde el portaaviones Moskva.
+Después de largas mejoras y algunos accidentes, el modelo fue autorizado para producción en serie, a inicios de 1975; el avión fue operacional por primera vez con la Aviación Naval Soviética en octubre de 1976, como Yak-38 ("Forger-A").
+
+El Yak-38 difiere bastante de su contraparte occidental, el Harrier; por lo general, los aviones operativos estaban pintados de azul marino oscuro. El Yak-38 es un monoplano de implantación media cantilever, de corta envergadura y 42º de aflechamiento y dotadas de flaps para aterrizajes convencionales y superficies caudales, también en flecha; los dos ventiladores RD36-35FV están montados de forma vertical en tándem, detrás de la cabina del piloto y reciben el aire, mediante una compuerta que se abre en la parte dorsal del avión, para luego expulsarlo por toberas de escape bajo el avión.
+El motor de turbina principal R27V-300 se encuentra situado de forma horizontal en el fuselaje, detrás de los motores verticales. El tren de aterrizaje es del tipo triciclo; la cabina monoplaza lleva un asiento eyectable K-36VM, que puede activarse de forma automática mediante el sistema SK-EM, durante los despegues y aterrizajes en caso de fallas; la aviónica es simple, instrumentos análogos tipo reloj, con radios, sistema de identificación amigo/enemigo (IFF), sistema de navegación, y sistema registrador de datos. No lleva radar en el cono delantero ni sistema de dirección de tiro.
+El flujo del motor R27V-300 es expulsado a través de dos toberas activadas hidráulicamente, las cuales giran hacia abajo para los despegues y luego, hacia atrás para la maniobra de transición de vuelo horizontal. Además tienen posiciones intermedias de 25 y 45º. Los ventiladores verticales RD36V-35FV son compactos, ligeros y potentes.
+El avión cuenta con dos pilones en cada ala para cargas lanzables, como tanques de combustible, bombas de caída libre, cohetes no guiados, un contenedor tipo Pod con cañón, o misiles aire-aire AA-8 Aphid, o misiles aire-tierra AS-10 Karen.
+Existió una conversión biplaza, Yak-36MU ("Forger-B"), que efectuó su primer vuelo el 17 de agosto de 1972, con el piloto Mikhail Deksbah a los controles. Entró en servicio en 1978 como Yak-38U.
+El Yak-38M fue una versión mejorada, que voló por vez primera en 1982; incorpora el nuevo motor Tumansky R-28-300 de empuje vectorizable y los ventiladores verticales Kolesov RD-38, con potencia incrementada en un 10%; además lleva una rueda delantera gobernable, que permite mayor capacidad de manejo en tierra o en la cubierta del barco; otros cambios incluyen un ventilador trasero revisado, capaz de girar 5 grados hacia adelante y 30 grados hacia atrás, posiblemente con el fin de permitir mayor potencia para despegues cortos, además de un sistema de inyección de oxígeno para los ventiladores.
+Cerca de 150 Yak-38 de todos los modelos fueron construidos, todos para su despliegue en los portaaviones tipo Kiev. Al parecer, el "Forger" no cumplió con los propósitos para los cuales se diseñó. En el caso del Sea Harrier, para aumentar la carga útil se efectuaba un despegue corto (STOL) en la rampa del portaaviones y un salto en una rampa "Ski-Jump", logrando de éste modo, llevar más armas y combustible.
+El Yak-38, en cambio, estaba limitado a despegar verticalmente, bajo los controles totalmente manuales del piloto, que en forma valiente controlaba la inestabilidad del avión en el momento del despegue, durante algunos segundos claves y no podía hacerlo rodando en la cubierta del barco.
+El radio de acción de combate era de solo 100 km, debido en parte al tremendo consumo de combustible del despegue. Durante su evaluación operativa en Afganistán en 1980, el Yak-38 demostró sus limitaciones en cuanto a capacidad de armamento y alcance, difícil mantenimiento y problemas de vuelo; por lo tanto, podría decirse que el Yak-38 fue un demostrador tecnológico operativo, para despegues verticales sobre la cubierta de un portaaviones; pero a pesar de sus fallos, el Yak-38 era un caza muy útil en misiones de apoyo a tierra y reconocimiento, aunque sería completamente ineficaz en combate "Aire-aire" ante los nuevos cazas estadounidenses supersónicos de alto rendimiento de vuelo, pesados y de largo alcance F-14 Tomcat embarcados en los nuevos portaaviones de la Armada estadounidense, con los cuales tendría que enfrentarse para defender a la escuadra naval de Rusia, en caso de un combate naval moderno.
+
+
+== Variantes ==
+Yak-36M "Forger"
+La versión de preproducción inicial, difiere ligeramente del Yak-38. Pesaba solo 6.650 kg, en comparación con los 7.370 kg del Yak-38 y los motores también eran menos potentes.
+Yak-38 "Forger-A"
+El Yak-38 fue el primer modelo de producción, voló por primera vez el 15 de enero de 1971, y entró en servicio con la Aviación Naval Soviética el 11 de agosto de 1976. Se construyeron un total de 143 aviones Yak-38.
+Yak-38M "Forger-A"
+El Yak-38M fue una versión actualizada del Yak-38, las principal diferencias era que incorporaba los nuevos motores Tumansky R-28V-300 y Rybinsk RD-38. El peso máximo de despegue en VTOL se incrementó de 10 × 300 kg a 11 × 300 kg, o 12.000 kg en despegue corto. Las tomas de aire fueron ensanchadas ligeramente y los pilones subalares fueron reforzados para portar hasta una tonelada de armamento. El Yak-38M comenzó a entrar en servicio a partir de junio de 1985. Fueron producidos un total de 50 ejemplares Yak-38M.
+Yak-38U "Forger-B"
+Versión biplaza de entrenamiento para la Aviación Naval Soviética, esta versión difiere del aparato básico en que tiene el fuselaje alargado para acomodar la cabina biplaza. El Yak-38U entró en servicio el 15 de noviembre de 1978, fueron producidos 38 aviones de esta versión, siendo entregado el último en 1981.
+
+
+== Sucesor ==
+En Rusia se construyó el Yakovlev Yak-141 de velocidad supersónica, mayor alcance de combate, capacidad de carga de armas y combustible, vuelo controlado por cables fly by wire y una nueva computadora de control de vuelo, que ayudaría al piloto a controlar el avión, en el momento del despegue vertical, mejorando todas las deficiencias del anterior modelo experimental Forger en donde el piloto debía controlar el avión con la palanca de mando, en forma temeraria en el momento del despegue vertical y la transición a vuelo horizontal.
+Este nuevo modelo de un caza naval, disponible con motores de empuje VTOL (del inglés de Vertical Take-Off and Landing) despegues y aterrizaje verticales, debía ser transportado en el nuevo Portaaviones Almirante Kuznetsov construido especialmente para transportar helicópteros y aviones de despegue vertical, pero finalmente fue seleccionado el nuevo caza naval pesado Sujói Su-33 que es una adaptación especial del afamado caza de superioridad aérea Sujói Su-27 de base en tierra, con mayor potencia, velocidad, capacidad de carga de armas y combustible, con varias mejoras y adaptaciones especiales, para poder embarcarlo en el Portaaviones y tenerlo operativo en forma inmediata, ahorrando costos de diseño y desarrollo, que podrían durar muchos años, hasta tener un prototipo totalmente operativo.
+
+
+== Operadores ==
+ Unión Soviética
+Armada Soviética
+ Ucrania
+Armada Ucraniana
+
+
+== Especificaciones ==
+
+
+=== Características generales ===
+Tripulación: 1 piloto
+Longitud: 16,37 m
+Envergadura: 7,32 m
+Altura: 4,25 m
+Superficie alar: 18,50 m²
+Peso vacío: 7.385 kg
+Peso máximo al despegue: 11.300 kg
+Planta motriz: 1× turborreactor Tumansky R-28 V-300.
+Empuje normal: 66,7 kN 15.000 lbf de empuje.
+
+
+=== Rendimiento ===
+Velocidad máxima operativa (Vno): 1.280 km/h 795 mph
+Alcance: 1.300 km 807 mi
+Techo de vuelo: 11.000 m 36.089 pies
+Régimen de ascenso: 4.500 m/min 14.760 pies/min
+
+
+=== Armamento ===
+
+
+== Véase también ==
+Yakovlev
+
+
+=== Desarrollos relacionados ===
+Yakovlev Yak-36
+Yakovlev Yak-141
+
+
+=== Aeronaves similares ===
+ Dassault Mirage IIIV
+ EWR VJ 101
+ VFW VAK 191B
+ Douglas A-4 Skyhawk
+ Lockheed XV-4 Hummingbird
+ Rockwell XFV-12
+ Hawker Siddeley Harrier
+ Hawker Siddeley P.1127
+ Yakovlev Yak-141
+
+
+=== Secuencias de designación ===
+Aviones de caza de Yakovlev: Yak-1 • Yak-3 • Yak-7 • Yak-9 • Yak-15 • Yak-17 • Yak-23 • Yak-25 · Yak-28 • Yak-38
+
+
+== Referencias ==
+
+
+== Enlaces externos ==
+ Wikimedia Commons alberga contenido multimedia sobre Yakovlev Yak-38. Commons
+Información e imágenes del Yakovlev Yak-38 (en inglés)

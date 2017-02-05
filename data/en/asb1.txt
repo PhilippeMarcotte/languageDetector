@@ -1,0 +1,12 @@
+Ankyrin repeat and SOCS box protein 1 is a protein that is in humans, encoded by the ASB1 gene.
+The protein encoded by this gene is a member of the ankyrin repeat and SOCS box-containing (ASB) family of proteins. They contain ankyrin repeat sequence and SOCS box domain. The SOCS box serves to couple suppressor of cytokine signalling (SOCS) proteins and their binding partners with the elongin B and C complex, possibly targeting them for degradation.
+
+
+== References ==
+
+
+== External links ==
+Human ASB1 genome location and ASB1 gene details page in the UCSC Genome Browser.
+
+
+== Further reading ==

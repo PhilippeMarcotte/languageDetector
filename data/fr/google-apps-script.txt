@@ -1,0 +1,17 @@
+Google Apps Script est un langage de programmation propre à Google. Il permet de réaliser des scripts à l'intérieur de certains services de Google, dont Google Apps. Ainsi il est possible de modifier le comportement du logiciel tableur, Google Spreadsheets, à l'instar de VBA pour Microsoft Excel.
+
+
+== Concepts ==
+Google Apps Script est très proche du JavaScript. Si ce dernier est habituellement utilisé pour modifier des pages web, Google Apps Script accède aux données et comportements des applications Google telles que Google Calendar ou GMail.
+
+
+== Notes et références ==
+
+
+== Voir aussi ==
+
+
+=== Liens externes ===
+(en) Site officiel
+
+ Portail de Google

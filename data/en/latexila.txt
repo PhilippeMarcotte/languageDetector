@@ -1,0 +1,30 @@
+LaTeXila is a TeX/LaTeX editor to edit TeX/LaTeX documents. It runs on Linux systems with the GTK+ library installed.
+
+
+== Features ==
+LaTeXila has many useful features needed to edit TeX/LaTeX source code, such as:
+Customizable one-click buttons to build, view and convert documents
+Auto-completion of (La)TeX commands
+Graphical lists of symbols for easy insertion
+Templates for new document creation
+Project management
+Summary of the document structure
+Spell checking based on gspell
+Forward and backward search to switch between the sources and the PDF
+BibTeX integration
+However, it lacks some features available in other editors:
+Split screen (available in TeXShop, Vim-LaTeX (LaTeX-suite), TeXmacs...)
+Compare (available in WinEdt, Vim-LaTeX (LaTeX-suite), TeXmacs...).
+
+
+== See also ==
+List of text editors
+Comparison of text editors
+Comparison of TeX editors
+
+
+== References ==
+
+
+== External links ==
+https://wiki.gnome.org/Apps/LaTeXila

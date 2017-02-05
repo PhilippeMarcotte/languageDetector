@@ -1,0 +1,22 @@
+Die algorithmische Informationstheorie ist eine Theorie aus der theoretischen Informatik, die im Gegensatz zur klassischen Informationstheorie die Kolmogorow-Komplexität zur Bestimmung des Informationsgehalts verwendet. Sie wurde im Wesentlichen von Gregory Chaitin, Andrey Kolmogorov und Ray Solomonoff entwickelt.
+Zur Beschreibung des Informationsgehalts einer Zeichenkette betrachtet die algorithmische Informationstheorie die Größe eines kleinsten Algorithmus, der die Zeichenkette erzeugt. Gregory Chaitin präzisierte diese allgemein als Kolmogorow-Komplexität bekannte Größe durch ein spezielles Maschinenmodell, nach dem der Algorithmus ausführbar sein muss. Wie Chaitin beweisen konnte, lässt sich der algorithmische Informationsgehalt einer Zeichenkette nicht endgültig angeben, da nicht beweisbar ist, ob ein gegebenes Programm zu ihrer Erzeugung wirklich das kürzeste ist. Ebenso wie der Informationsbegriff nach Claude Shannon trifft die algorithmische Informationstheorie keinerlei Aussagen über Bedeutung, Wissen und ähnliche nicht mathematisch definierten Begriffe.
+
+
+== Beispiel ==
+Gemäß der klassischen Definition nach Claude Shannon ist der Informationsgehalt der folgenden binären Folge gleich (gilt nur für Entropie erster Ordnung):
+1000110111100101
+1111111100000000
+Während die erste Folge durch Münzwurf als Zufallsgenerator erzeugt wurde, kann die zweite Folge jedoch durch die Anweisung „schreibe 8-mal 1 dann 8-mal 0“ verkürzt werden. Im Sinne der algorithmischen Informationstheorie hat die erste Folge deshalb mehr algorithmische Information, da sie viel schwieriger oder gar nicht verkürzt werden kann. Die algorithmische Information ist umso höher, je weniger eine Zeichenkette (unter Anderem durch Datenkompression) komprimiert werden kann. Zufällige Zahlenfolgen und weißes Rauschen enthalten in der Regel keine vorhersagbaren Muster und sind deshalb nicht komprimierbar – der algorithmische Informationsgehalt ist deshalb höher.
+
+
+== Mathematischer Hintergrund ==
+Der Ansatz von Andrei Kolmogorow lässt als Algorithmen Programme für beliebige Turingmaschinen zu. Gregory Chaitin setzt die Kolmogorow-Komplexität zur Theorie rekursiver Funktionen (Siehe auch µ-Rekursion, Lambda-Kalkül) und dem Werk von Kurt Gödel in Beziehung. Er beschränkt die möglichen Programme auf solche, die selbst wieder auf einer speziellen Variante der universellen Turingmaschine (UTM) laufen, auf der so genannten selbst-limitierenden universellen Turingmaschine.
+Nach dem Beweis von Chaitin kann allerdings nicht grundsätzlich festgestellt werden, ob eine Zeichenkette algorithmisch weiter verkürzt werden kann. So können beispielsweise neue und effektivere Kompressionsalgorithmen gefunden werden oder eine scheinbar zufällige Zahlenfolge kann von einem Pseudozufallszahlengenerator stammen. Wegen des Halteproblems können auch nicht alle Turingmaschinen, die kleiner als eine gegebene Zeichenfolge sind, in endlicher Zeit durchprobiert werden.
+
+
+== Weblinks ==
+How to Run Algorithmic Information Theory on a Computer von Gregory Chaitin (englisch)
+The Limits of Mathematics von Gregory Chaitin, inklusive eines Interpreters für ein erweitertes LISP zur Simulation von selbst-limitierenden UTMs (englisch)
+Komprimierte Nachrichten von Aliens mit Rauschen identisch
+Artikel. In: Scholarpedia. (englisch, inkl. Literaturangaben)
+Günter Hotz: Algorithmische Informationstheorie (Teil 1) (GZIP; 272 kB) Technical Report FB14-97-01, Universität des Saarlandes, FB 14 Informatik, Januar 1997

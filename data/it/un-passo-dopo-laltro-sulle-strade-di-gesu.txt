@@ -1,0 +1,131 @@
+Unreal è un videogioco sparatutto in prima persona sviluppato da Epic Games, e pubblicato da GT Interactive, pubblicato il 22 maggio 1998. È il primo gioco ad utilizzare l'Unreal engine, che era in via di sviluppo da tre anni.
+Una espansione, Unreal: Return to Na-Pali, è stata pubblicata il 31 maggio 1999, e aggiunge altri 30 livelli alla campagna in singolo giocatore, continuando la storia della trama.
+
+
+== Storia ==
+
+
+=== Episodio I: Unreal ===
+In Unreal il giocatore veste i panni di un prigioniero a bordo del Vortex Rikers, un cargo adibito al trasporto di detenuti. Per motivi sconosciuti (che ci saranno resi noti alla fine della mod " Nali Chronicles") la nave si schianta su un remoto pianeta chiamato Na-Pali, e quasi tutti gli occupanti rimangono uccisi. Con i sistemi in avaria, mentre alcuni superstiti vengono massacrati brutalmente da alcuni misteriosi predatori, il prigioniero riesce ad uscire dai rottami della nave e fa la conoscenza di un mondo esotico popolato da strani esseri. Tramite il suo fido traduttore universale e grazie alle testimonianze lasciate dai suoi compagni uccisi, in breve tempo si rende conto della situazione del pianeta su cui ha fatto naufragio: la popolazione locale nativa, i pacifici Nali, è stata schiavizzata dalla razza Skaarj proveniente da un altro sistema stellare. Alla ricerca di un modo per fuggire da quel luogo inospitale e aiutato dai Nali i quali lo vedono come "il prescelto", il prigioniero impara a conoscere sia la loro cultura che quella iper-tecnologica degli Skaarj, facendo tappa per luoghi selvaggi, templi, castelli, villaggi e imponenti strutture ultra-moderne. Nel corso del suo viaggio scopre diverse profezie Nali che narrano le gesta di "un messia che verrà dal cielo per scacciare i demoni che vennero dalle stelle" (evidente riferimento alle vicende del nostro eroe). Nel finale il giocatore riesce a raggiungere un'installazione Skaarj contenente una nave di lancio. Con l'uccisione della regina Skaarj, il prigioniero fugge dal pianeta a bordo della nave, con una descrizione di coda che fa presagire un probabile continuo delle vicende del prigioniero della Vortex Rikers.
+
+
+=== Episodio II: Ritorno a Na-Pali ===
+Dopo essere fuggito nello spazio il prigioniero viene intercettato da una nave chiamata UMS Bodega Bay. I Marines decidono di rispedire il malcapitato sul pianeta perché conosce la morfologia dei luoghi, e può risultare utile nella ricerca di alcuni dati importanti che si trovano su una nave precipitata. Il prigioniero si fa strada fino alla nave, prende i dati e alla fine viene "accolto" da un gruppo di marines disposti a fargli la pelle, considerando ormai il prigioniero inutile.. In seguito, dopo aver sconfitto il Warlord e avendo liberato i Nali dalla schiavitù, il prigioniero trova la navetta di salvataggio che gli permette di fuggire di nuovo dal pianeta. Riesce a eludere la Bodega Bay, e a farla colpire dagli stessi missili che aveva lanciato. L'eroe fugge di nuovo dal pianeta e si avvia verso destinazione ignota.
+
+
+== Personaggi ==
+
+
+=== Alleati ===
+Nali
+Sacerdote Nali
+Vitello dei Nali
+Mucca dei Nali
+Coniglio dei Nali
+
+
+=== Ostili ===
+Skaarj
+Skaarj assassino
+Skaarj impazzito
+Skaarj artigliere
+Skaarj della fanteria
+Skaarj di ghiaccio
+Skaarj guerriero
+Skaarj esploratore
+Skaarj cecchino
+Skaarj della truppa
+Signore degli Skaarj
+Ufficiale Skaarj
+Regina
+Behemoth
+Bruto
+Bruto minore
+Krall
+Krall d'Elite
+Mercenario
+Mercenario d'Elite
+Larva di Skaarj (Pupae)
+Signore della Guerra
+Titano
+Titano di pietra
+
+
+=== Animali ===
+Blob (ameba)
+Biterfish (pesce morsicatore)
+Devilfish (pesce diavolo)
+Fly (moscone)
+Gasbag (sacco di gas)
+Giant Gasbag (sacco di gas gigante)
+Manta
+Giant Manta (manta gigante)
+Cave Manta (manta delle caverne)
+Predator (predatore)
+Slith (verme viscido)
+Spinner (ragno gigante)
+Squid (polpo)
+Tentacle (tentacolo)
+
+
+== Armi ==
+In Unreal sono presenti dieci armi diverse utilizzabili tramite due modalità di fuoco, una primaria e una secondaria. Nell'espansione Return to Na Pali sono state aggiunte tre armi nuove.
+
+
+=== Unreal ===
+Dispersion pistol (pistola a dispersione)
+Si tratta di una avanzata, anche se molto debole pistola laser. La sua caratteristica principale è quella di rigenerare automaticamente le munizioni, risultando quindi, infinite. Durante il gioco, si trovano dei "potenziamenti" per quest'arma, che con la loro acquisizione si trasforma e aumenta la sua potenza, fino a diventare al quinto potenziamento, l'arma più potente del gioco.
+Automag (enforcer)
+Una pistola semiautomatica, l'unica arma nel gioco che necessita di ricarica.
+Stinger (sparaschegge)
+Il gioco spiega che in origine era uno strumento di estrazione mineraria di un materiale chiamato "Tarydium" (del quale sono fatte le sue munizioni, che sono appunto schegge di tarydium). È paragonabile ad un fucile d'assalto.
+ASMD (fucile shock)
+Acronimo per "And Suck My Dick", è un potente fucile laser, che in pochi colpi abbatte qualsiasi cosa (tranne i boss, ovviamente).
+Eightball (lanciarazzi)
+I Nali lo venerano come una reliquia divina chiamandolo "il bastone dei sei fuochi". Si tratta appunto di un lanciarazzi (o granate col fuoco secondario), che può caricare nelle sue sei canne, fino a sei colpi per poi spararli tutti insieme verso il bersaglio.
+Flak Cannon (cannone a schegge)
+È un potentissimo cannone a mano che spara una mitraglia di schegge tutte insieme ad ogni pressione del grilletto.
+Razorjack (squartatore)
+È un fucile che usa come munizioni delle lame a disco, che rimbalzano quando non colpiscono il bersaglio, diventando vere e proprie mine vaganti
+GES Biorifle (biofucile)
+Quale miglior modo di usare le scorie NBC, se non lanciarle a mo' di arma corrosiva contro il nemico? Il fuoco secondario ne accumula una grande quantità per lanciarla tutta insieme risultando estremamente letale. È impreciso e ha corta gittata.
+Rifle (fucile da cecchino)
+Un enorme fucile di precisione che può spappolare la testa dei nemici, decapitandoli.
+Minigun (minicannone mitragliatore)
+Un minigun futuristico. Il fuoco secondario scarica a doppia velocità chili e chili di proiettili sul bersaglio, con la metà della precisione, però.
+
+
+=== Return to Na Pali ===
+Combat Assault Rifle (fucile d'assalto)
+Rocket Launcher (lanciamissili)
+Grenade Launcher (lanciagranate)
+
+
+== Note tecniche ==
+
+
+=== Video ===
+Una delle caratteristiche più innovative di Unreal è stata il motore grafico, in grado di gestire zone molto grandi senza subire grandi rallentamenti. Anche la grafica generale ha rappresentato un passo avanti rispetto ai predecessori, grazie a diversi acceleratori grafici, inizialmente solo 3dfx Glide e Power VR SGL e in seguito con degli aggiornamenti Direct3D e OpenGL.
+Molti videogiochi hanno successivamente usato il motore grafico di Unreal, tra cui Deus Ex, Tom Clancy's Rainbow Six: Vegas, Wheel of Time, Clive Barker's Undying.
+
+
+=== Audio ===
+Unreal è stato uno dei primi videogiochi ad usare effetti a 44,1 KHz per i suoni. Il vantaggio di questa larga banda di frequenze era una riproduzione più fedele alla realtà.
+Un'altra differenza d'avanguardia rispetto a gran parte dei videogiochi del periodo è stato il sistema musicale basato su musiche a moduli, composte quindi da diversi effetti sonori di tipo PCM messi insieme, create con programmi detti tracker. Ciò permetteva un comparto sonoro più ricco ma allo stesso tempo molto più leggero in termini di byte. Questa tecnologia ha permesso una facile implementazione di musica dinamica che cambiava durante la partita a seconda delle situazioni.
+La colonna sonora di Unreal è stata composta da autori di musiche MOD, tra cui Alexander Brandon e Michiel van den Bos.
+
+
+== Edizioni successive ==
+Unreal e l'espansione sono stati in seguito, un anno dopo circa, messi in un pacchetto più costoso, chiamato Unreal Gold, e in seguito nel pacchetto chiamato Totally Unreal assieme ad Unreal Tournament. Nel 2006 Unreal Gold è stato distribuito di nuovo assieme ad Unreal Tournament in un pacchetto chiamato Unreal Anthology.
+
+
+== Voci correlate ==
+Unreal (serie)
+
+
+== Collegamenti esterni ==
+(EN) Beyond Unreal, beyondunreal.com.
+(EN) Unreal single player news, unrealsp.org.
+(EN) Old Unreal, oldunreal.com.
+(EN) Liandri Archives Wiki, liandri.beyondunreal.com.
+(EN) Unreal Gold for Linux (source port from icculus.org, icculus.org.

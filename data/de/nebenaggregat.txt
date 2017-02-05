@@ -1,0 +1,26 @@
+Als Nebenaggregat bezeichnet man zur Abgrenzung von einem Hauptaggregat alle Hilfsmaschinen eines Fahrzeugs, die nicht direkt seine Fortbewegung bewirken.
+Dazu zählen zum Beispiel:
+Hilfstriebwerk
+Anlasser 
+Lichtmaschine
+Schmierstoffpumpe
+Hydraulikpumpe (z. B. für die Servolenkung)
+Kühlwasserpumpe
+Kraftstoffpumpe
+Einspritzpumpe
+Dosierpumpe
+Ventilator für den Kühler
+Kompressor der Klimaanlage, der Druckluftbremse oder zur Aufladung des Motors
+Turbolader
+Bremskraftverstärker
+Ruderanlage eines Schiffes
+Nebenaggregate werden entweder vom Kfz-Antriebsmotor direkt (über Keilriemen oder Zahnräder) oder indirekt (elektrisch oder hydraulisch) angetrieben. Aufgrund der größeren Flexibilität setzt sich heute im Kfz-Bau der Einsatz von elektrisch betriebenen Nebenaggregaten durch, was am Montageort eine größere Flexibilität ermöglicht. Zudem ist ein elektrisch betriebenes Nebenaggregat unabhängig vom Kfz-Hauptantrieb, wodurch es zum Beispiel beim Kfz-„Stop and Go“-Betrieb auch beim Stand des Fahrzeugs funktionsbereit bleibt. Elektrisch angetriebene Nebenaggregate tragen auch zur Energieeinsparung bei, da der Antrieb nur bei Bedarf läuft und nicht ständig durch den Keilriemen mitgeschleppt werden muss.
+Nebenaggregate benötigen Energie und tragen daher in der Regel zum Kraftstoffverbrauch bei.
+
+
+== Quellen ==
+
+
+== Siehe auch ==
+Aggregat (Technik)
+Nebenabtrieb

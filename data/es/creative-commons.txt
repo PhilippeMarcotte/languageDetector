@@ -1,0 +1,233 @@
+Creative Commons (CC) ―que en español significa ‘[bienes] comunes creativos’― es una organización cuya oficina central está ubicada en la ciudad de Mountain View, en el estado de California (Estados Unidos). Dicha organización permite usar y compartir tanto la creatividad como el conocimiento a través de una serie de instrumentos jurídicos de carácter gratuito.
+Dichos instrumentos jurídicos consisten en un conjunto de “modelos de contratos de licenciamiento” o licencias de derechos de autor (licencias Creative Commons o licencias “CC”) que ofrecen al autor de una obra una manera simple y estandarizada de otorgar permiso al público en general de compartir y usar su trabajo creativo bajo los términos y condiciones de su elección. En este sentido, las licencias Creative Commons permiten al autor cambiar fácilmente los términos y condiciones de derechos de autor de su obra de “todos los derechos reservados” a “algunos derechos reservados”.
+Las licencias Creative Commons no reemplazan a los derechos de autor, sino que se apoyan en estos para permitir modificar los términos y condiciones de la licencia de su obra de la manera que mejor satisfaga sus necesidades.
+La organización fue fundada en 2001 por Lawrence Lessig (exprofesor de derecho de la Universidad de Stanford y especialista en ciberderecho), Hal Abelson y Eric Eldred con el soporte del Center for the Public Domain. El primer artículo bajo la licencia Creative Commons en una publicación de interés general fue escrito por Hal Plotkin, y fue divulgada en febrero de 2002. El primer conjunto de licencias de copyright fue lanzado en diciembre de 2002. En 2008, había estimados unos 130 millones de trabajos bajo licencias Creative Commons. En octubre de 2011, solo Flickr albergaba más de 200 millones de fotos con licencias Creative Commons. A fines de 2015 había más de 1.100 millones de trabajos bajo licencias Creative Commons en todo el mundo. Creative Commons está dirigida por una junta directiva y un consejo consultivo. Estas licencias han sido entendidas por muchos como una manera que tienen los autores de tomar el control de cómo quieren compartir su propiedad intelectual.
+
+
+== Objetivos e influencias ==
+
+Creative Commons se destaca por estar al frente del movimiento copyleft, que tiene como objetivo apoyar a construir un dominio público más rico proporcionando una alternativa al “todos los derechos reservados” del copyright, el denominado “algunos derechos reservados”. David Berry y Giles Moss han acreditado a Creative Commons con la generación de interés en el tema de la propiedad intelectual y la contribución al replanteamiento del papel de los “bienes comunes” en la “era de la información”. Más allá de eso, Creative Commons ha proporcionado institucional, práctica y legalmente soporte a individuos y grupos que buscan experimentar y comunicarse con la cultura con una mayor libertad.
+Creative Commons pretende contrastar lo que Lawrence Lessig, fundador de Creative Commons, considera que es una cultura dominante y cada vez más restrictiva. Lessig describe esto como “a culture in which creators get to create only with the permission of the powerful, or of creators from the past” que significa “una cultura cuyos autores logran crear solo con el permiso de los poderosos o de autores anteriores”. Lessig sostiene que la cultura moderna está dominada por distribuidores de contenido tradicionales con el fin de mantener y reforzar sus monopolios en los productos culturales como la música, fotografía, y el cine, pero que Creative Commons puede proporcionar alternativas a estas restricciones. 
+
+
+== Gobernanza ==
+
+
+=== Junta directiva de Creative Commons ===
+La junta directiva de Creative Commons actualmente está integrada por:
+Ben Adida
+Renata Avila
+Paul Brest (presidente)
+Dorothy Gordon
+Paul Keller
+Ryan Merkley (CEO)
+Johnathan Nightingale
+Thomas Rubin
+Kate Spelman
+Chris Sprigman
+Christopher Thorne (vice-presidente)
+Jongsoo Yoon
+Diane Peters (secretaria)
+
+
+=== Emérito ===
+Lawrence Lessig
+
+
+=== Consejo Consultivo ===
+Está formado por:
+John Abele
+Hal Abelson
+Michael Carroll
+Catherine Casserly
+Brian Fitzgerald
+Sue Gardner
+Spencer Hyman
+Joi Ito
+Lawrence Lessig
+Mohamed Nanabhay
+Laurie Racine
+Eric Saltzman
+Annette Thomas
+Molly Van Houweling
+Jimmy Wales
+Esther Wojcicki
+
+
+=== Comité de auditoría ===
+Formado por tres miembros:
+Dorothy Gordon
+Johnathan Nightingale
+Chris Sprigman (presidente)
+
+
+== Creative Commons International ==
+El proyecto Creative Commons International es un apéndice del proyecto mayor de Creative Commons. Tiene por objetivo traducir tanto idiomática como legalmente las licencias Creative Commons a las diferentes jurisdicciones alrededor del mundo. Este trabajo está liderado por Diane Peters y por equipos de voluntarios en los diferentes países.
+Actualmente cuenta con 28 países que están en proceso de traducción de las licencias, aunque se sabe que más de 70 países están interesados en comenzar a colaborar para alcanzar sus respectivas versiones y capítulos locales.
+
+
+== Red de afiliados ==
+
+En 2016 había más de 100 organizaciones afiliadas trabajando en más de 79 jurisdicciones para apoyar y promover las actividades de Creative Commons alrededor del mundo. Existen coordinaciones regionales para América Latina, Asia-Pacífico, Europa y Mundo Árabe.
+
+
+=== Creative Commons Asia-Pacífico ===
+
+
+==== Corea del Sur ====
+Creative Commons Korea (CC Korea) es una red de afiliados de Creative Commons en Corea del Sur. En marzo del 2005, CC Korea fue fundada por Jongsoo Yoon (en Coreano: 윤종수), Juez Presidente de la corte del distrito de Incheon, como un proyecto de la Korea Association for Infomedia Law (Asociación por la ley de infomedia de Corea). Los principales portales coreanos, incluyendo Daum y Naver, han estado participando en el uso de licencias Creative Commons. En enero de 2009, la asociación Creative Commons Korea fue en consecuencia fundada como una asociación incorporada sin ánimo de lucro. Desde entonces, CC Korea ha estado promoviendo activamente la cultura libre así como liderando la difusión de Creative Commons en su país.
+Creative Commons Korea
+Creative Commons Conferencia Asia 2010
+
+
+== Patrocinadores de Creative Commons ==
+Creative Commons es una organización sin fines de lucro que para su funcionamiento cuenta con el apoyo de donantes institucionales y a título personal.
+
+
+=== Apoyo institucional ===
+Donantes de más de 100.000 dólares
+Arcadia Fund
+Brin Wojcicki Foundation
+Ford Foundation
+Google
+The William and Flora Hewlett Foundation
+Institute of Museum and Library Services
+Nature Publishing Group
+Private Internet Access
+Wikimedia Foundation
+La lista completa de donantes puede consultarse en el sitio web de Creative Commons.
+
+
+== Licencias ==
+
+Las licencias Creative Commons o CC están inspiradas en la licencia GPL (General Public License) de la Free Software Foundation, compartiendo buena parte de su filosofía. La idea principal detrás de ellas es posibilitar un modelo legal ayudado por herramientas informáticas, para así facilitar la distribución y el uso de contenidos.
+Existe una serie de licencias Creative Commons, cada una con diferentes configuraciones, que permite a los autores poder decidir la manera en la que su obra va a circular en internet, entregando libertad para citar, reproducir, crear obras derivadas y ofrecerla públicamente, bajo ciertas restricciones.
+Aunque originalmente fueron redactadas en inglés, las licencias han sido adaptadas a varias legislaciones en otros países del mundo. Entre otros idiomas, han sido traducidas al español, al portugués, al gallego, al euskera y al catalán a través del proyecto Creative Commons International. Existen varios países de habla hispana que están involucrados en este proceso: Argentina, Chile, Colombia, Ecuador, El Salvador, España, Guatemala, México, Perú y Puerto Rico que ya tienen las licencias traducidas y en funcionamiento, en tanto que Venezuela se encuentra en proceso de traducción e implementación de las mismas. Asimismo, Brasil también tiene las licencias traducidas y adaptadas a su legislación.
+Las licencias Creative Commons están compuestas por cuatro módulos de condiciones:
+Attribution / Atribución (BY), requiere la referencia al autor original.
+Share Alike / Compartir Igual (SA), permite obras derivadas bajo la misma licencia o similar (posterior u otra versión por estar en distinta jurisdicción).
+Non-Commercial / No Comercial (NC), obliga a que la obra no sea utilizada con fines comerciales.
+No Derivative Works / No Derivadas (ND), no permite modificar la obra de ninguna manera.
+Estos módulos se combinan para dar lugar a las seis licencias de Creative Commons:
+Attribution / Atribución (CC BY).
+Attribution Share Alike / Atribución-CompartirIgual (CC BY-SA).
+Attribution NoDerivatives / Atribución-NoDerivadas (CC BY-ND).
+Attribution Non-Commercial / Atribución-NoComercial (CC BY-NC).
+Attribution Non-Commercial Share Alike / Atribución-NoComercial-CompartirIgual (CC BY-NC-SA).
+Attribution Non-Commercial No Derivatives / Atribución-NoComercial-NoDerivadas (CC BY-NC-ND).
+Todas las licencias Creative Commons permiten el “derecho fundamental” de redistribuir la obra con fines no comerciales y sin modificaciones. Las opciones NC y ND hacen que la obra no sea libre de acuerdo con la definición de obras culturales libres.
+Una licencia contractual especial es la opción CC0, o “Sin derechos reservados”. Esta licencia cede la obra al dominio público (o un estado equivalente en jurisdicciones donde el dominio público no es posible). Comparado a una declaración de dominio público cedida a la obra, la declaración CC0 es menos ambigua y consigue el efecto deseado a escala global, en lugar de limitarse a algunas jurisdicciones.
+En mundo del software, Creative Commons respalda tres licencias creadas por otras instituciones: la licencia BSD, la licencia CC GNU LGPL y la CC GNU GPL. 
+
+
+== Uso y lista de proyectos que han sacado contenidos bajo licencias Creative Commons ==
+Creative Commons dispone de un directorio de contenido wiki de las organizaciones y proyectos que usan sus licencias. En su web también proporcionan casos de estudio de los proyectos bajo dichas licencias alrededor del mundo. Los contenidos bajo estas licencias también puede ser consultado a través de directorios de contenidos y motores de búsqueda.
+El 13 de enero de 2009, algunos contenidos de radiodifusión de Al Jazeera en el conflicto 2008-2009 Israel-Gaza fueron lanzados bajo una licencia de Attribution 3.0.     
+Algunas otras organizaciones que también han puesto contenidos bajo licencias CC son:
+Arduino (CC BY-SA).
+Citizendium (CC-BY-SA).
+Knol (la mayoría CC BY-SA o CC BY-NC-SA).
+Ninjam (CC BY-SA).
+The Saylor Foundation (CC BY).
+Wikipedia (CC BY-SA desde junio de 2009).
+Wikimedia Commons (licencia CC entre otras opciones).
+Wikia (CC BY-SA, desde junio de 2009).
+Home of the Mozilla Project (CC BY-SA).
+
+
+== Jurisdicciones ==
+
+Las licencias Creative Commons sin localización originales fueron escritas teniendo en cuenta el sistema legal de Estados Unidos, de tal manera que su utilización podría ser incompatible con las diferentes legislaciones locales y hacer que las licencias no se pudiesen aplicar en algunas jurisdicciones. Para solucionar este problema, la red de afiliados de Creative Commons realizó un proceso de portado de las licencias para acomodarlas a las leyes locales de derecho de autor. En mayo de 2010 había 52 licencias específicas para distintas jurisdicciones, con otras 9 en proceso de redacción.
+La versión 4 del conjunto de licencias, lanzada a fines de 2013, permite la utilización de las licencias en todas las jurisdicciones sin necesidad de ser portadas.
+
+
+== Crítica ==
+
+
+=== Crítica general ===
+Péter Benjamin Tóth afirma que los objetivos de Creative Commons ya están atendidos por el sistema de copyright, y que el eslogan de “algunos derechos reservados”, en lugar del principio “todos los derechos reservados”, crea una falsa dicotomía. El copyright proporciona una lista de derechos exclusivos al autor, de los cuales él decide cuáles quiere vender o donar y cuáles quiere mantener. Por lo tanto el concepto de “algunos derechos reservados” no es una alternativa, sino que es la misma idea que el clásico copyright. Otros críticos temen que Creative Commons podría erosionar el sistema del copyright, o permitir que la creatividad de las personas pase a ser un “bien común” para ser explotado por cualquier persona que tenga tiempo libre y un rotulador. Algunos críticos cuestionan cómo estas licencias son útiles para los autores y sugieren que Creative Commons sirve a una “cultura remix” y no responde a las necesidades reales de compensación financiera y reconocimiento de los artistas, como tampoco se preocupa por la falta de recompensas para productores de contenido que disuadirá a los artistas a publicar su obra.
+Algunos críticos sostienen que el sistema de licencias de Creative Commons disuade a los productores de contenido a hacer esfuerzos coordinados para modernizar la ley de copyright.
+El fundador de Creative Commons Lawrence Lessig responde que las leyes de copyright no siempre han ofrecido la protección fuerte y aparentemente indefinida que proporcionan las leyes de hoy en día. Por el contrario, la duración del copyright solía estar limitada a términos mucho más cortos (de años), y muchas obras nunca consiguieron protección por no seguir el formato obligatorio ahora abandonado.
+También se cuestiona si Creative Commons es el “bien común” que pretender ser, dado que al menos algunas de las restricciones se aplican a la capacidad de las personas para usar los recursos dentro del campo del “bien común”. Esto está enteramente delimitado por los derechos privados y no tiene nada que ver con los derechos compartidos por todos. Creative Commons tampoco defiende la “creatividad” o qué aspectos requiere una obra para llegar a ser parte del “bien común”.
+Críticos como Giles Moss sostienen que la fundación de Creative Commons no es el mecanismo apropiado para crear “bienes comunes” de contenido original. Por el contrario, un bien común debe ser creado y mantenida su presencia, a través del proceso y el activismo político, no a través de los abogados “redactando nuevas reglas”.
+También se critica que cuatro de las seis licencias no son ni libres ni abiertas por las restricciones que imponen a la reutilización, de acuerdo con la definición de libre “una obra es libre si cualquiera es libre de utilizar, reutilizar y redistribuir dicha obra”, esta definición solo la cumplen las restricciones Atribución y CompartirIgual.
+
+
+=== Expansión de las licencias e incompatibilidades ===
+Los críticos también argumentan que Creative Commons ha empeorado la expansión de las licencias, por proporcionar licencias incompatibles entre sí. La web de Creative Commons afirma: “Dado que cada una de las seis licencias Creative Commons funcionan de distinta manera, los recursos puestos bajo distintas licencias no necesariamente tienen que poder ser combinados entre sí sin violar los términos de alguna de ellas”. Obras con licencias incompatibles no podrán ser recombinadas para formar una obra derivada sin conseguir el permiso del propietario del copyright.   Una de las preocupaciones es que sin un mismo marco legal las obras que mezclan licencias involuntariamente no se puede compartir.
+El asunto de la compatibilidad es especialmente relevante porque las licencias más usadas son las no-libres “NoComercial” (CC BY-NC-SA o CC BY-NC-ND) y no pueden ser combinadas con las libres “Atribución-CompartirIgual” (CC BY-SA, usada por ejemplo por la Wikipedia).
+
+
+=== Mal uso de licencias ===
+
+Puesto que Creative Commons solo es un servicio que proporciona licencias estandarizadas, no es parte de ningún acuerdo, usuarios podrían poner bajo una licencia Creative Commons una obra con copyright y redistribuir estas obras en Internet. No existe una base de datos de Creative Commons con las obras bajo sus licencias y toda la responsabilidad de su sistema recae por completo en aquellos que las usan. Sin embargo esta situación no es específica de Creative Commons. Todos los propietarios de copyright deben defender sus derechos individualmente y tampoco existe una base de datos central con todos las obras. La oficina de copyright de Estados Unidos mantiene una base de datos con todas las obras registradas, pero la ausencia de registro no implica la ausencia de copyright.
+Aunque Creative Commons ofrece varias licencias para diferentes usos, algunos sugieren que las licencias siguen sin ofrecer diferencias entre los medios y las preocupaciones que los diferentes autores tienen. Por ejemplo un documentalista puede tener preocupaciones muy diferentes respecto a un diseñador de software o un profesor de derecho. Adicionalmente, la gente que desee usar una obra bajo una de estas licencias necesitará determinar si para ese uso en particular la licencia lo permite o se necesita algún permiso adicional.
+Lessig comentó que la intención de Creative Commons es proporcionar un punto intermedio entre dos extremos de la protección del copyright, uno demanda que todos los derechos deben ser controlados y el otro que ninguno de ellos debe ser controlado. Creative Commons proporciona una tercera opción que permite a los autores elegir que derechos quieren controlar y cuales quieren ceder. La multitud de licencias refleja la variedad de derechos que pueden ser transmitidos a los autores venideros.
+
+
+=== La Free Software Foundation ===
+Algunas licencias de Creative Commons han sido denunciadas por el fundador de la FSF Richard Stallman porque, según dice “do not give everyone [...] minimum freedom to share, noncommercially, any published work”, esto es, que CC no proporciona a todo el mundo una mínima libertad para compartir cualquier obra publicada (no comercialmente). Mako Hill asegura que Creative Commons no acierta al establecer un “nivel base de libertad” que todas estas licencias deberían reflejar y con las cuales los poseedores de los derechos y los usuarios deberían cumplir. “By failing to take any firm ethical position and draw any line in the sand, CC is a missed opportunity... CC has replaced what could have been a call for a world where ‘essential rights are unreservable’ with the relatively hollow call for ‘some rights reserved.’”, es decir, al no tener una posición ética firme y no marcar una clara línea divisoria, CC pierde la oportunidad y reemplaza lo que tendría que haber sido un llamado al mundo donde ‘los derechos esenciales no pueden reservarse’ con una llamada relativamente vacía a ‘algunos derechos reservados’. Algunos temen que la popularidad de CC podría restar importancia a los objetivos estrictos de otras organizaciones de contenido libre.
+
+
+=== Otras críticas a la licencia NoComercial ===
+Otros críticos, como Erik Möller, plantean algunos problemas sobre el uso de la licencia Creative Commons NoComercial. Las obras distribuidas bajo esta licencia no son compatibles con muchas webs de contenido abierto, incluyendo Wikipedia, que explícitamente permiten y fomentan algunos usos comerciales. Möller explica que “the people who are likely to be hurt by an -NC license are not large corporations, but small publications like weblogs, advertising-funded radio stations, or local newspapers”, es decir, los más vulnerables a la licencia NC no son grandes corporaciones, sino pequeñas publicaciones como weblogs, estaciones de radio financiadas por publicidad, o periódicos locales.
+Lessig responde que el régimen actual de copyright también perjudica la compatibilidad y los autores pueden disminuir esta incompatibilidad eligiendo una licencia menos restrictiva. Además, la licencia NoComercial es útil para prevenir que alguien comercialice el trabajo de un autor cuando él planea hacerlo en un futuro.
+
+
+=== Debian ===
+Los desarrolladores de Debian, una distribución de GNU/Linux conocidos por su rígida adhesión a la definición de software libre,[cita requerida] rechazan incluso la licencia de Atribución antes de la versión 3 por ser incompatible con las directrices de software libre de Debian debido a la disposición anti-gestión digital de derechos de la licencia y la exigencia de los intermediarios que quitan crédito al autor a petición suya. En cualquier caso, la versión 3.0 de la licencia añade estos puntos y es considerada compatible con dichas directrices.
+
+
+== Palabras clave (terminología) ==
+Dominio público: es un concepto utilizado en dos áreas del derecho: el derecho administrativo y el derecho de autor.
+en:Developing Nations (devnations) (En Inglés): establece condiciones especiales para naciones en desarrollo.
+Sampling o muestreo: es la acción de grabar un sonido en cualquier tipo de soporte para poder reutilizarlo posteriormente como parte de una nueva grabación sonora. Utilizando esta técnica musical, muchos compositores han realizado diversos trabajos artísticos.
+CC-GNU GPL: licencia de software que garantiza a los usuarios finales la libertad de usar, estudiar, compartir (copiar) y modificar el software.
+CC-GNU LGPL: licencia de software que pretende garantizar la libertad de compartir y modificar el software cubierto por ella.
+Intercambio de archivos: es proveer acceso a información almacenada digitalmente, como programas informáticos, obras multimedia (audio, video), etc.
+ColorIURIS: es un sistema internacional de gestión y cesión de derechos de autor.
+
+
+== Véase también ==
+
+
+== Referencias ==
+
+
+== Bibliografía ==
+
+
+=== En español ===
+Aliprandi, Simone (2012). Creative Commons: guía de usuario. Ledizioni/Copyleft-Italia.it. ISBN 978‐88‐6705‐057‐4 . 
+Artículo sobre Creative Commons, del navegante.com
+Propiedad intelectual y sociedad civil: Right or left?
+Videos del lanzamiento de Creative Commons Argentina
+Blog del grupo de apoyo a las licencias Creative Commons en Colombia
+Traducción al español de “Get Creative”, un vídeo que explica qué son estas licencias.
+
+
+=== En inglés ===
+Aliprandi, Simone (2011). Creative Commons: a user guide. Ledizioni/Copyleft-Italia.it. ISBN 978-88-95994-55-0.  Also available on Wikimedia Commons, here
+Ardito, Stephanie C. “Public-Domain Advocacy Flourishes”. Information Today 20, no. 7 (2003): 17,19.
+Asschenfeldt, Christiane. “Copyright and Licensing Issues—The International Commons”. In CERN Workshop Series on Innovations in Scholarly Communication: Implementing the Benefits of OAI (OAI3), 12 de febrero-14 de febrero de 2004 at CERN, Geneva, Switzerland. Geneva: CERN, 2004. http://agenda.cern.ch/askArchive.php?base=agenda&categ=a035925&id=a035925s5t6/ video
+Brown, Glenn Otis. “Academic Digital Rights: A Walk on the Creative Commons”. Syllabus Magazine (abril de 2003). http://www.syllabus.com/article.asp?id=7475
+———. “Out of the Way: How the Next Copyright Revolution Can Help the Next Scientific Revolution”. PLoS Biology 1, no. 1 (2003): 30-31. http://www.plosbiology.org/plosonline/?request=get-document&doi=10.1371%2Fjournal.pbio.0000009
+Chillingworth, Mark. “Creative Commons Attracts BBC's Attention”. Information World Review, 11 de junio de 2004. http://www.iwr.co.uk/iwreview/1155821
+Conhaim, Wallys W. “Creative Commons Nurtures the Public Domain”. Information Today 19, no. 7 (2002): 52, 54. http://www.infotoday.com/newsbreaks/nb020603-2.htm
+“Delivering Classics Resources with TEI-XML, Open Source, and Creative Commons Licenses”. Cover Pages, 28 de abril de 2004. http://xml.coverpages.org/ni2004-04-28-a.html
+Denison, D.C. “For Creators, An Argument for Alienable Rights”. Boston Globe, 22 de diciembre de 2002, E2.
+Ermert, Monika. “Germany Debuts Creative Commons”. The Register, 15 de junio de 2004. http://www.theregister.co.uk/2004/06/15/german_creative_commons/
+Fitzgerald, Brian, and Ian Oi. “Free Culture: Cultivating the Creative Commons”. (2004). http://eprints.qut.edu.au/archive/00000122/
+Johnstone, Sally M. “Sharing Educational Materials Without Losing Rights”. Change 35, no. 6 (2003): 49-51.
+Lessig, Lawrence. “The Creative Commons” (1994) vol.55 Florida Law Review 763.
+Plotkin, Hal. “All Hail Creative Commons: Stanford Professor and Author Lawrence Lessig Plans a Legal Insurrection”. SFGate.com, 11 de febrero de 2002. http://www.sfgate.com/cgi-bin/article.cgi?file=/gate/archive/2002/02/11/creatcom.DTL
+Schloman, Barbara F. “Creative Commons: An Opportunity to Extend the Public Domain”. Online Journal of Issues in Nursing, 13 de octubre de 2003. http://www.nursingworld.org/ojin/infocol/info_12.htm
+Stix, Gary. “Some Rights Reserved”. Scientific American 288, no. 3 (2003): 46. http://www.sciam.com/article.cfm?chanID=sa006&colID=7&articleID=000C2691-4F88-1E40-89E0809EC588EEDF
+Weitzman, Jonathan B., and Lawrence Lessig. “Open Access and Creative Common Sense”. Open Access Now, 10 de mayo de 2004. http://www.biomedcentral.com/openaccess/archive/?page=features&issue=16
+
+
+== Enlaces externos ==
+ Wikimedia Commons alberga contenido multimedia sobre Creative Commons. Commons
+Sitio de Creative Commons
+Esta obra contiene una traducción derivada de Creative Commons de Wikipedia en inglés, publicada por sus editores bajo la Licencia de documentación libre de GNU y la Licencia Creative Commons Atribución-CompartirIgual 3.0 Unported.
+Creative Commons Uruguay

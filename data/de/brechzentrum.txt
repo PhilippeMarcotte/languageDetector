@@ -1,0 +1,14 @@
+Das Brechzentrum ist ein funktionelles Zentrum im Gehirn, das sich im Hirnstamm befindet. Zu ihm gehören Teile der Formatio reticularis, die Area postrema sowie der Nucleus tractus solitarii.
+
+
+== Physiologie ==
+Das Brechzentrum koordiniert über einen Reflexbogen den Brechakt. Daran sind zahlreiche zum Teil sehr komplexe und noch unverstandene neuronale Verschaltungen beteiligt. Das Brechzentrum erhält Afferenzen von der Großhirnrinde (Geruchssinn, Psyche), dem Kleinhirn, dem Gleichgewichtsorgan sowie aus dem Magen-Darm-Trakt über den Nervus vagus und wird vorwiegend über die Neurotransmitter Dopamin und Serotonin aktiviert. Weiterhin steht das Brechzentrum über die Area postrema, ein zirkumventrikuläres Organ, in direktem Kontakt mit dem Blut und erkennt dort gelöste Giftstoffe. Diese Afferenzen spiegeln die Reize wider, die unter anderem zum Auslösen von Erbrechen führen können.
+Efferenzen entsendet das Brechzentrum an die glatte und quergestreifte Muskulatur, die an der Reflexverschaltung des Brechaktes beteiligt ist.
+
+
+== Pathophysiologie ==
+Das Brechzentrum ist ausgesprochen druckempfindlich, sodass ein erhöhter intrakranieller Druck oder ein lokaler Druckreiz (beispielsweise über einen in der Nähe befindlichen Tumor) zerebrales Erbrechen auslösen kann. Das Brechzentrum kann mit Dopaminantagonisten, Serotoninantagonisten und Tachykininrezeptorantagonisten wie Aprepitant oder Maropitant gehemmt werden, was zu einer antiemetischen, also den Brechreiz lindernden Wirkung führt.
+
+
+== Literatur ==
+Martin Trepel: Neuroanatomie. 5. Auflage. Urban & Fischer, München 2012, ISBN 978-3-437-41299-8, S. 145.

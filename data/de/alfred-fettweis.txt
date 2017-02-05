@@ -1,0 +1,48 @@
+Alfred Leo Maria Fettweis (* 27. November 1926 in Eupen, Belgien; † 20. August 2015) war ein deutsch-belgischer Ingenieurwissenschaftler und Nachrichtentechniker. Er gilt als Erfinder der Wellendigitalfilter.
+
+
+== Leben ==
+Alfred Fettweis, zweites von drei Kindern der Deutschen Paul Fettweis und Helene geb. Hermanns, wurde 1942 als Flakhelfer in Aachen eingesetzt. Aus dem Kriegsdienst meldete sich Fettweis freiwillig zu einem im Oktober 1943 beginnenden Sonderlehrgang für Hochfrequenztechnik im Truppenübungsplatz Daaden (Lager Stegskopf), und diente ab November 1944 am Fliegerhorst Stade, später am Flugplatz Jagel bei Schleswig als Gerätewart. Im Januar 1945 wurde er zu einer Fortbildung nach Halle kommandiert und setzte sich bei Annäherung der Front über Berlin nach Lübeck ab. Dort geriet er in britische Kriegsgefangenschaft, bis September 1945 bei Eutin, dann in Vilvoorde, Entlassung im November 1945. Er studierte von 1946 bis 1951 Elektrotechnik an der belgischen Université catholique de Louvain (UCL) in Löwen sowie der Columbia University und dem Polytechnic Institute of Brooklyn in New York. Nach seinem Diplom als Ingénieur civil électricien war er von 1951 bis 1963 Entwicklungsingenieur bei der ITT Corporation in Antwerpen sowie von 1954 bis 1956 in den USA. 1963 wurde er an der UCL zum Docteur en sciences appliquées promoviert.
+1963 wurde er zum Professor für Theoretische Elektrotechnik an die niederländische Technische Universität Eindhoven berufen. 1967 erfolgte die Berufung als Ordinarius für Nachrichtentechnik an die Ruhr-Universität Bochum auf einen Lehrstuhl, den er neu aufbaute. Er gehörte zu den Gründungsvätern der Fakultät für Elektrotechnik und Informationstechnik an der RUB. 1992 wurde er emeritiert.
+1975 wurde er als ordentliches Mitglied in die Nordrhein-Westfälische Akademie der Wissenschaften und der Künste berufen. Er war zudem Life Fellow des Institute of Electrical and Electronics Engineers in New York, Mitglied der Academia Europaea in London (1991), der Europäischen Akademie der Wissenschaften und Künste in Salzburg (1992), der Deutschen Akademie der Technikwissenschaften in München (1997 Konvent, 2002 acatech, 2008 DATW). Er war Mitglied der katholischen Gilde Alfred Delp im Cartell Rupert Mayer.
+Seine Lehr- und Forschungsschwerpunkte waren Schaltungstheorie, Systemtheorie, Digitale Signalverarbeitung, Wellendigitalfilter, numerische Integration partieller Differentialgleichungen sowie die Beziehungen zwischen Nachrichtentechnik und Grundfragen der Physik.
+Sein Sohn ist der Nachrichtentechniker Gerhard Fettweis.
+
+
+== Ehrungen und Auszeichnungen ==
+Prix ‘Acta Technica Belgica’, Belgien (1962-63)
+Prix 1980 de la Fondation Montefiore, Liège, Belgien (1980)
+IEEE: Darlington Prize Paper Award, USA (1980)
+VDE-Ehrenring, Deutschland (1984)
+Cettnial Medal, USA (1984)
+Ehrendoktorwürde Teknologie Doktor h.c. der Universität Linköping, Schweden (1986)
+Ehrendoktorwürde Docteur Honoris Causa der Faculté polytechnique de Mons, Belgien (1986)
+Ehrendoktorwürde Doctor honoris causa der Katholieke Universiteit Leuven, Belgien (1986)
+IEEE: Technical Achievement Award, USA (1988)
+Karl-Küpfmüller-Preis der Informationstechnischen Gsellschaft im VDE (1988)
+Peter-Johns Prize, International Journal of Numerical Modelling, Großbritannien (1993)
+Ehrendoktorwürde Doctor honoris causa der Technische und Wirtschaftswissenschaftliche Universität Budapest, Ungarn (1995)
+Visiting Distinguished Professor, Department of Computer Science and Engineering, University of Notre Dame, Indiana, USA (1994–1996)
+IEEE: Golden Jubilee Award (1999)
+Third Millennium Medal, USA (2000)
+IEEE: Van Valkenburg Award (2001)
+IEEE: Vitold Belevitch Award (2003)
+Ehrendoktorwürde Doctor honoris causa der Technischen Universität Posen, Polen (2004)
+Gustav Robert Kirchhoff-Preis, USA (2008)
+Ehrendoktorwürde Dr.-Ing. E.h. der Universität Paderborn, Deutschland (2011)
+
+
+== Quellen ==
+Fritz Bourseaux: Das Geschlecht Boursault in Belgien und Deutschland, seine Nachfahren und deren Zeit: Lebensbilder einer Familie im romanisch-germanischen Kulturraum, Degener G. Gessner 1972, Seite 312
+Who's who in science in Europe, Longman 1991, Seite 64
+The International Who's Who 2004, Europa Publications 2003, Seite 530
+
+
+== Weblinks ==
+Literatur von und über Alfred Fettweis im Katalog der Deutschen Nationalbibliothek
+Ruhr-Universität Bochum: Webseite von Alfred Fettweis
+Nordrhein-Westfälische Akademie der Wissenschaften und der Künste: Biografie von Alfred Fettweis
+Eintrag im Engineering and Technology Historic Wiki (englisch)
+
+
+== Einzelnachweise ==

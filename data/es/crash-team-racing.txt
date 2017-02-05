@@ -1,0 +1,249 @@
+Crash Team Racing (abreviado a veces en forma de siglas, CTR) es un juego de carreras para la consola PlayStation de la serie de videojuegos Crash Bandicoot, desarrollado por la compañía Naughty Dog. Fue lanzado al mercado en el año 1999, posiblemente en respuesta al gran éxito de la serie Mario Kart de Nintendo. Fue el último juego de Crash Bandicoot creado por Naughty Dog.
+
+
+== El juego ==
+La dinámica del juego consiste en disputar carreras junto a una serie de contrincantes a los que se puede atacar mediante diversas armas (ver más adelante). El objetivo del juego es vencer al malvado enemigo Nitrous Oxide, el cual ha retado a los personajes en un juego de carreras. Si él gana se apoderará de la isla, y si no se retirará.
+
+
+== Argumento ==
+La historia del juego gira en torno a un malvado extraterrestre llamado Nitrous Oxide, el cual ha viajado por toda la galaxia pregonándose a sí mismo como el corredor más rápido. Al llegar a la Tierra exige a nuestros personajes que se enfrenten entre sí para hallar a alguien que pueda desafiarlo. Finalmente añade que si un corredor gana, se irá del planeta para siempre, pero que si el gana se apoderará de la Tierra. Así todos se incorporan a una batalla contra Oxide y los clásicos rivales del juego tradicional pueden ser seleccionados.
+
+
+== Modos de juego ==
+
+
+=== Modo Aventura ===
+En este modo se viaja a través de los cuatro mundos (uno adicional distinto de los demás): Playa N. Sanity (Jefe: Ripper Roo), Las Ruinas Perdidas (Jefe: Papu Papu), Parque Glaciar (Jefe: Komodoo Joe), Ciudadela (Jefe: Pinstripe Potoroo / Pinstripelli Potorooti) y Valle de las Gemas (el mundo donde esta N. Oxide, los torneos de las gemas y dos pistas secretas). Cada mundo consta de cuatro carreras y cada una tiene un trofeo, una ficha, y una reliquia, cuando ganes los cuatro trofeos de cada mundo podrás enfrentarte al jefe del mundo el cual tiene una habilidad especial, si lo vences te dará una llave y pasarás al siguiente mundo, cuando ganes cuatro llaves te enfrentarás a Oxide.
+Adicionalmente puedes ganar las 16 fichas y las 18 reliquias las cuales desbloquearán las cinco copas de gema, y cuando las ganes podrás correr en Pista Turbo, y si tienes 10 reliquias puedes correr en Coliseo Derrape (En estas dos pistas solo se consigue una reliquia respectivamente).
+
+
+=== Modo Contrarreloj ===
+Podrás correr contrarreloj, al mejorar el tiempo predeterminado, serás retado por el fantasma de Nefarious Trophy, y si le mejoras el tiempo retarás al fantasma de Nitrous Oxide. Y si consigues ganarle en todas la pistas lograrás desbloquear un vídeo secreto (ScrapBook).
+Desde hace muchos años miles de personas de todo el mundo compiten por ver quien es el más veloz en este modo, e incluso hay un sitio donde registrarse para competir, (http://ctr4ever.ovh.org/home.php). El sitio no tiene fines comerciales por lo que para participar no hace falta comprar un lugar.
+
+
+=== Modo Arcade ===
+En este modo tienes dos opciones para jugar, una sola carrera o copa: (puedes jugar cualquiera de los 2 modos con un compañero)
+
+
+==== Una sola carrera ====
+Para jugar en cualquier pista sin recibir nada a cambio aunque puedes mejorar tu juego y practicar mucho.
+
+
+==== Copa ====
+Hay cuatro copas, Wumpa Cup, Crystal Cup, Nitro Cup y Crash Cup, en cada copa ganas puntos según la posición en la que terminas en la carrera, 1.er lugar: 9 puntos. 2.º lugar: 6 puntos. 3.er lugar: 3 puntos. 4.º lugar: 1 punto. 5.º,6.º,7.º,8.º: 0 puntos. Cada una según la dificultad de las pistas. Las corres en los tres niveles de dificultad, y al ganar las cuatro copas en el nivel fácil, desbloqueas la arena de batalla de El gran Estacionamiento, en el nivel medio, El Iglú del Norte, y en el nivel difícil, Nivel en el Sótano.
+
+
+=== Modo Versus ===
+Para retarse entre sí sin más competidores de la CPU o con un compañero
+
+
+=== Modo Batalla ===
+Consiste en una pelea multijugador que se realiza en un entorno cerrado y no en una pista de carreras. Previa configuración de qué armas se pueden utilizar y de cuanta vitalidad dispone cada jugador entre otras características, se inicia la batalla. o la clave para la bellas abajo circulo equis abajo arriba circulo
+
+
+== Ataque y armas ==
+A lo largo de las carreras, los competidores van adueñándose de armas para atacar a sus contrincantes, luego de tomarlas de cajas. Las armas tienen otra función si al tomarlas se tienen 10 manzanas, lo que se conoce como "CON ZUMO". Si un piloto se sale de la pista, se le puede pasar el efecto de algún arma usada contra él al volver a la pista. Estas armas son:
+
+
+=== Misil ===
+NORMAL Arma básica, dispara un misil que persigue al corredor que va delante de quien lo dispara. Puede estrellarse contra obstáculos que estén en su camino. Puede ser disparado hacia atrás, si es disparado mientras el jugador está mirando hacia atrás, aunque se desaconseja a no ser que se esté en un lugar amplio, pues requiere mucho espacio para dar la vuelta, y es muy probable que se estrelle contra un lateral de la pista.
+CON ZUMO Fija el blanco aún mejor. Más eficacia al lanzarlos hacia atrás.
+Notas: Se pueden conseguir hasta tres misiles de una caja. Cuando alguien te apunta con uno, aparece un indicador con flechas amarillas
+
+
+=== Bomba ===
+NORMAL Dispositivo de ataque que consiste en una bomba que circula un corto tramo por la pista antes de explotar. Se puede lanzar hacia atrás e incluso hacer estallar volviendo a pulsar el botón de ataque.
+CON ZUMO: Cuando estalla, la onda expansiva es mucho mayor.
+Nota: Se pueden conseguir hasta tres bombas de una sola caja.
+
+
+=== Pociones de N.Brio ===
+NORMAL Poción verde, que hace girar a cualquiera que la toque, incluido tú. Puede lanzarse hacia delante y también se puede lanzar hacia atrás
+CON ZUMO Poción roja, que primero hace dar vueltas, y luego, una nube negra se precipita sobre ti esta te hace ir más lento, si cogiste alguna caja y ya se definió el arma, el arma cambiará, si tocas otra volverás a girar e iras a la velocidad normal pero al dar vuelta se derrapara el auto;al tocar la segunda se parara en un poder sencillo(bomba, pociones o dinamita)y no podrás brincar. Una tercera poción hará que corras a velocidad normal, pero la pista parecerá estar hecha de hielo y resbalarás hasta que se acabe el efecto.
+
+
+=== Cajas explosivas ===
+NORMAL Caja de TNT(Dinamita) de color rojo,, que al chocar con ella, se te pone encima. Si esto ocurre, tienes 3 segundos para saltar sin parar (botón R1) y quitártela de encima. Si no, estallará.
+CON ZUMO Caja de nitroglicerina de color verde, que estalla en cuanto la tocas.
+
+
+=== Escudo ===
+NORMAL Burbuja de color verde que te protege de posibles ataques. Al pasar un rato, se desvanece. Puede dispararse como una bomba. También al hacer contacto con un oponente estallará la burbuja y tu oponente saldrá disparado por los aires.
+CON ZUMO Burbuja azul, que no se desvanece con el tiempo y también se puede disparar.
+
+
+=== Esfera/Huevo de Energía ===
+NORMAL Bola/Huevo de energía que al dispararla corre por la pista hasta alcanzar a quien va en primer lugar.
+CON ZUMO Alcanzará a todo el que esté delante de ti.
+Notas: Las esferas/huevos son ineficaces si vas primero o si el objetivo ha terminado la carrera. Si te apuntan con una, un indicador de flechas azules aparece detrás de ti. Si mientras una esfera persigue al primero, este finaliza la carrera, automáticamente fijará el objetivo en el segundo, y así sucesivamente. Si no quedaran objetivos, seguiría recta hasta estrellarse con algo y desaparecer.
+
+
+=== Máscara del hechicero ===
+NORMAL Aku-Aku (o Uka-Uka), te ayudará durante un rato. Irás más rápido y además, serás invulnerable. Si tocas a alguien, saldrá disparado por los aires.
+CON ZUMO Dura más tiempo e irás más rápido
+
+
+=== Reloj de N. Tropy ===
+NORMAL Todos los pilotos, excepto tú, reducirán notablemente su velocidad durante un tiempo. Además, no podrán reunir armas.
+CON ZUMO Dura más tiempo.
+Notas: Las máscaras y los escudos (burbujas) te protegen del reloj. En partidas multijugador, si alguien activa un reloj no afectará a quienes en ese momento tengan una máscara activada. Si alguien padece el efecto del reloj y se sale de la pista, su máscara le quitará el efecto al devolverlo a la pista.
+
+
+=== Turbo ===
+NORMAL Te da un impulso con el que incluso puedes aplastar a alguien.
+CON ZUMO Mayor impulso y duración.
+
+
+=== Invisibilidad ===
+NORMAL Sólo para el modo batalla, te vuelve invisible un rato.
+CON ZUMO Más tiempo.
+
+
+=== Súper-motor ===
+NORMAL Si pulsas X muchas veces, te da constantes impulsos. Solo para el modo batalla.
+CON ZUMO Más tiempo.
+
+
+== Personajes ==
+Nitrous Oxide está en la categoría "Casi injugables" debido a que la única manera de poder jugar con él es mediante una manera ilegal que no fue programada realmente en el juego o es mejor al desbloquearlo más abajo detalles.
+Fake Crash es aceptado como neutral o malvado, ya que su máscara es Uka-Uka y es malvado en las series pasadas.
+Penta Penguin no se sabe si es bueno o malo, por que cuando te sale una máscara esta dice que es Uka Uka, pero cuando la usas se convierte en Aku Aku, y te confundes.
+Spyro fue planeado en aparecer en el juego, pero finalmente quedó afuera.
+Koala Kong fue planeado pero los desarrolladores vieron el éxito que tuvo el personaje de "TINY TIGER" en las sagas anteriores decidieron que Tiny sustituyera a Koala Kong.
+N. Brio se decía que este personaje iba a tener las mismas habilidades que Crash y Cortex
+
+
+=== Iniciales ===
+Crash Bandicoot - Intermedio (Velocidad:6, Aceleración:6, Giro: 6) [Cala Crash]
+-Máscara:Aku-Aku
+Dr. Neo Cortex - Intermedio (Velocidad:6, Aceleración:6, Giro: 6) [Cast. Cortex]
+-Máscara:Uka-Uka
+Polar (Crash Bandicoot) - Principiante (Velocidad:3, Aceleración:6, Giro:10) [Paso Polar]
+-Mascara:Aku-Aku
+Tiny Tiger - Avanzado (Velocidad:10, Aceleración:6, Giro:2) [Circuito Tiny]
+-Máscara:Uka-Uka
+Coco Bandicoot - Intermedio v2 (Velocidad:6, Aceleración:10, Giro:4) [Parque Coco]
+-Máscara:Aku-Aku
+N.Gin - Intermedio v2 (Velocidad:6, Aceleración:10, Giro:4) [Lab. N. Gin]
+-Máscara:Uka-Uka
+Dingodile - Avanzado (Velocidad:10, Aceleración:6, Giro:2) [Cañón Dingo]
+-Máscara:Uka-Uka
+Pura - Principiante (Velocidad:3, Aceleración6, Giro:10) [Templo Tigre]
+-Máscara:Aku-Aku
+
+
+=== Jefes ===
+Ripper Roo - principiante e Intermedio (Velocidad:6, Aceleración:8, Giro: 8) [Tubos de Roo]
+-Máscara:Uka-Uka
+Papu Papu - Avanzado v3 (Velocidad:10, Aceleración: 8, Giro:4) [Pirámide de Papu]
+-Máscara: Uka-Uka
+Komodo Joe - Intermedio v3 (Velocidad:8, Aceleración:8, Giro: 6) [Minas Dragón]
+-Máscara:Uka-Uka
+Pinstripe Potorro - Intermedio v3 (Velocidad:8, Aceleración:8, Giro: 6) [Ruta de Aire Caluroso]
+-Máscara:Uka-Uka
+Nitrous Oxide - avanzado v5 (Velocidad:13, Aceleración:8, Giro: 2) [Estación Oxide]
+-Máscara:Uka-Uka
+
+
+=== Otros ===
+N.Tropy - Avanzado v2 (Velocidad:10, Aceleración:8, Giro:1) [Pista Turbo, Colis. Derrape]
+-Máscara:Uka-Uka
+Pingüino Penta - principiante y avanzado (PAL) (Velocidad:10, Aceleración:10, Giro:10) [Ráfaga Helada]
+-Máscara: Aku-Aku
+Falso Crash - Intermedio (Velocidad:6, Aceleración:6, Giro: 6) -Máscara:Uka-Uka
+
+
+=== Datos adicionales ===
+Nota: Las claves se hacen en la pantalla de título y se debe mantener presionado L1 y R1 al digitarlas (Eso va para todas).
+Ripper Roo: tiene la habilidad de tirar cajas de tnt infinitas y se desbloquea con la gema roja o con esta clave: derecha, circulo, circulo, abajo arriba, abajo, derecha.
+Papu Papu: puede tirar pociones infinitas y se desbloquea con la gema verde o con esta clave: izquierda, triangulo, derecha, abajo, derecha, circulo, izquierda, izquierda, abajo.
+Komodo Joe: puede dejar nitros y lanzar por el aire cajas de TNT y se desbloquea con la gema azul o con esta clave: abajo, circulo, izquierda, izquierda, triangulo, derecha, abajo.
+Pinstripe: puede tirar bombas infinitas y se desbloquea con la gema amarilla o con esta clave: izquierda, derecha, triangulo, abajo, derecha, abajo.
+Nitrous Oxide: puede tirar todas las armas de los 4 anteriores jefes y es posible jugar con él con los códigos Gameshark con Emulador en la PC.
+N. Tropy: está disponible si le ganas en todas las carreras en el modo Contrarreloj o con la clave que es esta: abajo, izquierda, derecha, arriba, abajo, derecha, derecha. En raras ocasiones puede aparecer al acabar una carrera aleatoria o también al terminar de una forma exacta el aventura.
+Fake Crash: se desbloquea al ganar la gema morada en cuatro carreras contra los cuatro jefes en sus respectivas pistas o introduciendo esta clave: círculo, abajo, abajo, arriba, círculo, círculo, abajo, izquierda, derecha.
+Penta Penguin: debes ganarle al fantasma de nitrus oxide en cada circuito en modo Contrarreloj y te desbloqueara a penta en su lugar (oxide no esta disponible) o podrás desbloquearlo introduciendo la siguiente contraseña en el menú: pulsa abajo, derecha, triangulo, abajo, izquierda, triangulo y arriba.
+"ScrapBook": es una bonificación que permite ver como surgió Crash, esta bonificación es desbloqueable si el jugador termina el juego al 101% con todas las reliquias(puede ser cualquiera de las 3), llaves, copas, monedas y derrotando a todos los fantasmas de N. Tropy y Nitrous Oxide. Aunque también la puedes desbloquear, estando en el menú principal y en este orden: Arriba, Arriba, Abajo, Derecha, Derecha, Izquierda, Derecha, Triangulo y Derecha, automáticamente en el menú principal abajo de Mejores Puntajes.
+
+
+== Circuitos ==
+
+
+=== Modo aventura ===
+
+
+=== Modo copa ===
+
+
+=== Torneo de las gemas ===
+
+
+== Modo Historia ==
+
+
+=== Playa de N. Sanity ===
+Cueva Crash (Inicial) - Color Rojo
+Tubos de Roo (Inicial) - Color Verde
+Cuevas Misteriosas (1 Trofeo) - Color Rojo
+Pista Cloaca (3 Trofeos) - Color Azul
+Peñon Calavera (1 Llave) (Esta no es una carrera, aquí compites por una moneda CTR púrpura)
+Desafío de Ripper Roo (Tubos de Roo) (4 Trofeos)
+
+
+=== Las Ruinas Perdidas ===
+Parque Coco (1 Llave) - Color Verde
+Templo Tigre (1 Llave) - Color Azul
+Pirámide de Papu (6 Trofeos) - Color Rojo
+Cañón Dingo (7 Trofeos) - Color Amarillo
+Ruinas (2 Llaves) (Esta no es una carrera, aquí compites por una moneda CTR púrpura)
+Desafío de Papu-Papu (8 Trofeos) (Pirámide de Papu) (8 Trofeos)
+
+
+=== Parque Glaciar ===
+Ráfaga Helada (2 Llaves) - Color Rojo
+Minas Dragón (9 Trofeos) - Color Azul
+Paso Polar (10 Trofeos) - Color Verde
+Circuito Tiny (11 Trofeos) - Color
+Pista Rocosa (3 Llaves) (Esta no es una carrera, aquí compites por una moneda CTR púrpura)
+Desafío de Komodo Joe (Minas Dragón) (12 Trofeos)
+
+
+=== Ciudadela ===
+Castillo Cortex (3 llaves) - Color Verde
+Laboratorio N.Gin (3 llaves) - Color Azul
+Ruta Calurosa (14 trofeos) - Color Amarillo
+Estación Oxide (15 trofeos) - Color Amarillo
+Pista de Nitro (4 llaves) (Esta no es una carrera, aquí compites por una moneda CTR púrpura)
+Desafío de Pinstripe (Ruta Calurosa) (16 Trofeos)
+
+
+=== Valles de las Gemas ===
+Desafío de Nitrous Oxide (Estación Oxide) (4 llaves)
+(En este mundo tienes que derrotar a N.Oxide 2 veces: la primera es obteniendo las 4 Llaves, en la segunda es obteniendo todas las reliquias en oro o platino)
+Coliseo Derrape (10 Reliquias)
+Pista Turbo (5 Gemas)
+Luego, continuas en las mismas pistas otra vez, pero ahora con el objetivo es ganar las reliquias, medallas y gemas de colores.
+Red Gem Cup (aquí ganas la gema roja y un personaje secreto que es Ripper Roo)
+Green Gem Cup (aquí ganas la gema verde y un personaje secreto que es Papu Papu)
+Blue Gem Cup (aquí ganas la gema azul y un personaje secreto que es Komodo Joe)
+Yellow Gem Cup (aquí ganas la gema amarilla y un personaje secreto que es Pinstripe Potoroo)
+Purple Gem Cup (aquí ganas la gema morada y un personaje secreto que es Fake Crash)
+Luego de obtener las cinco gemas tendrás disponibles 5 personajes nuevos para conducir y también Pista Turbo para conducirla en modo aventura y en modo arcade. Nota:En la Copa Gema Morada debes correr 4 carreras con los jefes anteriores (sin Oxide) en sus respectivas pistas.
+
+
+== Véase también ==
+Crash Bandicoot
+Crash Bandicoot 2: Cortex Strikes Back
+Crash Bandicoot 3: Warped
+Crash Bash
+Crash Bandicoot: The Wrath of Cortex
+Crash Bandicoot XS
+Crash Bandicoot 2: N-Tranced
+Crash Nitro Kart
+Crash Fusión
+Crash Twinsanity
+Crash Tag Team Racing
+Crash Boom Bang!
+Crash of the Titans
+Crash: Mind over Mutant

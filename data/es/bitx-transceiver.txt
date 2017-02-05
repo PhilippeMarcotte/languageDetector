@@ -1,0 +1,11 @@
+El BITX es un diseño de transceptor QRP para la banda de radioaficionados de 20m, en modulación Banda lateral única, creado por un joven ingeniero indio, Ashhar Farhan.
+El BITX está destinado a los radioaficionados que desean construir su propio equipo de transmisión bajo la idea de producir un diseño simple, fácilmente reproducible por principiantes y sin componentes caros ni difíciles de conseguir. Además la calibración debía poder hacerse sin equipo especializado.
+La versión original fue construida para la banda de 20m, pero otras versiones derivadas para las bandas de 40m y 17m han sido desarrolladas posteriormente.
+El BITX ha sido utilizado por radioaficionados de muchos países: Francia, Inglaterra, Estados Unidos, Singapur, Nueva Zelandia, Brasil e India, entre otros. Los comentarios de los constructores y de sus interlocutores son elogiosos. Los objetivos de coste reducido y amplia disponibilidad de componentes han sido alcanzados.
+Quienes desean construir un BITX en kit tienen tres fuentes de aprovisionamiento: un grupo de radioaficionados del Reino Unido, un radioaficionado de la Unión India y otro de los Estados Unidos de América han propuesto kits de construcción. Pueden obtenerse detalles en el Grupo Yahoo BITX que figura en los enlaces externos.
+El BITX ha sido objeto de una nota en televisión con motivo del interés que provocó el maremoto de diciembre de 2004 sobre el trabajo de los radio-aficionados en situaciones graves.
+
+
+== Enlaces externos ==
+Página de inicio de BITX
+Grupo Yahoo dedicado a BITX con la última versión actualizada del plano

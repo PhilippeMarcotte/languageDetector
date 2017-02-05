@@ -1,0 +1,24 @@
+L'Amiga 1000, également appelé Commodore Amiga 1000, ou même simplement Amiga, est le premier ordinateur de la gamme Amiga, sorti fin 1985 aux USA. Il a été suivi par les modèles A500 et A2000, sortis en 1987.
+
+
+== Description ==
+L'Amiga 1000 avait pour particularité de ne pas disposer d'une Mémoire morte (ROM) contenant le code d'amorçage. Ce dernier était livré sur une disquette qui devait donc être chargée avant chaque démarrage.
+La raison d'être de ce curieux système résidait dans la difficulté rencontrée par les équipes de développement à achever le système d'exploitation AmigaOS. En phase de pré-production, alors que la partie matérielle était finalisée, le système d'exploitation était encore bien trop bugué pour être implanté dans la ROM du système. À une époque où les mémoires flash étaient financièrement inabordables pour des applications grand public, le système du Kickstart apparaissait comme le plus facilement évolutif, et l'Amiga 1000 fut donc commercialisé avec la version 1.1 du système d'exploitation sur disquette.
+Cette spécificité donna lieu à un nouveau type de mémoire : la WOM (Write Once Memory). Physiquement, la WOM de l'Amiga 1000 était une Mémoire vive (RAM) classique, mais dont les canaux d'écriture étaient coupés par le système une fois le KickStart chargé.
+Ce n'est qu'à partir de la version 1.2 que le système d'exploitation fut considéré comme suffisamment stable. C'est avec cette version puis la version 1.3, inscrite en ROM, que furent livrés les générations suivantes des ordinateurs Amiga.
+
+
+== Spécifications Techniques ==
+Motorola 68000 (microprocesseur 16-bit CISC avec 16 registres sans MMU pour la protection mémoire et la mémoire virtuelle)
+système d'exploitation par défaut : AmigaOS 1.1, 1.2 ou 1.3 (ayant un noyau multitâche préemptif 32-bit) suivant la révision
+256 ko de Chip RAM par défaut, extensible à 512 par ajout d'un module. (mémoire sonore, graphique et logicielle étant dans les mêmes espaces mémoire)
+limite haute de 8,5 Mo de mémoire, due aux limitations du MC68000 (adressage mémoire sur 24-bit)
+chipset OCS
+sortie TV 50 Hz (PAL) et 60 Hz (NTSC) par défaut suivant les versions. Mode 50/60 Hz basculant logiciellement dans les révisions suivantes
+filtre passe bas audio basculable logiciellement (la diode de l'alimentation baissant d'intensité quand le filtre est éteint)
+partage IRQ (comme le bus PCI)
+le systeme d'IRQ avait 7 niveaux de priorité d'interruptions.
+pas de limite dans le nombre d'interruptions
+périphériques gérés par Autoconfig, très similaire à l'ACPI. Les périphériques n'étaient pas comptés ou nommés, juste la taille et les adresses étaient fournies.
+
+ Portail de l’informatique

@@ -1,0 +1,45 @@
+Die Zwei-Zeiten-Methode ist eine rudimentäre Schätzmethode im Projektmanagement.
+Die Abschätzung von Zeit und Aufwand für ein Arbeitspaket in einem Projekt ist häufig problematisch:
+Da meist noch unzureichendes Wissen über den Inhalt des Arbeitspaketes existiert, ist die Schätzung zwangsläufig mit einer Unsicherheit behaftet
+Diese Unsicherheit ist umso größer, je größer der Entwicklungs- und Forschungsanteil des Paketes ist (s. Cone of Uncertainty)
+Dennoch wird diese Schätzung anschließend häufig als feste „Deadline“ betrachtet
+Projektmitarbeiter sind meist nur widerstrebend dazu bereit, eine Schätzung von Zeit und Aufwand abzugeben, da sie sich über den genauen Umfang noch nicht im Klaren sind und auch nicht sein können
+Bei neuartigen Aufgaben tendiert man dazu, den nötigen Aufwand zu optimistisch zu schätzen
+Diese Probleme können durch die Zwei-Zeiten-Methode gemildert werden, indem für ein Arbeitspaket jeweils ein Best- und ein Worst-Case geschätzt werden. Die „wahre“ Schätzung wird sich mit hoher Wahrscheinlichkeit innerhalb der geschätzten Unschärfe befinden. Da die Unsicherheit im Projektverlauf kleiner wird (s. Cone of Uncertainty) müssen die Schätzungen vom Projektleiter in regelmäßigen Abständen überarbeitet werden. Da die meisten PM-Tools keine Unsicherheiten verarbeiten können, kann für die Planung der Mittelwert
+
+  
+    
+      
+        
+          
+            
+              B
+              e
+              s
+              t
+              C
+              a
+              s
+              e
+              +
+              W
+              o
+              r
+              s
+              t
+              C
+              a
+              s
+              e
+            
+            2
+          
+        
+      
+    
+    {\displaystyle {\frac {BestCase+WorstCase}{2}}}
+  
+verwendet werden. Dieses sehr einfache Verfahren wird in der Drei-Zeiten-Methode durch eine zusätzliche Gewichtung verfeinert.
+Siehe auch:
+Approximation
+Drei-Zeiten-Methode

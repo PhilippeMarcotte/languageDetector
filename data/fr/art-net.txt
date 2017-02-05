@@ -1,0 +1,16 @@
+Art-Net est un protocole de communication basé sur la norme UDP/IP[réf. souhaitée], qui vise à simplifier le transfert des instructions DMX 512. Il intègre les trames DMX512 dans des trames Ethernet permettant ainsi un câblage plus simple et plus pratique en utilisant des switch ou des bornes WiFi.
+Ce protocole est notamment utilisé pour commander de l'appareillage scénique (projecteurs, blocs de puissance, effets, machines à fumée, etc.).
+
+
+== Articles connexes ==
+DMX (éclairage)
+Show control
+
+
+== Lien externe ==
+spécification du protocole Art-Net
+
+
+== Références ==
+
+ Portail des télécommunications

@@ -1,0 +1,8 @@
+Die SDD-AGE (von engl. semi-denaturing detergent agarose gel electrophoresis ‚halbdenaturierende detergenzvermittelte Agarose-Gelelektrophorese‘) ist ein biochemisches Verfahren, bei dem SDS-resistente Proteinkomplexe, wie z. B. bei Amyloidosen oder Prionenerkrankungen, durch Gelelektrophorese in einem Agarosegel aufgetrennt und nachgewiesen werden.
+
+
+== Prinzip ==
+SDS-resistente Proteinkomplexe sind Verbünde aus mehreren Proteinen, welche bei einer SDS-Konzentration von 2 % (m/V) bei Raumtemperatur nicht denaturieren. Ihre Molmassen betragen meistens zwischen 200 Kilodalton und 4000 Kilodalton, weshalb ein Agarosegel mit relativ großen Porendurchmessern verwendet wird. Im Anschluss an die Elektrophorese erfolgt, analog zum Western Blot bei einem Polyacrylamidgel, ein Proteintransfer auf eine PVDF-Membran und eine Immunfärbung der Proteine auf der Membran. Dadurch können Konformationsvarianten der Proteine eines Proteinaggregats unterschieden werden.
+
+
+== Einzelnachweise ==

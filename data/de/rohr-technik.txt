@@ -1,0 +1,98 @@
+Ein Rohr ist ein länglicher Hohlkörper, dessen Länge in der Regel wesentlich größer als sein Durchmesser ist. Im Gegensatz zu einem Schlauch ist ein Rohr aus relativ unflexiblem Material gefertigt.
+
+
+== Verwendung ==
+Rohre besitzen im Allgemeinen einen kreisrunden Querschnitt, welcher für die gebräuchlichsten Anwendungsfälle die optimale Bauform darstellt. Zur Verwendung als statisches Element mit erhöhter Steifigkeit werden sie auch mit rechteckigen, ovalen und anderen Querschnitten hergestellt.
+Rohre werden für folgende Funktionen genutzt:
+als Transportweg einer Rohrleitung für Flüssigkeiten, Gase oder rieselfähige Festkörper
+als konstruktives Element im Maschinenbau, zum Beispiel als Achsen oder Wellen
+als statisches Element, zum Beispiel in Form eines Gitterrahmens
+als Halbzeug für verschiedene Anwendungen, beispielsweise für Stoßdämpfer
+als Transportweg eines Rohrpostsystems
+Biegt man ein gerades Rohr mit Hilfe einer Rohrbiegevorrichtung, so entsteht ein Rohrbogen.
+Der Einsatzbereich eines Rohres wird durch seine Eigenschaften wie Querschnitt, Werkstoff, Oberflächengüte, Durchmesser (DN) und Druckstufe (PN) bestimmt.
+
+
+== Werkstoffe und Herstellung ==
+
+Rohre werden aus den unterschiedlichsten Werkstoffen gefertigt und sind nicht bis wenig flexibel (im Gegensatz zum Schlauch).
+Folgende metallische Werkstoffe kommen zum Einsatz:
+(rostfreier) Stahl (im Trinkwassertransportbereich tlw. mit Zementmörtelauskleidung)
+Gusseisen (hier erfolgt die Herstellung durch Gießen).
+Kupfer, Messing
+Nickel-Legierungen, Titan-Legierungen, Aluminium-Legierungen
+Kombination aus Kunststoff und Metall (Verbundrohr), bspw. Kunststoffmantelrohr ("KMR"-Rohr")
+Kombination aus Glas und Metall (Email)
+und in seltenen Fällen – in historischen Gebäuden oder in Altbauten - Blei
+Metallrohre werden heutzutage entweder mit einer geschweißten Naht oder nahtlos hergestellt. Das Wickeln eines Blechstreifens zu einem Rohr (Wickelfalzrohr) ist besonders im Lüftungsbereich verbreitet.
+Weiterhin werden Rohre auch aus nicht-metallischen Werkstoffen hergestellt:
+synthetische Polymere (Kunststoffe siehe unten)
+Beton und Stahlbeton
+Kunstharzbeton
+Faserzement
+Keramik
+Glas (siehe unten)
+Glasfaserverstärkte Kunststoffrohre ("GfK"-Rohre)
+Holz (Teuchel bzw. Deichel)
+Basalt
+Ton
+Steingut
+Nach Harald Roscher lassen sich Ver- und Entsorgungsleitungen in Rohrgenerationen einteilen. Dies benennt die Haupteinsatzzeiten verschiedener Materialgenerationen. Dabei ist z. B. abzulesen, dass Grauguß der "1.Generation" seit 1930 nicht mehr eingesetzt wird, wohingegen Gusseisen mit Kugelgraphit bis heute Einsatz findet. Die Verwendung von Polyethylen begann in den 1950er Jahren, wobei PE 100 ("3.Generation) ab 1995 Einsatz findet.
+Da Rohre und ihre Verbindungen die größte Investition von Ver- und Entsorgungsunternehmen sind werden große Anstrengungen unternommen den idealen Sanierungszeitpunkt zu bestimmen. Hierzu werden zum einen die Rohrgenerationen mit ihren Herstellungs- und Materialspezifika und zum anderen eine materialtechnische Zustandsanalyse herangezogen, um die Restnutzungsdauer des Rohres zu bestimmen.  Ein Versagen des Rohres im Betriebszustand ließe nur noch die "Feuerwehrstrategie" als Sanierungsstrategie zu und ist i. d. R. mit höheren und v. a. ungeplanten Kosten verbunden.
+
+
+=== Metallrohre ===
+
+
+==== Geschweißt ====
+Rohre mit geringer Wanddicke im Verhältnis zu ihrem Außendurchmesser werden i. d. R. als geschweißte Rohre gefertigt. Zum Schweißen von Wickelrohren wird zunächst durch Biegen oder Walzen von Blech ein Hohlkörper hergestellt, der dann an den Stößen verschweißt wird. Rohre bis zu etwa einem Meter Durchmesser können längs geschweißt werden, größere Rohre werden spiralnahtgeschweißt und Großrohre aus Grobblechen gebogen und in Stücken verschweißt.
+
+
+==== Nahtlos ====
+Rohre bis zu einem Durchmesser von etwa 200 mm bei großen Wanddicken werden üblicherweise nahtlos hergestellt. Das bisher (für Nichteisenmetalle) meist angewandte Verfahren beruht darauf, dass ein glühendes Ausgangsstück – Block oder Bolzen genannt – aus Messing, Kupfer, Stahl etc. mittels einer hydraulischen Presse durch ein ringförmiges Werkzeug – Matrize genannt – gepresst wird (Strangpressen). Rohre aus Kupfer und Stahl müssen unmittelbar danach in Wasser rasch abgekühlt werden. Die Länge der gepressten Rohre beträgt in der Regel unter 50 m. Das Rohr ist hierbei wellig und weich, leicht biegsam, seine Dimensionen sind ungenau.
+Neuere Verfahren der Herstellung nahtloser Rohre verfolgen das Ziel, möglichst lange Rohre kontinuierlich herzustellen. Die dabei angewandten Verfahren werden in ähnlicher Form schon bisher in der Drahtherstellung verwendet, wobei zunächst mittels Stranggießen ein NE-Rohr geformt wird, das unmittelbar danach durch Walzen im Durchmesser verkleinert wird.
+Da es sich bei Rohren um rotationssymmetrische Bauteile handelt, können diese auch im Schleudergussverfahren hergestellt werden. Gussrohre werden gegossen und erhalten anschließend einen Zinküberzug und eine Zementmörtelauskleidung. 
+Die Herstellung bzw. Verarbeitung nahtloser Rohre kann auch durch plastisches Umformen erfolgen, z. B. Schrägwalzen, Stopfenwalzen, Streckreduzieren, Stoßbankverfahren oder insbesondere im Pilgerschrittverfahren
+In weiteren Prozessschritten werden die Rohre oft durch Ziehen weiterverarbeitet, um bestimmte Durchmesser, Wandstärken, Materialfestigkeiten und Oberflächenqualitäten zu erzielen.
+Ein Rohr kann auch kalt durch Tiefbohren aus Vollmaterial hergestellt werden, z. B. Holzrohre, oder heute Stahlrohre für spezielle Hochdruckanwendungen. Die Stahlrohre werden anschließend nicht gezogen, die Form ist ja schon (fast) fertig. Eventuelle Konzentrizitätsfehler können durch Überdrehen der Außenwand ausgeglichen werden.
+Das Patent auf das erste Verfahren zur Herstellung nahtloser Stahlrohre erhielten 1885 die Brüder Mannesmann.
+Weitere anschließende Bearbeitungen des Halbfertigproduktes Rohr können folgen, z. B. Schleifen, Honen, Reiben, Glattwalzen, letztere insbesondere für Stahlrohre. Die fertigen Rohre werden bei größeren Durchmessern in handelsübliche Längen (weit verbreitet z. B. 6 m) geschnitten. Rohre mit kleinen Durchmessern gelangen meist zu so genannten „Coils“ gewickelt in den Handel.
+
+
+=== Kunststoffrohre ===
+Kunststoffrohre (z. B. Polyethylenrohr) sind für Bereiche wie die Abwasserentsorgung, Trinkwasser- und Gasversorgung, den Kabelschutz sowie die Landwirtschaft und Industrie wichtig. Sie haben Vorteile gegenüber anderen Materialien wie Aluminium, Beton, Gusseisen, Kupfer und Stahl aufgrund ihres geringen Gewichts, der Beständigkeit gegen Korrosion und Chemikalien sowie der einfachen Handhabung. Nahtlose Rohre entstehen durch Extrudieren. Sie können mit verschiedenen Techniken verbunden werden, Klemm- und Schweißverbindungen sind die Regel, im Hausbereich wird auch geklebt.
+Die größten Hersteller in Europa sind Aliaxis, Aquatherm, Wavin, Uponor, Pipelife (Wienerberger), Geberit, Alphacan, Fränkische Rohrwerke, DYKA, Polypipe, Rehau und Uralita.
+
+
+=== Glasrohre ===
+Für unterschiedlichste Nutzungen im Bereich der Leitung von Flüssigkeiten und Gasen werden auch Glasrohre (z. B. Borosilikatglasrohr) verwendet. Aufgrund ihrer hohen Korrosionsbeständigkeit werden Glasrohre für bestimmte Anwendungen bevorzugt vor anderen Werkstoffen gewählt. Glas ist ein etablierter Werkstoff für beispielsweise Abwasserleitungen von Laboren oder als Wärmetauscher in korrosiven Umgebungen.
+
+
+== Verbindungen ==
+Die Verbindungen werden geschraubt, weich- oder hartgelötet, geschweißt, geklebt, per Dichtung ineinander geschoben, per Spannring geklemmt, nur gesteckt oder gepresst. Es gibt auch Quetschverschraubungen.
+Verbindungsmöglichkeiten sind Schweiß- und Lötnähte, Flansche, Muffen, Rohrverbindungselemente, Einwalzen, Spannringe, Formteile, Verschraubungen sowie vorgebogene Rohrstücke. Typische Formteile sind T-Stücke, Bögen 45°, 90° und 180°, sowie konzentrische und exzentrische Reduzierungen.
+Rohre aus unterschiedlichen Materialien zu verbinden, ist oft schwierig, so bilden zwei Metalle oft ein galvanisches Element und korrodieren an der Verbindungsstelle.
+
+
+== Verarbeitung ==
+Neben dem einfachen Ablängen mittels Sägen oder durch Rohrabschneider werden Rohre in zunehmendem Maße komplett auf Rohrlasermaschinen bearbeitet.
+
+
+== Abmessungen ==
+In Verbindung mit einer Norm gibt der Nenndurchmesser (DN = Diameter Nominal) Auskunft über die Abmessungen der Rohrleitung (Innendurchmesser (ID = Inside Diameter), Außendurchmesser (OD = Outside Diameter), Wanddicke). Diese sind je nach Norm verschieden.
+Es gibt eine Vielzahl von Rohrnormen für die verschiedensten Anwendungszwecke. Die folgenden Tabellen geben beispielhaft Auskunft über die Abmessungen (in mm) von Rohren nach DIN, ISO und ASME:
+
+
+== Literatur ==
+Röhren. In: Meyers Konversations-Lexikon. 4. Auflage. Band 13, Verlag des Bibliographischen Instituts, Leipzig/Wien 1885–1892,  S. 887.
+
+
+== Weblinks ==
+
+Daten von Edelstahlrohren
+Erforderlichen Rohrdurchmesser errechnen (Lüftungstechnik)
+Wie Stahlrohre hergestellt werden aus Sachgeschichten ARD
+Herstellverfahren für Stahlrohre. (PDF) Sehr ausführliche, technisch detaillierte Informationsschrift der Wirtschaftsvereinigung Stahlrohre e. V.
+
+
+== Einzelnachweise ==

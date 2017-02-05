@@ -1,0 +1,48 @@
+Der Dreizylindermotor ist eine Bauart von Hubkolbenmotoren, besonders von Verbrennungsmotoren.
+
+
+== Beschreibung ==
+
+
+=== Bauarten ===
+Meist wird er als Reihenmotor ausgeführt, sehr viel seltener als Sternmotor oder V-Motor. Er kann sowohl als Otto- als auch als Dieselmotor ausgelegt sein. Beide Varianten können nach dem Zweitakt- oder dem Viertaktprinzip arbeiten. Im Pkw-Bau sind sie fast immer wassergekühlt, in Motorrad- und Sternmotoren sowohl wasser- als auch luftgekühlt.
+
+
+=== Anwendungen ===
+Dreizylinder-Reihenmotoren sind relativ kompakt, können günstiger als ein Vierzylindermotor hergestellt werden und haben weniger innere Reibung als diese.
+Sie dienen als Antrieb von Motorrädern und Pkw, letztere insbesondere von Kleinwagen und in jüngerer Zeit auch in der Kompaktklasse. Auch bei Traktoren gewinnt der Dreizylindermotor in den letzten Jahren deutlich an Bedeutung.
+Im Zuge des Entwicklung hin zu kleineren Hubräumen (Downsizing) führten einige Hersteller Dreizylindermotoren ein (Beispiele):
+Opel im Jahre 1997 im Modell Corsa.
+VW brachte 1999 den Lupo 3L TDI auf den Markt (ein Dreiliterauto mit 1,2 Litern Hubraum, 44 kW, aufgeladener Diesel-Direkteinspitzer)
+VW/Audi baute von 11/2001–05/2005 einen Dreizylinder-Diesel (TDI) mit etwa 75 PS (z. B. im VW Polo IV und Audi A2). Auch im VW Polo V (seit 2009) gibt es einige Dreizylinder-Motoren, ebenso wie im Kleinstwagen VW up!.
+Ford brachte im Frühjahr 2012 einen Dreizylinder-EcoBoost-Motor mit einem Hubraum von 998 cm³ heraus, der wahlweise 74, 88 oder 92 kW (100, 120 oder 125 PS) leistet und in diversen Ford-Modellen Verwendung findet.
+BMW hat 2013/2014 einige aufgeladene Dreizylindermotoren eingeführt. Sie werden in BMW-Modellen und auch in MINI-Modellen eingesetzt. Der Dieselmotor-Dreizylinder hat die Bezeichnung BMW B37; der Ottomotor-Dreizylinder B38.
+Dreizylindermotoren wurden auch verwendet, um den Hubraum zu vergrößern. So verfuhren u. a. Yamaha (Bootsmotoren), Saab, DKW und IFA, die ihre Zweizylindermotoren aufstockten.
+Bei Motorrädern wurden Reihendreizylinder schon in den 1970ern von Laverda und Triumph (Trident 750 ab 1969) und später wieder in zahlreichen Modellen wie zum Beispiel der Rocket III und der Speed Triple eingesetzt. Ebenso von BMW zwischen 1985 und 1996 in der BMW K 75, daneben von Yamaha früher in der XS 750/850 und neuerdings in der MT-09, sowie von Benelli und MV Agusta seit 2012 (F3, Brutale).
+Außerdem gibt es diese Bauweise häufig bei kleineren Schiffen (auch als Hilfsmotor), als Generator-Antrieb sowie in weiteren Anwendungen, wie Baumaschinen.
+In Lkw der Hersteller Fried. Krupp Motoren- und Kraftwagenfabriken und Commer wurden auch dreizylindrige Zweitakt-Diesel-Gegenkolbenmotoren verwendet.
+
+
+==== Besondere Bauformen ====
+
+Eine weitere Bauart von Dreizylindermotoren ist der Dreizylinder-V-Motor, bei dem zwei äußere Zylinder parallel und der mittlere nach vorn geneigt angeordnet ist, wie er bei der DKW RM 350 von 1953, die wegen ihres Klanges den Beinamen „Singende Säge“ erhielt, und mehreren Motorrädern der Marke Honda, z. B. der RS 500 R in den 1980er-Jahren eingesetzt wurde. Diese Modelle wurden jedoch nur kurz gebaut.
+Es gab Versuche, Dreizylinder-Sternmotoren als Antrieb für Autos oder Motorräder einzusetzen (zum Beispiel beim Vorgänger der Megola sowie bei einigen Kleinserienherstellern). All diese Versuche kamen aber über das Prototypenstadium nicht hinaus. Lediglich im Flugzeugbau gab es einige Serienmotoren, wie zum Beispiel den in USA gebauten Szekely SR-3.
+Eine weitere, sehr seltene Art von Dreizylindermotoren ist der W-Motor, auch Fächermotor genannt. Der französische Hersteller Alcyon baute solche Motoren, die 1904 der italienische Rennfahrer und Ingenieur Alessandro Anzani benutzte. Sie dienten auch als Antrieb für Flugzeuge (zum Beispiel den Bleriot XI-Eindecker). Im Jahr 2000 brachte der US-amerikanische Custom-Bike-Hersteller Feuling R&D wieder ein Motorrad mit einem Dreizylinder-W-Motor heraus.
+
+
+=== Laufruhe ===
+Dreizylinder-Reihenmotoren haben von Natur aus eine etwas schlechtere Laufruhe als Vierzylinder-Reihenmotoren (wenn auch eine bessere als Zweizylinder-Reihenmotoren), da der Zündabstand größer ist und freie Massenmomente auftreten. Es treten sowohl freie Massenmomente erster als auch zweiter Ordnung auf. Mit einer Ausgleichswelle kann das freie Massenmoment erster Ordnung kompensiert werden, das Massenmoment zweiter Ordnung wird wegen des hohen Aufwands nicht ausgeglichen.
+
+
+== Weitere Verwendungen ==
+Auch abseits von Verbrennungsmotoren existieren Dreizylinder, u. a. als Kolbenpumpen oder Kompressoren.
+
+
+== Weblinks und Quelle ==
+
+Die magischen 3 - Dreizylinder-Motoren: Neue sparsame Hightech-Triebwerke, autozeitung.de vom 28. Juni 2014, abgerufen am 25. September 2015
+Über die Laufruhe verschiedener Motorbauarten
+Stand der Entwicklung (2011), Beispiele (Nissan Micra, Kia Picanto, Ford Fiesta)
+
+
+== Einzelnachweise ==

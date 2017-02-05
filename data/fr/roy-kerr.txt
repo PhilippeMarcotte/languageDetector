@@ -1,0 +1,45 @@
+Roy Patrick Kerr, né le 16 mai 1934, est un mathématicien néo-zélandais qui s'est rendu célèbre en 1963 pour avoir trouvé une solution exacte aux équations de la relativité générale décrivant un trou noir en rotation.
+
+
+== Biographie ==
+Les capacités de Roy Kerr ont été reconnues très tôt, alors qu'il étudiait au collège Saint Andrew de Christchurch. Il entre ensuite au Canterbury University College de l'université de Nouvelle-Zélande, qui deviendra plus tard l'Université de Canterbury, d'où il sort diplômé en 1955. Roy Kerr part ensuite pour l'université de Cambridge où il obtient sa thèse en 1960 sur l'étude des équations du mouvement en relativité générale. Après avoir été chercheur post-doctoral à l'université de Syracuse suivi d'un court passage à la base militaire de l'US Air Force de Wright-Patterson, il est nommé à l'université d'Austin au Texas en 1962, où il trouve peu après la solution qui le rend célèbre. En 1971, Roy Kerr retourne à l'université de Canterbury, où il reste jusqu'à se retraite en 1993. Il a été pendant dix ans directeur du service de mathématiques de l'université. Il a reçu la médaille Hughes en 1984, ainsi que la médaille Hector en 1982 et la médaille Rutherford en 1993.
+
+
+== Travaux ==
+La solution trouvée par Kerr décrit l'espace-temps au voisinage d'un trou noir en rotation. Depuis les trous noirs en rotation sont appelés trous noirs de Kerr, et la solution qui les décrit est appelée métrique de Kerr (ou solution de Kerr). La description des trous noirs en rotation représente une contribution importante à l'astrophysique car l'on pense que la plupart des trous noirs sont animés d'un mouvement de rotation suffisamment important pour que celui-ci ait une influence directe sur son environnement immédiat. On n'a pas à l'heure actuelle (2005) observé directement de trous noirs, mais l'étude des spectres des disques d'accrétion observés depuis la Terre permet en principe de déterminer si l'objet central est effectivement un trou noir de Kerr. Certaines observations encore sujettes à débats semblent aller dans ce sens (voir par exemple [4]).
+La découverte de la solution de Kerr a joué un rôle important car elle a initié ce que l'on appelle aujourd'hui « l'âge d'or de la physique des trous noirs », période d'une quinzaine d'année qui a vu un regain considérable d'attention pour la physique des trous noirs après que leur intérêt astrophysique eut été réalisé. L'impact le plus évident des travaux de Kerr se voit dans les commentaires qui ont été faits à leur sujet. La solution de Kerr est présentée comme « la plus importante solution exacte de toutes les équations de la physique ». Subrahmanyan Chandrasekhar, lauréat du prix Nobel de physique de 1983 décrit la solution de Kerr ainsi :
+
+« De toute ma vie de scientifique, longue de 45 ans, ma plus intense expérience a été de réaliser que la solution exacte aux équations d'Einstein de la relativité générale découverte par le mathématicien néo-zélandais Roy Kerr fournit une représentation absolument exacte d'une quantité innombrable de trous noirs qui peuplent l'univers. Ce frisson ressenti devant la beauté, le fait incroyable qu'une découverte résultant d'une recherche d'esthétique en mathématiques trouve son reflet exact dans la Nature, me persuade que la beauté est ce à quoi l'esprit humain est sensible dans ce qu'il a de plus fondamental et de plus profond. »
+
+De son propre aveu, Kerr n'avait pas réalisé l'importance de ses travaux à ce moment-là, comme en témoigne l'article qu'il publie, très court (une page et demie), et se concentrant uniquement sur des aspects purement mathématiques.
+Les métriques de Kerr-Schild sont également nommées en son honneur.
+
+
+== Notes et références ==
+
+
+=== Sources ===
+(en) Brian Woods, Professor Roy Kerr, New Zealand Mathematical Society Newsletter, n°58, 1993.
+(en) Roy Kerr and the spin on black holes. Extrait de la conférence donnée lors du 70e anniversaire de Roy Kerr.
+(en) Marilyn Head, Man of mystery, The listener, vol. 195, n°3359, 25 septembre – 1er octobre 2004.
+
+
+== Voir aussi ==
+
+
+=== Articles connexes ===
+Trou noir de Kerr, Trou noir de Kerr-Newman
+Métrique de Kerr, Métrique de Kerr-Newman
+Métrique de Kerr-Schild
+
+
+=== Liens externes ===
+Photo de Roy Kerr, datant des années 1980
+Photo de Roy Kerr, datant des années 2000
+(en) Gravitational Field of a Spinning Mass as an Example of Algebraically Special Metrics, l'article publié par Kerr en 1963 dans Physical Review Letters décrivant la métrique de Kerr, Phys. Rev. Lett. 11, 237 (1963)
+(en) Conférence donnée à l'université de Canterbury en 2004 à l'occasion du 70e anniversaire de Roy Kerr
+(en) Article sur Roy Kerr sur le site d'Éric Weisstein
+(en) Exemple de travaux tentant de détecter la présence d'un trou noir de Kerr, ApJ 69, L570 (2002)
+ Portail de la cosmologie
+ Portail des mathématiques
+ Portail de la physique

@@ -1,0 +1,51 @@
+ISO 639-3 è la terza parte dello standard internazionale ISO 639, un sistema elaborato per classificare tutte le lingue parlate del mondo, associando a ciascuna lingua un codice identificativo unico.
+La terza sezione dell'ISO 639 è un indice che assegna codici di 3 lettere (alpha-3) a un vasto catalogo di lingue moderne, antiche, estinte e persino artificiali, per un totale di 7776 elementi. L'obiettivo è costruire un indice generale e il più dettagliato possibile che includa qualunque tipo di linguaggio naturale umano parlato nel mondo.
+Questo nuovo codice perfeziona il lavoro fatto con la precedente versione ISO 639-2, completando e rettificandone la classificazione. L'ISO 639-3 è progettato per non entrare in conflitto con l'ISO 639-2 (per questo, tutti gli elementi presenti nell'ISO 639-2 sono dotati di un nuovo codice identificativo - ad eccezione delle famiglie linguistiche, escluse dall'ISO 639-3 e reintrodotte solo nel più tardo ISO 693-5). Le combinazioni consentite dalla scelta di una codifica fatta di 3 lettere (alpha-3), permette di classificare un insieme vastissimo di lingue.
+Originariamente erano previsti l'aggiornamento e la verifica annuale dei codici così redatti, al fine di affinare ulteriormente il lavoro di classificazione fatto.
+La versione pubblicata nel 2007 è la ISO 639-3:2007: Codici per la rappresentazione dei nomi delle lingue -- Parte 3: Alpha-3 code for comprehensive coverage of languages.
+
+
+== Sintassi della codifica ==
+Alle lingue viene assegnato un codice di tre lettere seguito opzionalmente da due lettere che identificano rispettivamente il dominio (scope) e il tipo (type).
+
+
+=== Dominio (scope) ===
+individual (I) lingua a sé stante, indipendente
+macrolanguage (M) lingua che genera sottotipi evoluti
+collections gruppo di lingue strettamente imparentate tra loro
+reserved riservato a codifiche locali (da qaa a qtz)
+specials (S) riservato a situazioni indeterminate o multiple (und, mul e zxx)
+dialects sottotipo derivante da altra lingua
+da notare che nessun dialetto (termine -dialetto- come inteso in italiano) può essere incluso nello standard ISO 639-3, l'accezione -dialects- indica un sottotipo e discrimina unicamente una lingua vera e propria generata ed evolutasi a partire da una lingua matrice
+
+
+=== Tipo (type) ===
+living (L) lingua attiva, usata come lingua madre da qualcuno in vita.
+extinct (E) lingua estinta, non più utilizzata
+ancient (A) lingua molto documentata ma estinta in tempi remoti
+historical (H) lingua dalla quale in tempi storici è derivata una o più lingue
+constructed (C) lingua artificiale
+da notare che per lingua -ancient- viene utilizzato un criterio di letteratura, scolarità e comunità parlante mentre per lingua -extinct- basta il criterio di intelligibilità
+
+
+=== Novità rispetto agli ISO 639-2 e ISO 639-1 ===
+L'ISO 639-3 rappresenta un tentativo di costruzione di un indice delle lingue assai più dettagliato, che come i precedenti tiene conto della letteratura prodotta nelle varie lingue, ma si differenzia nel cercare di rendere conto in maniera più articolata della situazione concreta delle lingue parlate. Le principali caratteristiche dell'ISO 639-3 sono:
+L'inserimento nell'indice di molte più macrolingue. Questo comprende sia nuovi elementi, che elementi già codificati in precedenza. Nello specifico, vi sono 56 elementi che nell'ISO 639-2 erano catalogati come lingua, e che nell'ISO 639-3 sono stati invece catalogati come macrolingua. Ciò fa sì che in determinati contesti un linguaggio, che in precedenza veniva considerati come semplice "dialetti" di una lingua ISO 639-2, secondo lo standard ISO 639-3 può esser considerato una lingua a sé stante.
+La differenza di trattamento riservata alle famiglie linguistiche, una cui prima indicizzazione era stata già intrapresa con l'ISO 639-2. Questi elementi sono stati totalmente esclusi dall'ISO 639-3, che si concentra esclusivamente su lingue e macrolingue. Le famiglie linguistiche sono re-indicizzate solo con il successivo ISO 639-5.
+
+
+==== Esempio di ricodifica ====
+ISO 639-1: codici di 2 lettere corrispondenti alla prima generale classificazione delle lingue parlate e scritte del pianeta (codici come (IT) , (DE) , (FR) , eccetera).
+ISO 639-2: codici di 3 lettere corrispondenti a un primo tentativo di classificare lingue e famiglie linguistiche. Per la maggior parte superato dallo standard 639-3, sebbene sia stato largamente impliegato dai sistemi bibliografici (biblioteche).
+
+
+== Note ==
+
+
+== Bibliografia ==
+ISO 639-3:2007 pagina ufficiale
+Homepage non ufficiale dello standard ISO 639-3 SIL
+
+
+== Voci correlate ==
+ISO 639

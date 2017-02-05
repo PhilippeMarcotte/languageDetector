@@ -1,0 +1,38 @@
+La memoria holográfica o almacenamiento de datos holográficos es una nueva y potente tecnología dentro del área del almacenamiento de datos de gran capacidad actualmente dominada por el convencional almacenamiento de datos ópticos y magnéticos, estos dispositivos se basan en bits individuales que son almacenados magnéticamente o a través de cambios ópticos en la superficie del soporte de grabación. La memoria holográfica supera estas limitaciones grabando la información a lo largo de todo el soporte y es capaz de almacenar múltiples imágenes en la misma zona usando luz y ángulos diferentes.
+Adicionalmente, mientras que los soportes que almacenan datos ópticos y magnéticos graban un bit de información en una vez de forma lineal, los holográficos son capaces de grabar y leer millones de bits en paralelo, que permiten tasas de transferencia de datos superiores a los alcanzados a través de medios ópticos de almacenamiento.
+
+
+== Datos de grabación ==
+La memoria holográfica captura la información usando un patrón de interferencia óptica con un denso material óptico fotosensitivo. La luz de un sólo láser se divide en dos haces de luz, uno de referencia y otro de señal; para su almacenamiento se usa un modulador de luz espacial codificando la señal de los datos. A causa del cruce entre ambos haces, se forma un patrón de inferencia óptica, generando un cambio químico o físico en el soporte fotosensitivo; los datos obtenidos son representados en un patrón óptico de píxeles oscuros y luminosos. Ajustando el ángulo del haz de referencia, longitud de ondas, o posición media, una multitud de hologramas (teóricamente, varios miles) pueden ser almacenados en un único soporte. Lás limitaciones teóricas de la densidad de almacenamiento en este medio son aproximadamente de decenas de Terabits (1 Tb = 1024 Gigabits/Gb,1024 Megabits/Mb = 1 Gigabyte/GB) por centímetro cúbico. En 2006, InPhase anunció una capacidad de almacenamiento de alrededor de 500 Gb/in2.
+
+
+== Datos de lectura ==
+Los datos almacenados son leídos a través de la reproducción del mismo haz de referencia usado para crear el holograma. La luz del haz de referencia es enfocado en el material fotosensitivo, iluminando el patrón de inferencia apropiado, se produce una difracción de luz en el patrón de inferencia, proyectándolo sobre el lector. El lector es capaz de leer los datos en paralelo, alrededor de un millón de bits a la vez. Se pueden acceder a los archivos de un disco holográfico en menos de 200 milisegundos.
+
+
+== Duración ==
+La memoria holográfica puede proporcionar a las empresas un potente método para archivar información en formatos no regrabables o de una sola escritura impidiendo así que la información sea sobreescrita o borrada. Los fabricantes creen que dicha tecnología puede proporcionar un almacenamiento de datos seguros durante 50 años, por encima de muchos soportes actuales. Por el contrario la tecnología de los lectores de datos evoluciona rápidamente pudiendo alargar la duración del soporte 50 años más.
+
+
+== Términos usados ==
+Sensitividad: alcance de la modulación del índice de refracción producidas por unidades de exposición.
+La gama dinámica: determina cuantos hologramas pueden ser multiplexados en un sólo volumen de datos.
+Los Moduladores de Luz Espacial (SLM) son dispositivos de entrada pixeladas (paneles de cristal líquido), usados para imprimir los datos almacenados en la lente del haz.
+
+
+== Véase también ==
+Tarjeta Versátil Holográfica
+Disco Versátil Holográfico
+Memoria óptica en 3D
+
+
+== Referencias ==
+
+
+== Enlaces externos ==
+Howstuffworks
+Daewoo Electronics Develops the World’s First Holographic Storage Device
+Inphase – Primera empresa involucrada en la memoria holográfica
+Comparison of Two Approaches: Page-based and Bit-based HDS
+Maxell Holographic Media Press Release
+GE Global Research is developing terabyte discs and players that will work with old storage media

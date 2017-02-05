@@ -1,0 +1,13 @@
+El Acorn Communicator es un ordenador de negocios desarrollado por Acorn Computers en 1985. De este sistema se vendieron muy pocas unidades a compañías que requerían un ordenador con un módem integrado. Como terminal dedicado Prestel, con un procesador de textos integrado y capacidades de hoja de cálculo, el Communicator encontró un nicho de mercado entre las agencias de viaje en el Reino Unido e Italia, las cuales usaban Prestel y redes similares como probablemente los primeros servicios de reserva en línea.
+La máquina usaba el chip Aberdeen manufacturado por Ferranti para el Electron, que era la ULA más grande desarrollada en ese momento.
+El sistema usaba un chip Western Design Center 65816 de 16 bits en lugar del MOS Technology 6502 de 8 bits, que era usado por todos los equipos anteriores de Acorn. El Communicator incluía 512 KB de memoria, expandible a 1024 KB.
+El equipo incluía una suite ofimática completa, incluyendo View (procesador de textos), ViewSheet (hoja de cálculo), y un terminal completo Prestel, además de, por supuesto, Econet y muchos de las interfaces encontradas en la serie BBC Micro de ordenadores. El software del sistema que unía a los paquetes era una mezcla del BBC BASIC y ensamblador. El equipo de desarrollo de software fue dirigido por Paul Bond, un piloto entusiasta que ocasionalmente llevaba en su Cessna a los miembros del equipo cuando las cosas estaban tranquilas.
+Las primeras versiones del Communicator eran monocromas. Más tarde, aunque antes de ser enviado a los clientes, una placa hija permitió el uso de color.
+
+
+== Enlaces externos ==
+Esta obra contiene una traducción derivada de Acorn Communicator de Wikipedia en inglés, concretamente de esta versión, publicada por sus editores bajo la Licencia de documentación libre de GNU y la Licencia Creative Commons Atribución-CompartirIgual 3.0 Unported.
+Chris’s Acorns: Communicator
+Archivo de la página dedicada al Communicator
+The Very Rare Acorn Briefcase Communicator @ Computing History
+[1]

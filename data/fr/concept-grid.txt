@@ -1,0 +1,62 @@
+Concept Grid est une plate-forme expérimentale située sur EDF Lab les Renardières (77). Il s’agit d’un système électrique intelligent dédié aux expérimentations et à la recherche. Contrairement aux réseaux de distribution approvisionnant des clients, il permet de mener des campagnes d’essais complexes et en conditions perturbées, sans affecter les usagers.
+Inauguré par EDF le 13 septembre 2013, ce moyen d'essais a été conçu pour être représentatif des réseaux de distribution existants afin que les résultats des investigations grandeur nature qui y sont menées soient directement exploitables. La plate-forme est destinée à anticiper et accompagner l’évolution des réseaux vers les systèmes électriques intelligents. Au-delà de répondre aux besoins en R&D d’EDF, elle est ouverte aux industriels et équipementiers pour tester des innovations technologiques dans le domaine des smart grids.
+
+
+== Contexte et enjeux : du réseau électrique « classique » au « smart grid » ==
+Le réseau électrique doit s’adapter aux différentes politiques énergétiques pour assurer l’équilibre entre l’offre et la demande. Le développement rapide des énergies renouvelables et la multiplication de nouveaux usages (véhicules électriques, pompes à chaleur, etc.) et des solutions de stockage soulèvent de nombreuses questions quant à l’optimisation de la gestion du réseau électrique. Pour faire face à ces évolutions, et maintenir un approvisionnement en électricité économique et sûr, le réseau électrique doit s'adapter. L’une des solutions majeures actuellement envisagées est de le rendre « plus intelligent ». L’intégration des technologies de l’information et de la communication dans les infrastructures des réseaux électriques améliore la gestion du réseau. Cela permet d’assurer un pilotage toujours plus précis du système électrique. C’est ce que l’on appelle un smart grid.
+
+
+== Composition ==
+Concept Grid a été spécifiquement construit pour être représentatif des systèmes électriques actuels et préparer leurs évolutions futures. Ce moyen d’essais comprend un véritable réseau de distribution intelligent étendu sur 3 hectares. Il est raccordé, de manière complémentaire, à d’autres laboratoires d’EDF Lab les Renardières pour rendre possible l’étude de problématiques additionnelles.
+Il réunit :
+3 km de réseau moyenne tension (20 kV) qui alimentent un réseau basse tension de 7 km
+Des matériels électriques complémentaires installés dans un bâtiment industriel – tels que des cellules RLC (Résistance Inductance Capacité), un amplificateur et un simulateur – qui lui permettent de reproduire virtuellement les caractéristiques des réseaux de distribution de plus grande taille. Les cellules RLC simulent jusqu’à 120 km de lignes moyenne tension supplémentaires. L’amplificateur de puissance couplé au simulateur temps réel permet de générer des scénarios de production (jusqu’à 120 kVA) ou de consommation électrique (60 kVA max), puis de les associer au réseau réel de Concept Grid
+Des fonctions de types smart grid intégrées par un réseau de télécommunication (fibres optiques, radio et courant porteur en ligne) et un système d’information. L’association du réseau de télécommunication et du système d’information au réseau moyenne et basse tension fait donc de Concept Grid un véritable réseau électrique intelligent
+Un quartier d’habitations composé de cinq maisons de 20 m2 chacune qui incluent des équipements actuels ou anticipant les usages futurs : compteurs intelligents, appareils électroménagers pilotables à distance, pompes à chaleur réversibles, micro-éoliennes, panneaux photovoltaïques, bornes de recharge de véhicules électriques, solutions de stockage… Ce quartier d’habitations témoins regroupe ainsi des technologies nouvelles en matière d’énergies renouvelables, de stockage ou encore de mobilité électrique
+Divers bâtiments et laboratoires d’essais du site des Renardières connectés à Concept Grid, par exemple le laboratoire batterie et véhicule électrique ou le laboratoire domotique
+Un poste de conduite aux standards les plus récents pour superviser et piloter l’ensemble
+
+
+== Objectifs et missions ==
+Les expérimentations menées sur Concept Grid visent à faciliter :
+L’insertion de moyens de production décentralisée, de solutions de stockage, d’équipements à base d’électronique de puissance, y compris en conditions perturbées
+Le développement rapide de nouveaux usages de l’électricité (véhicules électriques, pompes à chaleur, etc.)
+L’intégration de matériels innovants, d’équipements et de protocoles issus des nouvelles technologies de l’information et de la communication
+L’évolution des modes de conduite et d’exploitation
+
+
+== Un outil flexible et polyvalent ==
+Concept Grid peut s’adapter aux besoins d’utilisateurs très divers : industriels, distributeurs, académiques, etc. En effet, ce moyen d’essais peut être paramétré à la demande. Il est par exemple possible de choisir les longueurs de liaisons (en moyenne tension ou en basse tension simulées par des RLC), le régime de neutre, d’insérer ou non des productions décentralisées (éolienne ou photovoltaïque), de générer des perturbations sur le réseau et de les maintenir, d’utiliser des équipements liés aux nouveaux usages (pompes à chaleur, bornes de recharge de véhicules électriques, etc.). Toutes ces configurations rendent possible le test de nombreux matériels, selon un éventail d’essais très large.
+
+
+=== Tester différents matériels et d'offre de service et leurs interactions au sein d’un système ===
+Matériels de réseaux électriques et télécom
+Systèmes de stockage
+Véhicules électriques
+Appareils domotiques
+Compteurs communicants
+Sources d’énergie décentralisées
+Algorithmes (gestion des flux, pilotage)
+
+
+=== Mener des essais complexes avec des perturbations sur le réseau ===
+Installations en conditions réelles
+Courts-circuits haute tension
+Perturbations électriques basse tension
+Simulation en temps réel
+Ilotage
+Télécommunications
+Conçu pour évoluer dans le temps, ce moyen d’essais intègre des développements ou transformations en permanence. Grâce à des matériels interchangeables et à la possibilité d’accueillir de nouvelles infrastructures, il dispose d’une capacité d'adaptation aux besoins émergents des réseaux intelligents.
+
+
+== Modalités de collaboration ==
+Concept Grid est également conçu comme une plate-forme de coopération avec des partenaires, académiques ou industriels. Les expérimentations peuvent y être menées dans le cadre de partenariats. Des collaborations existent déjà avec Alcatel, l’Institut de recherche du groupe Hydro-Québec (IREQ), Supelec ou encore DERlab (réseau européen d’instituts et de laboratoire de recherche).
+En s’appuyant aussi bien sur des partenariats dans la durée que sur des coopérations plus ponctuelles, Concept Grid est un lieu de rencontre privilégié pour différents acteurs universités, laboratoires, gestionnaires de réseaux, équipementiers et commercialisateurs) qui permet d'anticiper et d'accompagner l'évolution des systèmes électriques.
+
+
+== Notes et références ==
+
+
+== Liens externes ==
+Page Concept Grid, site officiel d'EDF
+ Portail de l’électricité et de l’électronique

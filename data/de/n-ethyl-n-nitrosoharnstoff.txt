@@ -1,0 +1,32 @@
+N-Ethyl-N-nitrosoharnstoff, oft auch als Ethylnitrosoharnstoff bezeichnet und meist als ENU (= ethyl nitroso urea) abgekürzt, ist eine Verbindung aus der Gruppe der Nitrosoharnstoffe. Es ist ein starkes Karzinogen und hochpotentes Mutagen.
+
+
+== Eigenschaften ==
+ENU ist eine hochreaktive Verbindung, die gegenüber Feuchtigkeit und Licht empfindlich ist. Die Lagerung wird üblicherweise bei Temperaturen unterhalb von −10 °C vorgenommen. Die Verbindung ist zu etwa 1,3 % in Wasser löslich. Der Oktanol-Wasser-Verteilungskoeffizient (log KOW) beträgt 0,23.
+Die Stabilität wässriger Lösungen ist vom pH-Wert abhängig. Bei Raumtemperatur und pH 4,0 beträgt die Halbwertszeit in Wasser 190 Stunden. Bei pH 6,0 nur noch 31 Stunden, bei pH 7,0 1,5 Stunden, bei pH 8,0 sechs Minuten und bei pH 9,0 drei Minuten. In alkalischen Lösungen zersetzt sich ENU zu Diazoethan. Bei der thermischen Zersetzung entstehen Stickoxide. Ethylnitrosoharnstoff ist ein Alkylierungsmittel, das seine Ethylgruppe auf Nukleinbasen – meist Thymin – der DNA im Zellkern übertragen kann. Diese Eigenschaft macht diese Verbindung zum einen zu einem starken Karzinogen (eine Substanz, die Krebs erzeugen kann), zum anderen können mit Ethylnitrosoharnstoff Im Tierversuch erzeugt ENU, je nach Art der Applizierung und des Applikationsortes, Tumoren in den verschiedensten Organen. So führt beispielsweise die subkutane Injektion bei Ratten zu Leberkrebs, Leberzellkarzinom, Adenokarzinomen in der Lunge, Lymphomen und Tumoren des peripheren Nervensystems, des Rückenmarks und des Gehirns. Die orale Gabe führt vor allem zu Tumoren des Nervensystems. Intraperitoneal Injektionen induzieren unter anderem maligne Tumoren in Leber, Nieren, Eierstöcken, Lunge und Magen. Intravenös entstehen Leukämien, Gliome, sowie Tumoren der Gebärmutter und Vagina.
+ENU alkyliert auch das Spermatogonium, die Stammzellpopulation im Keimepithel des Hodens
+
+
+== Verwendung ==
+Für Ethylnitrosoharnstoff gibt es aufgrund der Instabilität und der hohen Toxizität keine technische Verwendung. Es wird im Labormaßstab in kleinen Mengen hergestellt. Die Erstsynthese erfolgte 1919.
+In der biochemischen Forschung wird ENU seit Beginn der 1970er Jahre zur Induktion von Mutationen verwendet. In dieser Anwendung wird es auch als „Supermutagen“ bezeichnet. Die Übertragung der Ethylgruppe auf die Nukleinbasen ist irreversibel. Diese Alkylierung kann zu Fehlpaarungen im komplementären Strang der DNA während der Replikation führen. Die Fehlpaarungen bewirken im Wesentlichen Punktmutationen (Adenin→Thymin). Durch das Spermatogonium können die Punktmutationen in die Keimbahn gebracht werden (Keimbahnmutation).
+Die Mutationsrate liegt bei etwa 1 pro 1000 Basenpaaren.
+
+
+== Einzelnachweise ==
+
+
+== Literatur ==
+T. Murota und T. Shibuya: The induction of specific-locus mutations with N-propyl-N-nitrosourea in stem-cell spermatogonia of mice. In: Mutat Res 264, 1991, S. 235–240, PMID 1723506.
+T. Murota und T. Shibuya: A review of the genotoxicity of 1-ethyl-1-nitrosourea. In: Mutat Res 297, 1993, S. 3–38, PMID 7686271.
+M. J. Lee u. a.: Characteristics of ethylnitrosourea-induced cataracts. In: Curr Eye Res 34, 2009, S. 360–268, PMID 19401879.
+D. Soewarto u. a.: Features and strategies of ENU mouse mutagenesis. In: Curr Pharm Biotechnol 10, 2009, S. 198–213, PMID 19199953.
+L. B. Russell LB und C. S. Montgomery: Supermutagenicity of ethylnitrosourea in the mouse spot test: comparisons with methylnitrosourea and ethylnitrosourethane. In: Mutat Res 92, 1982, S. 193–204, PMID 7088002.
+S. P. Cordes: N-ethyl-N-nitrosourea mutagenesis: boarding the mouse mutant express. In: Microbiol Mol Biol Rev 69, 2005, S. 426–439, PMID 16148305.
+B. Rathkolb u. a.: Large-scale N-ethyl-N-nitrosourea mutagenesis of mice--from phenotypes to genes In: Exp Physiol 85, 2000, S. 635–644, PMID 11187959.
+C. L. Kennedy und M. K. O'Bryan: N-ethyl-N-nitrosourea (ENU) mutagenesis and male fertility research. In: Hum Reprod Update 12, 2006, S. 293–301, PMID 16436467.
+T. V. Tuyen Phänotypische und genotypische Charakterisierung der ENU-induzierten Mausmutante HST001 zur Verwendung für die nephrologische Forschung. Dissertation, Ludwig-Maximilians-Universität München, 2005.
+
+
+== Weblinks ==
+13th Report on Carcinogens (RoC): N-Nitroso-N-Ethylurea in Nitrosamines (PDF-Datei; 940 kB)

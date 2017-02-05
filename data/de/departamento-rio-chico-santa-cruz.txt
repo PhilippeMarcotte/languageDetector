@@ -1,0 +1,79 @@
+Diese Teilliste führt alle IATA-Flughafen-Codes auf, die mit „C“ beginnen, und enthält Informationen zu den bezeichneten Verkehrsknotenpunkten.
+
+
+== CA ==
+
+
+== CB ==
+
+
+== CC ==
+
+
+== CD ==
+
+
+== CE ==
+
+
+== CF ==
+
+
+== CG ==
+
+
+== CH ==
+
+
+== CI ==
+
+
+== CJ ==
+
+
+== CK ==
+
+
+== CL ==
+
+
+== CM ==
+
+
+== CN ==
+
+
+== CO ==
+
+
+== CP ==
+
+
+== CQ ==
+
+
+== CR ==
+
+
+== CS ==
+
+
+== CT ==
+
+
+== CU ==
+
+
+== CV ==
+
+
+== CW ==
+
+
+== CX ==
+
+
+== CY ==
+
+
+== CZ ==

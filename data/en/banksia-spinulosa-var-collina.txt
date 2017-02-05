@@ -1,0 +1,63 @@
+Banksia spinulosa var. collina is a shrub that grows along the east coast of Australia, in Queensland and New South Wales. Commonly known as Hill Banksia or Golden Candlesticks, it is a taxonomic variety of B. spinulosa (Hairpin Banksia). It is a popular garden plant widely sold in nurseries.
+
+
+== Description ==
+As with the other varieties of B. spinulosa (Hairpin Banksia), B. spinulosa var. collina grows as a multi-stemmed lignotuberous shrub with flower spikes that are all golden or golden with red or purple styles. Its leaves are broader than those of B. spinulosa var. spinulosa, and usually but not always serrate. It can be distinguished from B. spinulosa var. cunninghamii by its lignotuber and resultant multi-stemmed habit.
+
+
+== Taxonomy ==
+
+B. spinulosa var. collina was first published as Banksia collina by Robert Brown in 1810, based on specimens he found among hills in the vicinity of the Hunter River, New South Wales in New South Wales in 1802. Brown did not give an explicit reason for the specific epithet "collina", but it is universally accepted that it is from the Latin collinus ("of hills"), in reference to the topography of the area in which he first found it. The species is in fact not restricted to hilly terrain, so the specific epithet is misleading. Brown apparently neglected to collect a specimen for the taxon, so a specimen collected by George Caley at Newcastle has since been declared a neotype.
+It retained its specific rank in Brown's 1830 arrangement of Banksia, being placed in subgenus Banksia verae, the "True Banksias", because its inflorescence is a typical Banksia flower spike. It was placed immediately after B. cunninghamii (now B. spinulosa var. cunninghamii) and B. spinulosa, and before B. occidentalis (Red Swamp Banksia). Banksia verae was renamed Eubanksia by Stephan Endlicher in 1847.
+Carl Meissner demoted Eubanksia to sectional rank in his 1856 classification, and divided it into four series, with B. collina placed alongside B. cunninghamii in series Salicinae, while B. spinulosa was placed in series Abietinae. The following year a taxonomic synonym was published: seeds of this variety must have been sent to Russia, as in 1857 the name Banksia guentheri was published by Eduard August von Regel, based on material cultivated in Leningrad; this has since been declared a taxonomic synonym of B. spinulosa var. collina. This was determined to be a taxonomic synonym of B. collina shortly afterwards, and was formally declared a synonym of B. spinulosa var. collina by George in 1981.
+When George Bentham published his 1870 arrangement in Flora Australiensis, he discarded Meissner's series, placing all the species with hooked styles together in a section that he named Oncostylis. B. collina was placed between B. spinulosa and B. verticillata (Granite Banksia), and both B. cunninghamii and the western species B. littoralis (Western Swamp Banksia) were reduced to synonymy with it. This arrangement would stand for over a century.
+A major disruption to the nomenclature of Banksia occurred in 1890, when Otto Kuntze transferred the entire genus into the new name Sirmuellera. In the process he transferred B. collina to Sirmuellera collina. This transfer was not accepted, however, and Sirmuellera collina (R.Br.) Kuntze is now considered a nomenclatural synonym of B. s. var. collina.
+Alex George published a new taxonomic arrangement of Banksia in his landmark 1981 monograph The genus Banksia L.f. (Proteaceae). Endlicher's Eubanksia became B. subg. Banksia, and was divided into three sections, one of which was Oncostylis. Oncostylis was further divided into four series, with B. spinulosa placed in series Spicigerae because its inflorescences are cylindrical. B. collina was demoted to one of three varieties of B. spinulosa, and placed between B. spinulosa var. spinulosa and B. spinulosa var. cunninghamii.
+In 1996, Kevin Thiele and Pauline Ladiges published a new arrangement for the genus, after cladistic analyses yielded a cladogram significantly different from George's arrangement. Thiele and Ladiges' arrangement retained B. spinulosa var. collina's position within the B. spinulosa complex, and retained B. spinulosa in series Spicigerae, but placed the species alone in B. subser. Spinulosae. This arrangement stood until 1999, when George effectively reverted to his 1981 arrangement in his monograph for the Flora of Australia series.
+Under George's taxonomic arrangement of Banksia, B. spinulosa var. collina's taxonomic placement may be summarised as follows:
+
+Genus Banksia
+Subgenus Banksia
+Section Banksia
+Section Coccinea
+Section Oncostylis
+Series Spicigerae
+B. spinulosa
+B. spinulosa var. spinulosa
+B. spinulosa var. collina
+B. spinulosa var. neoanglica
+B. spinulosa var. cunninghamii
+
+B. ericifolia
+B. verticillata
+B. seminuda
+B. littoralis
+B. occidentalis
+B. brownii
+
+Series Tricuspidae
+Series Dryandroidae
+Series Abietinae
+
+Subgenus Isostylis
+
+Since 1998, Austin Mast has been publishing results of ongoing cladistic analyses of DNA sequence data for the subtribe Banksiinae. His analyses suggest a phylogeny that is very greatly different to George's arrangement. George's and Thiele and Ladiges' positioning of B. spinulosa var. collina within B. spinulosa is supported, but B. spinulosa's placement is not. Series Spicigerae appears to be polyphyletic, with B. spinulosa and B. ericifolia more closely related to the taxa in Series Salicinae than it is to the other members of series Spicigerae. Early in 2007, Mast and Thiele initiated a rearrangement of Banksia by merging Dryandra into it, and publishing B. subg. Spathulatae for the species having spoon-shaped cotyledons. They foreshadowed publishing a full arrangement once DNA sampling of Dryandra was complete; in the meantime, if Mast and Thiele's nomenclatural changes are taken as an interim arrangement, then B. spinulosa var. collina is placed in B. subg. Spathulatae.
+
+
+== Distribution and habitat ==
+It mainly occurs along the coast from Gympie in Queensland south to Sydney. There are also outlying populations at Carnarvon National Park (around 500 kilometres from any other population), Crows Nest and Mount Barney National Park in Queensland, and at Boonoo Boonoo. It mainly grows in sand overlying sandstone, but also occurs in heavier soils. It is usually an understory shrub in open forests and woodlands of Eucalyptus.
+
+
+== Cultivation ==
+
+As with other varieties of B. spinulosa it is considered attractive, but is highly variable. It grows slowly, taking up to eight years to flower. It tolerates a range of soil conditions and aspects, survives frosts down to at least −8 °C (18 °F), and may be pruned heavily.
+Commercial forms of this variety include Banksia "Stumpy Gold" from the NSW Central Coast, and the unusual Banksia "Carnarvon Gold" from Carnarvon National Park.
+
+
+== References ==
+
+
+== External links ==
+"Banksia spinulosa var. collina (R.Br.) A.S.George". Flora of Australia Online. Department of the Environment and Heritage, Australian Government.  
+Banksia spinulosa var. collina (R.Br.) A.S.George, PlantNET: The Plant Information Network System of the Botanic Gardens Trust.
+"Banksia spinulosa var. collina (R.Br.) A.S.George". Australian Plant Name Index (APNI), IBIS database. Centre for Plant Biodiversity Research, Australian Government.

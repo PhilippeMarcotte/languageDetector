@@ -1,0 +1,19 @@
+Die IZH-49 (russisch ИЖ-49, auch ISH-49 oder ISCH-49) ist ein sowjetisches Motorrad. Anders als oft angenommen, ist sie keine Kopie oder ein Nachbau der deutschen DKW NZ 350, sondern ein modifizierter Weiterbau auf den originalen DKW-Fertigungsmaschinen.
+Schon 1930 hatte man sich im zentral gesteuerten Motorradbau der Sowjetunion dazu entschieden, eine Kopie der deutschen DKW Luxus 300 aufzulegen. Der Typ L300 wurde in den Promet-Werken in Leningrad als DKW-Lizenzbau hergestellt.
+Das frühe Interesse an der Zuverlässigkeit der DKW-Zweitaktmotoren führte mit dazu, dass nach Ende des Zweiten Weltkrieges die Sowjets die Gelegenheit ergriffen und als Reparationsleistungen die Fertigungsanlagen der DKW-Werke in Zschopau Anfang Juli 1945 demontierten und in Ischewsk am Ural, wo bereits die Ischewsker Motorenfabrik (Ischmasch) existierte, wieder aufbauten. Ebenso gingen der DKW-Chefkonstrukteur Hermann Weber, die Ingenieure Heydenreich, Schmidt und Ernst Volkmar mit an den Ural, um die Produktionsanlagen dort wieder aufzubauen, dies allerdings unfreiwillig. Hermann Weber verstarb in Ischewsk, die anderen kehrten 1948/1949/1951 zurück. Parallel arbeiteten im russischen Planungsbüro in Chemnitz weitere Mitarbeiter des ehemaligen DKW-Stabes an der Weiterentwicklung der NZ 350/1, woraus die spätere Izh-49 entstehen sollte.
+So wurde zunächst die IZH-350 identisch wie die NZ 350 weitergebaut, die ersten 83 Motorräder sollen sogar noch aus original DKW-Teilen gefertigt worden sein. Gebaut wurden von der IZH-350 bis ins Jahr 1951 hinein 126.297 Stück.
+1948 entstand dann in Ischewsk die IZH-350 C mit einer Teleskopfedergabel und nunmehr 14 PS.
+Ab dem Jahre 1951 wurde dann die modifizierte IZH-49 gebaut. Wesentliche Veränderungen waren die Verwendung einer Teleskopgabel am Vorderrad, sowie eine Hinterradschwinge, deren Feder-Dämpfer-Elemente einer Teleskop-Geradwegfederung nachempfunden waren (Die Gleitsteine, die die Schwinge an die Geradweg-Federbeine anlenkten, waren hochbeanspruchte Verschleißteile). Der bewährte Zentralrohrrahmen der DKW NZ 350 wurde beibehalten, aber durch Anschweißungen nach hinten verlängert und brachte damit einen um 1,5 Zentimeter längeren Radstand. Der Zweitakt-Kraftstoff wurde nun direkt in einen Einkammer-Tank eingefüllt.
+Die IZH-49 war auch das erste Motorrad der Ischewsker Motorenfabrik, für das es ein Modell mit Seitenwagen gab. Sie wurde von 1951 bis 1958 in 507.603 Stück gebaut und zählte damals zu den meistgebauten Motorrädern Russlands.
+Über Verbesserungen mit der IZH-54 und IZH-55 wurde sie dann im Jahr 1956 von der IZH-56 abgelöst, die ein komplett neues Fahrwerk bekam (Rohrrahmen mit doppeltem Unterzug und Federbeinschwinge).
+
+
+== Motor ==
+Der Antrieb der IZH-49 erfolgt durch einen Einzylinder-Zweitakt-Motor mit 346 cm³ Hubraum und einer Leistung von 10,5 bis 11,5 PS bei 3.200/min. Die Höchstgeschwindigkeit beträgt 110 km/h, der Verbrauch liegt bei ungefähr 4,5 l auf 100 km.
+
+
+== Weblinks ==
+
+Izh-49
+Izh-49 Izh-350 - Polnische Seite mit Konstruktionsplänen IZH-350 (polnisch)
+Izh-49 - Polnische Seite mit Detailfotos und downloads für Risszeichnungen (polnisch)

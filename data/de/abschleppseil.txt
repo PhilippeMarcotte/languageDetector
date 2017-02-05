@@ -1,0 +1,27 @@
+Ein Abschleppseil (oder als Gurt auch Abschleppgurt) ist eine Einrichtung zum Verbinden zweier Fahrzeuge zum Abschleppen. Nach der deutschen Straßenverkehrs-Zulassungs-Ordnung (StVZO) ist die Länge des Abschleppseils nicht begrenzt, aber der lichte Abstand zwischen schleppendem und geschlepptem Fahrzeug darf nicht mehr als fünf Meter – früher 4,75 m – betragen (siehe § 43 Abs. 3 StVZO). Ein Abschleppseil muss deutlich gekennzeichnet sein, beispielsweise durch ein rotes Tuch.
+
+
+== Ausführung und Verwendung ==
+Abschleppseile sind für die verschiedensten Gewichtsklassen zu haben, übliche Werte liegen zwischen 1900 kg bis 6000 kg. Seile zum Abschleppen sind in der Regel geflochtene Kunststoffseile (z.B. aus elastischen Perlon-Fasern, die ein ruckfreies Abschleppen - s.u. - ermöglichen) mit beidseitig angebrachten Karabinerhaken oder Schäkeln, gelegentlich auch mit einer einseitig ausgebildeten größeren Schlaufe. Auch Seile aus Sisal kommen vor. Sie werden fahrzeugseitig in die vorhandene Abschleppöse eingehängt bzw. mittels einer Schlaufe befestigt.
+Im Normalfall ist die Abschleppöse an den Fahrzeugen vorne links und hinten rechts, so dass das Abschleppseil einen Winkel zur Fahrtrichtung bildet. Dadurch wird auf die Reifen eine Querkraft ausgeübt: der Anfahrruck wird verkleinert. Sind beide Ösen auf der gleichen Seite, lässt sich der Winkel des Seils und der damit verbundene Federungseffekt durch versetztes Fahren erreichen.
+Ein Abschleppseil darf nur verwendet werden, wenn bei dem geschleppten Fahrzeug die Bremsen funktionieren und das abzuschleppende Kfz weniger als 4000 kg zulässiges Gesamtgewicht hat. Bei Nutzung eines Abschleppseils ist in Deutschland auf öffentlichen Straßen das Einschalten der Warnblinkanlage beider Fahrzeuge notwendig, siehe dazu auch den Hauptartikel Abschleppen.
+
+
+=== Ruckdämpfung ===
+Um beim Anfahren oder Beschleunigen bei durchhängendem Seil einen zu starken Ruck zu vermeiden, gibt es Abschleppseile, bei denen ein eingearbeitetes Gummielement oder eine Schraubenfeder als Ruckdämpfer dienen. Es existieren auch Abschleppseile, die als Flachgurte in einem Rollengehäuse beiderseits federnd aufgewickelt sind. Die Federung dient dazu, dass das Seil immer gespannt ist.
+
+
+== Abschleppstange ==
+Als Alternative zu Abschleppseilen existieren starre Abschleppstangen. Mit ihnen bleibt der Abstand zwischen ziehendem und gezogenem Fahrzeug konstant, und es können auch Bremskräfte vom ziehenden Fahrzeug übertragen werden.
+
+
+== Normung ==
+Österreich: Ö-Norm V5115
+Deutschland: TÜV-geprüftes Seil nach DIN 76033
+
+
+== Siehe auch ==
+Themenliste Fahrzeugtechnik
+
+
+== Einzelnachweise ==

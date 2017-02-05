@@ -1,0 +1,33 @@
+In research—particularly psychology—demand characteristics refers to an experimental artifact where participants form an interpretation of the experiment's purpose and subconsciously change their behavior to fit that interpretation. Pioneering research was conducted on demand characteristics by Martin Orne. Typically, they are considered an extraneous variable, exerting an effect on behavior other than that intended by the experimenter.
+A possible reason for demand characteristics is the participant's expectation that he or she will somehow be evaluated and thus figures out a way to 'beat' the experiment to attain good scores in the alleged evaluation. Demand characteristics cannot be eliminated from experiments, but demand characteristics can be studied to see their effect on the experiment. Examples of some common demand characteristics:
+Rumors of the study – any information, true or false, circulated about the experiment outside of the experiment itself.
+Setting of the laboratory – the location where the experiment is being performed, if it is significant.
+Explicit or Implicit communication – any communication between the participant and experimenter whether it be verbal or non-verbal that may influence their perception of the experiment.
+Weber and Cook have described some demand characteristics as involving the participant taking on a role in the experiment. These roles include:
+The good-participant role in which the participant attempts to discern the experimenter's hypotheses and to confirm them. The participant does not want to "ruin" the experiment.
+The negative-participant role (also known as the screw-you effect) in which the participant attempts to discern the experimenter's hypotheses, but only in order to destroy the credibility of the study.
+The faithful-participant role in which the participant follows the instructions given by the experimenter to the letter.
+The apprehensive-participant role in which the participant is so concerned about how the experimenter might evaluate the responses that the participant behaves in a socially desirable way.
+
+
+== Dealing with demand characteristics ==
+Researchers use a number of different approaches for dealing with demand characteristics in research situations. Some of the more common approaches include the following:
+Deception: Deceive participants about one or more aspects of the research to conceal the research hypothesis.
+Post-experimental questionnaires: For example, Rubin (2016) discusses the Perceived Awareness of the Research Hypothesis (PARH) scale. This 4-item scale is usually presented at the end of a research session. In responding to the scale, participants indicate the extent to which they believe that they are aware of the researchers' hypotheses during the research. Researchers then compute a mean PARH score and correlate this with their key effects. Significant correlations indicate that demand characteristics may be related to the research results. Nonsignificant correlations provide tentative evidence against the demand characteristics explanation. Pre-experimental questionnaires can also cause demand characteristics as well as post-experimental questionnaires. A different experimenter than the one that conducted the actual experiment to the participants should distribute the questionnaires.
+Unobtrusive manipulations and measures: Conceal independent and dependent measures, so they do not provide clues about the research hypothesis.
+Have self-discipline: The experimenter must display self-discipline to obtain a valid inquiry.
+Avoid temptation: If the experiment is performed again, avoid asking the participants what they have experienced.
+The more the merrier: To avoid experimenter bias, have more than one experimenter.
+Be specific and clear: If the purpose of the experiment is not clear or ambiguous, then the participants may guess many different hypotheses and cause the data to be skewed even more.
+Double blind: Do not inform the person who has contact with the participants about the research hypotheses. This reduces the experimenter-expectancy effect.
+Minimize interpersonal contact between the researcher and the participant: Reduces experimenter expectancy effect.
+Use a between-subjects design rather than a within-subjects design: (e.g., Rubin & Badea, 2010, p. 411).
+
+
+== See also ==
+"Hawthorne effect"
+Observer-expectancy effect
+Orne proposed the heuristic assumption that involved two variables of a subject’s behavior: 1. Defined as experimental variables 2. Perceived demand characteristics of the experimental situation
+
+
+== References ==

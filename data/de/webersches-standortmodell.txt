@@ -1,0 +1,310 @@
+Das Webersche Standortmodell wird der neoklassischen Standorttheorie zugeordnet und wurde 1909 von dem deutschen Nationalökonom Alfred Weber entwickelt. Es ist ein kontinuierliches Modell, das auch unter den Begriffen Steiner-Weber-Modell oder "Fermat-Problem" in der Literatur bekannt ist. Es geht von einer homogenen Fläche aus, die eine unendliche Zahl möglicher Standorte enthält, d.h. jeder Punkt einer als Absatzgebietes definierten Fläche wird als potenzieller Standort betrachtet. Zentrales Element des Ansatzes sind die Transportkosten.
+Die Problemstellung lautet in einfachster Form: Unter Berücksichtigung der Standorte des Materials, der Arbeitskräfte und der Kunden ist der transportkostengünstigste Produktionsstandort zu finden.
+Der optimale Standort muss im Dreieck der drei vorausgesetzten Standorte liegen. Weitere Annahmen sind, dass die Transportkosten ausschließlich von der Menge und der Entfernung abhängen. Dies führt zu einem mathematischen Optimierungsproblem.
+
+
+== Lösungsweg ==
+Betrachtet werden die Absatzorte eines Gutes auf der Erdoberfläche unter folgenden Annahmen:
+Zu jedem Absatzort ist die Nachfrage bekannt
+Der Bedarf zur Herstellung der Güter ist ebenfalls bekannt
+Ziel der Standortwahl sind die minimalen Transportkosten sowohl für die benötigten Materialien als auch für die abzusetzenden Endprodukte. Die Transportkosten werden durch eine konstante Größe abgebildet und sind für Materialien und Fertigprodukte äquivalent. Somit kann folgende Zielfunktion minimiert werden:
+
+  
+    
+      
+        T
+        =
+        c
+        (
+        
+          a
+          
+            1
+          
+        
+        
+          r
+          
+            1
+          
+        
+        +
+        
+          a
+          
+            2
+          
+        
+        
+          r
+          
+            2
+          
+        
+        +
+        .
+        .
+        .
+        +
+        
+          a
+          
+            n
+          
+        
+        
+          r
+          
+            n
+          
+        
+        )
+        =
+        c
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            n
+          
+        
+        
+          a
+          
+            i
+          
+        
+        
+          r
+          
+            i
+          
+        
+        ⇒
+        M
+        i
+        n
+        !
+      
+    
+    {\displaystyle T=c(a_{1}r_{1}+a_{2}r_{2}+...+a_{n}r_{n})=c\sum _{i=1}^{n}a_{i}r_{i}\Rightarrow Min!}
+  
+Die Zielfunktion enthält 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  Variablen 
+  
+    
+      
+        
+          r
+          
+            i
+          
+        
+        (
+        i
+        =
+        1
+        ,
+        .
+        .
+        .
+        ,
+        n
+        )
+      
+    
+    {\displaystyle r_{i}(i=1,...,n)}
+   die sich je nach Standortwahl unterscheiden. Des Weiteren haben die anderen Variablen folgende Bedeutung:
+
+  
+    
+      
+        c
+        =
+      
+    
+    {\displaystyle c=}
+   Transportkostensatz pro km und t
+
+  
+    
+      
+        T
+        =
+      
+    
+    {\displaystyle T=}
+   Planperiode
+
+  
+    
+      
+        
+          r
+          
+            i
+          
+        
+        =
+      
+    
+    {\displaystyle r_{i}=}
+   Transportstrecke
+
+  
+    
+      
+        
+          a
+          
+            i
+          
+        
+        =
+      
+    
+    {\displaystyle a_{i}=}
+   Transportmenge
+Eine Vereinfachungsmöglichkeit des Modells ist dadurch gegeben, dass die Erdoberfläche durch ein Koordinatensystem segmentiert werden kann. Somit kann eine Wegstrecke auch wie folgt dargestellt werden:
+
+  
+    
+      
+        
+          r
+          
+            i
+          
+        
+        =
+        
+          
+            (
+            x
+            −
+            
+              x
+              
+                i
+              
+            
+            
+              )
+              
+                2
+              
+            
+            +
+            (
+            y
+            −
+            
+              y
+              
+                i
+              
+            
+            
+              )
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle r_{i}={\sqrt {(x-x_{i})^{2}+(y-y_{i})^{2}}}}
+  
+Daraus ergibt sich folgende, vereinfachte Zielfunktion, in der man den transportkostenminimalen Standort über das Null setzen der erste partielle Ableitung nach x und y sowie den folgenden Positivtest der zweiten partiellen Ableitung berechnen kann.
+
+  
+    
+      
+        T
+        (
+        x
+        ,
+        y
+        )
+        =
+        c
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            n
+          
+        
+        
+          a
+          
+            i
+          
+        
+        
+          
+            (
+            x
+            −
+            
+              x
+              
+                i
+              
+            
+            
+              )
+              
+                2
+              
+            
+            +
+            (
+            y
+            −
+            
+              y
+              
+                i
+              
+            
+            
+              )
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle T(x,y)=c\sum _{i=1}^{n}a_{i}{\sqrt {(x-x_{i})^{2}+(y-y_{i})^{2}}}}
+  
+Dieses Verfahren führt jedoch lediglich deshalb zu einer validen Annäherung, da die Erde als große Kugel angesehen werden kann und dadurch die Entfernungen berechnet werden können. Schwäche dieses Verfahrens ist die Vernachlässigung von etwaigen Höhenunterschieden, sowie der Annahme, dass direkte Wegstrecken zwischen den Punkten existieren.
+
+
+== Literatur ==
+Edmund Heinen: Industriebetriebslehre. Gabler, Wiesbaden 1990, ISBN 3-409-33150-6, S. 240 f. 
+Thomas Plümer: Logistik und Produktion. Oldenbourg Wissenschaftsverlag GmbH, München 2003, ISBN 3-486-27470-8, S. 248 f. 
+Weber Alfred: Über den Standort der Industrien. 1.Teil: Reine Theorie des Standorts. 2. Auflage. Tübingen 1922 1909. 
+
+
+== Weblinks ==
+Vorlesung der Uni Münster
+Facility Location Optimizer, ein MATLAB-basiertes Tool zur Lösung von Standortproblemen.

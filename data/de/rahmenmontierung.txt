@@ -1,0 +1,8 @@
+Als Rahmenmontierung bezeichnen die Astronomen eine parallaktische bzw. äquatoriale Montierung, die besonders für schwere astronomische Teleskope entwickelt wurde. Da sie von der englischen Montierung abgeleitet wurde, bezeichnet man sie auch als englische Rahmenmontierung.
+Wie bei den anderen äquatorialen Montierungsarten weist auch hier die „Stundenachse“ zum jeweiligen Himmelspol, sie ist aber nicht auf einer Säule, sondern auf zwei massiven Fundamenten gelagert. Damit kann die Achse, um die die tägliche Bewegung des Fernrohrsystems erfolgt, auch schwere Lasten von mehreren Dutzend Tonnen aufnehmen.
+Die erste großtechnische Realisierung dieser Montierungsart erfolgte beim Bau des 100-Inch-Reflektors des Mount-Wilson-Observatoriums. Beim Mount Palomar-Observatorium wurde der Rahmen Richtung Nordpol hufeisenförmig geoffnet, um den polnahen Bereich zugänglich zu machen. Aus mechanischen Gründen ist die Rahmenmontierung für eine niedrige geografische Breite besser geeignet als für hohe Breiten, was aber ohnehin der vorwiegenden Verbreitung der großen Sternwarten entspricht.
+Eine spezielle Form der Rahmenmontierung besitzen manche drei- und vierachsige Satellitenkameras, um auch lichtschwache bzw. weit entfernte Erdsatelliten noch einmessen zu können. Bei der Baker-Nunn-Kamera ist die Messkammer in einem eigenen Rahmen montiert, der quer zur Ebene der Satellitenbahn ausgerichtet und dem Satelliten nachgedreht wird, sodass sich dieser als kurze Spur abbildet, der Sternhintergrund hingegen mit längeren Spuren.
+
+
+== Siehe auch ==
+Montierung

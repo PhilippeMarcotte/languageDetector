@@ -1,0 +1,63 @@
+L'AGM-129 ACM (Advanced Cruise Missile) est un missile de croisière subsonique et furtif doté d'une tête nucléaire. Il a été conçu pour remplacer l'AGM-86 ALCM. Il est emporté exclusivement par les B-52H de l'US Air Force (USAF).
+
+
+== Conception ==
+En 1982, l'USAF entama l'étude d'un nouveau missile de croisière furtif, après avoir constaté que l'AGM-86B aurait des difficultés à pénétrer les futurs systèmes de défense antiaérienne. Celui-ci comptait sur la pénétration à basse altitude pour échapper aux système de défense sol-air soviétiques. Cependant, le déploiement d'appareils de contrôle aérien avancé (AWACS), dont les radars pouvant repérer des appareils évoluant à basse altitude, réduisit les possibilités pour les AGM-86 d'atteindre leur cible.
+En 1983, la division Convair de la compagnie General Dynamics se vit accorder le contrat de développement de l'AGM-129A.
+Le premier vol du missile eut lieu en juillet 1985 et les premiers missiles de série furent livrés à l'USAF en 1987. Le programme de développement rencontra divers problèmes de logiciel, de qualité, de programmation et des accidents lors des tests. Le membre du Congrès, Les Aspin qualifia le programme ACM d'acquisition désastreuse, affublée des pires problèmes des huit programmes d'arme stratégique que son comité avait supervisé. En 1989, le Congrès des États-Unis stoppa le financement du programme ACM. Les problèmes de conception et de qualité obligèrent l'USAF à stopper les livraisons de missiles en 1989 et 1991. McDonnell Douglas fut alors invité à qualifier une seconde ligne de production. Au début de l'année 1989, les États-Unis reçurent l'autorisation de tester l'AGM-129A au Canada.
+Les plans de production prévoyaient le remplacement des 1 461 missiles AGM-68B à cadence maximum jusqu'en 1993, suivi d'une production à raison de 40 unités par an. En janvier 1992, la fin de la Guerre froide poussa le président George Bush père à annoncer une réduction des acquisitions d'ACM, réduisant les commandes à 640 missiles. Plus tard celles-ci furent ramenées à 520.
+En 1985, l’USAF proposa d'étudier une variante de l'ACM, baptisée AGM-129B, capable de détruire les cibles contre lesquelles l'AGM-129A était considéré comme inefficace, et proposa de modifier 120 missiles pour cette mission. En 1991, le Congrès américain refusa la requête et l'USAF fut obligée de mettre fin au programme. En 1992, le Département de la Défense demanda à l'Air Force de relancer le programme, ce à quoi le General Accounting Office était opposé.
+Peu d'informations précises ont filtré vis-à-vis des différences entre les deux versions. Le document du Département de la Défense, DoD 4120.15-L « Model Designation of Military Aerospace Vehicles » (Modèle de désignation des véhicules militaires aérospatiaux) indique que l'AGM-129B est un AGM-129A « modifié au niveau structurel et logiciel, et doté d'une autre tête nucléaire pour accomplir des missions classifiées dévolues aux missiles de croisière ». Cependant, certains prétendent que l'AGM-129B est une version conventionnelle du missile, de la même façon que l'AGM-86C est une version conventionnelle de l'AGM-86B. Certains rapports affirment que l'AGM-129B a réellement été mis en production, d'autres qu'il fut annulé avant d'entrer en production.
+En 1997, une version baptisée AGM-129C Conventional Armed Cruise Missile (CACM) fut proposée, mais en 2000 la commande de 20 à 30 missiles d'essai fut annulée. Ce modèle devait être équipé d'une tête conventionnelle et d'un pénétrateur. De plus, il devait recevoir un guidage GPS. Le remplacement de la tête nucléaire par une tête conventionnelle plus lourde aurait réduit sa portée maximale à environ 1 500 km.
+En août 1992, General Dynamics vendit ses activités missile à Hughes Aircraft Corporation. Puis en 1997, Hughes céda ses activités aérospatiales et de défense à Raytheon.
+En mai 2007, l'USAF annonça le retrait des missiles AGM-129A pour septembre 2008.
+
+
+== Description ==
+
+L'AGM-129A inclut un corps et des ailes en flèche inversée conçus pour réduire la surface équivalente radar. L'entrée d'air du turboréacteur est noyée dans la partie inférieure du missile, afin d'améliorer sa furtivité. Les gaz de combustion du réacteur sont masqués par la dérive et refroidis par un diffuseur, afin de réduire la signature infrarouge. Pour réduire les émissions électroniques venant du missile, le radar de l'AGM-86B fut remplacé sur l'AGM-129A par la combinaison d'une centrale inertielle, d'un Lidar (Light detection and ranging) et d'un TERCOM (Terrain contour matching), système de navigation comparant le terrain survolé et une carte digitale préenregistrée. Ces modifications par rapport à l'ALCM, rendent le missile plus difficile à détecter et lui permettent de voler à plus haute altitude.
+Pour sa propulsion, il est équipé d'un nouveau turboréacteur Williams International F112-WR-100 accroissant sa portée de près de 50 %. Son système de guidage lui offre une précision comprise entre 30 et 90 m.
+L'AGM-129A est armé, comme l'AGM-86B, d'une tête nucléaire à puissance variable W80, entre 5 kT et 150 kT.
+Il est prévu pour être emporté par les bombardiers stratégiques B-1, B-2 et B-52H Stratofortress, mais il semble que seul le B-52 en soit équipé. Celui-ci peut emporter 12 missiles AGM-129A répartis par six sur les deux points d'emport externes sous les ailes.
+
+
+== Utilisation opérationnelle ==
+
+Le 10 décembre 1997, lors d'un test, un AGM-129A endommagea deux bâtiments, temporairement et heureusement inoccupés, faisant partie d'un observatoire de rayons cosmiques situé sur le Dugway Proving Ground de l'US Army. Le missile avait été tiré depuis l'Utah Test and Training Range par un B-52H de Minot Air Force Base (Dakota du Nord). Il volait depuis près de 3h30 en suivant son plan de vol et avait rempli tous ses objectifs lorsque l'accident se produisit. Pour cet essai, le missile emportait une charge militaire inerte.
+Avec environ 5 missiles testés chaque année, le nombre de missiles restants est estimé à 415 en août 2006.
+En mars 2007, l'USAF annonça qu'elle allait retirer du service ses stocks de missiles AGM-129 fin 2008.
+Le 30 août 2007, six ACM montés sur un B-52 traversèrent les États-Unis de Minot AFB à Barksdale Air Force Base (Louisiane), dans le but d'être démantelés. Cependant, les têtes nucléaires, qui auraient dû être retirées avant le vol, étaient toujours installées. Ainsi, pendant 36 heures des têtes nucléaires ont survolé le pays sans que personne ne se rende compte de leur disparition. Lorsque cette information fut dévoilée, elle provoqua un émoi aux États-Unis. Une enquête est en cours pour déterminer les circonstances de cet incident.
+
+
+== Variantes ==
+AGM-129A : 460 exemplaires
+AGM-129B : Inconnu
+AGM-129C : Probablement aucun
+
+
+== Opérateur ==
+ États-Unis : 415 missiles étaient à l'inventaire de l'USAF en 2006. Tous les missiles ont été retirés du service à la fin de 2008.
+
+
+== Notes ==
+
+
+== Références ==
+(en) Cet article est partiellement ou en totalité issu de l’article de Wikipédia en anglais intitulé « AGM-129 ACM » (voir la liste des auteurs).
+
+Jane's Handbook
+
+
+== Voir aussi ==
+
+
+=== Articles connexes ===
+AGM-86 ALCM
+AGM-158 JASSM
+
+
+=== Liens externes ===
+(en) John Pike, « AGM-129 Advanced Cruise Missile [ACM] », GlobalSecurity.org,‎ 24 juillet 2011 (consulté le 7 août 2014)
+
+ Portail des armes
+ Portail des forces armées des États-Unis

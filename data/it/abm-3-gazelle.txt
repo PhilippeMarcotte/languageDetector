@@ -1,0 +1,33 @@
+Il 53T6 (conosciuto in Occidente con il nome in codice NATO di ABM-3 Gazelle) è un missile ABM sviluppato in Unione Sovietica. Si tratta di un intercettore atmosferico a corto raggio, progettato come seconda linea del Sistema ABM A-135, posto a difesa della zona di Mosca. Tuttavia, in seguito alla radiazione dei missili della prima linea (i Gorgon), rappresenta l'unico missile ABM di tale sistema. È in servizio con le Truppe Spaziali russe.
+
+
+== Sviluppo ==
+Lo sviluppo di un nuovo missile ABM iniziò negli anni settanta, ad opera del Kisunko OKB. Si trattava di progettare un missile antimissile per intercettazioni atmosferiche, che potesse operare come “seconda linea” nell'ambito del Sistema ABM A-135 (il cui sviluppo era portato avanti in quel periodo). In pratica, avrebbe avuto il compito di distruggere eventuali missili balistici nemici che fossero riusciti a superare la barriera rappresentata dai Gorgon.
+I lanci di prova del nuovo sistema d'arma vennero effettuati presso il poligono militare di Sary Shagan, in Kazakistan. Per questa ragione, tale missile ha avuto anche il nome in codice NATO temporaneo di SH-08.
+L'ingresso in servizio si ebbe nel 1984, ma i missili furono pienamente operativi solo dal 1994, quando il Sistema A-135 venne ufficialmente accettato dalle autorità militari russe.
+Non si conosce il numero esatto di esemplari costruiti; le stime al riguardo vanno dalle 500 alle 3.000 unità.
+
+
+== Tecnica ==
+Le informazioni tecniche su questo sistema d'arma sono molto scarse. Comunque, pare sia piuttosto simile all'americano Sprint.
+In tutti i modi, si tratta di missili piuttosto sofisticati, con un'elevata accelerazione ed in grado di operare a velocità nell'ordine dei Mach 10. Inoltre, sono in grado di sopportare carichi aerodinamici di un numero elevato di G, molto superiore a quello dei normali missili terra-aria.
+I materiali costruttivi utilizzati sono stati, principalmente, leghe leggere ad alta resistenza in alluminio e titanio. Inoltre, i Gazelle sono provvisti di una speciale barriera termica, in modo da permettere a tali missili di resistere alle alte temperature prodotte dall'accelerazione alle elevatissime velocità.
+Queste caratteristiche sono indispensabili, visto che il compito degli ABM-3 prevede l'intercettazione di missili balistici nella fase finale di avvicinamento, con velocità che possono raggiungere Mach 25.
+Il motore è a due stadi, con propellente solido. Il raggio è di 80 km. Per quanto riguarda la testata, in origine i Gazelle ne montavano una nucleare da 10 kt. In pratica, si trattava di intercettori atomici, esattamente come i precedenti ABM-1 Galosh. Tuttavia, il 21 aprile 1998, i vertici delle forze armate russe dichiararono che le testate nucleari sarebbero state rimosse per motivi di sicurezza, e sostituite con altre ad esplosivo convenzionale. Questo perché si era calcolato che un'esplosione di un Gazelle in aria avrebbe contaminato un'area di 77 miglia quadrate, rendendo virtualmente invivibile la città di Mosca. In tutti i modi, non è chiaro se alcuni esemplari continuino o no a montare testate atomiche.
+Una grossa limitazione di questi missili è che non sono in grado di distinguere le MIRV dai finti bersagli. Comunque, l'inefficacia contro missili a testata multipla è un problema che riguarda, in generale, l'intero sistema.
+
+
+== Utilizzo ==
+I Gazelle erano il “secondo strato” del Sistema ABM A-135, ovvero la sua componente atmosferica: il loro compito era intercettare i missili balistici che fossero riusciti a sfuggire al “primo strato”, gli ABM-4 Gorgon. Si trattava, in pratica, di un'ultima difesa prima dell'annientamento nucleare. Tuttavia, in seguito alla radiazione dei Gorgon, gli ABM-3 costituiscono oggi l'unico missile operativo del sistema ABM di Mosca.
+Questi missili sono alle dipendenze della 9ª Divisione delle Forze Spaziali Russe. In totale, ne sono attualmente schierati 68 esemplari, in quattro località nei dintorni di Mosca. I Gazelle sono sistemati in appositi silos corazzati, dotati delle seguenti caratteristiche:
+sistema di apertura veloce, in modo da permettere un lancio rapido del missile;
+sistema di caricamento ad elevata velocità, in modo da poter utilizzare lo stesso silo per lanciare più di un missile in poco tempo. In seguito ad un test, che ha previsto il lancio consecutivo di due Gazelle da un singolo lanciatore, si è visto che tale tempo di ricarica sarebbe pari a massimo due ore.
+Secondo alcune fonti, gli ABM-3 Gazelle sarebbero ancora in produzione.
+
+
+== Note ==
+
+
+== Collegamenti esterni ==
+(EN, RU) Eugene Yanko, SH-08 ABM-3 Gazelle, in http://www.warfare.ru. URL consultato il 26 aprile 2010.
+(EN) Gazelle (SH-08/ABM-3), in http://www.missilethreat.com. URL consultato il 26 aprile 2010.

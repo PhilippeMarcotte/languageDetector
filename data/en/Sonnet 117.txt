@@ -1,0 +1,31 @@
+Shakespeare's sonnet 117 was first published in 1609. It uses similar imagery to Sonnet 116 and expands on the challenge in the closing couplet ("If this be error and upon me proved, / I never writ, nor no man ever loved"). Using legally resonant metaphors ("accuse", "bonds", "proof", "appeal", "prove"), the poet defends himself against accusations of ingratitude and infidelity by saying that he was merely testing (or proving) the constancy of those same things in his friend.
+
+
+== Structure ==
+Sonnet 117 is an English or Shakespearean sonnet. The English sonnet has three quatrains, followed by a final rhyming couplet. It follows the typical rhyme scheme of the form abab cdcd efef gg and is composed in iambic pentameter, a type of poetic metre based on five pairs of metrically weak/strong syllabic positions. The 3rd line exemplifies a regular iambic pentameter:
+
+ ×  /  × /   ×    /  ×    /    ×  / 
+Forgot upon your dearest love to call, (117.3)
+
+/ = ictus, a metrically strong syllabic position. × = nonictus.
+The 11th line exhibits a common metrical variation, the initial reversal:
+
+  /    ×  ×  /    ×  / ×  /   ×     / 
+Bring me within the level of your frown, (117.11)
+
+Line 9 also contains a potential initial reversal, while line 12 potentially exhibits a rare reversal of the second ictus. The 10th line features a rightward movement of the first ictus (resulting in a four-position figure, × × / /, sometimes referred to as a minor ionic):
+
+×   ×   /     /    ×  /    ×  / × / 
+And on just proof surmise, accumulate; (117.10)
+
+The meter demands that line 6's "given" function as one syllable.
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+Shakespeare's Sonnets online

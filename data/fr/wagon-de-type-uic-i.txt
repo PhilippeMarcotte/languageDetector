@@ -1,0 +1,17 @@
+Les wagons de type UIC-I forme un ensemble de wagons ferroviaires adaptés au transports de données périssables devant être protégées de la chaleur. Ce type UIC regroupe trois types de wagons différents :
+les wagons isothermes, qui protègent les marchandises de la température extérieure en réduisant les échanges thermiques;
+les wagons réfrigérants (ou wagon-glacière), qui génèrent le froid au moyen de blocs de glace et d'un dispositif de ventilation commandée soit par des turbines éoliennes situées sur le toit du wagon soit électriquement grâce à une génératrice entrainée par un essieu du wagon.
+les wagons frigorifiques, qui disposent de systèmes réfrigérants actifs et fonctionnent à la manière d'un réfrigérateur.
+
+
+== Notes et références ==
+
+
+== Voir aussi ==
+
+
+=== Articles connexes ===
+Matériel roulant ferroviaire
+Wagon
+Wagon couvert
+ Portail du chemin de fer

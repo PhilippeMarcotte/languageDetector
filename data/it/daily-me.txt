@@ -1,0 +1,34 @@
+Il termine Daily Me è stato reso popolare da Nicholas Negroponte, cofondatore del MediaLab del MIT, per descrivere un quotidiano virtuale personalizzato secondo i gusti di un individuo.
+
+
+== Esordi ==
+Negroponte ha trattato l'argomento nel suo libro Being Digital del 1995, con riferimento ad un progetto Fishwrap in corso presso il laboratorio MediaLab. Progettato da Pascal Chesnais e Walter Bender e implementato dagli studenti del MediaLab, il sistema permetteva un livello di personalizzazione ben superiore rispetto ai sistemi disponibili in commercio nel 1997.
+Fred Hapgood, in un articolo del 1995 di Wired, ha attribuito il concetto e la frase a Negroponte già negli anni 1970.
+
+
+== Sviluppi ==
+Nel 2005, Eduardo Hauser, un imprenditore venezuelano con sede in Florida, fondò DailyMe, Inc., e sviluppò un'applicazione proprietaria, in attesa di brevetto, in grado di creare giornali personalizzati e di mandarli automaticamente alla stampante, fax o computer di ogni utilizzatore.
+Nel libro Emergence: The Connected Lives of Ants, Brains, Cities, and Software di Steven Johnson riguardante le proprietà emergenti, l'autore affronta alcune delle paure di Negroponte con sistemi di omeostasi e di feedback mentale. Egli sostiene che un giornale scritto su misura secondo i gusti del lettore darebbe troppo credito alle convinzioni del lettore stesso e, anche se letto una sola volta, potrebbe alterare il suo modo di vedere le cose per il resto della vita. Dall'uscita del libro, nel 2001, molti siti web orientati al cliente, come Amazon.com e Half.com, hanno regolarmente utilizzato i dati sulle visualizzazioni e sugli acquisti precedenti per determinare quali prodotti potrebbero interessare al cliente.
+Il termine è stato anche associato alla possibilità degli individui di personalizzare e selezionare le notizie che vogliono ricevere, con la conseguenza di ricevere soltanto i contenuti coi quali essi sono già tendenzialmente d'accordo. Il Daily Me può quindi essere una componente critica dell'effetto cassa di risonanza definita in un articolo della rivista online Salon.com da David Weinberger come "quei luoghi su internet in cui persone che la pensano alla stessa maniera ascoltano soltanto chi è già d'accordo con loro."
+Cass Sunstein, professore di diritto alla Università di Chicago, analizza le implicazioni del Daily Me nel suo libro Republic.com. In tale libro, il Daily Me e l'effetto cassa di risonanza sono studiati come alcuni degli estremi della società indotti dalla tecnologia, insieme alla dittatura della maggioranza.
+Zite è una famosa applicazione che è simile al concetto di Daily Me. È disponibile per iOS, Android e Windows Phone. FeedSavvy.com è un servizio simile disponibile sul web per computer. Noosfeer sta affrontando questo problema consentendo agli utenti di esplorare soggetti con una più ampia gamma di risultati, evitando i filtri.
+
+
+== Note ==
+
+
+== Bibliografia ==
+Emergence di Stephen Johnson. (2001) (ISBN 0-684-86876-8)
+
+
+== Voci correlate ==
+Collaborative filtering
+
+
+== Collegamenti esterni ==
+DailyMe.com.
+Personalized news, su Open Directory Project, Netscape Communications. (Segnala su DMoz un collegamento pertinente all'argomento "Personalized news")
+The Daily Me, by Nicholas Kristof. The New York Times. 18 marzo 2009. consultato il 3 maggio 2010.
+Zite.com.
+FeedSavvy.com.
+noosfeer.com.

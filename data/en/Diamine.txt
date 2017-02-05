@@ -1,0 +1,47 @@
+A diamine is an amine with exactly two amino groups. Diamines are used as monomers to prepare polyamides, polyimides and polyureas. In terms of quantities produced, 1,6-diaminohexane, a precursor to Nylon 6-6, is most important, followed by ethylenediamine. Vicinal diamines (1,2-diamines) are a structural motif in many biological compounds and are used as ligands in organometallic chemistry 
+
+
+== Aliphatic diamines ==
+
+
+=== Linear aliphatic diamines ===
+2 carbons: ethylenediamine (1,2-diaminoethane). Related derivatives include the N-alkylated compounds, 1,1-dimethylethylenediamine, 1,1-dimethylethylenediamine, ethambutol and TMEDA.
+3 carbons: 1,3-diaminopropane (propane-1,3-diamine)
+4 carbons: putrescine (butane-1,4-diamine)
+5 carbons: cadaverine (pentane-1,5-diamine)
+6 carbons: hexamethylenediamine (hexane-1,6-diamine)
+
+
+=== Branched aliphatic diamines ===
+Derivatives of ethylenediamine are prominent:
+1,2-diaminopropane, which is chiral.
+diphenylethylenediamine, which is C2-symmetric.
+diaminocyclohexane, which is C2-symmetric.
+
+
+=== Xylylenediamines ===
+Xylylenediamines are classified as alkylamines since the amine is not directly attached to an aromatic ring.
+o-xylylenediamine or OXD
+m-xylylenediamine or MXD
+p-xylylenediamine or PXD
+
+
+== Aromatic diamines ==
+Three phenylenediamines are known:
+o-phenylenediamine or OPD
+m-phenylenediamine or MPD
+p-phenylenediamine or PPD. 2,5-Diaminotoluene is related to PPD but contains a methyl group on the ring.
+Various N-methylated derivatives of the phenylenediamines are known:
+dimethyl-4-phenylenediamine, a reagent.
+N,N'-di-2-butyl-1,4-phenylenediamine, an antioxidant.
+Examples with two aromatic rings include derivatives of biphenyl and naphthalene:
+4,4'-diaminobiphenyl
+1,8-diaminonaphthalene
+
+
+== References ==
+
+
+== External links ==
+Diamines at the US National Library of Medicine Medical Subject Headings (MeSH)
+Synthesis of diamines

@@ -1,0 +1,29 @@
+Un circuit ouvert est un terme utilisé en électronique pour désigner une portion d'un circuit électrique qui n'est reliée à aucune résistance ou aucun élément électrique, et par conséquent où aucun courant ne passe.
+Il existe deux façons pour représenter un circuit ouvert entre deux terminaux d'un circuit :
+Une absence de résistance ou d'élément électrique entre les terminaux concernés (voir illustration),
+Avec une résistance infinie (∞) entre les terminaux concernés.
+
+Par exemple, dans l'illustration ci-dessus, le circuit ouvert est représenté par la flèche (dans ce cas-ci, on est en train de mesurer la tension 
+  
+    
+      
+        
+          V
+          
+            s
+            o
+            r
+            t
+            i
+            e
+          
+        
+      
+    
+    {\displaystyle V_{sortie}}
+   entre les deux terminaux).
+
+
+== Utilisations ==
+Le circuit ouvert est un principe très important dans l'analyse des circuits électriques. Par exemple, on utilise un circuit ouvert pour calculer la contribution (Vsortie) d'une source de tension (Vsource) dans un circuit complexe qui contient beaucoup de sources différentes. Cette méthode d'analyse s'appelle Principe de superposition. Le principe du circuit ouvert forme aussi la base du Théorème de Thévenin.
+ Portail de l’électricité et de l’électronique

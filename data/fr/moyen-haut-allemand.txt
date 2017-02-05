@@ -1,0 +1,155 @@
+Le moyen haut-allemand est au sens large le nom d'une des époques de la langue allemande, laquelle regroupe l'ensemble des variétés de haut-allemand parlées entre 1050 et 1350 environ (ce qui correspond à peu près au Moyen Âge classique). Dans un sens plus restreint, le moyen haut-allemand désigne la langue de la littérature courtoise du temps des Hohenstaufen. Au XIXe siècle, elle reçut rétrospectivement une orthographe unifiée, et c'est dans ce moyen haut-allemand normalisé que sont réalisées depuis maintes éditions nouvelles des anciens textes. Les discussions sur les caractéristiques du moyen haut-allemand traitent habituellement de cet état de langue normalisé.
+
+
+== Un état ancien de la langue allemande ==
+Le moyen haut-allemand, en tant qu’état ancien de la langue allemande, n’est pas une forme de langue unitaire, mais comprend une multitude de dialectes locaux. Il représente l’évolution du vieux haut-allemand (de 750 jusqu’à 1050 environ, période incluse dans le Haut Moyen Âge), dont il se distingue en particulier par l’affaiblissement des syllabes finales par rapport à leurs voisines. Il n’y a pas de continuité entre les deux : au Xe et au XIe siècles, on écrivit presque exclusivement en latin, de sorte que la transcription de l’allemand repartit de zéro avec le moyen haut-allemand. La multiplicité des graphies que l’on trouve notamment au XIIe siècle, au début de la période linguistique, en est une conséquence.
+Pour l’époque de 1350 à 1650 environ (du Bas Moyen Âge au début de l'Époque moderne), on parle de haut-allemand précoce (en). La division doit cependant être adaptée en fonction de la région linguistique, car les formes linguistiques anciennes se conservèrent plus longtemps là où les caractéristiques du haut-allemand moderne ne s’étaient pas stabilisées dans le dialecte. Par exemple, en Suisse alémanique, le stade du haut-allemand précoce ne fut pas réalisé avant la fin du XVe siècle.
+
+
+== La langue de la littérature courtoise des Hohenstaufen ==
+Le règne des Hohenstaufen créa entre 1150 et 1250 les conditions nécessaires à l'émergence dans la littérature courtoise d'une langue suprarégionale, qui reposait sur les dialectes souabes et franciques orientaux, parlés dans la région d'origine des Staufen. Elle disparut avec leur déclin.
+C'est de cette variété de langue qu'il est habituellement question lorsque l'on discute des caractéristiques du moyen haut-allemand. Toutefois, ce n'est pas à partir de ce moyen haut-allemand au sens étroit que s'est développé le haut-allemand moderne, pas plus que ce n'en est une forme ancienne. Il existait déjà à l'époque des dialectes qui présentaient la phonétique du haut-allemand moderne : dans des documents écrits en Carinthie, on trouve attestée dès le XIIe siècles la diphtongaison bavaroise qui en est une caractéristique typique. À l'inverse, il existe encore aujourd'hui des dialectes qui conservent le vocalisme du moyen haut-allemand des Staufen, tels que de nombreux dialectes alémaniques.
+
+
+=== Une langue de culture commune ===
+Le moyen haut-allemand de la poésie courtoise des Staufen n'était pas une langue standard au sens actuel, en ce que ni l'orthographe ni le vocabulaire n'en étaient réglés, mais il avait une valeur suprarégionale, ce que l'on le reconnaît au fait qu'il était également employé par des poètes originaires d'autres aires dialectales, comme par exemple Heinrich von Veldeke ou Albrecht von Halberstadt (de). Au cours de leur vie, les poètes individuels purgeaient leurs œuvres d'un nombre toujours croissant de régionalismes, de sorte que leur origine ne se laisse souvent identifier que très approximativement, alors que des caractéristiques dialectales permettraient une localisation très exacte de l'origine linguistique.
+
+
+=== Usage et extension ===
+Le domaine du moyen haut-allemand dans ce sens étroit se limitait à la littérature courtoise qui fleurit pendant le règne de Staufen et s'adressait à la noblesse. Les textes de nature utilitaire (textes de droit, textes factuels, chroniques, littérature religieuse, etc.) où la possibilité de compréhension suprarégionale importait moins qu'une intelligibilité aussi grande que possible, usaient de variétés linguistiques régionales. Ce n'est qu'au XIIIe siècle que ce genre de textes atteint une large diffusion ; auparavant, ils étaient surtout écrits en latin.
+Les œuvres de la poésie courtoise des Staufen font les œuvres les plus connues du moyen haut-allemand, par exemple la Chanson des Nibelungen, le Lucidarius (de), le Parzival de Wolfram von Eschenbach, le Tristan de Gottfried von Straßburg, les poèmes de Walther von der Vogelweide comme de l'ensemble du genre du Minnesang.
+
+
+== Le moyen haut-allemand normalisé ==
+Dans les éditions des grands textes de poésie en moyen haut-allemand, les dictionnaires et les grammaires, on emploie une normalisation de la langue, dite Dichtersprache « langue des poètes », dont la conception remonte dans l'ensemble à Karl Lachmann. Il s'agit d'une forme idéalisée de la langue, qui ne reflète qu'une fraction de la réalité linguistique d'antan. Elle repose sur la langue de la littérature courtoise des Staufen dans une orthographe unifiée qui remplace la variété des graphies d'origine. Contrairement à l'orthographe moderne, les substantifs y sont écrits sans majuscule (le moyen haut-allemand n'use de la majuscule que pour les noms propres).
+
+
+=== Prononciation ===
+L'accent tonique porte régulièrement sur la première syllabe. Les voyelles marquées d'un accent circonflexe sont longues, celles qui en sont dépourvues sont brèves. Les ligatures æ und œ correspondent respectivement aux ä et ö longs de l'allemand moderne, et le système des diphtongues est différent. Le s a une articulation partiellement palatale, sauf dans les combinaisons sch et sc qui valent [ʃ] comme actuellement. À l'initiale ou après une consonne, z se prononce [ʦ] comme dans la langue moderne ; en milieu ou en fin de mot, z ou zz se prononcent soit comme ß de la langue moderne (la distinction est souvent soulignée par l'emploi dans ce cas-ci du caractère ȥ ou Ʒ, appelé s caudé). Le v se prononce [f] à l'initiale. Enfin, les consonnes redoublées dans l'écriture sont effectivement prononcées doubles, et ne sont pas le simple signe orthographique de la brièveté de la voyelle précédente comme c'est le cas dans la langue moderne.
+
+
+==== Vocalisme ====
+Le système vocalique du moyen haut-allemand (normalisé) était le suivant :
+Voyelles brèves : a, e, i, o, u, ä, ö, ü
+Voyelles longues : â, ê, î, ô, û, æ, œ, iu (ü long)
+Diphtongues : ei, ie, ou, öu, uo, üe
+À noter que ei se prononçait [ei], comme le graphies ei ou ij du néerlandais, et non [aɪ] comme en haut-allemand moderne ; et que ie ne représentait pas un [i] long, mais la diphtongue [iə].
+La distinction entre e et ä est ignorée dans l'écriture qui use uniformément de e. Il existait cependant une différence de prononciation : le ä, produit de l'umlaut de a, était plus fermé que le e plus ancien, et les poètes soigneux évitaient de les faire rimer.
+Les différences les plus importantes entre le moyen haut-allemand et le haut-allemand moderne portent sur le vocalisme :
+Les voyelles longues [iː], [yː] et [uː] du moyen haut-allemand correspondent en haut-allemand moderne aux diphtongues [aɪ], [ɔʏ] et [aʊ] (diphtongaison bavaroise). Exemples : mîn ~ mein « mon », liut ~ Leute « gens », hûs ~ Haus « maison »
+Les diphtongues ouvrantes [iə], [yə] et [uə] du moyen haut-allemand correspondent en haut-allemand moderne aux voyelles longues [iː], [yː] et [uː] (monophtongaison francique). Exemples : liep ~ lieb « cher », müede ~ müde « fatigué », bruoder ~ Bruder « frère »
+Les diphtongues [ei], [øu] et [ou] se sont ouvertes en [aɪ], [ɔʏ] et [aʊ] en haut-allemand moderne. Exemples : bein – Bein « jambe », böume – Bäume « arbres », boum – Baum « arbre »
+Toutes les voyelles brèves en syllabe ouverte accentuée du moyen haut-allemand se sont allongées en haut-allemand moderne. Exemples : ligen ~ liegen « être couché », sagen ~ sagen « dire », nemen ~ nehmen « prendre ».
+
+
+==== Consonantisme ====
+Les consonnes du moyen haut-allemand ont d'une façon générale une valeur semblable à celle qu'elles ont en haut-allemand moderne. Elles sont cependant susceptibles d'être géminées, auquel cas elles s'écrivent doubles. Le moyen haut-allemand pratiquait déjà le dévoisement final des consonnes, qui se traduisait alors dans l'orthographe (le moyen haut-allemand tac – tage correspond au haut-allemand moderne Tag – Tage « jour(s) »). Les différences principales d'articulation sont les suivantes.
+Le moyen haut-allemand distinguait deux types distincts de sifflantes :
+d'une part, le s issu de la seconde mutation consonantique du haut-allemand, remontant à un t du germanique et écrit z / zz (ȥ / ȥȥ si l'on emploie le s caudé), par exemple dans ezzen, daz, groz (respectivement « manger, le (neutre), grand ») ; il se prononçait [s] et s'est conservé tel quel aujourd'hui
+d'autre part, le s hérité du germanique, par exemple dans sunne, stein, kuss, kirse, slîchen (respectivement « soleil, pierre, baiser, cerise, se glisser »), qui se prononçait sourd et légèrement chuinté en [ɕ] ; en haut-allemand moderne, il est devenu pour partie [z] (qui peut se dévoiser en [s]), pour partie [ʃ].
+Le groupe sch (aussi écrit sc) avait déjà par contre pris son articulation actuelle [ʃ].
+La lettre w ne prit sa valeur actuelle de [v] qu'à partir du XIIIe siècle, auparavant elle correspondait au son [w].
+Le groupe ch note l' Ach-Laut [x] de l'allemand moderne en toutes positions, l' ich-Laut [ç] était inconnu. Cette prononciation existe toujours dans les dialectes allemands du sud. En finale ou devant s ou t, ce son pouvait aussi se noter par un simple h, qui n'est jamais le signe d'une voyelle longue comme dans l'orthographe moderne, mais est alors effectivement prononcé [x] (pfliht correspond au moderne Pflicht « devoir »).
+Le r était roulé, comme il l'est toujours aujourd'hui pour bon nombre de germanophones.
+
+
+=== Grammaire ===
+La grammaire du moyen haut-allemand est peu différente de celle du haut-allemand moderne. Les changements les plus importants sont les suivants :
+Tous les thèmes morphologiques en o du moyen haut-allemand ont été transférés dans d'autres classes
+Le moyen haut-allemand ne comportait pas de déclinaison mixte
+Le moyen haut-allemand comportait des formes archaïques de 2e personne du singulier à de nombreux temps.
+
+
+==== Déclinaison nominale ====
+Substantifs forts :
+* Forme alternative de génitif / datif singulier : kraft
+Les féminins de la 3e classe se fléchissent comme ceux de la 4e classe, mais sans inflexion vocalique ni forme alternative : zît, zîte, zîte, zît, zîte, zîte, zîten, zîte.
+Substantifs faibles :
+
+
+==== Conjugaison ====
+Conjugaison d'un verbe fort :
+Infinitif : biegen, Impératif : biuc!
+Participe présent : biegende, Participe prétérit : gebogen
+Conjugaison d'un verbe faible :
+Infinitif : leben, Impératif : lebe!
+Participe présent : lebende, Participe prétérit : geleb(e)t
+Conjugaison des prétérito-présents :
+* Forme alternatives avec inflexion : tügen, günnen, künnen, dürfen, türren, süln
+** Formes alternatives de mugen : mügen, magen, megen
+Les uniques participes sont : gewist/gewest pour wizzen et gegunnen/gegunnet pour gunnen.
+Conjugaison des verbes irréguliers :
+Les formes de gân/gên « aller » et stân/stên « être debout » correspondent à celles de tuon.
+lân « laisser » suit la conjugaison de hân.
+Les formes du prétérit sontwas - waren pour sîn,wolte/wolde pour wellen,gie(nc) pour gân/gên,hâte / hate / hæte / hête / hete / het / hiete pour hân,lie(z) pour lân.
+tuon prend des formes particulières au prétérit :
+Indicatif prétérit : tet(e), tæte, tet(e), tâten, tâtet, tâten
+Subjonctif prétérit : tæte, tætest etc.
+
+
+=== Exemple de texte ===
+
+
+== Annexes ==
+(de) Cet article est partiellement ou en totalité issu de l’article de Wikipédia en allemand intitulé « Mittelhochdeutsch » (voir la liste des auteurs).
+
+
+=== Notes et références ===
+
+
+=== Bibliographie ===
+
+
+==== Dictionnaires ====
+(de) G. F. Benecke, W. Müller, F. Zarncke, Mittelhochdeutsches Wörterbuch, 3e réimpr. (1re éd. Leipzig, 1854-66), Olms, Hildesheim, 1986, 4 vol. (ISBN 3-487-05372-1) [lire en ligne]
+(de) Kurt Gärtner et al., Findebuch zum mittelhochdeutschen Wortschatz : mit einem rückläufigen Index, Hirzel, Stuttgart, 1992 (ISBN 3-7776-0490-9 et 3-7776-0489-5) [lire en ligne]
+(de) Kurt Gärtner, Klaus Grubmüller, Karl Stackmann (éd.), Mittelhochdeutsches Wörterbuch, Hirzel, Stuttgart, 2006, (ISBN 3-7776-1399-1)
+(de) Beate Hennig, Kleines Mittelhochdeutsches Wörterbuch, 4e éd., Niemeyer, Tübingen, 1998 (ISBN 3-4841-0696-4)
+(de) Bettina Kirschstein, Ursula Schulze (éd.), Wörterbuch der mittelhochdeutschen Urkundensprache auf der Grundlage des 'Corpus der altdeutschen Originalurkunden bis zum Jahr 1300', Erich Schmidt Verlag 1986, ISBN 3-503-02247-3
+(de) Matthias Lexer, Mittelhochdeutsches Handwörterbuch, réimpr. (1e éd. Leipzig, 1872-1878), Hirzel, Stuttgart, 1992 (ISBN 3-7776-0488-7 et 3-7776-0487-9) [lire en ligne], [lire en ligne] pour les addenda de 1878
+
+
+==== Ouvrages d'introduction ====
+(fr) André Jolivet, Fernand Mossé, Manuel de l'allemand du Moyen Âge des origines au XIVe siècle, Aubier-Montaigne, Paris, 1972, 2 vol.
+(fr) Jean-Marc Pastré, Précis de langue et littérature allemandes au Moyen Âge, Bordas, coll « Études » no 220, Paris, Bruxelles, Montréal, 1972, 211 p.
+(fr) Claude Lecouteux, L'allemand du Moyen Âge : le moyen haut-allemand, Brépols, coll « L'atelier du médiéviste », Paris, 1996, 241 p. (ISBN 2-503-50469-8)
+(de) Thomas Bein, Germanistische Mediävistik, 2e éd. remaniée et augmentée, Erich Schmidt Verlag GmbH & Co., Berlin, 2005 (ISBN 3-503-07960-2)
+(de) Rolf Bergmann, Peter Pauly, Claudine Moulin, Alt- und Mittelhochdeutsch. Arbeitsbuch zur Grammatik der älteren deutschen Sprachstufen und zur deutschen Sprachgeschichte, remanié par Claudine Moulin, 6e éd., Vandenhoeck und Ruprecht, Göttingen, 2004 (ISBN 3-525-20836-7)
+(de) Thordis Hennings, Einführung in das Mittelhochdeutsche, 2e éd., De Gruyter, Berlin, 2003 (ISBN 3-11-017818-4)
+(de) Hermann Reichert, Nibelungenlied-Lehrwerk : Sprachlicher Kommentar, mittelhochdeutsche Grammatik, Wörterbuch. Passend zum Text der St. Galler Fassung („B“), Praesens Verlag, Wien, 2007 (ISBN 978-3-7069-0445-2)
+(de) Hilkert Weddige, Mittelhochdeutsch : eine Einführung, 6e éd., Beck, München, 2004 (ISBN 3-406-45744-4)
+
+
+==== Grammaire ====
+(de) Heinz Mettke, Mittelhochdeutsche Grammatik, 8e éd., Niemeyer, Tübingen, 2000 (ISBN 3-484-89002-9)
+(de) Hermann Paul, Mittelhochdeutsche Grammatik, 25e éd., Niemeyer, Tübingen, 2006 (ISBN 3-484-64034-0)
+(de) Karl Weinhold, Kleine mittelhochdeutsche Grammatik, continué par Gustav Ehrismann et mis à jour par Hugo Moser, 18e éd., Wien, 1986 (ISBN 3-7003-0663-6)
+
+
+==== Métrique ====
+(de) Herbert Bögl, Abriss der mittelhochdeutschen Metrik - Mit einem Übungsteil, 1e éd., Olms, Hildesheim , 2006 (ISBN 3-487-13142-0)
+
+
+=== Articles connexes ===
+Haut-allemand
+Vieux haut-allemand
+Haut-allemand moderne
+linguistique
+liste de langues
+langues par famille
+langues indo-européennes
+langues germaniques
+langues germaniques occidentales
+groupe germano-néerlandais
+haut-allemand
+
+
+=== Liens externes ===
+(de) Mittelhochdeutsche Wörterbücher im Verbund Ensemble de dictionnaires en ligne de moyen haut-allemand.
+(de) Mediaevum.de Portail sur la littérature allemande et latine du Moyen Âge.
+(de) Mittelhochdeutsche Begriffsdatenbank Base de données permettant des recherches sémantiques dans des textes en moyen haut-allemand.
+ Portail de l’Allemagne
+ Portail de l’Autriche
+ Portail de la Suisse
+ Portail des langues germaniques
+ Portail du Moyen Âge central

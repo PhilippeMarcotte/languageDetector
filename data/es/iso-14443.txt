@@ -1,0 +1,20 @@
+ISO 14443 es un estándar internacional relacionado con las tarjetas de identificación electrónicas, en especial las tarjetas de proximidad, gestionado conjuntamente por la Organización Internacional de Normalización (ISO) y Comisión Electrotécnica Internacional (IEC).
+Este estándar define una tarjeta de proximidad utilizada para identificación y pagos que por lo general utiliza el formato de una tarjeta de crédito definida por ISO 7816 - ID 1 (aunque otros formatos son posibles).
+El sistema RFID utiliza un lector con un microcontrolador incrustado y una antena que opera a 13.56 MHz (frecuencia RFID). El lector mantiene a su alrededor un campo electromagnético de modo que al acercarse una tarjeta al campo, ésta se alimenta eléctricamente de esta energía inducida y puede establecerse la comunicación lector-tarjeta.
+El estándar ISO 14443 consta de cuatro partes y se describen dos tipos de tarjetas: tipo A y tipo B. Las principales diferencias entre estos tipos se encuentran en los métodos de modulación, codificación de los planes (parte 2) y el protocolo de inicialización de los procedimientos (parte 3). Las tarjetas de ambos tipos (A y B) utilizan el mismo protocolo de alto nivel (llamado T=CL) que se describe en la parte 4. El protocolo T=CL especifica los bloques de datos y los mecanismos de intercambio:
+Bloque de datos de encadenamiento
+Tiempo de espera de extensión
+Múltiple activación
+La tarjeta Calypso cumple con la norma ISO/IEC 14443 parte 1, 2, 3 y 4 de tipo B. Las tarjetas Mifare cumplen con las partes 1, 2 y 3 de tipo A de la especificación ISO/IEC 14443.
+
+
+== Véase también ==
+Tarjeta de proximidad
+RFID
+
+
+== Enlaces externos ==
+Borrador del ISO/IEC 14443
+RFID e ISO 14443
+Sobre ISO/IEC 14443-B
+Sobre el sistema de ticketing Calypso

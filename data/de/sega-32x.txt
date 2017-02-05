@@ -1,0 +1,24 @@
+Das 32X (jap. スーパー32X Sūpā 32X) von Sega ist eine 1994 entwickelte Hardwareerweiterung für die Videospielkonsole Sega Mega Drive, die aus dem eigentlich 16-Bit- ein 32-Bit-Gerät machen sollte. Da die Entwicklung einer Hau-Ruck-Aktion glich, in das Marketing nur wenig investiert wurde und die (technisch überlegenen) „Next-Generation“-Konsolen Sony PlayStation sowie der Sega Saturn aus dem eigenen Haus 1995 bereits in den Startlöchern standen, wurde das 32X zu einem der größten Misserfolge Segas. Für einige Videospielfreunde ist das 32X dadurch schon wieder zum Sammlerstück geworden, insbesondere da für die Konsole nur wenige Spiele veröffentlicht wurden.
+
+
+== Namen und Veröffentlichungstermine ==
+Die Entwicklung des 32X (Kodename Mars) erfolgte in den USA seit Anfang 1994, dort wurde das Gerät ab November 1994 als Genesis 32X verkauft. Damit folgte man dem US-Namen des Mega Drives, Genesis. In den USA betrugen bereits die Vorbestellungen 1 Million Stück, man hatte für diesen Markt aber nur 500.000 Stück produziert. In Japan kam die Konsole bereits im Dezember des gleichen Jahres noch pünktlich zum Weihnachtsgeschäft als Super 32X auf den Markt. Erst ab Januar 1995 erfolgte der Verkauf in Europa und Australien als Mega Drive 32X, somit wurde wie in den USA das Grundgerät hervorgehoben. Der ursprüngliche Verkaufspreis in Deutschland betrug 399 DM, etwa 275 Euro.
+Bedingt durch die verschiedenen Namen und den Fakt, dass sowohl die Kombination aus Mega Drive und 32X als auch das 32X selbst als „Mega Drive 32X“ bezeichnet wurden, wird heutzutage häufig nur noch die Bezeichnung „Sega 32X“ bzw. „32X“ für die Erweiterungskonsole verwendet.
+
+
+== Funktionsweise ==
+Das 32X wird in den Modulschacht des Mega Drives gesteckt, dessen Audio-/Videoanschluss wird mittels eines Kabels extern an das 32X herangeführt, die Ausgabe an das Fernsehgerät erfolgt vom 32X aus. Damit wird die ursprüngliche Farbzahl von 64 (gleichzeitig) aus 512 auf 32.768 Farben erhöht, dabei sind je nach Modus 256 (1 Byte, Farbpalette) bzw. 32.768 (2 Byte, direkt adressiert) Farben gleichzeitig darstellbar. Des Weiteren kommen zwei Soundkanäle hinzu. Als Speichermedium fungieren Module, die in allen drei Versionen die gleiche Form haben und sich nur durch eine Regionsabfrage abspielen (oder blockieren) lassen. Vorhandene Mega-Drive-Module lassen sich (bis auf die 16-Bit-Version von Virtua Racing, welches einen SVP-Chip enthält) problemlos auch mit einem aufgesteckten 32X abspielen, die Daten werden über den Modulbus zum Mega Drive durchgeschleift. In Kombination mit einem Sega Mega-CD bzw. Sega CD waren auch Spiele auf CD (Mega-CD 32X ) möglich.
+Nachdem man bei Sega of America erkannt hat, dass die Marktchancen für das 32X besser sind, wenn man nicht nur eine Aufsatzkonsole, sondern auch ein komplettes Gerät anbieten kann, wurde 1995 ein Mega Drive mit integriertem 32X unter dem Namen Neptune für 200 US-$ angekündigt. Das Gerät kam jedoch nie über einen Prototypenstatus hinaus.
+
+
+== Prozessoren ==
+Als Hauptprozessoren dienen zwei SH-2-Prozessoren mit 23 MHz. Der mit 7,61 MHz getaktete MC-68000-Prozessor des Mega Drives dient als Koprozessor zum Booten, für die Abfrage der Controller und auch weiterhin um vorhandenen 68k-Code auszuführen. Des Weiteren kann auch der mit 3,58 MHz getaktete Z80 weiterhin als Soundprozessor verwendet werden. Bei einigen Konvertierungen vom Mega Drive zum 32X übernehmen diese beiden Prozessoren weiterhin die Hauptarbeit, es erfolgte teilweise nur eine leichte optische Aufbesserung.
+
+
+== Veröffentlichte Spiele ==
+Auf CD-ROM erschienene Spiele können nur in Verbindung mit dem Sega Mega-CD verwendet werden.
+
+
+== Weblinks ==
+Offizielle Informationsseiten von Sega of Japan (Memento vom 5. Oktober 2008 im Internet Archive) (japanisch)
+The 32X Memorial (Memento vom 27. Oktober 2009 im Internet Archive)

@@ -1,0 +1,52 @@
+Lajos Takács (August 21, 1924 (Maglód) – December 4, 2015 ) was a Hungarian mathematician, known for his contributions to probability theory and in particular, queueing theory. He wrote over two hundred scientific papers and six books.
+He studied at the Technical University of Budapest (1943-1948), taking courses with Charles Jordan and received an M.S. for his dissertation On a Probability-theoretical Investigation of Brownian Motion (1948). From 1945-48 he was a student assistant to Professor Zoltán Bay and participated in his famous experiment of receiving microwave echoes from the Moon (1946). In 1957 he received the Academic Doctor's Degree in Mathematics for his thesis entitled "Stochastic processes arising in the theory of particle counters" (1957).
+He worked as a mathematician at the Tungsram Research Laboratory (1948–55), the Research Institute for Mathematics of the Hungarian Academy of Sciences (1950–58) and was an associate professor in the Department of Mathematics of the L. Eötvös University (1953–58). He was the first to introduce semi-Markov processes in queueing theory.
+He took a lecturing appointment at Imperial College in London and London School of Economics (1958), before moving to Columbia University in New York City (1959–66) and Case Western Reserve University in Cleveland (1966–87), advising over twenty Ph.D.-theses. He also held visiting appointments at Bell Labs and IBM Research, had sabbaticals at Stanford University (1966). He was a Professor of Statistics and Probability at Case Western Reserve University from 1966 until he retired as Professor Emeritus in 1987.
+
+
+== Publications ==
+The following is a partial list of publications
+Some Investigations Concerning Recurrent Stochastic Processes of a Certain Kind, Magyar Tud. Akad. Alk. Mat.Int. Kozl. vol.3, pp. 115–128, 1954.
+Investigations of Waiting Time Problems by Reduction to Markov Processes, Acta Math. Acad. Sci. Hung. vol.6, pp. 101–129, 1955.
+Sojourn times for the Brownian motion, Journal of Applied Mathematics and Stochastic Analysis, vol. 11, no. 3, pp. 231–246, 1998
+In memoriam: Pál Erdős (1913-1996), Journal of Applied Mathematics and Stochastic Analysis, vol. 9, no. 4, pp. 563–564, 1996
+Sojourn times, Journal of Applied Mathematics and Stochastic Analysis, vol. 9, no. 4, pp. 415–426, 1996
+Brownian local times, Journal of Applied Mathematics and Stochastic Analysis, vol. 8, no. 3, pp. 209–232, 1995
+Limit distributions for queues and random rooted trees, Journal of Applied Mathematics and Stochastic Analysis, vol. 6, no. 3, pp. 189–216, 1993
+On a probability problem connected with railway traffic, Journal of Applied Mathematics and Stochastic Analysis, vol. 4, no. 1, pp. 1–27, 1991
+Conditional limit theorems for branching processes, Journal of Applied Mathematics and Stochastic Analysis, vol. 4, no. 4, pp. 263–292, 1991
+On the distribution of the number of vertices in layers of random trees, Journal of Applied Mathematics and Stochastic Analysis, vol. 4, no. 3, pp. 175–186, 1991
+Queues, random graphs and branching processes, Journal of Applied Mathematics and Stochastic Analysis, vol. 1, no. 3, pp. 223–243, 1988
+On the distribution of the supremum for stochastic processes, Annales de l'institut Henri Poincaré (B) Probabilités et Statistiques, 6(3):237-247, 1970
+On the Total Heights of Random Rooted Binary Trees, J. Comb. Theory, Ser. B 61(2): 155-166 (1994)
+Counting forests, Discrete Mathematics 84(3): 323-326 (1990)
+On Cayley's formula for counting forests, J. Comb. Theory, Ser. A 53(2): 321-323 (1990)
+A generalization of an inequality of Stepanov, J. Comb. Theory, Ser. B 48(2): 289-293 (1990)
+On the Number of Distinct Forests, SIAM Journal on Discrete Mathematics 3(4): 574-581 (1990)
+On the "problème des ménages", Discrete Mathematics 36(3): 289-297 (1981)
+On a Combinatorial Theorem Related to a Theorem of G. Szegö, J. Comb. Theory, Ser. A 30(3): 345-348 (1981)
+An Identity for Ordered Partial Sums, J. Comb. Theory, Ser. A 23(3): 364-365 (1977)
+
+
+== Books ==
+Stochastic Processes. Problems and Solutions (Methuen, 1960)
+Introduction to the Theory of Queues, (Oxford University Press, 1962)
+Combinatorial Methods in the Theory of Stochastic Processes, (John Wiley, 1967)
+
+
+== Awards ==
+1993 Foreign Membership Magyar Tud. Akad.
+1994 John von Neumann Theory Prize
+2002 Fellows Award. Inst. for Operations Research and Management Sciences
+
+
+== Literature ==
+Jewgeni H. Dshalalow and Ryszard Syski, Lajos Takács and his work, in Jrn. of Applied Math. and Stochastic Analysis, 7(3):215-237, 1994.
+Studies in Applied Probability, Papers in Honour of Lajos Takacs. by J. Galambos, J. Gani, The Journal of the Operational Research Society, 46(11):1397-98, 1995
+
+
+== References ==
+
+
+== External links ==
+Biography of Lajos Takács from the Institute for Operations Research and the Management Sciences

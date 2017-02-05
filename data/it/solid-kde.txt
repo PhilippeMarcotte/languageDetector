@@ -1,0 +1,10 @@
+Solid è una struttura di KDE 4, l'ultima versione dell'ambiente grafico KDE, per la gestione dell'hardware. Il funzionamento è simile a quello di Phonon in quanto l'hardware non viene gestito direttamente ma viene messa a disposizione un'API con cui sfruttare soluzioni già esistenti. La soluzione precedente usa HAL, NetworkManager e BlueZ.
+
+
+== Altri progetti ==
+
+ Wikimedia Commons contiene immagini o altri file su Solid
+
+
+== Collegamenti esterni ==
+(EN) Home page di Solid, solid.kde.org.

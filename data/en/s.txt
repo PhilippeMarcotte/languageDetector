@@ -1,0 +1,64 @@
+S (named ess /ˈɛs/, plural esses) is the 19th letter in the modern English alphabet and the ISO basic Latin alphabet.
+
+
+== History ==
+Semitic Šîn ("teeth") represented a voiceless postalveolar fricative /ʃ/ (as in 'ship'). Greek did not have this sound, so the Greek Sigma (Σ) came to represent the voiceless alveolar sibilant /s/. In Etruscan and Latin the /s/ value was maintained, and only in modern languages has the letter been used to represent other sounds.
+
+
+=== Long s ===
+The minuscule form of 's' was 'ſ', called the long s, up to the fourteenth century or so, and the form 'S' was used then only as uppercase in the same manner that the forms 'G' and 'A' are only uppercase. With the introduction of printing, the modern form 's' began to be used at the end of words by some printers. Later, it was used everywhere in print and eventually spread to manuscript letters as well. For example, "sinfulness" would be rendered as "ſinfulneſſ" in all medieval hands, and later it was "ſinfulneſs" in some blackletter hands and in print. The modern spelling "sinfulness" did not become widespread in print until the beginning of the 19th century, largely to prevent confusion of 'ſ' with the lowercase 'f' in typefaces which had a very short horizontal stroke in their lowercase 'f'. The ligature of 'ſs' (or 'ſz') became the German Eszett, 'ß'.
+It is commonly believed that it was the London printer John Bell (1745–1831) who popularized the modern "round s", in place of the elongated 'ſ', although exactly when he did this is unclear. In his multivolume series, The British Theatre, he began using the short form instead of the elongated letter circa 1785, not entirely at first but in later years more and more consistently. His edition of Shakespeare, in 1785, was advertised with the claim that he "ventured to depart from the common mode by rejecting the long 'ſ' in favor of the round one, as being less liable to error....." In the field of more ephemeral publications, Bell began a London newspaper called The World, of which it has been said that a "vital change ... first made in The World, entitled No. 1 of that paper (for Monday, January 1, 1787) to be chronicled in any kalendar of typographical progress: the abolition of the long 'ſ'...." Bell may have popularized it, but he did not invent it; in his letter of March 26, 1786 to Francis Childs, Benjamin Franklin wrote "the Round s .... begins to be the Mode, and in nice printing the Long 'ſ' is rejected entirely."
+
+
+== Use in writing systems ==
+The letter ⟨s⟩ represents the voiceless alveolar or voiceless dental sibilant /s/ in most languages as well as in the International Phonetic Alphabet. It also commonly represents the voiced alveolar or voiced dental sibilant /z/, as in Portuguese mesa (table) or English 'rose' and 'bands', or it may represent the voiceless palato-alveolar fricative [ʃ], as in most Portuguese dialects when syllable-finally, in Hungarian, in German (before ⟨p⟩, ⟨t⟩) and some English words as 'sugar', since yod-coalescence became a dominant feature, and [ʒ], as in English 'measure' (also because of yod-coalescence), European Portuguese Islão (Islam) or, in many sociolects of Brazilian Portuguese, esdrúxulo (proparoxytone) in some Andalusian dialects, it merged with Peninsular Spanish ⟨c⟩ and ⟨z⟩ and is now pronounced [θ].
+⟨sh⟩ is a common digraph in English in which it represents [ʃ] in every instance that the letter combination is a true digraph.
+The letter ⟨s⟩ is the seventh most common letter in English and the third-most common consonant (after ⟨t⟩ and ⟨n⟩). It is the most common letter in starting and ending position.
+In English and many other languages, primarily Romance ones like Spanish and French, final ⟨s⟩ is the usual mark of plural nouns. It is the regular ending of English third person present tense verbs.
+
+
+== Related characters ==
+
+
+=== Descendants and related characters in the Latin alphabet ===
+ſ : Latin letter long S, an obsolete variant of S
+ẞ ß : German Eszett or "sharp S", derived from a ligature of long s followed by either s or z
+S with diacritics: Ś ś Ṡ ṡ Ṣ ṣ Ꞩ ꞩ Ŝ ŝ Š š Ş ş Ș ș S̈ s̈
+Ƨ ƨ : Latin letter reversed S (used in Zhuang transliteration)
+IPA-specific symbols related to S: ʃ ɧ ʂ
+
+
+=== Derived signs, symbols and abbreviations ===
+$ : Dollar sign
+₷ : Spesmilo
+§ : Section sign
+℠ : Service mark symbol
+∫ : Integral symbol, short for summation
+
+
+=== Ancestors and siblings in other alphabets ===
+𐤔 : Semitic letter Shin, from which the following symbols originally derive
+Σ σ : Greek letter Sigma, from which the following letters derive
+Ⲥ ⲥ : Coptic letter sima
+С с : Cyrillic letter Es, derived from a form of sigma
+𐌔 : Old Italic letter S, from which modern Latin S derives
+ᛊ, ᛋ, ᛌ : Runic letter sowilo, which is derived from Old Italic S
+
+𐍃 : Gothic letter sigil
+
+
+== Computing codes ==
+1 Also for encodings based on ASCII, including the DOS, Windows, ISO-8859 and Macintosh families of encodings.
+
+
+== Other representations ==
+
+
+== References ==
+
+
+== External links ==
+ Media related to S at Wikimedia Commons
+ The dictionary definition of S at Wiktionary
+ The dictionary definition of s at Wiktionary
+ "S". The New Student's Reference Work. 1914.

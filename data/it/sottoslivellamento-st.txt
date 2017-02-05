@@ -1,0 +1,43 @@
+Il termine sottoslivellamento ST (cui talvolta ci si riferisce con il termine depressione del tratto ST) fa riferimento ad un'alterazione dell'elettrocardiogramma di superficie.
+
+
+== Riconoscimento del segmento ST ==
+
+Il segmento ST è definito come l'intervallo tra il complesso QRS e l'inizio dell'onda T.
+Si ricorda che l'identificazione del segmento ST è decisamente più agevole nelle derivazioni precordiali sinistre.
+L'unico motivo per cui il segmento ST riveste interesse elettrocardiografico e clinico è che esso non deve deviare per più di 1 mm sia al di sopra che al di sotto della linea isoelettrica.
+
+
+== Misura ==
+L'entità del sottoslivellamento del segmento ST può essere determinata misurando la distanza verticale tra traccia del paziente e la linea isoelettrica -3 millimetri dal complesso QRS. Il sottoslivellamento del tratto ST è significativo se è superiore a 1 mm in V5, V6, o 1,5 mm in AVF o D3. In un test di stress cardiaco , una depressione ST di almeno 1 mm dopo somministrazione di adenosina indica una ischemia reversibile. Similmente una prova da sforzo richiede una depressione ST di almeno 2 mm per essere significativa nell'indicare una ischemia reversibile.
+
+
+== Cause ==
+Il sottoslivellamento del tratto ST è spesso un segno di ischemia del miocardio, di cui l'insufficienza coronarica è una delle cause principali.
+Esistono comunque altre malattie che possono determinare sottoslivellamento del tratto ST e fra queste:
+Ischemia subendocardica
+Infarto del miocardio
+Infarto miocardico non-Q
+Sottoslivellamenti speculari in corso di un infarto miocardico acuto di tipo Q, nelle derivazioni che registrano da parti opposte a quelle in cui si verifica l'infarto (ad esempio depressione del tratto ST nelle derivazioni I e aVL in soggetti con infarto miocardico acuto inferiore in atto)
+Inoltre questo riscontro può essere una variante normale od un artefatto, ad esempio in caso di:
+Pseudo-depressione ST, che è dovuta ad una linea isoelettrica instabile a causa di un cattivo contatto fra cute ed elettrodi
+Depressione giunzionale, ossia del punto J e della parte prossimale del segmento ST, fenomeno fisiologico legato alla ripolarizzazione atriale.
+Iperventilazione
+Altre cause, non ischemiche, di depressione del segmento ST sono:
+Effetto collaterale della digossina
+Ipokaliemia
+Ipertrofia ventricolare destra o sinistra
+Anomalie della conduzione intraventricolare (ad esempio, blocco di branca destra o sinistra,WPW ed altre)
+Ipotermia
+Tachicardia
+Prolasso della valvola mitrale
+
+
+== Voci correlate ==
+Infarto del miocardio
+Sindrome coronarica acuta
+Miocardio
+Angina
+
+
+== Note ==

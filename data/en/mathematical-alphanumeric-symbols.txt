@@ -1,0 +1,34 @@
+Mathematical Alphanumeric Symbols is a Unicode block of Latin and Greek letters and decimal digits that enable mathematicians to denote different notions with different letter styles. The letters in various fonts often have specific, fixed meanings in particular areas of mathematics. By providing uniformity over numerous mathematical articles and books, these conventions help to read mathematical formulae.
+Unicode now includes many such symbols (in the range U+1D400–U+1D7FF).  The rationale behind this is that it enables design and usage of special mathematical characters (fonts) that include all necessary properties to differentiate from other alphanumerics, e.g. in mathematics an italic "A" can have a different meaning from a roman letter "A". Unicode originally included a limited set of such letter forms in its Letterlike Symbols block before completing the set of Latin and Greek letter forms in this block beginning in version 3.1.
+Unicode expressly recommends that these characters not be used in general text as a substitute for presentational markup; the letters are specifically designed to be semantically different from each other. Unicode does not include a set of normal serif letters in the set (thus it assumes a given font is a serif by default; a sans-serif font that supports the range would thus display the standard letters and the "sans-serif" symbols identically but could not display normal serif symbols of the same).
+All these letter shapes may be manipulated with MathML's attribute mathvariant.
+The introduction date of some of the more commonly used symbols can be found in the Table of mathematical symbols by introduction date.
+
+
+== Tables ==
+
+
+=== Latin letters ===
+
+
+=== Greek letters and symbols ===
+
+
+=== Digits ===
+
+
+== Unicode chart ==
+
+
+== See also ==
+Typographical conventions in mathematical formulae
+Greek letters used in mathematics, science, and engineering
+Latin letters used in mathematics
+Mathematical operators and symbols in Unicode
+
+
+== References ==
+
+
+== External links ==
+Every mathematical symbol as an image

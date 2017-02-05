@@ -1,0 +1,53 @@
+The 2006 Mercy Air helicopter accident occurred on December 10, 2006, about 1755 Pacific Standard Time, when a Bell 412SP helicopter, call sign "Mercy Air 2," impacted mountainous terrain near Hesperia, California and the Cajon Pass. The commercial helicopter pilot and two medical crew members were killed and the helicopter was destroyed by impact forces and a postcrash fire.
+On July 30, 2008, the National Transportation Safety Board released its probable cause report on the accident. According to the NTSB, the probable cause of the crash was "the pilot's inadvertent encounter with instrument meteorological conditions and subsequent failure to maintain terrain clearance." The dark night conditions, fog, and mountainous terrain were ruled to be contributing factors.
+
+
+== Accident details ==
+The Bell 412SP helicopter took off on a cross-country repositioning flight from Loma Linda University Medical Center (94CL), Loma Linda, California, at 1742, with a planned destination of Southern California Logistics Airport (VCV), Victorville, California. Mercy Air 2 had transported a woman injured in a horse-riding accident in Phelan, California, to Loma Linda, and was returning to its assigned base at the time of the accident with only the pilot and two medical crew members on board. LifeNet, Inc., d.b.a. Mercy Air Service, Inc., was operating the helicopter under the provisions of 14 CFR Part 91. An FAA representative stated the helicopter was being operated under visual flight rules and was not being handled by air traffic control, a practice he called "perfectly normal."
+At 1800, the San Bernardino County Fire Department dispatch center started to receive numerous calls of an object falling from the sky, an explosion and fire northeast of Interstate 15 in the area of Oak Hills. The first fire department responders to the accident site reported that the area was covered by intermittent waves of fog, which made it difficult to locate the wreckage.
+The accident site was located on mountainous terrain on a 45-degree slope at an elevation of 4,000 feet (1,200 m) to 4,300 feet (1,300 m) above mean sea level (msl), below a large electrical transmission tower, a little more than a mile east of I-15, and north of Highway 138. It is in a rural area with dirt roads, and no streetlights. The approximate global positioning system (GPS) coordinates of the primary wreckage were: 34°20.534′N 117°25.884′W.
+First Responders reported that upon their arrival the scene was fully engulfed in fire. The post impact fire consumed approximately 2 acres (8,100 m2) of mountainside, and made any reconstruction of the wreckage impossible. The first identified point of impact, a ground scar located next to the separated tail boom and the left skid, was near the base of the mountainous terrain with the debris path emanating upslope. The debris path consisted of the tail boom, both skids, both engines, the main rotor assembly, and various other fuselage panels. The energy path was measured on a 155-degree bearing from the first identified impact point.
+No distress call was received from the aircraft. Initial speculation that the aircraft went down after hitting electrical wires was quickly eliminated as a cause. Examination of the maintenance and flight department records revealed no unresolved maintenance discrepancies against the helicopter prior to departure. The helicopter was built in 1987 and refurbished in May 2004, and had no previous accident history.
+
+
+=== Weather information ===
+
+Visual meteorological conditions predominantly prevailed along the route of flight, and a company visual flight rules (VFR) flight plan had been filed. The Cajon Pass area is known for high wind, turbulence and fog. Fog was heavy due to a marine layer that rolled in at 4,000 feet (1,200 m) and winds were said to be erratic.
+Reported weather conditions from VCV, 15 nautical miles (28 km) northeast of the accident site, were visibility 10 statute miles (16 km); a broken cloud layer at 3,800 feet (1,200 m), and an overcast cloud layer at 4,900 feet (1,500 m); temperature 11 degrees Celsius; dew point 3 degrees Celsius; altimeter 30.17 inHg (1,022 hPa). Weather conditions at Ontario International Airport, Ontario, California, 19 nmi (35 km) southwest of the accident site, were visibility 10 statute miles (16 km); a broken cloud layer at 3,800 feet (1,200 m), and an overcast cloud layer at 5,500 feet (1,700 m); temperature 13 degrees Celsius; dew point 6 degrees Celsius; altimeter 30.19 inHg (1,022 hPa).
+
+
+=== GPS data ===
+Mercy Air 2 was equipped with the OuterLink Automatic Flight Following System, a satellite-based tracking system that reports the helicopter's location to the ground base while it is in operation. The unit installed in the accident helicopter reported the following parameters every 30 seconds: date, time, latitude, and longitude. The installed system was capable of recording the altitude and airspeed, but Mercy Air had not yet installed the software upgrade required to make those parameters functional.
+The National Transportation Safety Board (NTSB) investigator-in-charge (IIC) reviewed the data from the Outerlink system. The satellite data indicated that the helicopter departed from 94CL and flew towards the Cajon Pass in a northwest direction. The flight path then followed the northbound Interstate 15 until it had almost reached the summit of the Cajon Pass. The global positioning system (GPS) tracked the helicopter as it continued toward the northeast while the Interstate turned toward the north. The last known position of Mercy Air 2 was recorded at 1755, and was 0.3 nautical miles (560 m) northwest of the first identified impact point.
+
+
+== Accident histories ==
+
+
+=== Company ===
+Air Methods, Corp., the Colorado-based parent company of Mercy Air, is the largest emergency medical services helicopter operator in the United States, with a fleet of 208 medical transport helicopters at the time of this accident. Air Methods had, after this accident, a total of 19 accidents leading to the deaths of 21 people nationwide according to the National Transportation Safety Board's records. Air Methods companies have had three other fatal accidents, in the last 10 years. On September 7, 2002, three crew members died when a Mercy Air helicopter based in Nevada crashed in Nipton, California after the main rotor blades separated while maneuvering in flight after dark. In January 2005, an Air Methods helicopter crashed in Washington, D.C. with two dead and one injured, and another crashed in Mississippi killing one. Craig Yale, the vice president of corporate development for Air Methods, stated in a news conference shortly after the accident that, "We fly over 100,000 hours a year, 85,000 missions a year, and in doing so have had very few fatal accidents over a 10-year period."
+
+
+=== Industry ===
+The U.S. Federal Aviation Administration estimates there are 650 emergency medical helicopters in operation in the United States. In a 2006 NTSB special investigation report on the industry, the board reported emergency medical helicopter flight hours increased by 54 percent since 1991, but the rate of accidents per 100,000 flight hours increased 77 percent. FAA reports show that these accidents frequently involve controlled flight into terrain, spatial disorientation, and weather. "On the accident reports I have reviewed, there doesn't appear to be a common thread linking these accidents," according to independent safety expert Barry Schiff. But three out of four of those accidents occurred when no patient was on board the aircraft — a fact aviation lawyer and helicopter-pilot Justin Green said is attributed to lax regulations by the FAA. When no patient or organ is aboard, the helicopters can be operated VFR under less restrictive Part 91 regulations, as the accident flight was. The NTSB had previously recommended that the FAA require all operations to be conducted under the more restrictive Part 135 regulations whenever medical personnel are on board.
+
+
+== Related information ==
+
+
+=== San Bernardino County medevac controversy ===
+At the time of this accident, Mercy Air was San Bernardino County's only private, permitted helicopter ambulance service provider. A November 2005 Grand Jury report indicated that campaign contributions by Mercy Air were a factor in the San Bernardino County Board of Supervisors decisions making Mercy Air the sole air ambulance provider authorized to operate in the county, which is the largest by land area in the Continental United States, larger than some states. Both the company and board officials denied this.
+
+
+=== Post accident information ===
+The company grounded most of its fleet following the Sunday evening crash, and began resuming normal operations two days later on Tuesday December 12, 2006. An estimated 3,000 people, mostly uniformed nurses, medics and firefighters, attended a three-hour memorial for the flight crew a week after the accident. This accident also lead to increased efforts to establish a trauma center in the high desert region of San Bernardino and Los Angeles counties.
+
+
+== References ==
+
+ This article incorporates public domain material from the United States Government document "NTSB Preliminary Report: LAX07FA056".
+
+
+== External links ==
+Three killed in Mercy Air helicopter crash Flight Web news summary
+Mercy Air picture gallery 12/11/2006 from The Press-Enterprise

@@ -1,0 +1,102 @@
+Il capitello (dal latino capitellum) rappresenta l'elemento superiore del sostegno verticale (colonna, lesena) degli ordini architettonici e la sua funzione decorativa è quella di mediare tra la superficie curva del fusto della colonna e quella rettilinea dell'architrave. Questa funzione ha trovato diverse soluzioni.
+
+
+== Capitelli pre-classici ==
+
+Nell'architettura egizia la decorazione dei capitelli si basa su forme vegetali e i tre principali tipi di capitello impiegati fino all'età tolemaica (III-I secolo a.C.) si basavano sulle forme del fiore di loto, del papiro e della palma.
+Nei rilievi assiri sono mostrati capitelli a volute, ma nessun esemplare è giunto fino a noi.
+La tradizione achemenide presenta capitelli costituiti da doppie mensole intagliate in forma di leone o di grifone, che sporgono per sorreggere l'architrave; altre mensole ad angolo retto sporgono sul retro per sostenere travi secondarie.
+I capitelli minoici, visibili negli affreschi del palazzo di Cnosso (1600 a.C. circa) erano decorati con una modanatura convessa probabilmente modellata in stucco. In epoca micenea la "tomba di Agamennone" di Micene conserva capitelli intagliati a forma di campana rovesciata.
+
+
+== Capitelli degli ordini architettonici nell'architettura greco-romana ==
+
+
+=== Capitello dorico ===
+
+Il capitello dell'ordine dorico è costituito da tre elementi:
+abaco (abacus) di forma parallelepipeda, a pianta quadrata, con la funzione di offrire una più ampia base d'appoggio alla trabeazione, riducendo la sollecitazione alla flessione cui l'architrave è sottoposto;
+echino (echinus) di forma assimilabile ad un tronco di cono con profilo ad ovolo (non rettilineo ma iperboloidico) la cui funzione è quella di collegare la superficie dell'abaco a quella meno estesa del collarino, che a sua volta è raccordato al fusto. Alla base dell'echino si trovano tre sottili fasce sovrapposte (anuli), in origine profilati a becco e in leggero rilievo, che avevano lo scopo di allontanare l'acqua piovana dalla superficie del fusto.
+collarino, sotto gli anuli, che costituisce la parte superiore del fusto, dal quale è separato con una serie di incisioni a sezione triangolare (hypotrachelion).
+Il profilo dell'echino fornisce indicazioni sulla datazione: nell'architettura greca di epoca arcaica esso era molto espanso e rigonfio, mentre durante l'epoca classica iniziò a subire un processo di rettificazione e rimpicciolimento, proseguito in età ellenistica e romana, con echini dalla curvatura appena accennata.
+In età romana può capitare che l'echino o i lati dell'abaco ricevano una decorazione modanata o vegetale, e in questo caso avremo un capitello dorico "decorato".
+
+
+=== Capitello tuscanico ===
+
+Costituisce una variante di quello dorico: in generale sono diverse le proporzioni e il profilo dell'echino, che può assumere forme più articolate (anche con profilo a gola, invece che a ovolo).
+
+
+=== Capitello ionico ===
+
+Nel capitello ionico, tra echino e abaco si inserisce un nastro, chiamato "canale delle volute", che si avvolge poi in grandi volute terminanti in un "occhio centrale"; le volute sporgono al di sotto del margine inferiore dell'echino. Lo spazio angolare tra echino e volute viene riempito dall'introduzione di due semipalmette che si sovrappongono all'echino. Anche in questo caso insieme al capitello vero e proprio è spesso intagliata la parte superiore del fusto, che, se distinta dal resto del fusto, viene definita "collarino".
+Il capitello ionico per sua natura si presenta diversamente sui due lati principali e sui fianchi, dove le due volute dei lati opposti vengono collegate tra loro da un pulvino o rocchetto che si assottiglia al centro, spesso serrato da un balteo. Esistono tuttavia capitelli ionici con quattro lati uguali, che vengono definiti "a quattro facce": in questo caso le volute si dispongono diagonalmente rispetto all'andamento dei lati dell'abaco.
+Normalmente il capitello ionico presenta l'echino decorato da un kyma ionico (al quale si sovrappongono le semipalmette), ma è possibile la presenza anche di altri motivi decorativi. Anche il pulvino e il balteo sui fianchi sono decorati e a volte anche il collarino o i lati dell'abaco. In certi periodi può essere presente una decorazione anche nel canale delle volute. Se invece l'echino è liscio, con la sola presenza delle sagome per le semipalmette, il capitello ionico si definisce "liscio". Se la decorazione presenta degli elementi figurati, inseriti nella decorazione, il capitello ionico si definisce "figurato".
+Una variante particolare di capitelli ionici, diffusa in Italia in età romana repubblicana e con caratteristiche fortemente locali nelle reciproche proporzioni dei vari elementi e nella decorazione, molto sporgente, viene definita capitello ionico "italico".
+In epoca tarda dei capitelli ionici più schematici possono essere intagliati insieme alle imposte per mezzo delle quali le arcate venivano sovrapposte ai colonnati (capitelli ionici "a imposta").
+
+
+=== Capitello corinzio ===
+
+Il capitello corinzio si compone di un kalathos troncoconico e con orlo appena ripiegato in fuori, a cui si sovrappone un abaco con i lati modanati e leggermente incurvati in pianta. Alla base, il kalathos è rivestito da due corone di otto foglie d'acanto con la cima ripiegata in fuori: le foglie della prima corona si dispongono a due per lato, mentre quelle della seconda corona al centro di ogni lato e agli angoli. Al di sopra delle foglie della prima corona nascono degli steli che prendono il nome di caulicoli, da cui nascono a loro volta "calici" a due foglie d'acanto disposte di profilo, interna ed esterna. A sua volta dal calice si originano due steli a nastro che terminano avvolgendosi in spirale: uno rivolto verso l'interno, si appoggia sul kalathos al centro di ciascun lato (elice), mentre l'altro si dispone obliquamente sull'angolo (voluta), distaccandosi dal kalathos e sorreggendo gli spigoli dell'abaco. Infine, al di sopra della foglia centrale della seconda corona, spesso con la mediazione di un calicetto nasce uno stelo che termina in un fiore al centro dei lati dell'abaco ("fiore dell'abaco").
+Normalmente le foglie d'acanto e gli altri elementi decorativi sono intagliati nei particolari, ma a volte il capitello presenta solo le sagome lisce delle forme vegetali che rivestivano il kalathos, e in questo caso viene definito "a foglie lisce". Nella struttura del capitello sono altre volte inseriti degli elementi figurati, in parte anche alterandola, e allora il capitello corinzio si definisce "figurato". Anche i lati dell'abaco possono presentare modanature decorate.
+Una variante, il capitello corinzio italico, diffuso in epoca romana repubblicana, si presentano privi di caulicoli e con fiore dell'abaco molto grande e sporgente, sceso sopra il kalathos. Una variante che si evolve in età romana nelle province orientali, il capitello corinzio asiatico, presenta l'acanto a fogliette aguzze e segue una propria evoluzione formale.
+
+
+=== Capitello corinzieggiante ===
+
+A partire dallo schema del capitello corinzio si introducono e sviluppano, in particolare per ordini di piccole dimensioni, varianti decorative più libere, caratterizzate dalla non esclusiva presenza dell'acanto, che vengono definite capitelli corinzieggianti. Alcuni schemi decorativi, più diffusi, sono quello "a lira", oppure quello "a calice centrale" o ancora quello "a doppia S".
+
+
+=== Capitello a calice ===
+Un'ulteriore variante del capitello corinzio, sviluppatasi in ambiente attico e non molto frequente in occidente, è rappresentata dal capitello a calice, con il kalathos rivestito da baccellature e a volte con una sola corona di foglie d'acanto, privo degli altri elementi strutturali della decorazione vegetale.
+
+
+=== Capitello composito ===
+In età romana, forse partendo dai capitelli ionici italici a quattro facce, dotati di un collarino decorato da foglie d'acanto, si evolve il tipo composito di capitello, costituito da un kalathos rivestito da due corone di foglie d'acanto a cui si sovrappone un capitello ionico a quattro facce e ancora un abaco di tipo corinzio, con lati modanati e fiore centrale. L'articolazione de capitello corinzio è conservata solo per le due corone di foglie presenti alla base, mentre spesso lo spazio superiore del kalathos, non occupato da elici e volute, è riempito da due steli terminanti in rosette ("viticci fioriti").
+Come nel caso del capitello corinzio, il capitello composito può presentarsi figurato o a foglie lisce o nel tipo asiatico.
+
+
+=== Altri tipi di capitelli nell'architettura classica ===
+
+In epoca bizantina compaiono diverse varianti strutturali e decorative, come i capitelli bizonali, oppure polilobati, o ancora a canestro.
+In qualche caso troviamo capitelli, definiti egittizzanti che per questioni di moda riprendono antichi esempi egiziani, o dell'architettura tolemaica di Alessandria d'Egitto.
+Alcuni capitelli di pilastro o d'anta, presentano forme allargate e ampi piani per scolpire decorazioni, e vengono definiti capitelli a sofà.
+In alcuni casi lo schema dei capitelli è arricchito da elementi figurati, sia figure di divinità come accade in epoca ellenistica (capitelli con grifoni alati nel santuario di Eleusi) e spesso negli esemplari italici, arricchiti da protomi (teste) di divinità (capitelli del tempio detto corinzio-italico di Paestum, o del tempio di San Leucio a Canosa), sia elementi simbolici, come nel caso dei due arieti che sostituiscono le volute nel capitello del tempio della Concordia. L'uso è diffuso nell'architettura microasiatica di epoca romana (capitelli con leoni che azzannano prede di Hierapolis) e diverrà sempre più frequente a partire dall'età severiana (capitelli con figure di divinità nelle terme di Caracalla) e ancor più nei capitelli di epoca bizantina, dove spesso sono inseriti animali nella zona superiore dei capitelli bizonali.
+
+
+==== Capitelli "nabatei" ====
+
+I capitelli detti "nabatei" sono indicati con questa denominazione in quanto furono identificati inizialmente nei territori nabatei, dove questa forma rappresenta una caratteristica dell'architettura monumentale di Petra tra il I secolo a.C. e la metà del II secolo d.C., ma sono presenti anche in Egitto e a Cipro.
+Sono costituiti da una parte superiore con sporgenze angolari dalla superficie liscia e da una parte inferiore costituita da due o tre bassi cilindri di diametro decrescente, ma maggiore del fusto sottostante. La loro derivazione è stata discussa dagli studiosi: secondo alcuni si tratterebbe di capitelli corinzi non finiti, mentre secondo altri si tratterebbe di una variante autonoma, derivata dai modelli corinzi ellenistici alessandrini, con superfici perfettamente lisciate e destinata a ricevere probabilmente una decorazione dipinta.
+
+
+== Capitelli medievali ==
+
+In epoca medievale, se da una parte ci fu un largo reimpiego di materiali di spoglio antichi, dall'altro, nella produzione ex novo, ci fu un superamento dei tradizionali stili dell'antichità in favore di una maggiore libertà espressiva. Per esempio della prima metà del VII secolo ci sono pervenuti i capitelli della cripta della chiesa di Sant'Eusebio di Pavia, opera longobarda, senz'altro dall'aspetto grezzo, ma fondamentali per capire l'allontanamento dall'arte classica, con forme originali desunte dall'oreficeria. Uno è diviso in campi chiusi triangolari, che ricorda le coeve fibule alveolate, mentre un secondo presenta ovali longitudinali, assimilati a grandi foglie d'acqua, che sembrano derivare dalle fibule "a cicala", usate in tutta l'oreficeria barbarica da modelli forse orientali. Forse in antico erano ricoperti da paste vitree o grosse pietre colorate, che avrebbero dato un aspetto più maestoso ed aggraziato.
+
+Di matrice bizantina furono i capitelli con motivi vegetali e geometrici stilizzati, creati con un ampio uso del trapano che creava un forte chiaroscuro (come nella chiesa dei Santi Sergio e Bacco a Costantinopoli o alla chiesa di San Vitale a Ravenna). In quel contesto tornò ad esser diffuso anche il pulvino.
+Risale all'epoca romanica la diffusione di capitelli figurati, con o senza un parziale schema classico (ad esempio una prima fila di foglie d'acanto nella fascia inferiore). Spesso si trattava di soggetti religiosi o, più raramente e in epoca più tarda, testine, allegorie con animali, ecc. Tra gli esempi più pregiati ci furono i capitelli del dembulatorio dell'abbazia di Cluny (Cluny III, ante 1095). Vi era raffigurato una sorta di compendio del sapere medievale, con vari soggetti: un capitello corinzio (che dimostra una notevole comprensione dell'arte antica), uno con atleti, uno con un apicoltore, una serie con le virtù teologali e cardinali, uno con una raffigurazione della Primavera, uno dell'Estate, uno con i Fiumi del Paradiso (allegoria dei quattro vangeli) e una serie con gli otto toni del canto gregoriano. La grande varietà di temi era bilanciata anche dalla notevole varietà degli schemi entro i quali erano scolpite le raffigurazioni: si va dalle mandorle con figure intere di personaggi, ad altri dove l'istoriazione non ha soluzione di continuità.
+Tipico dei capitelli figurati era la resa di effetti particolari sugli angoli, come le teste di animali dalle quali si dipanavano due corpi (uno a destra, uno a sinistra): ma più che di "mostri" si trattava di interpretazioni prospettiche dello spazio, con un'ideale dilatazione del volume fino a comprendere più punti di vista del medesimo soggetto.
+
+
+== Note ==
+
+
+== Voci correlate ==
+Ordini architettonici
+Colonna
+Peduccio
+Trabeazione
+Sistema trilitico
+
+
+== Altri progetti ==
+
+ Wikizionario contiene il lemma di dizionario «capitello»
+ Wikimedia Commons contiene immagini o altri file su capitello
+
+
+== Collegamenti esterni ==
+Bibliografia sui capitelli nell'architettura romana sul sito DecArch.it
+Capitello, in Tesauro del Nuovo soggettario, BNCF, marzo 2013.

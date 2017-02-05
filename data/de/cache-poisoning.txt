@@ -1,0 +1,116 @@
+DNS-Spoofing oder Cache Poisoning ist ein IT-Sicherheitsangriff auf das Domain Name System, um die Zuordnung zwischen einem Domainnamen und der zugehörigen IP-Adresse zu fälschen. Der Zweck ist es, Datenverkehr unbemerkt zu einem anderen Computer zu lenken, zum Beispiel um einen Phishing- oder Pharming-Angriff durchzuführen. Wird der Datenverkehr auf ein nicht erreichbares Ziel gelenkt, kann hiermit ein Denial-of-Service-Angriff durchgeführt werden.
+Die Begriffe DNS-Spoofing und Cache Poisoning entspringen unterschiedlichen Angriffsmethoden, verfolgen jedoch denselben Zweck. Cache Poisoning (deutsch Temporärspeichervergiftung) bezeichnet Angriffe, bei denen gefälschte Resource Records in den DNS-Cache des Opfers eingeschleust werden. DNS-Spoofing bezeichnet Angriffe, bei denen mittels IP-Spoofing gefälschte Resource Records gesendet werden. Ein verwandter Angriff ist DNS-Hijacking, bei dem ein DNS-Resolver falsche Antworten zurückgibt.
+
+
+== Angriff über zusätzliche Daten ==
+Eine historische Cache-Poisoning-Angriffsmethode ist das Hinzufügen von zusätzlichen, gefälschten DNS-Einträgen in legitime DNS-Antworten. Übernimmt der Anfragende ungeprüft Resource Records aus der Antwort, so können ihm gefälschte Resource Records für beliebige Domainnamen in den DNS-Cache eingespeist werden.
+
+
+=== Funktionsweise ===
+Im öffentlichen DNS sind einzelne DNS-Server nur für Teilbereiche des gesamten DNS autoritativ. Bekommt ein DNS-Server eine Anfrage für einen Bereich, in dem er nicht autoritativ ist, kann er die Anfrage an den nächsten DNS-Server weiterleiten. Um unnötige Last zu vermeiden, können DNS-Server die Antworten anderer Server auf Anfragen lokal in einem Cache speichern. In diesem Fall könnte die Weiterleitung der oben genannten Anfrage an einen weiteren Server wegfallen und sofort eine Antwort gesendet werden. Ein DNS-Teilnehmer, der an einen Nameserver eine Anfrage sendet, übernimmt die erhaltene Antwort ungeprüft eine vorgegebene Zeit lang in seinen Cache. Neben der eigentlichen Antwort werden oft auch zusätzliche (legitime) Daten (Glue Records) übermittelt, die ebenfalls im Cache gespeichert werden. Das Cache Poisoning beruht darauf, in diesen zusätzlichen Daten ein oder mehrere gefälschte Resource Records zu verstecken.
+Genauer formuliert: In der Authority Section des Antwortpakets wird der umzuleitende Name (zum Beispiel de.wikipedia.org) als angeblicher DNS-Server eingetragen und in der Additional Section die IP-Adresse (zum Beispiel 1.2.3.4) eines vom Angreifer kontrollierten Servers.
+
+
+=== Ablaufbeispiel ===
+Ein Angreifer bringt den Nameserver XX unter seine Kontrolle. Er manipuliert diesen derart, dass jedes Mal, wenn nach einem Namen aus der Domain example.com gefragt wird, ungefragt der gefälschte Record de.wikipedia.org 192.0.2.1 mitgeliefert wird.
+Der öffentliche Nameserver YY möchte den Namen test.example.com auflösen. Er sendet eine entsprechende Anfrage an den zuständigen (vom Angreifer kontrollierten) Nameserver XX. Dieser manipulierte Nameserver antwortet mit der korrekten IP-Adresse, liefert aber zusätzlich den gefälschten Record de.wikipedia.org 192.0.2.1 mit. Dieser wird vom anfragenden Server YY ungeprüft in den Cache übernommen.
+Zu einem späteren Zeitpunkt versucht ein User, den Namen de.wikipedia.org aufzulösen und wendet sich an den öffentlichen Nameserver YY. Der Nameserver findet den (gefälschten) Record in seinem Cache und sendet dem User gutgläubig die IP-Adresse 192.0.2.1 zurück.
+Der User möchte auf de.wikipedia.org zugreifen, wird aber – für ihn nicht erkennbar – auf eine falsche Web-Seite mit der IP-Adresse 192.0.2.1 geleitet.
+
+
+=== Problembehebung ===
+Die Sicherheitslücke wurde beim BIND-Nameserver im Juni 1997 behoben, indem ungefragt mitgelieferte Resource Records ignoriert werden. Akzeptiert werden nur Resource Records aus der tatsächlich angefragten Domain (in-bailiwick; deutsch im Verwaltungsbezirk). Alle heute gebräuchlichen Nameserver führen diese Prüfung vor der Übernahme in den Cache durch.
+Kurz nach Bekanntwerden der Lücke führte Eugene Kashpureff einen großflächigen Cache-Poisoning-Angriff gegen noch anfällige BIND-Nameserver durch, für den er später zu einer Bewährungsstrafe verurteilt wurde.
+
+
+== DNS-Spoofing ==
+Beim DNS-Spoofing sendet der Angreifer gefälschte DNS-Antworten, die mittels IP-Spoofing vorgeblich vom zuständigen Nameserver stammen. Damit der Angriff erfolgreich ist, muss die gefälschte Antwort entweder vor der legitimen Antwort beim angegriffenen Resolver eintreffen, oder der zuständige Nameserver wird durch einen Denial-of-Service-Angriff daran gehindert eine Antwort zu senden. Des Weiteren müssen die Parameter der Antwort zu der Anfrage passen, unter anderem die 16 Bit lange Transaktionsnummer. Befindet sich der Angreifer im lokalen Rechnernetz, kann er die Transaktionsnummer mit einem Sniffer im Netz beobachten. Andernfalls muss die Transaktionsnummer erraten werden, wozu im Durchschnitt 
+  
+    
+      
+        
+          
+            
+              
+                2
+                
+                  16
+                
+              
+              2
+            
+          
+          =
+          32.768
+        
+      
+    
+    {\displaystyle \textstyle {\frac {2^{16}}{2}}=32.768}
+   Versuche notwendig sind. Der Angreifer kann mehrere gefälschte Antworten gleichzeitig senden, um die Erfolgswahrscheinlichkeit bei einem Angriffsversuch zu erhöhen, was jedoch den Ressourcenaufwand erhöht.
+Durch verschiedene Schwachstellen kann die Transaktionsnummer einfacher erraten werden. Bei BIND 8 war der Pseudozufallszahlengenerator unsicher, sodass die Transaktionsnummer mit geringem Aufwand vorhergesagt werden konnte. Sendet der angegriffene Resolver eine identische DNS-Anfrage mehrfach mit verschiedenen Transaktionsnummern, erhöht sich die Erfolgswahrscheinlichkeit aufgrund des Geburtstagsparadoxons erheblich.
+War der Angriff nicht erfolgreich, befindet sich der korrekte Resource Record im Cache, sodass der Angreifer erst nach Ablauf der Time to Live einen erneuten Versuch unternehmen kann.
+
+
+== Kaminsky-Angriff ==
+Im Juli 2008 stellte Dan Kaminsky eine Angriffsvariante vor, die das oben beschriebene Caching gültiger Antworten umgeht und damit den Zeitaufwand erheblich reduziert. Durch Abfrage von nicht existierenden Domainnamen kann ein Fälschungsversuch beliebige Male wiederholt werden, wenn in einer Menge von gefälschten Antwortpaketen nicht die richtige Transaktionsnummer erraten wurde. Die gefälschte Antwort enthält eine Delegation bestehend aus einem NS Resource Record und einem Glue Record, der auf einen Host des Angreifers zeigt. So wird erreicht, dass untergeschobene Glue Records in-bailiwick sind und die gesamte Domain auf den Angreifer umgebogen wird.
+
+
+== Internetzensur ==
+In verschiedenen Ländern wird DNS-Spoofing zur Zensur im Internet verwendet. Geben DNS-Resolver gefälschte Antworten zurück, so spricht man auch von DNS-Hijacking. Dies war die vorgesehene Methode für das diskutierte Zugangserschwerungsgesetz zur Sperrung von Webseiten in Deutschland.
+Einen Man-in-the-middle-Angriff durch einen Netzbetreiber nennt man auch DNS-Injection. Der Netzbetreiber liest per Deep Packet Inspection die Domainnamen aus allen DNS-Anfragen aus und vergleicht diese gegen eine Sperrliste. Ist der Domainname gesperrt, wird per DNS-Spoofing eine gefälschte DNS-Antwort an den Absender gesendet. Da bei dieser Methode sämtliche DNS-Anfragen im Netz begutachtet werden, funktioniert die Sperrung auch dann, wenn der Nutzer nicht die DNS-Server des Netzbetreibers verwendet.
+DNS-Injection wird in der Volksrepublik China im Rahmen des Projektes Goldener Schild angewandt. Hierbei können auch Dritte aus anderen Ländern gefälschte Antworten erhalten, wenn deren DNS-Anfrage durch chinesische Netze geleitet wird.
+
+
+== Schutzmaßnahmen ==
+Maßnahmen zum Schutz gegen DNS-Spoofing zielen entweder darauf ab, mehr zufällige Informationen in die DNS-Nachricht aufzunehmen, die der Angreifer erraten muss, oder die Nachricht mit kryptographischen Verfahren zu schützen.
+
+
+=== Zufällige Informationen ===
+Seit Bekanntwerden des Kaminsky-Angriffs setzen alle gebräuchlichen Nameserver Source Port Randomization ein (djbdns und PowerDNS schon zuvor ). Hierbei wird neben der Transaktionsnummer auch der Quellport einer DNS-Anfrage im UDP-Header zufällig gewählt. Je nach Implementation ergeben sich hierdurch weitere etwa 11–16 Bit, die der Angreifer ebenfalls richtig erraten muss. Demnach sind bei voller Ausschöpfung der möglichen Ports im Durchschnitt 
+  
+    
+      
+        
+          
+            
+              
+                
+                  2
+                  
+                    16
+                  
+                
+                ⋅
+                
+                  2
+                  
+                    16
+                  
+                
+              
+              2
+            
+          
+          =
+          2.147.483.648
+        
+      
+    
+    {\displaystyle \textstyle {\frac {2^{16}\cdot 2^{16}}{2}}=2.147.483.648}
+   Versuche notwendig.
+Eine weitere Methode ist 0x20-Bit Encoding, bei der Buchstaben im angefragten Domainnamen zufällig in Groß- und Kleinbuchstaben gesetzt werden, zum Beispiel dE.WiKiPedia.ORG. Bei der Namensauflösung sind Groß- und Kleinbuchstaben grundsätzlich äquivalent, wobei laut RFC 1034 die Schreibweise bei der Antwort dem Anfragenamen entsprechen soll. Die Länge des zusätzlichen Zufalls hängt von der Anzahl Buchstaben im Domainnamen ab, im Beispiel de.wikipedia.org sind es 14 Bit.
+Die genannten Verfahren haben gemein, dass das Nachrichtenformat nicht angepasst werden muss und die Verfahren daher mit der bestehenden DNS-Infrastruktur weitgehend kompatibel sind. DNS-Spoofing ist prinzipiell weiterhin durchführbar, aber durch den vergrößerten Raum der zu erratenden Parameter sinkt die Erfolgswahrscheinlichkeit eines entfernten Angreifers. Keines der Verfahren zur Erhöhung der Zufälligkeit schützt vor einem Angreifer, der die DNS-Anfrage mitlesen kann (on-path attacker).
+
+
+=== Kryptographische Verfahren ===
+Eine andere Kategorie von Schutzmaßnahmen besteht darin, das DNS-Nachrichtenformat um digitale Signaturen oder Message Authentication Codes zu erweitern, die mit kryptographischen Verfahren erzeugt und überprüft werden. Ein Angreifer kann zwar gefälschte DNS-Antworten erzeugen, ohne Kenntnis des geheimen Schlüssels jedoch keine dazu passende Signatur erzeugen.
+Ein bekanntes Verfahren ist DNSSEC, bei dem Resource Records mit asymmetrischen Kryptosystemen signiert werden. DNSSEC wird zum Teil in der Praxis eingesetzt, der Großteil des DNS-Internetverkehrs ist jedoch nicht damit geschützt.
+Ein zu DNSSEC alternatives Verfahren ist DNSCurve, bei dem nicht Resource Records, sondern der Kommunikationskanal zwischen Resolver und Nameserver kryptographisch geschützt wird. Es setzt eine Kombination aus asymmetrischen und symmetrischen Kryptosystemen ein. Eine Adaption von DNSCurve ist DNSCrypt, das OpenDNS zur Sicherung der Kommunikation zwischen Endnutzer und Resolver einsetzt.
+TSIG sichert ähnlich wie DNSCurve oder DNSCrypt die Kommunikation zwischen zwei DNS-Teilnehmern. Es verwendet hierzu HMAC mit symmetrischen Schlüsseln, die händisch konfiguriert werden müssen.
+
+
+== Weblinks ==
+Steve Friedl: An Illustrated Guide to the Kaminsky DNS Vulnerability, 7. August 2008.
+
+
+== Einzelnachweise ==

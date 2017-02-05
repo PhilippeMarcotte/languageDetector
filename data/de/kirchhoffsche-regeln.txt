@@ -1,0 +1,777 @@
+Die kirchhoffschen Regeln werden im Rahmen der elektrischen Schaltungstechnik bei der Netzwerkanalyse verwendet. Sie unterteilen sich in zwei grundlegende und zusammenhängende Sätze, den Knotenpunktsatz und den Maschensatz, und beschreiben jeweils den Zusammenhang zwischen mehreren elektrischen Strömen und zwischen mehreren elektrischen Spannungen in elektrischen Netzwerken. Sie wurden erstmals 1845 von Gustav Robert Kirchhoff formuliert, welcher auch Namensgeber der kirchhoffschen Strahlungsgesetze ist.
+
+
+== Der Knotenpunktsatz (Knotenregel) ==
+– 1. Kirchhoffsches Gesetz
+In einem Knotenpunkt eines elektrischen Netzwerkes ist die Summe der zufließenden Ströme gleich der Summe der abfließenden Ströme.
+Bepfeilt man alle anliegenden Zweigströme so, dass alle zugehörigen Pfeile zum Knoten hin oder alle zugehörigen Pfeile vom Knoten weg zeigen, so kann man den Knotenpunktsatz für einen Knoten mit n Zweigströmen folgendermaßen aufschreiben:
+
+  
+    
+      
+        
+          ∑
+          
+            k
+            =
+            1
+          
+          
+            n
+          
+        
+        
+          
+            I
+          
+          
+            k
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle \sum _{k=1}^{n}{I}_{k}=0}
+  .
+Diese Regel gilt zunächst für Gleichstromnetzwerke.
+Für Wechselstromnetzwerke gilt sie unter der Bedingung, dass man nur konzentrierte Bauelemente verwendet und somit beispielsweise Ladungsspeicherungseffekte in den Knoten und Leitungen aufgrund der dort vorhandenen Kapazitäten ausbleiben.
+Anstelle der Zeitwerte kann man auch die Zeigerdarstellung des Stroms betrachten:
+
+  
+    
+      
+        
+          ∑
+          
+            k
+            =
+            1
+          
+          
+            n
+          
+        
+        
+          
+            
+              I
+              _
+            
+          
+          
+            k
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle \sum _{k=1}^{n}{\underline {I}}_{k}=0}
+  .
+Für ein Netzwerk mit 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   Knoten lassen sich 
+  
+    
+      
+        (
+        n
+        −
+        1
+        )
+      
+    
+    {\displaystyle (n-1)}
+   linear unabhängige Knotengleichungen aufstellen.
+
+
+=== Erweiterung ===
+Sofern man von konzentrierten Bauelementen ausgeht, gilt die Knotenregel nicht nur für einzelne Knoten, sondern auch für ganze Schaltungen. Allerdings wird davon ausgegangen, dass der Knoten elektrisch neutral bleibt. Möchte man z. B. nur eine Kondensatorplatte betrachten (und nicht den ganzen Kondensator), ist diese Forderung nicht mehr erfüllt. Man müsste die Betrachtung in diesem Fall um den sogenannten Verschiebungsstrom, der zwischen den Kondensatorplatten fließt, erweitern. Zur Beschreibung dieser nicht mehr quellenfreien Felder muss das ampèresche Gesetz benutzt werden.
+
+
+=== Beispiel eines Knotens ===
+
+Wie auf dem Bild zu erkennen ist, fließen die Ströme I1 und I3 in den Knoten hinein und die Ströme I2, I4 und I5 aus dem Knoten heraus. Nach der Knotenregel ergibt sich folgende Formel:
+
+  
+    
+      
+        
+        (
+        
+          I
+          
+            1
+          
+        
+        +
+        
+          I
+          
+            3
+          
+        
+        )
+        −
+        (
+        
+          I
+          
+            2
+          
+        
+        +
+        
+          I
+          
+            4
+          
+        
+        +
+        
+          I
+          
+            5
+          
+        
+        )
+        =
+        0
+      
+    
+    {\displaystyle \,(I_{1}+I_{3})-(I_{2}+I_{4}+I_{5})=0}
+  
+oder umgeformt
+
+  
+    
+      
+        
+        
+          I
+          
+            1
+          
+        
+        +
+        
+          I
+          
+            3
+          
+        
+        =
+        
+          I
+          
+            2
+          
+        
+        +
+        
+          I
+          
+            4
+          
+        
+        +
+        
+          I
+          
+            5
+          
+        
+      
+    
+    {\displaystyle \,I_{1}+I_{3}=I_{2}+I_{4}+I_{5}}
+  .
+
+
+=== Beispiel eines Netzwerkknotens ===
+
+Auch ganze Netzwerke können als Knoten angesehen werden. Im Beispiel fließen die Wechselströme I1 und I2 in den Knoten hinein und der Strom I3 aus dem Knoten heraus.
+Es gilt also:
+
+  
+    
+      
+        
+          
+            
+              I
+              _
+            
+          
+          
+            1
+          
+        
+        +
+        
+          
+            
+              I
+              _
+            
+          
+          
+            2
+          
+        
+        −
+        
+          
+            
+              I
+              _
+            
+          
+          
+            3
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle {\underline {I}}_{1}+{\underline {I}}_{2}-{\underline {I}}_{3}=0}
+  .
+Sind für die zufließenden Ströme folgende komplexe Effektivwerte gegeben (mit der in der Elektrotechnik üblichen imaginären Einheit j):
+
+  
+    
+      
+        
+          
+            
+              I
+              _
+            
+          
+          
+            1
+          
+        
+        =
+        
+          3
+          
+          A
+          ⋅
+          
+            e
+            
+              j
+              ⋅
+              
+                15
+                
+                  ∘
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\underline {I}}_{1}=\mathrm {3\,A\cdot e^{j\cdot 15^{\circ }}} }
+  
+
+  
+    
+      
+        
+          
+            
+              I
+              _
+            
+          
+          
+            2
+          
+        
+        =
+        
+          1
+          
+          A
+          ⋅
+          
+            e
+            
+              −
+              j
+              ⋅
+              
+                35
+                
+                  ∘
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\underline {I}}_{2}=\mathrm {1\,A\cdot e^{-j\cdot 35^{\circ }}} }
+  .
+So ergibt sich für den abfließenden Strom aus der Knotenregel:
+
+  
+    
+      
+        
+          
+            
+              I
+              _
+            
+          
+          
+            3
+          
+        
+        =
+        
+          
+            
+              I
+              _
+            
+          
+          
+            1
+          
+        
+        +
+        
+          
+            
+              I
+              _
+            
+          
+          
+            2
+          
+        
+        =
+        
+          3
+          
+          A
+          ⋅
+          
+            e
+            
+              j
+              ⋅
+              
+                15
+                
+                  ∘
+                
+              
+            
+          
+          +
+          1
+          
+          A
+          ⋅
+          
+            e
+            
+              −
+              j
+              ⋅
+              
+                35
+                
+                  ∘
+                
+              
+            
+          
+          ≈
+          3
+          
+            ,
+          
+          73
+          
+          A
+          ⋅
+          
+            e
+            
+              j
+              ⋅
+              3
+              
+                ,
+              
+              
+                12
+                
+                  ∘
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\underline {I}}_{3}={\underline {I}}_{1}+{\underline {I}}_{2}=\mathrm {3\,A\cdot e^{j\cdot 15^{\circ }}+1\,A\cdot e^{-j\cdot 35^{\circ }}\approx 3{,}73\,A\cdot e^{j\cdot 3{,}12^{\circ }}} }
+  .
+
+
+== Der Maschensatz (Maschenregel) – 2. Kirchhoffsches Gesetz ==
+
+Alle Teilspannungen eines Umlaufs bzw. einer Masche in einem elektrischen Netzwerk addieren sich zu null. Die Richtung des Umlaufes kann beliebig gewählt werden; sie legt dann aber die Vorzeichen der Teilspannungen fest. Soweit Pfeile entgegen der Umlaufrichtung zeigen, sind die Spannungen mit umgekehrten Vorzeichen einzusetzen.
+In einem Umlauf mit n Teilspannungen eines elektrischen Netzes gilt folgende Formel:
+
+  
+    
+      
+        
+          ∑
+          
+            k
+            =
+            1
+          
+          
+            n
+          
+        
+        
+          U
+          
+            k
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle \sum _{k=1}^{n}U_{k}=0}
+  .
+Auch diese Regel gilt für beliebig zeitlich abhängige Ströme und für Netzwerke mit nichtlinearen Bauelementen.
+In Wechselstromnetzwerken kann die Summe der komplexen Effektivwerte oder komplexen Amplituden der Spannung betrachtet werden:
+
+  
+    
+      
+        
+          ∑
+          
+            k
+            =
+            1
+          
+          
+            n
+          
+        
+        
+          
+            
+              U
+              _
+            
+          
+          
+            k
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle \sum _{k=1}^{n}{\underline {U}}_{k}=0}
+  .
+Die Maschengleichung gilt in diesem Fall jedoch nur für die Klemmenspannungen. Die Spannungen in den Bauelementen selbst (beispielsweise entlang des Spulendrahtes) werden durch die Maschengleichung nicht richtig erfasst.
+Ein Netzwerk mit z Zweigen und n unabhängigen Knotengleichungen hat (z - n) unabhängige Maschengleichungen.
+Die Maschenregel ist ein Spezialfall des Induktionsgesetzes und darf nur bei Abwesenheit zeitlich sich ändernder magnetischer Flüsse angewandt werden.
+
+
+== Hintergrund ==
+
+Beide kirchhoffschen Regeln sind Schlussfolgerungen aus physikalischen Erhaltungssätzen, der 1. und 3. maxwellschen Gleichung:
+Die Knotenpunktregel beschreibt die Erhaltung der elektrischen Ladung und sagt aus, dass in den Knoten weder Ladungen vernichtet noch zwischengespeichert werden.
+Die Maschenregel beschreibt die Erhaltung der elektrischen Energie in der Elektrostatik. Darin gilt, dass eine Ladung Q bei einem einmaligen Umlauf des Stromkreises insgesamt keine Arbeit am elektrischen Feld verrichtet. So bewegen sich in dem nebenstehenden einfachen Stromkreis die Ladungen innerhalb des Widerstandes mit dem elektrischen Feld, und innerhalb der Spannungsquelle bewegen sie sich dem Feld entgegen.
+Die Maschenregel ist formal eine Schlussfolgerung aus dem Induktionsgesetz. Sie gilt nur für den Fall, dass innerhalb der Masche keine Änderung des magnetischen Flusses erfolgt (
+  
+    
+      
+        
+          d
+        
+        Φ
+        
+          /
+        
+        
+          d
+        
+        t
+        =
+        0
+      
+    
+    {\displaystyle \mathrm {d} \Phi /\mathrm {d} t=0}
+  ) und somit auch auf magnetischem Weg keine Energie in das Netzwerk eingespeist oder von dort entnommen wird. Bei Abwesenheit von magnetischen Wechselfeldern liefert das Induktionsgesetz
+
+  
+    
+      
+        ∮
+        E
+        
+        
+          d
+        
+        s
+        =
+        −
+        
+          
+            
+              
+                d
+              
+              Φ
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle \oint E\,\mathrm {d} s=-{\frac {\mathrm {d} \Phi }{\mathrm {d} t}}=0}
+  ,
+was exakt der Aussage der Maschenregel entspricht. Der Ausdruck 
+  
+    
+      
+        ∮
+        E
+        
+        
+          d
+        
+        s
+      
+    
+    {\displaystyle \oint E\,\mathrm {d} s}
+   bezeichnet dabei die Umlaufspannung.
+Bei der Anwendung der kirchhoffschen Gleichungen ist allgemein zu beachten, dass alle Verbindungen zwischen den einzelnen Stromkreiselementen als ideal leitend vorausgesetzt werden. Außerdem werden die Bauelemente als konzentrierte Bauelemente angesehen. Konzentrierte Bauelemente lassen sich in ihrem elektrischen Verhalten vollständig durch die an den Anschlüssen fließenden Ströme und außen anliegenden Spannungen beschreiben. Sollten in der zu untersuchenden Schaltung nicht konzentrierte Bauelemente vorkommen, so müssen diese durch Ersatzschaltungen konzentrierter Stromkreiselemente ersetzt werden.
+Für praktische Anwendungen wurde die Darstellung der allgemeinen kirchhoffschen Regeln verschiedenartig modifiziert. So beschreibt unter anderem der im englischsprachigen Raum gebräuchliche Satz von Millman ein auf den kirchhoffschen Regeln basierendes Verfahren, um die Summenspannung von mehreren parallel geschalteten Spannungs- und Stromquellen zu ermitteln.
+
+
+== Häufiges Missverständnis ==
+Ein gelegentlich auch in wissenschaftlicher Literatur anzutreffendes Missverständnis geht davon aus, dass die kirchhoffsche Maschenregel zur Erklärung von Induktionsvorgängen, also stark zeitabhängigen Situationen, verwendet werden kann. Im Zusammenhang mit den Vorgängen der Selbstinduktion an einem unbelasteten Transformator:
+
+Die zugrundeliegende Vorstellung geht dabei von zwei Fehlannahmen aus:
+dass sich Induktionsvorgänge in Spulen durch eine in der Spule befindliche Spannungsquelle erklären lassen und
+dass in Spulen mit wechselnden Magnetfeldern die kirchhoffsche Maschenregel gültig ist.
+
+Tatsächlich ist die kirchhoffsche Maschenregel für Induktionsvorgänge nicht gültig, da sie gerade unter der Voraussetzung hergeleitet wurde, dass die vorhandenen magnetischen Flüsse zeitlich konstant sind und keine Energie zum Feldaufbau verwendet wird (konservatives Feld).
+Grundlage der Maschenregel und des Induktionsgesetzes ist die summierte Spannung entlang einer Leiterschleife/Masche, also dem geschlossenen Wegintegral entlang der Masche über die elektrische Feldstärke. Ohne zeitlich ändernden magnetischen Fluss ist das gleich Null und man kommt zu obiger Maschenregel. Betrachtet man allerdings die abgebildete Spule aus ideal leitendem Draht, deren Enden aber mit einem ohmschen Widerstand der Größe 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+   verbunden sind und durch die sich der magnetische Fluss 
+  
+    
+      
+        Φ
+        (
+        t
+        )
+      
+    
+    {\displaystyle \Phi (t)}
+   zeitlich ändert, so erhält man
+
+  
+    
+      
+        ∮
+        
+          
+            
+              E
+              →
+            
+          
+        
+        (
+        t
+        )
+        ⋅
+        
+          d
+        
+        
+          
+            
+              s
+              →
+            
+          
+        
+        =
+        −
+        
+          
+            
+              
+                d
+              
+              Φ
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        =
+        U
+        (
+        t
+        )
+        =
+        R
+        ⋅
+        I
+        (
+        t
+        )
+      
+    
+    {\displaystyle \oint {\vec {E}}(t)\cdot \mathrm {d} {\vec {s}}=-{\frac {\mathrm {d} \Phi }{\mathrm {d} t}}=U(t)=R\cdot I(t)}
+  .
+(Hinweis: Anders als in der Physik, sind in der Elektrotechnik für zeitabhängige Spannungen und Ströme Kleinbuchstaben als Formelzeichen üblich 
+  
+    
+      
+        u
+        (
+        t
+        )
+      
+    
+    {\displaystyle u(t)}
+   und 
+  
+    
+      
+        i
+        (
+        t
+        )
+      
+    
+    {\displaystyle i(t)}
+  .)
+Man erhält einen Spannungswert 
+  
+    
+      
+        U
+        (
+        t
+        )
+      
+    
+    {\displaystyle U(t)}
+  , dessen Ursache die Induktion 
+  
+    
+      
+        
+          
+            
+              Φ
+              ˙
+            
+          
+        
+      
+    
+    {\displaystyle {\dot {\Phi }}}
+   ist, der aber nur am ohmschen Widerstand 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+   abfällt und zu einem Strom der Stärke 
+  
+    
+      
+        I
+        (
+        t
+        )
+      
+    
+    {\displaystyle I(t)}
+   führt, denn nur dort herrscht ein elektrisches Feld. Der Rest des Integrationsweges liegt in einem metallischen Leiter. Dort kann man annehmen, dass 
+  
+    
+      
+        
+          
+            
+              E
+              →
+            
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle {\vec {E}}=0}
+   gilt (falls der ohmsche Widerstand viel größer als der Leitungswiderstand der Spule ist, was meistens gegeben ist).
+Die Tatsache, dass an den Anschlüssen einer Spule, oder eines Wechselstromgenerators, im Leerlauf eine Spannung auftritt, wird verwendet um diese wie eine Batterie im Gleichstromfall zu behandeln. Dabei handelt es sich um die oben erwähnte Fehlvorstellung. Im Gegensatz zum Draht einer Spule, herrscht im Inneren einer Batterie ein entsprechendes elektrisches Feld, das bei vergleichbarer Integration entlang einer Masche den entsprechenden Gegenwert zur Spannung an den anderen elektrischen Bauteilen liefert.
+In der Netzwerktheorie werden die genannten fehlerhaften Annahmen trotzdem häufig zur Berechnung von Netzwerken mit Spulen verwendet. Das ist deshalb zulässig, weil sich die beiden Fehlannahmen „In der Spule existiert eine Spannungsquelle“ und „Bei Induktion ist die Anwendung der Maschenregel gültig“ weitgehend gegeneinander aufheben und außerhalb der Spulenwindungen zur korrekten Berechnung von Strömen und Spannungen führen. Es handelt sich also um eine klemmenäquivalente Modellierung der Induktion mithilfe eines Netzwerkmodells. Der Vorteil dieser Modellierung besteht darin, dass bei der Berechnung der Netzwerke die üblichen Berechnungsverfahren für Gleichstromnetzwerke, also Maschen- und Knotengleichung, verwendet werden können. Es handelt sich also um ein pragmatisches Modell, das dazu dient elektrotechnische Berechnungen sinnvoll zu vereinfachen. Es widerspricht allerdings der physikalischen Erklärung der Maschenregel und der Induktion.
+
+
+== Literatur ==
+Karl Küpfmüller, Gerhard Kohn: Theoretische Elektrotechnik und Elektronik. 14. Auflage. Springer, 1993, ISBN 3-540-56500-0. 
+Gustav Robert Kirchhoff: Ueber den Durchgang eines elektrischen Stromes durch eine Ebene, insbesondere durch eine kreisförmige. In: Annalen der Physik und Chemie. Band LXIV, 1845, S. 497–514 (Gallica). 
+
+
+== Weblinks ==
+
+Kirchhoff – Gesetze auf Schülerniveau (LEIFI)
+elektronik-kompendium
+wisc-online (englisch)
+facstaff.bucknell (englisch)

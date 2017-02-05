@@ -1,0 +1,7 @@
+In termodinamica viene definito processo endotermico una trasformazione che comporta un aumento di entalpia del sistema e dunque un trasferimento di calore dall'ambiente al sistema stesso. Adottando il criterio egoistico, che prende in riferimento il sistema, la variazione di entalpia ΔH assume valore positivo. In riferimento invece alla notazione mista, il ΔH, rappresentando energia ceduta dall'ambiente, assume valore negativo.
+In una reazione endotermica in equilibrio chimico, aumentando la temperatura si sposta tale equilibrio verso il senso dei prodotti.
+
+
+== Voci correlate ==
+Processo esotermico
+Processo termoneutrale

@@ -1,0 +1,24 @@
+Die Samsung Galaxy Tab S-Serie ist eine im Sommer 2014 eingeführte Reihe von Tablet-Computern des südkoreanischen Konzerns Samsung mit dem Android-Betriebssystem und mit Super-AMOLED-Displays. Die zwei Größenvarianten (8,4 Zoll und 10,5 Zoll) werden als WiFi- oder LTE-Version mit verschieden großen Speichervarianten ausgeliefert.
+
+
+== Ausstattung ==
+
+Die Super-AMOLED-Displays der Tablets verfügen über eine Auflösung von 2560 × 1600 Pixel (WQXGA). Farbspektrum, Schärfe und Kontrast können in den Einstellungen manuell angepasst werden. Dies geschieht zudem automatisch, wenn sich der Nutzer in bestimmten Apps befindet und z. B. ein E-Book liest oder Fotos und Videos ansieht.
+Als Prozessor kommt ein SoC von Samsung zum Einsatz, der bei 1,9-GHz-Taktung acht Kerne betreibt. Diesem stehen 3 GB an Arbeitsspeicher zur Verfügung.
+Weitere (teilweise vom Galaxy S5 bekannte) Neuerungen der Galaxy-Tab-S-Serie sind der Fingerabdruckscanner, die Weiterleitung von Anrufen über Samsungs SideSync-3.0-Software, ein Kindermodus, der Eltern das Umschalten auf eine kindgerechte Nutzeroberfläche ermöglicht sowie ein Multi-Window-Modus, der das Öffnen mehrerer Anwendungen zur gleichen Zeit nebeneinander unterstützt und auch bei anderen Samsung-Tablets implementiert ist.
+
+
+== Produktprobleme ==
+Bei bestimmten Tablets der 8,4-Zoll-Variante kam es zu Verformungen der Rückseite kommen. Kunden gaben als Grund dafür eine ungewöhnliche Hitzeentwicklung an. Laut Samsung handelt es sich hierbei um einen Produktionsfehler, der nur eine geringe Anzahl an Geräten betrifft. Das Problem soll aber weder an einer Überhitzung noch an dem verwendeten Material liegen. Betroffene Kunden sollen sich an den Samsung-Kundendienst wenden.
+
+
+== Siehe auch ==
+Samsung Galaxy Tab
+Samsung Galaxy Tab 10.1
+Samsung Galaxy Tab 10.1N
+Samsung Galaxy Tab 2 10.1
+Samsung Galaxy Tab 3 10.1
+Samsung Galaxy Tab 4 10.1
+
+
+== Einzelnachweise ==

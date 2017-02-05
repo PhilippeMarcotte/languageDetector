@@ -1,0 +1,17 @@
+Ballonwetterberichte sind Wetterberichte, die der meteorologischen Vorbereitung von Ballonfahrten dienen und vom Deutschen Wetterdienst bereitgestellt werden.
+Sie werden das gesamte Jahr über zweimal täglich, um 11.00 Uhr MESZ/MEZ und um 21:00 Uhr MESZ/MEZ aktualisiert und beinhalten folgende Informationen:
+Sonnenauf- und -untergang
+Wetterlage
+Wolken und Niederschlag
+Bodensicht
+Temperatur bei Sonnenaufgang, Tageshöchsttemperatur
+Thermik
+QNH
+Boden- und Höhenwinde in Richtung und Geschwindigkeit
+Sperrschichten
+Nullgradgrenze
+Hinweise und Warnungen
+Aussichten für den Abend/Morgen
+
+
+== Einzelnachweise ==

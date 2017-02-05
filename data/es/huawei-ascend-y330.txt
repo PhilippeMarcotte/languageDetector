@@ -1,0 +1,34 @@
+Huawei Ascend Y330 es un teléfono inteligente desarrollado por Huawei que salió a la venta en marzo de 2014. Su sistema operativo es Android versión 4.2 (Jelly Bean).
+
+
+== Características ==
+Según el mercado al cual está dirigido, Huawei ha presentado 4 modelos : Y330-U01 y Y330-U11, cuatribanda para redes 2G y adecuados para operadores que usan la norma 3G europea, Y330-U05 y Y330-U15 , cuatribanda para redes 2G y adecuados para la norma de 3G estadounidense. Los modelos de esta línea usan el chipset MediaTek MT6572 que incluye, en su interior un procesador doble núcleo 1.3 GHz Cortex-A7, el procesador gráfico Mali-400, modem para 3G, GPS, USB, Bluetooth 4.0 y WiFi.
+Las dimensiones son 12,21 x 6,35 x 1,13 cm con un peso aproximado de 126 gramos. La pantalla posee una resolución de 480 x 800 píxeles. También cuenta con una cámara principal de 3.15 Megapíxeles con una resolución de 2048 x 1536 píxeles. Como otros teléfonos inteligentes, posee conectividad Bluetooth, Wi-Fi, USB, DNLA, GPS, además de radio FM y conexión para auriculares mini-estéreo de 3,5 mm. El celular es provisto con una memoria interna de 4GB y que es ampliable hasta 32 GB mediante un módulo microSD.
+Se provee de fábrica con una memoria RAM de 512 MB.
+
+
+== Rendimiento del equipo ==
+El Y330 está provisto de una batería con tecnología de polímero de lítio de 1500 mAh permitiéndole un tiempo de espera mayor a 320 horas y en conversación de más de 5 horas.
+
+
+== Véase también ==
+Huawei Ascend G300
+Huawei Ascend D2
+Huawei Ascend G510
+Huawei Ascend G600
+Huawei Ascend Mate
+Huawei Ascend P1
+Huawei Ascend P2
+Huawei Ascend W1
+
+
+== Referencias ==
+
+
+== Bibliografía ==
+
+
+== Enlaces externos ==
+Manual del Usuario.
+Xacata movil.
+Formula Android.

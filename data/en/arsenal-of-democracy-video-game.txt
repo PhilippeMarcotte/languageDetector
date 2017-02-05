@@ -1,0 +1,28 @@
+Arsenal of Democracy, or AoD, is a grand strategy wargame that is based on Hearts of Iron II - Armageddon and its Europa engine. It is developed by BL-Logic, a development studio made up by fans of the Hearts of Iron series and active members of the modding community. It was announced on September 8, 2009 and released on February 23, 2010.
+As in other games in the grand strategy Hearts of Iron series, Arsenal of Democracy allows for the player take control of and manage nearly any World War II and early Cold War era nation-state including its political, diplomatic, espionage, economic, military, and technological aspects.
+
+
+== Gameplay ==
+The player can build land divisions, aircraft wings, and naval ships/fleets, and combine these into corps and armies. The player also has the ability to control the appointment of commanders of forces under their nation's flag or that of controlled nations as well as to control the appointment of individual government ministers and military commanders in key General Staff positions. The player also has a broader ability to control the heads of state and government; however, this option is only available to democracies and only then through elections, in which the player chooses the winner. The player can stage coups, declare war, annex territories and make alliances. The player can also alter the social and economic policies of their nation using sliders, such as democratic versus authoritarian, free market versus central planning and so on. Moving the sliders will result in different bonuses and penalties, allowing for a range of choices and strategies. Technological research is controlled by the player. All this is on a global scale, with the player simultaneously dealing and interacting with nations across the world. The game can be paused at any point.
+
+
+=== Changes from Hearts of Iron II - Armageddon ===
+Arsenal of Democracy maintains the general look and feel of the original game, but features a number of changes and improvements over its Armageddon 1.2 starting point. The purpose and end result of these changes was to make the game less management intensive, more user friendly, and, through improving the AI, more challenging. The changes were focused around the game's economy, production, combat and historical accuracy. There was an overhaul of the graphics and user interfaces. This impacted many systems including espionage, trade, and notifications. There are increased screen resolutions and a freely selectable window mode. Numerous mechanics were adjusted. The production and economic now give user significantly more control and had the result of making the AI more competitive when compared to the original Hearts of Iron II: Armageddon. The combat mechanics, including attrition algorithms, were completely reworked to better reflect realistic unit behavior and losses. The AI was modified to present more of a challenge to players and to adapt it to the new features in Arsenal of Democracy.
+These new features include a completely new supply system, logistics, national ideas (similar to the ones in the Europa Universalis series), an expanded technology system and four new battle scenarios. There were numerous smaller changes as well, and as with other Paradox Interactive games it is very modification friendly.
+
+
+== Development ==
+Arsenal of Democracy was first announced on September 8, 2009 on the official Paradox forums. The game became possible due to Paradox Interactive licensing the Europa engine to independent developers. It was developed by and for hardcore strategy gamers.
+
+
+== Expansion pack ==
+The Iron Cross expansion for Hearts of Iron II and Darkest Hour: A Hearts of Iron Game is also compatible with Arsenal of Democracy
+
+
+== References ==
+
+
+== External links ==
+Official website
+Paradox Plaza Game Page
+Official Arsenal of Democracy Forum

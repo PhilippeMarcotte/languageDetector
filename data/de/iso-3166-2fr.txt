@@ -1,0 +1,32 @@
+Die Liste der ISO-3166-2-Codes für Frankreich enthält die Codes für die
+22 Regionen (région métropolitaine),
+96 Départements (département métropolitain),
+5 Übersee-Regionen/Départements (région/département d’outre-mer),
+7 Übersee-Gebietskörperschaften (collectivité territoriale d’outre-mer) und
+1 abhängiges Gebiet (dépendance).
+Die Codes bestehen aus zwei Teilen, die durch einen Bindestrich voneinander getrennt sind. Der erste Teil gibt den Landescode gemäß ISO 3166-1 (für Frankreich FR), der zweite den Code für die Region, das Département, die Gebietskörperschaft oder das Gebiet wieder.
+Der aktuelle Landescode wurde im Newsletter II-3 vom 13. Dezember 2011 (PDF) zuletzt aktualisiert.
+Die Regionen erhalten einzelne Buchstaben und die Départements zweistellige Zahlen 01 bis 95, die der Nummerierung der Départements nach dem Alphabet entlehnt sind. Ausnahme bilden hier die Übersee-Regionen/Départements, sie erhielten wie die Übersee-Gebietskörperschaften zwei Buchstaben nach ihrem jeweiligen ISO-3166-1-Code. Die Bezeichnungen für die korsischen Départements (2A für Corse-du-Sud und 2B für Haute-Corse) erklären sich daraus, dass die beiden Départements zeitweise zu einem zusammengefasst waren, das die Nummer 20 trug.
+Alle Geocodes wurden am 11. September 1995 bereits von der Association française de normalisation (AFNOR) festgelegt und mit der ISO 1998 lediglich international standardisiert. Sie finden auch noch bei den Kfz-Kennzeichen Verwendung.
+
+
+== Änderungen ==
+Ein Schreibfehler, der das Département Deux-Sèvres einer falschen Region zugeordnet hatte, wurde im Mai 2002 berichtigt.
+Saint-Barthélemy und der nördliche Teil der Insel St. Martin, ehemals Gemeinden des Überseedépartements Guadeloupe, sind seit Februar 2007 Französische Überseegebiete und erhielten im November 2007 eigene Codes.
+Clipperton, ab Juni 1936 vom Hochkommissar in Französisch-Polynesien verwaltet, steht seit Februar 2007 unter direkter Verwaltung der französischen Regierung und erhielt im November 2007 einen eigenen Code.
+Bis Ende 2015 existierten im europäischen Teil Frankreichs statt der heutigen 13 noch 22 Regionen, die im Rahmen der Regionsfusionen am 1. Januar 2016 teilweise zusammengelegt wurden.
+
+
+== Regionen ==
+
+
+== Départements ==
+
+
+== Einzelnachweise ==
+
+
+== Siehe auch ==
+NUTS:FR (EU-Statistikregionen)
+ISO 3166-2, Referenztabelle der Ländercodes.
+ISO 3166-1, Referenztabelle der Ländercodes, wie sie in Domainnamen verwendet werden.

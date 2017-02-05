@@ -1,0 +1,17 @@
+Con il nome generale di moti nave sono indicati tutti i possibili atti di moto puri che una nave e più in generale un galleggiante può compiere rispetto al proprio riferimento solidale, detto riferimento nave. Essi sono:
+Traslazioni:
+avanzo, lungo l'asse longitudinale X
+deriva, lungo l'asse trasversale Y
+sussulto, lungo l'asse verticale Z
+
+Rotazioni:
+rollio, attorno all'asse longitudinale X
+beccheggio, attorno all'asse trasversale Y
+imbardata, attorno all'asse verticale Z
+
+I moti caratterizzati da una reversibilità naturale e dunque oscillatori sono rollio, beccheggio e sussulto. I moti invece non reversibili senza un intervento correttivo esterno sono avanzo, deriva e imbardata, che rappresentano infatti i tre moti la cui combinazione e il cui controllo definisce la rotta.
+
+
+== Voci correlate ==
+Navigazione stimata
+Pilotaggio degli aeroplani

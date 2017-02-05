@@ -1,0 +1,26 @@
+The GRiDPad was a touchscreen tablet manufactured for GRiD Systems Corporation by Samsung Corporation in 1989. It is regarded as the first tablet computer directed towards consumer use. Jeff Hawkins went on to use the GRiDPad as a predecessor for his best known-invention, the Palm Pilot.
+
+
+== Specifications ==
+The GRiDPad measured 9 x 12 x 1.4 inches and weighed 4.5 pounds. The main distinguishing aspect was its touch-screen interface with a stylus, a pen-like tool to aid with precision in a touchscreen device. The stylus was able to use hand writing recognition software. The GRiDPad also included these features:
+10 MHz 80C86 processor
+MS-DOS operating system – the popular operating system used by IBM PC-compatible personal computers
+A monochromatic Color Graphics Adapter (CGA) display resolution of 640x400
+256KB or 512KB battery-backed RAM cards
+1MB or 2MB of system memory
+One serial port, two ATA-FLASH slots, and an expansion bus connector
+Because of its use for inventory management, the United States Army specified more durable versions of the tablet made out of magnesium that were not sold to the general public. The US Army specially ordered magnesium because it is a strong yet light metal, making it ideal to be used in demanding environments.
+According to a patent submitted in 1992 by an engineer at GRiD Systems, the touch screen in the GRiDPad works by magnifying an internal Cartesian plane and calculating the displacement. Further patents by Jeff Hawkins describe flipping the screen orientation between landscape and portrait.
+
+
+== Reception ==
+Because of its text recognition interface, the GRiDPad was marketed toward specialist consumers who would use the tablet for bookkeeping. The GRiDPad was "designed to streamline the chores of workers such as route delivery drivers and claims adjusters, who typically recorded data on paper forms." Some of the agencies that used the GRiDPad included Chrysler, San Jose Police Department, and even the United States. The first commercial customer to use the GridPad and who contributed to the overall requirements was Best Foods Baking Group, a division of CPC International.
+The average selling price for one unit was US$2,370 without software, and $3,000 with software. It was so successful that it sold approximately $30 million in its best year.
+
+
+== Legacy ==
+Although the GriDPad had the same operating system as personal computers, it was not designed to be a replacement for computers. Hawkins once said "I never saw pen computers as a replacement for a full PC..." Although it did not replace computers, it did pave the way for other companies to invest more into tablet computers, eventually leading up to popular tablets such as those manufactured by Apple Inc., Microsoft, and Samsung, among others.
+Not only did the GRiDPad start paving the way for tablet computers, it also helped propel Jeff Hawkins' career. Hawkins used the same stylus technology to develop his most commercially successful product, the Palm Pilot, making the GRiDPad its predecessor.
+
+
+== References ==

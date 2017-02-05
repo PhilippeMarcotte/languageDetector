@@ -1,0 +1,26 @@
+BlackSpider Technologies Limited was a British software company founded in 2002 and subsequently acquired by SurfControl in July 2006.
+The Company provided cloud computing services for filtering email spam and other malware.
+
+
+== History ==
+BlackSpider was a start-up company founded in 2002 by John Cheney in Reading, Berkshire, UK.
+In January 2004 Casenove Private Equity invested £4.6m ($6.6m) in the business, allowing the organisation to grow into the French and German markets.
+In July 2006 SurfControl, a UK listed PLC, acquired BlackSpider for £19.5m in cash.
+At the point of acquisition BlackSpider had £4m in revenues, an operating loss of £3.1m and over 1,200 customers.
+In October 2007 Websense acquired SurfControl for approximately £204m.
+Following the acquisition of SurfControl by Websense, the original BlackSpider Management Team, including John Cheney, left to found Workbooks.com, a provider of web-based CRM software for small businesses.
+
+
+== Products ==
+MailControl was the brand name for BlackSpider Technologies email filtering services. These products are now sold by Forcepoint under the brand name Hosted Email Security.
+
+
+== Notes ==
+
+
+== External links ==
+Companies House, UK Company Number: 04447164
+Insider Article - 7 January 2004
+Silicon Article Surfcontrol Catches Blackspider - 16 July 2006
+John Layden, The Register - 13 July 2006
+Websense Investor Release - 3 October 2007

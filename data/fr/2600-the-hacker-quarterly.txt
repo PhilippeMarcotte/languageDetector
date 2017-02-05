@@ -1,0 +1,46 @@
+2600: The Hacker Quarterly est un magazine trimestriel américain fondé en 1984 et traitant des sujets liés au monde du hacking.
+
+
+== Le magazine ==
+2600: The Hacker Quarterly se spécialise dans la publication d'informations techniques sur les systèmes d'aiguillage téléphonique, le chiffrement des communications satellitaires, ainsi que des nouvelles sur l'underground du monde de l'informatique. Ce magazine est publié et édité par Emmanuel Goldstein (un nom de plume d'Eric Corley (en)) et son entreprise, 2600 Enterprises, Inc.
+Le nom du magazine vient de la découverte dans les années 1960 que la transmission d'une tonalité de 2 600 hertz sur une connexion interurbaine donnait accès à un « mode opérateur » et permettait à l'usager d'explorer des aspects du système téléphonique qui n'étaient pas autrement accessibles (c'est le principe du fonctionnement de la blue box). C'est John Draper qui a découvert qu'on pouvait produire cette tonalité parfaitement avec un sifflet en plastique donné gratuitement avec les céréales Cap'n Crunch (Capitaine Crounche).
+
+
+== Les meetings ==
+Depuis les années 1980, les lecteurs du magazine ont pris l'habitude de se réunir régulièrement, afin de discuter des différents sujets traités dans le magazine.
+Ces meetings 2600 sont des réunions informelles et non officielles, se déroulant chaque premier vendredi du mois, dans de nombreuses villes du monde, en suivant des directives officielles édictées par le magazine. Il s'agit de meetings dont les participants se réunissent spontanément, sans organisation particulière et sans soutien associatif ; ils suivent simplement les quelques directives officielles. Le magazine publie dans chaque numéro la liste des meetings actifs, et les informations s'y rapportant, notamment l'heure et le lieu des rendez-vous.
+Bien que fortement liés au milieu underground hacker, ces meetings se veulent ouverts à toutes et à tous, sans distinction d'âge, de compétence ou d'intérêt.
+Le but de ces meetings est de fournir un cadre pour parler de sujets dont on n'a pas forcément souvent l'occasion de parler, par exemple la sécurité des nouvelles technologies de l'information et de la communication, ou encore l'impact de ces technologies sur notre société.
+En France, il existe plusieurs meetings 2600, à Paris, Rennes, Lille, Rouen, Toulouse, et Strasbourg
+Au Québec, les réunions du 2600 ont lieu à Montréal.
+
+
+== Projets liés ==
+2600 a organisé les conférences H.O.P.E. (Hackers on Planet Earth — Des hackers sur la planète Terre).
+2600 Films a réalisé un film documentaire intitulé Freedom Downtime (en) qui porte sur le célèbre hacker Kevin Mitnick, sur le mouvement Free Kevin (Libérez Kevin) et sur le monde des hackers.
+De plus, 2600 a été impliqué dans plusieurs causes judiciaires reliées à la technologie et la liberté d'expression, en collaboration avec la Electronic Frontier Foundation.
+Corley anime aussi les émissions de radio Off The Wall (WUSB (FM) (en)) et Off the Hook (en), à partir de New York. Les deux émissions peuvent être téléchargées à partir du site Web de 2600.
+
+
+== Voir aussi ==
+
+
+=== Notes et références ===
+
+
+=== Articles connexes ===
+Die Datenschleuder
+Phrack
+Cult of the Dead Cow
+Hacking
+Sécurité des systèmes d'information
+
+
+=== Liens externes ===
+(en) Site officiel
+Site web officiel des meetings 2600 en France
+Site web officiel du meeting de Paris
+Site web officiel des meetings 2600 à Montréal
+ Portail de la sécurité informatique
+ Portail de la sécurité de l’information
+ Portail de la presse écrite

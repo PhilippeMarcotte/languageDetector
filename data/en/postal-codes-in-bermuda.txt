@@ -1,0 +1,23 @@
+Postcodes in the British Overseas Territory of Bermuda use two different formats, depending on whether they are for street addresses or PO Boxes.
+Postcodes for street addresses consist of two letters and two digits, as follows:
+Mr. & Mrs Householder
+Upper Apt # 1
+9 Leafy Lane
+SMITH'S FL 07
+BERMUDA
+Postcodes for PO Box addresses, however, consist of four letters. In the capital, Hamilton, a PO Box address would be:
+Mr. Boxholder
+PO Box HM 2469
+HAMILTON HM GX
+BERMUDA
+In Hamilton, each PO Box number range has a different postcode, while postcodes for PO Box addresses in the rest of Bermuda will always end in BX, for example:
+P.O. Box DV 583
+Devonshire DV BX
+BERMUDA
+
+
+== External links ==
+Bermuda Post Office
+Universal Postal Union
+
+( Category: Parishes in Bermuda))

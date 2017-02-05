@@ -1,0 +1,56 @@
+Der Investivlohn ist ein Teil des Arbeitsentgelts, der nicht als Geld an den Arbeitnehmer ausgezahlt wird, sondern in Form einer Beteiligung am Arbeitgeber-Unternehmen oder an anderen Unternehmen.
+Nach verschiedenen Konzepten werden im Rahmen eines Investivlohns ein Teil von zukünftigen Lohnerhöhungen über Belegschaftsaktien, Wandelanleihen, Aktiendepots oder überbetriebliche Kapitalanlagegesellschaften angelegt.
+
+
+== Investivlohn als Form der Mitarbeiterkapitalbeteiligung ==
+Es geht im idealen Fall also um die Beteiligung des Mitarbeiters am Produktivvermögen, beispielsweise durch GmbH-Anteile oder Aktien.
+Bei Modellen der Gewinnabschöpfung (Prämienregelungen) erhalten Mitarbeiter einen Grundlohn und je nach Gewinn des Unternehmens eine höhere Provision – hier wird nicht von Investivlohn gesprochen. Investivlohn ist eine Mitarbeiterkapitalbeteiligung; Mitarbeiter beteiligen sich dabei über Aktien oder Unternehmensanteile an dem Unternehmen.
+Der Investivlohn als gewinnabhängige Provision wurde insbesondere beim Unternehmen Allianz kritisiert, da viele Versicherungsberater nur einen geringen Grundlohn erhalten und die Prämie über die abgeschlossenen Versicherungsverträge erwirtschaften müssen.
+Die Mitarbeiterkapitalbeteiligung ist im Osten Deutschlands recht erfolgreich umgesetzt worden.
+Bestes Beispiel eines Investivlohnes ist die Gewährung von variablen Entgelten als Aktien, diese setzt voraus, dass jeder Mitarbeiter ein Aktien-Depot durch das Unternehmen eingerichtet bekommt. Üblicherweise werden 10 % des Gehalts in Unternehmensanteilen ausgegeben.
+
+
+== Politische Diskussion in Deutschland ==
+Der Investivlohn ist seit den 1950er Jahren immer wieder Teil der politischen Diskussion. Das Konzept wurde auch von der Programmkonferenz der SPD im Jahr 2006 diskutiert. Als Modell findet der Investivlohn mittlerweile auch bei der CDU verstärkt Zustimmung.
+Im Juni 2007 forcierte die SPD die Debatte. Sie schlug einen sogenannten „Deutschlandfonds“ vor, über den Arbeitnehmer indirekt an ihrem Unternehmen Anteile kaufen können. In den Fonds sollen anstatt Gehaltsbestandteilen Bonus- oder Extrazahlungen fließen und die indirekte Beteiligung soll vor dem Risiko von Pleiten schützen. Die Union dagegen favorisiert in ihrem „Konzept für soziale Kapitalpartnerschaft“ eine direkte Beteiligung der Arbeitnehmer am Firmenkapital.
+Ein bekanntes Beispiel ist dabei die Geburtstagsaktie, jeder Mitarbeiter erhält zu seinem Geburtstag eine Aktie des Unternehmens geschenkt, wie es einmal bei dem Unternehmen Thyssen Krupp diskutiert wurde.
+
+
+== Sozialethische Begründung ==
+In der christlichen Soziallehre  wird für den Investivlohn plädiert unter Berufung auf das "Prinzip des Vorrangs der Arbeit vor dem Kapital" (Johannes Paul II.) und einer sich daraus ergebenden Forderung, die Antinomie von Kapital und Arbeit zu überwinden und die Möglichkeit zu schaffen, dass der Arbeitende "das Bewußtsein behalten kann, im eigenen Bereich zu arbeiten" (Laborem exercens, Nr. 15).
+
+
+== Einzelne Aspekte ==
+In den Wirtschaftswissenschaften werden eine Reihe möglicher Wirkungen von Investivlöhnen (teilweise kontrovers) diskutiert:
+
+
+=== Investivlohn und Sparquote ===
+Unter der Voraussetzung, dass der Investivlohn über eine Kapitalbeteiligung realisiert wird, geht man üblicherweise von einem geringfügig positiven Zusammenhang zwischen Sparquote und Einführung eines Investivlohns aus. Insbesondere einkommensschwache Bevölkerungsschichten werden dadurch gezwungen ihre Sparquote zu erhöhen, weil sie den Investivlohn nicht verwenden können, um zu konsumieren.
+
+
+=== Investivlohn und Portfoliotheorie ===
+Im Rahmen der Portfoliotheorie von Markowitz ist der Investivlohn kritisch zu sehen. Dass Mitarbeiter Teile ihres Kapitals in das Unternehmen investieren, in dem sie bereits angestellt sind, erhöht ihr Einkommensrisiko. Da die beiden Einnahmequellen Investivlohn und Bezahlung vollständig positiv korreliert sind, erhöht sich nach Markowitz die Portfolio-Varianz des Mitarbeiters. Die Portfoliotheorie kann jedoch nicht wichtige motivationale Aspekte des Investivlohns erklären, die je nach Effekt auch Risiken senken können, da höhere Leistung von allen Mitarbeitern erbracht wird.
+
+
+=== Demotivation durch Investivlohn ===
+Götz Werner, Gründer und geschäftsführender Gesellschafter der Drogerie-Kette dm und Honorarprofessor der Universität Karlsruhe, erkennt in Investivlöhnen ein demotivierendes Moment:
+„Die Menschen müssen ein ausreichendes Einkommen haben. Der Investivlohn ist ja etwas, was sie eigentlich nur abhängig macht.“
+„[…] Identifizieren und Binden ist etwas Unterschiedliches. Der Investivlohn würde vielleicht binden, aber deswegen muss er noch lange nicht identifizieren. Und die Menschen müssen sich identifizieren mit ihrer Arbeit, mit dem was sie tun. Die Menschen müssen ja frei sein in dem, was sie tun. Sie müssen frei sein, das zu tun, was sie für sinnvoll erachten und wo sie sich mit identifizieren können.“
+Neben dem „Verdrängungseffekt“ kann Investivlohn auch als motivierend betrachtet werden. Hier ist zum einen der Effekt der erfahrenen Partizipation zu berücksichtigen und zum anderen die VIE-Theorie. Nach dieser Motivationstheorie trägt das System des Investivlohns zu einer höheren Instrumentalität (Secondary Goal) der Arbeit bei, wodurch die Motivation gesteigert sein soll.
+
+
+== Weblinks ==
+IABInfoSpezial zum Thema „Gewinn- und Kapitalbeteiligung von Beschäftigten“ mit Veröffentlichungen, Forschungsprojekten, Institutionen und weiterführenden Links auf iab.de
+ver.di Bildung + Beratung: Investivlohn – Pro und Kontra auf verdi-bub.de
+
+
+== Literatur ==
+Bundesministerium für Arbeit und Sozialordnung (Hrsg.): Mitarbeiterbeteiligungen am Produktivvermögen – Ein Wegweiser für Arbeitgeber und Arbeitnehmer. Bonn, Berlin 1998.
+Rüdiger Eschenbach, Walter Heering: Mitarbeiterkapitalbeteiligung – Managementkonzepte und innovative Beteiligungsformen. in: Management-Wissen Führungskompetenz. Metropolitan-Verlag, Düsseldorf 2001, S. 199–215.
+Rosemarie Fiedler-Winter: Innovative Mitarbeiterbeteiligung – Der Königsweg für die Wirtschaft, Lech 1998.
+verdi: Investivlohn – Trostpflaster für Lohnverzicht? Wirtschaftspolitische Informationen 5/06, November 2006 (PDF)
+Heinz-J. Bontrup: Gewinn- und Kapitalbeteiligung. Eine mikro- und makroökonomische Analyse, Gabler Verlag, Wiesbaden 2002, ISBN 3-409-11784-9.
+Heinz-J. Bontrup: Gewinn- und Kapitalbeteiligung. Instrumente für eine gerechtere Verteilung der Wertschöpfung gegen das Investitionsmonopol des Kapitals, in: Frank Lorenz, Günter Schneider (Hrsg.): Raus aus der Krise! Hamburg 2009, ISBN 978-3-89965-326-7.
+
+
+== Einzelnachweise ==

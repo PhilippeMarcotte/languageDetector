@@ -1,0 +1,20 @@
+Los ácidos grasos son biomoléculas muy importantes para los seres vivos. Son los principales constituyentes de los triglicéridos (aceites y grasas, que actúan como reserva energética) y de los fosfolípidos (que forman el armazón de las membranas celulares). Su biosíntesis es, pues, de crucial importancia para todos los organismos.
+El principal precursor de los ácidos grasos es el malonil-CoA, una molécula que aporta dos de sus tres átomos de carbono al esqueleto carbonado del ácido graso en crecimiento. El malonil-CoA proviene, a su vez, del acetil-CoA. Todas las reacciones de síntesis de ácidos grasos tienen lugar en el citosol de las células animales y en el estroma en las células vegetales.
+
+
+== Síntesis de malonil-CoA ==
+En la síntesis de los ácidos grasos interviene un intermediario que no participa en la degradación (beta-oxidación), el malonil-CoA. El malonil-CoA se forma a partir de acetil-CoA y de bicarbonato, reacción que consume ATP y que está catalizada por la acetil-CoA carboxilasa, enzima que requiere biotina como cofactor.
+
+
+== Elongación ==
+Como en la β-oxidación, la elongación ocurre a través de cuatro reacciones recurrentes. En el diagrama adjunto, las unidades de acetil y malonil se muestran como sus tioésteres con su proteína transportadora de acilos (ACP); así es como los microorganismos y las plantas sintetizan sus ácidos grasos. En cambio, en los animales, esas mismas reacciones ocurren en una gran enzima dimérica, la ácido graso sintasa que tiene todas las actividades enzimáticas necesarias para la síntesis y liberación de ácidos grasos libres.
+En el primer ciclo se condensan un acetil-ACP y un malonil-ACP (derivado del anterior), por lo que se juntan 4 carbonos de golpe. En los ciclos siguientes ya solo se añadirá un malonil-ACP, por lo que se irán añadiendo carbonos de dos en dos. El producto final del proceso es siempre ácido palmítico, un ácido graso saturado de 16 carbonos, que es inmediatamente esterificado con el coenzima A, para formar palmitoil-CoA (lo mismo se hace con cualquier ácido graso proveniente de la dieta). A partir de él, una vez transportado al retículo endoplasmático, pueden sintetizarse otros ácidos grasos.
+En vista de lo anterior, se entiende la siguiente estequeometría:
+8 Acetil-CoA + 14 (NADPH + H+) + 7 ATP → Ácido palmítico (C16) + 8 CoA + 14 NADP+ + 7 (ADP + Pi) + 6 H2O
+Dado que el Á.palmítico tiene 16 carbonos, se requieren 7 ciclos (de 4 carbonos el primero y 2 los siguientes) para formarlo. Por ello se necesitan:
+8 Acetil-CoA: uno por cada ciclo (para transformarse en 7 malonil-CoA) más uno extra en el primero, que se condensa tal cual.
+7 ATP: necesario uno en cada ciclo para transformar el Acetil-CoA en Malonil-CoA.
+14 NADPH: Dos por ciclo.
+
+
+== Referencias ==

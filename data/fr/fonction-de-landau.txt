@@ -1,0 +1,49 @@
+La fonction de Landau g(n) est définie pour chaque nombre naturel n étant le plus grand ordre d'un élément d'un groupe symétrique Sn. De manière équivalente, g(n) est le plus grand ppcm de n'importe quelle partition de n.
+Par exemple, 5 = 2 + 3 et ppcm(2,3) = 6. Aucune autre partition de 5 ne fournit un ppcm plus gros, donc g(5) = 6. Un élément d'ordre 6 dans le groupe S5 peut être écrit en notation de cycle comme (1 2) (3 4 5).
+La suite d'entiers g(0) = 1, g(1) = 1, g(2) = 2, g(3) = 3, g(4) = 4, g(5) = 6, g(6) = 6, g(7) = 12, g(8) = 15, ... se trouve sur la suite A000793 de l'OEIS.
+La suite est nommée en l'honneur de Edmund Landau, qui prouva que
+
+  
+    
+      
+        
+          lim
+          
+            n
+            →
+            ∞
+          
+        
+        
+          
+            
+              ln
+              ⁡
+              (
+              g
+              (
+              n
+              )
+              )
+            
+            
+              n
+              ln
+              ⁡
+              (
+              n
+              )
+            
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle \lim _{n\to \infty }{\frac {\ln(g(n))}{\sqrt {n\ln(n)}}}=1}
+  
+(où ln désigne le logarithme naturel).
+
+(en) Cet article est partiellement ou en totalité issu de l’article de Wikipédia en anglais intitulé « Landau's function » (voir la liste des auteurs).
+ Portail de l’algèbre
+ Portail de l’arithmétique et de la théorie des nombres

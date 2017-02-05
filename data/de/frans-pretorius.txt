@@ -1,0 +1,16 @@
+Frans Pretorius (* um 1975 in Johannesburg) ist ein südafrikanischer Physiker, der sich mit Computersimulation in der Astrophysik befasst.
+Pretorius studierte Informatik an der University of Victoria (Bachelor 1996), erhielt dort 1999 seinen Master-Abschluss in Physik bei Werner Israel (Topics in Black Hole Physics) und wurde 2002 bei Matthew Choptuik promoviert. Für seine Dissertation über numerische Simulation von Gravitationskollaps erhielt er 2003 den Nicolas Metropolis Award der American Physical Society (APS). Als Post-Doktorand war er 2002 bis 2005 Richard Chase Tolman Fellow am Caltech. 2005 wurde er Assistant Professor an der University of Alberta und 2007 an der Princeton University.
+Er befasst sich mit numerischer Simulation in der Allgemeinen Relativitätstheorie, speziell Gravitationskollaps, Kollision und Verschmelzen Schwarzer Löcher (und Signaturen dabei abgestrahlter Gravitationswellen) und kosmische Singularitäten. Dabei entwickelte er neue Methoden der adaptiven Gitter-Verfeinerung.
+Er untersuchte auch numerisch die Möglichkeit und die Signaturen der Bildung kleiner Schwarzer Löcher in Teilchen-Collidern wie dem LHC. Zwar bilden sich Schwarze Löcher bei sehr hohen Kollisionsenergien, die dazu nötige Energie ist nach ihnen zwar um einen Faktor 2,3 geringer als bisher angenommen, aber weit außerhalb der Möglichkeiten des LHC. Mit Abhay Ashtekar und anderen untersuchte er die Zerstrahlung Schwarzer Löcher und er untersuchte die Kollision Schwarzer Löcher bei sehr hohen Energien.
+Er war Sloan Fellow und erhielt 2010 den Aneesur-Rahman-Preis. Für 2017 wurde ihm der New Horizons in Physics Prize zugesprochen, für die Entwicklung des ersten Computer-Codes, der die Spiralbewegung und das Verschmelzen zweier sich umkreisender Schwarzer Löcher simulieren kann (Laudatio).
+
+
+== Schriften ==
+Binary Black Hole Coalescence, in Monica Colpi u.a. Relativistic Objects in Compact Binaries: From Birth to Coalescence, Springer Verlag 2009
+
+
+== Weblinks ==
+Homepage
+
+
+== Einzelnachweise ==

@@ -1,0 +1,134 @@
+Le persan (en persan : فارسی ou پارسی) est une langue iranienne parlée en Iran (Perse), en Afghanistan et au Tadjikistan, où il est une langue officielle, ainsi qu'au Bahreïn, en Azerbaïdjan, en Irak (minorité persophone), en Russie, et en Ouzbékistan (minorité tadjike). Il fut aussi la langue officielle de l'empire moghol, qui s'étendait principalement en Inde du XVIe au XIXe siècle.
+Membre du groupe indo-iranien de la famille des langues indo-européennes, c'est une langue du type « sujet-objet-verbe ». De nos jours, les langues persanes s’écrivent surtout au moyen de l'alphabet arabo-persan, variante de l'alphabet arabe, bien qu'elles n'aient aucune parenté avec la langue arabe, dont elles diffèrent tant sur le plan de la grammaire que de la phonologie. Au Tadjikistan, en Russie, en Azerbaïdjan et en Ouzbékistan, où elle a été cyrillisée, la langue tadjike s’écrit en caractères cyrilliques.
+Il est appelé fārsi (فارسی) en Iran et en Afghanistan (ce qui est une forme arabisée de parsi — l'alphabet arabe ne comporte pas de consonne p), parsi (پارسی, une appellation locale ancienne, encore utilisée par certains locuteurs), hazara et tadjik (un dialecte d'Asie centrale) ou dari (appellation locale en Afghanistan). Les gens qui parlent persan sont désignés comme persanophones.
+
+
+== Histoire ==
+Le persan est un membre du groupe indo-iranien de la famille linguistique indo-européenne. Les linguistes reconstituent ainsi l'évolution de cette branche : vieux-persan (avestique et perse achéménide) → moyen-persan (pehlevi, parthe et perse sassanide) → persan moderne (dari, etc.).
+Il ne faut pas confondre le vieux-perse, la langue de la plupart des inscriptions achéménides, avec la langue élamite, qui n'est pas indo-européenne. Au cours du temps, la morphologie de la langue a été grandement simplifiée et la conjugaison et la déclinaison complexes des origines ont cédé la place à la morphologie régulière et à la syntaxe rigide que l'on connaît aujourd'hui. Cette évolution est souvent comparée au développement de l'anglais. En outre, de nombreux mots provenant des langues avoisinantes (l'araméen et le grec dans les temps anciens, plus tard l'arabe et, dans une moindre mesure, le turc) ont été introduits dans le vocabulaire persan. Plus récemment, les emprunts aux langues européennes (principalement au français et à l'anglais) ont été les plus fréquents.
+
+
+== Dialectes et langues proches ==
+
+La communication est généralement intelligible entre les Iraniens, les Tadjiks et les Afghans parlant persan ; cependant, on peut noter les définitions suivantes :
+le dari est le nom local pour le dialecte oriental du persan, une des deux langues officielles de l'Afghanistan, dont le hazaragi — parlé par le peuple Hazara du centre de l'Afghanistan ;
+le tadjik peut aussi être considéré comme un dialecte du persan mais, au contraire du persan iranien et afghan, il s'écrit avec l'alphabet cyrillique.
+D'après Ethnologue.com les dialectes du persan sont :
+persan occidental (en Iran, Irak, etc.),
+persan oriental (en Afghanistan),
+tadjik (au Tadjikistan),
+hazaragi (en Afghanistan),
+aimak et hazara (en Hazaristan),
+boukharique (en Israël, Ouzbékistan),
+darwazi (en Afghanistan),
+pahlavani (en Afghanistan).
+Les dialectes suivants sont des langues proches parlées par plusieurs peuples à l'intérieur de l'Iran actuel :
+mazandarani, parlé dans le nord de l'Iran et principalement dans la province du Mazandaran ;
+gilaki (ou gileki), parlé dans la province du Gilan ;
+talysh (ou talishi), parlé dans le nord de l'Iran et dans les parties du sud de l'Azerbaïdjan ;
+lori (ou luri), parlé principalement dans les provinces du Lorestan et du Khuzestan au sud-ouest de l'Iran ;
+tat (aussi appelé tati ou eshtehardi), parlé dans des régions des provinces de l'Azerbaïdjan oriental, de Zanjan et de Qazvin ;
+dezfuli, parlé dans la région du khuzestan notamment dans la ville de dezfoul à l'ouest de l'Iran ;
+dari ou gabri, parlé à l'origine à Yazd et à Kerman par les zoroastriens d'Iran (aussi appelé yazdi par certains).
+Autres dialectes Persique:
+Tat (au Azerbaïdjan, Russie),,,,
+Juhuri
+
+
+== Écriture et prononciation ==
+
+
+=== Orthographe ===
+La vaste majorité du persan moderne est écrit sous une forme de l'alphabet arabe. Dans les années récentes, l'alphabet latin a été utilisé par certains pour des raisons de technologie ou d'internationalisation. Le tadjik, un dialecte persan influencé par le russe, est écrit avec l'alphabet cyrillique au Tadjikistan mais pas en Afghanistan.
+
+
+=== Translittération ===
+
+
+=== Alphabet arabe ===
+
+Le persan moderne est normalement écrit en utilisant une variante modifiée de l'alphabet arabe.
+
+
+=== Adoption de l'écriture ===
+Après la conquête de l'Empire perse par les Arabes musulmans, il fallut environ cent cinquante ans avant que les Persans n'adoptent l'alphabet arabe en remplacement de leur ancien alphabet. Auparavant, deux alphabets différents étaient utilisés pour le persan (appelé moyen persan ou pehlevi à cette époque) : l'un était appelé pehlevi et était une adaptation de l'alphabet araméen, et l'autre était un alphabet iranien originel appelé dîndapirak (littéralement : écriture de la religion).
+
+
+=== Ajouts ===
+L'alphabet persan ajoute quatre lettres à l'alphabet arabe. Cet ajout est dû au fait que quatre sons existant en persan n'existent pas en arabe, puisque les deux langues viennent de familles complètement différentes. Certains appellent cet alphabet l'alphabet perso-arabe. Les quatre lettres additionnelles sont :
+
+
+=== Variations ===
+Beaucoup de mots persans d'origine arabe sont écrits différemment du mot arabe original. Ainsi, alef avec la hamza en dessous ( إ ) se change toujours en alef ( ا ) ; généralement teh marbuta ( ة ) se change en teh ( ت ) ou en heh ( ه ), sans qu'il s'agisse d'une règle absolue ; plusieurs mots utilisant différents types de hamza sont écrits avec une autre sorte de hamza (de cette manière مسؤول devient مسئول).
+Les lettres de formes différentes sont :
+Les marques diacritiques utilisées dans le script arabe, ou harakat, sont aussi utilisées en persan, bien que certaines se prononcent différemment. Par exemple un damma en arabe se prononce /u/, alors qu'en persan on le prononce /o/.
+La variante persane ajoute aussi une notion de pseudo-espace à l'écriture arabe, appelée un ZWNJ (Zero-width non-joiner, le liant sans chasse U+200D) dans le standard Unicode et la norme ISO 10646. Ce caractère agit comme une espace en déconnectant deux caractères adjacents qui seraient optionnellement joints sans le ZWNJ qui n'a pas de largeur visuelle.
+
+
+=== Extensions aux autres langues ===
+Les caractéristiques du persan ont été reprises par d'autres langues comme le pashto ou l'ourdou et a parfois été encore plus étendu avec d'autres lettres ou de nouveaux signes de ponctuation.
+
+
+=== Alphabet latin ===
+L'alphabet universel persan (UniPers / Pârsiye Jahâni) est un alphabet fondé sur l'alphabet latin créé il y a plus de 50 ans en Iran et popularisé par Mohammed Keyvan, qui l'a utilisé dans nombre de livres persans pour les étrangers et les voyageurs. Il met de côté les difficultés de l'alphabet traditionnel fondé sur l'arabe, avec ses multiples formes de lettres, et s'adapte particulièrement bien au contexte moderne des médias écrits.
+L'alphabet international persan (IPA2), communément appelé Pársik est un autre alphabet basé sur le script latin développé récemment, principalement par A. Moslehi, un linguiste comparatif qui a défini le projet, sous l'autorité de l'Association des linguistes persans. Il est réputé être le plus exact des alphabets persans fondés sur le script latin dans lequel beaucoup d'aspects linguistiques du persan moderne ont été respectés ; cependant, ces règles ne sont pas aussi simples qu'UniPers.
+Fingilish, ou Penglish, est le nom donné aux textes écrits utilisant l'alphabet latin basique. Il est communément utilisé dans le cadre d'applications de messagerie instantanée, de courrier électronique et SMS.
+
+
+=== Phonétique ===
+
+Le persan a six voyelles et vingt-deux consonnes (vingt-trois avec le « ʔ », d'origine arabe), dont deux affriquées /t͡ʃ/ (ch) et /d͡ʒ/ (j).
+Historiquement, le persan distinguait la longueur : les voyelles longues /i:/, /u:/, /ɑ:/ contrastant avec les voyelles courtes /e/, /o/, /æ/. Le persan moderne parlé, cependant, ne fait généralement plus ce type de distinctions.
+
+
+=== Grammaire ===
+Les suffixes prédominent dans la morphologie du persan, bien qu'il y ait aussi un petit nombre de préfixes. Les verbes peuvent exprimer le temps et l'aspect, et ils s'accordent avec le sujet en nombre. Il n'existe pas de genre pour les noms, ni pour les pronoms.
+
+
+==== Syntaxe ====
+Les phrases déclaratives normales sont ordonnées « (S) (PP) (O) V ». Ce qui signifie que les phrases simples peuvent comprendre des sujets optionnels, des groupes prépositionnels et des objets, suivis du verbe. Si l'objet est défini, alors il est suivi du suffixe rɑ: et précède les groupes propositionnels « (S) (O + « rɑ: ») (PP) V ».
+L'ordre est le suivant:
+(circonstance de temps) — sujet — objet + (postposition -râ) — (objet indirect/circonstance) — prédicat - verbe
+fardâ u in ketâbhâ va daftarhâ-râ be šomâ midahad = demain il ces livres et cahiers (râ) à vous donnera = demain il vous donnera ces livres et (ces) cahiers
+
+
+=== Vocabulaire ===
+Le vocabulaire du persan comprend des mots empruntés, venant pour la plupart de l'arabe, de l'anglais, du français et des langues turques.
+De la même façon, le persan a influencé les vocabulaires d'autres langues, spécialement les langues indo-iraniennes et les langues turques. Beaucoup de mots persans ont aussi trouvé leur chemin jusqu'à la langue anglaise.
+
+
+=== Exemples ===
+
+
+== Notes et références ==
+
+
+== Voir aussi ==
+
+
+=== Bibliographie ===
+(en) Mahootian, Shahrzad, Persian, Londres, Routledge, 1997.
+(en) Mace, John, Persian Grammar: For reference and revision, Londres, Routledge-Curzon, 2003.
+
+
+=== Articles connexes ===
+Lecture et écriture du persan
+Perse
+Liste Swadesh du persan
+
+
+=== Liens externes ===
+(en) Fiche langue du persan (code «fas») dans la base de données linguistique Ethnologue.
+(en) Fiche langue du persan (code «fars1254») dans la base de données linguistique Glottolog.
+(en) Sources d'information sur le persan sur le site de l'OLAC.
+Dictionnaire persan-français/français-persan Freelang
+Dictionnaire thématique français / persan
+(en) Western Farsi (Languages of the World)
+Conjugueur de verbes persans
+Abstracta Iranica
+ Portail des langues
+ Portail de l’Iran
+ Portail de l’Afghanistan
+ Portail du Tadjikistan
+ Portail de l’Azerbaïdjan
+ Portail de l’Irak

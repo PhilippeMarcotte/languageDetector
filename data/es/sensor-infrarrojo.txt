@@ -1,0 +1,94 @@
+Particularmente, el sensor infrarrojo es un dispositivo optoelectrónico capaz de medir la radiación electromagnética infrarroja de los cuerpos en su campo de visión. Todos los cuerpos emiten una cierta cantidad de radiación, esta resulta invisible para nuestros ojos pero no para estos aparatos electrónicos, ya que se encuentran en el rango del espectro justo por debajo de la luz visible.
+
+
+== Principios de funcionamiento ==
+Los rayos infrarrojos(IR) entran dentro del fototransistor donde encontramos un material piroeléctrico, natural o artificial, normalmente formando una lámina delgada dentro del nitrato de galio [Ga(NO3)3], nitrato de Cesio (CsNO3), derivados de la fenilpirazina, y ftalocianina de cobalto. Normalmente están integrados en diversas configuraciones (1,2,4 píxeles de material piroeléctrico). En el caso de parejas se acostumbra a dar polaridades opuestas para trabajar con un amplificador diferencial, provocando la auto-cancelación de los incrementos de energía de IR y el desacoplamiento del equipo.
+
+
+=== Distribución espectral ===
+Un gráfico de distribución espectral es una representación visual del espectro de luz producida por una fuente de luz.  La luz es una onda electromagnética, y como tal tiene una cierta longitud de onda.
+
+
+=== Sensores pasivos ===
+Están formados únicamente por el fototransistor con el cometido de medir las radiaciones provenientes de los objetos.
+
+
+=== Sensores activos ===
+Se basan en la combinación de un emisor y un receptor próximos entre ellos, normalmente forman parte de un mismo circuito integrado. El emisor es un diodo LED infrarrojo (IRED) y el componente receptor el fototransistor.
+Tabla de los componentes de un sensor activo
+
+
+== Clasificación según el tipo de señal emitida ==
+
+
+=== Sensores reflexivos ===
+Este tipo de sensor presenta una cara frontal en la que encontramos tanto al LED como al fototransistor. Debido a esta configuración el sistema tiene que medir la radiación proveniente del reflejo de la luz emitida por el LED.
+Se debe tener presente que esta configuración es sensible a la luz del ambiente perjudicando las medidas, pueden dar lugar a errores, es necesario la incorporación de circuitos de filtrado en términos de longitud de onda, así pues será importante que trabajen en ambientes de luz controlada. Otro aspecto a tener en cuenta es el coeficiente de reflectividad del objeto, el funcionamiento del sensor será diferente según el tipo de superficie.
+
+
+==== Sensores de ranura(Sensor Break-Beam) ====
+Este tipo de sensor sigue el mismo principio de funcionamiento pero la configuración de los componentes es diferente, ambos elementos se encuentran enfrentados a la misma altura, a banda y banda de una ranura normalmente estrecha, aunque encontramos dispositivos con ranuras más grandes. Este tipo se utiliza típicamente para control industrial. Otra aplicación podría ser el control de las vueltas de un volante.
+
+
+=== Sensores modulados ===
+Este tipo de sensor infrarrojo sigue el mismo principio que el de reflexión peró utilizando la emisión de una señal modulada, reduciendo mucho la influencia de la iluminación ambiental. Son sensores orientados a la detección de presencia, medición de distancias, detección de obstáculos teniendo una cierta independencia de la iluminación.
+
+
+=== Sensores de barrido ===
+La diferencia con los anteriores reside en que el sensor realiza el barrido horizontal de la superficie reflectante utilizando señales moduladas para mejorar la independencia de la luz, el color o reflectividad de los objetos. Normalmente estos sistemas forman parte de un dispositivo de desplazamiento perpendicular al eje de exploración del sensor, para poder conseguir las medidas de toda la superficie.
+
+
+==== Configuración óptica ====
+Esta configuración se basa en un único sensor enfrentado a un cristal, el cual genera la imagen de una sección de la región a medir. Dicho cristal solidario con un motor de rotación con el objetivo de lograr el barrido de toda el área. Tiene la ventaja que adquiere una secuencia continua de la región de barrido. Resulta una sistema lento en términos de exploración.
+
+
+==== Configuración en array de sensores ====
+En este caso la configuración del sistema de medida está formado por un array de sensores infrarrojos, por tanto no es necesario la utilización de ningún sistema de cristales, únicamente necesita un conjunto de lentes ópticas de enfoque (concentración de la radiación) a cada uno de los sensores. Esta configuración es más compleja pero permite mayor velocidad de translación y mejor protección contra errores de captación.
+
+
+== Aplicaciones ==
+Los sensores infrarrojos están diseñados especialmente para la detección, clasificación y posicionado de objetos; la detección de formas, colores y diferencias de superficie, incluso bajo condiciones ambientales extremas. 
+
+
+=== Domésticas ===
+Para aplicaciones domésticas, los sensores infrarrojos se utilizan en electrodomésticos de línea blanca tales como hornos microondas, por ejemplo, para permitir la medición de la distribución de la temperatura en el interior. Estos dispositivos se usan también en el control climático de la casa para detectar oscilaciones de la temperatura en un local. Este planteamiento permite que el sistema de climatización reaccione antes que la temperatura del local varíe. Los sensores infrarrojos también se pueden utilizar como sensores de gas.
+
+
+=== Ciencias médicas y biológicas ===
+Una tendencia en el diagnóstico médico es desarrollar nuevos métodos de diagnóstico no invasores. Los sensores infrarrojos ofrecen una solución para ciertos procedimientos de reconocimiento, por ejemplo, los de mama y de músculos.
+Otra aplicación médica para los sensores infrarrojos es la medición instantánea de la temperatura del cuerpo, es decir, como un termómetro remoto.
+
+
+=== Cámaras de Vigilancia o seguridad ===
+
+Los LEDs infrarrojos son utilizados en cámaras de seguridad para facilitar la visión nocturna.
+
+
+=== Seguridad aérea y territorial ===
+Los sensores infrarrojos están siendo utilizada por las fuerzas armadas. Los sistemas infrarrojos de monitorización del campo, tanto fijos como portátiles, sustituyen cada vez más a los sistemas refrigerados por su reducido consumo de energía.
+
+
+=== Automovilismo ===
+En la industria automovilística, los sensores infrarrojos se usan en el campo de la seguridad y el confort en la conducción. Monitorización del tráfico y carreteras, sistemas antiniebla, de los neumáticos y frenos, mejoras de la visión del conductor y detección de los ocupantes sentados para la activación de airbags inteligentes son algunas de las aplicaciones anteriores, por su banda el control de la temperatura de la cabina y la monitorización de la calidad del aire constituyen las más recientes.
+
+
+=== Periféricos de TI y productos de consumo ===
+Una de las aplicaciones futuras es la integración de un termostato para las mediciones de la temperatura de los cuerpos y objetos integrados en los teléfonos móviles.
+
+
+== Véase también ==
+Teledetección
+Sensor de huella digital
+
+
+== Enlaces externos ==
+Diferentes tipos de sensores
+Infrared tutorial
+Ejemplo de dispositivo Sharp GP2D02
+Artículo "Sensores para todo"
+Ejemplo de comunicación infrarroja vía RS232 y microcontrolador PIC
+Sensores de proximidad inductivo-capacitivos y fotoelectricos
+Sensores fotoelectricos
+
+↑ «distribucion espectral». Consultado el 8 de septiembre de 2016. 
+↑ «Sensores infrarojos». Consultado el 07-sep-2016.

@@ -1,0 +1,134 @@
+Un vehículo híbrido eléctrico enchufable o PHEV (del inglés plug-in hybrid electric vehicle ), también, vehículo híbrido enchufable o PHV (del inglés plug-in hybrid vehicle), es un vehículo híbrido eléctrico cuyas baterías pueden ser recargadas enchufando el vehículo a una fuente externa de energía eléctrica. El vehículo híbrido enchufable comparte las características de un vehículo híbrido eléctrico tradicional y de un vehículo eléctrico, ya que está dotado de un motor de combustión interna (gasolina, diésel o flex-fuel) y de un motor eléctrico acompañado de un paquete de baterías, pero con la diferencia que éstas pueden recargarse enchufando el vehículo en el sistema de suministro eléctrico.
+
+
+== Vehículos ==
+El primer vehículo híbrido enchufable de producción comercial del mundo fue el sedán F3DM PHEV-68 (PHEV109km), fabricado por la empresa china BYD Auto, lanzado el 15 de diciembre de 2008 al mercado local únicamente para uso en flotas a un precio de 149,800 yuan (USD $22,000.)  General Motors inició entregas del Chevrolet Volt PHEV-35 (PHEV-56km) en los Estados Unidos en diciembre de 2010. Las entregas del Fisker Karma PHEV-32 (PHEV-51km) comenzaron en EUA en noviembre de 2011. En 2012 fueron lanzados el Toyota Prius Plug-in Hybrid en Japón, Estados Unidos y Europa; el Ford C-Max Energi en los Estados Unidos; y el Volvo V60 Plug-in Hybrid en Suecia. En 2013 se iniciaron las ventas del Mitsubishi Outlander PHEV en Japón y Europa, el BYD Qin en China, el McLaren P1 en Europa, y fueron lanzados en Estados Unidos el Honda Accord Plug-in Hybrid, el Ford Fusion Energi, el Porsche Panamera S E-Hybrid y el Cadillac ELR. Otros vehículos híbridos enchufables con lanzamiento programado entre 2014 y 2015 son el Volkswagen XL1, Porsche 918 Spyder, Audi A3 Sportback e-tron, BMW i8, Volkswagen Golf GTE y el Mercedes-Benz S 500 Plug-in Hybrid.
+Hasta 2010, la mayoría de los híbrido enchufables que circulaban en los Estados Unidos eran conversiones de los modelos Toyota Prius o Ford Escape Hybrid, los cuales fueron modificados para utilizar baterías recargables y están dotados de un mayor número de baterías para extender el rango de operación en modo exclusivamente eléctrico. Varios países, incluyendo los Estados Unidos y varios países europeos, han aprobado leyes para facilitar la introducción de los vehículos híbridos enchufables, incluyendo créditos de impuestos, reglamentación sobre emisiones permitidas, y financiamiento de investigación y desarrollo de baterías y otras tecnologías avanzadas. La familia Volt/Ampera es el vehículo híbrido eléctrico enchufable más vendido en el mundo, con más de 70.000 unidades vendidas en Norte América y Europa hasta enero de 2014. Las ventas del Volt son lideradas por los Estados Unidos, con 58.158 unidades vendidas hasta marzo de 2014.   
+
+
+== Terminología ==
+
+El rango exclusivamente eléctrico de un vehículo híbrido enchufable se designa como PHEV-[millas] o PHEV[kilómetros] donde el número representa la distancia que el vehículo puede viajar exclusivamente con la energía eléctrica proveniente de las baterías. Por ejemplo, un vehículo PHEV-20 puede viajar veinte millas (32 km) sin utilizar la propulsión del motor de combustión interna. También puede ser designado como PHEV32km en el sistema métrico decimal.
+El Acta de Seguridad e Independencia Energética de 2007 de los Estados Unidos define un vehículo eléctrico enchufable como un vehículo que:
+obtiene su energía de propulsión de una batería con capacidad de por lo menos 4 kilovatio-hora (kWh);
+puede ser recargado de una fuente externa de electricidad para efectos de su poder de propulsión; y
+es un vehículo automotor liviano o automóvil tipo camioneta.
+Estas características distinguen un PHEV de los híbridos disponibles en el mercado, los cuales no utilizan electricidad de la red de suministro eléctrico.
+El Instituto de Ingenieros Electricistas y Electrónicos (IEEE) define los PHEVs de forma similar a la ley estadounidense, pero también requiere que el vehículo híbrido eléctrico pueda viajar por lo menos 10 millas (16 km) en modo exclusivamente eléctrico (PHEV-10; PHEV16km), sin consumir gasolina o diésel.
+
+
+== Desventajas y ventajas ==
+
+
+=== Desventajas ===
+
+
+==== Costo, durabilidad y seguridad de las baterías ====
+
+Entre las principales desventajes de los vehículos híbridos enchufables están el costo adicional, el mayor tamaño del paquete de baterías y su peso adicional, así como su seguridad y durabilidad. Aunque se espera que el costo total de un híbrido enchufable se reduzca en el futuro cercano, en el caso del Chevrolet Volt, que será lanzado al mercado de Estados Unidos a finales de 2010, se estima que el costo de la batería está entre USD 10.000 y USD 12.000, por lo que el precio de venta del vehículo se estima en alrededor de USD 40.000  Además el costo de la instalación de la estación de carga de las baterías en la casa se estima en alrededor de USD 1.500.
+Según los resultados de un estudio publicado en 2010 por el Consejo Nacional de Investigación de los Estados Unidos, el costo del paquete de baterías de ion de litio es de alrededor de USD 1.700/kWh de energía aprovechable, y considerando que un PHEV-10 (alcance en modo 100% eléctrico de 16 km) requiere cerca de 2,0 kWh y un PHEV-40 (alcance de 64 km) requiere alrededor de 8kWh, el costo para el fabricante del paquete de baterías es de cerca de USD 3.000 para el PHEV-10 y sube a USD 14.000 para el PHEV-40.  Según el mismo estudio, aunque para el año 2020 se espera una disminución del costo del paquete de baterías del 35%, la penetración de mercado de los PHEV sería baja debido a su relativo alto costo comparado con los vehículos convencionales, y en consecuencia, la investigación concluyó que no es de esperar que los híbridos enchufables reduzcan de forma significativa el consumo de petróleo ni las emisiones de carbono antes de 2030, a menos que ocurra un avance radical en la tecnología para producir las baterías eléctricas.  
+Según la misma investigación del Consejo Nacional de Investigación estadounidense, a pesar de que un kilómetro viajado con energía eléctrica es más barato que uno que utiliza gasolina, los ahorros en combustible durante la vida útil del vehículo no son suficientes para compensar el alto costo de compra de un híbrido enchufable, y estima que tomará décadas antes de que se alcance ese punto de equilibrio entre el costo inicial y los ahorrros en costos de operación. Adicionalmente, se concluyó que es probable que se requieran cientos de miles de millones de dólares en subsidios e incentivo del gobierno para los Estados Unidos logre una rápida penetración de mercado. 
+Las baterías fabricadas por Valence Technologies que fueron utilizadas por CalCars en las conversión de los primeros Toyota Prius a híbrido enchufable tienen un precio de USD 12.000. La firma A123 Hymotion también ofrece la conversión de híbridos convencionales a enchufable por USD 10.000, pero con una potencia inferior.
+
+
+==== Disponibilidad de infraestructura para recargar ====
+
+Aunque la mayoría de autores supone que los vehículos híbridos enchufables serán recargados durante la noche en el garage de sus casas, muchas personas viven en apartamentos, inmuebles en condominio, dormitorios y residencias en centros urbanos que no cuentan con garaje propio. De este modo, quienes estacionan habitualmente su vehículo en el espacio público no cuentan con acceso a enchufles para recargar las baterías durante la noche. Además, aún quienes tienen un garage en casa, eventualmente podría necesitar recargar en su lugar de trabajo o en los estacionamientos de centros comerciales y otros lugares públicos.   Por este motivo y para aprovechar al máximo la capacidad de los PEHVs de operar en modo exclusivamente eléctrico, es necesario que las ciudades cuenten con estaciones públicas de recarga, así como los estacionamientos de los lugares de trabajo, públicos o privados, y los estacionamientos de establecimientos comerciales. Sin embargo, esta infraestructura que actualmente es casi inexistente y va a requerir inversiones por parte de los gobiernos y empresas privadas. 
+Algunas ciudades de California y Oregón, en particular San Francisco así otras ciudades vecinas del Área de la Bahía de San Francisco y del Silicon Valley, lo mismo que algunas empresas como Google y Adobe Systems, ya cuentan con estaciones públicas de recarga y tienen planes de ampliar a corto plazo el número de estaciones disponibles, tanto para uso de vehículos 100% eléctricos como híbridos enchufables. En el caso de Google, su campus principal cuenta con 100 estaciones de recarga para una flota de híbridos que fue convertida a enchufables y puesta a disposición de sus empleados bajo la modalidad de servicio compartido.  La energía eléctrica es generada por paneles solares y este programa piloto está siendo detalladamente monitoreado, con los resultados disponibles en el sitio web de la empresa.
+
+
+==== Emisiones de carbono debidas al tipo de electricidad ====
+
+Aunque los híbridos enchufables no utilizan combustible fósil durante su operación en modo exclusivamente eléctrico, las reducciones en emisiones de carbono serán posibles solamente si las baterías han sido recargadas utilizando electricidad renovable, como la energía hidroeléctrica, solar o eólica. En Estados Unidos, sin embargo, la mayoría de la electricidad es generada con carbón y gas natural, lo que reduce e inclusive podría aumentar las emisiones de gases de efecto invernadero.
+
+
+==== Sobrecarga del sistema de suministro eléctrico ====
+La red existente de suministro eléctrico, en particular los transformadores de las redes residenciales, no cuentan con capacidad para resistir la carga adicional que se generaría durante la noche si en un mismo barrio se conenctan varios vehículos híbridos enchufables al mismo tiempo. Conforme aumente la penetración de mercado de los híbridos enchufables será necesario realizar inversiones para mejorar las redes de distribución local para atender la carga adicional de electricidad.
+
+
+==== Disponibilidad de litio y otros metales raros ====
+Con la tecnología actual basada en baterías de ion de litio y el uso de motores eléctricos, se espera que la demanda por litio, metales pesados y otros elementos raros (tales como neodimio, boro y cobalto) crecerá en forma significativa a medio y largo plazo. Las mayores reservas mundiales de litio y los otros metales se encuentran en países con gobiernos inestables u hostiles a los Estados Unidos y Europa, con lo cual se corre el riesgo de cambiar la dependencia del petróleo por la dependencia de estos otros metales. 
+
+
+=== Ventajas ===
+
+
+==== Costo de operación ====
+El costo de la electricidad para operar un híbrido enchufable en modo exclusivamente eléctrico se estima que es menos de la cuarta parte del costo de la gasolina de un vehículo tradicional.
+Por otra parte, se espera que la mayoría de los usuarios recargue sus vehículos durante la noche, con lo cual se aprovecharían las horas de baja demanda del sistema de generación eléctrica, cuya producción tiene un costo menor.
+
+
+==== Reducción de la contaminación y emisión de carbono ====
+Comparado con vehículos convencionales, los híbridos enchufables reducen la contaminación atmosférica, la dependencia en el petróleo y los combustibles fósiles y las emisiones de gases de efecto invernadero que contribuyen al calentamiento global.   Estos beneficios se originan en el hecho de que los PHEVs no utilizan combustible fósil durante su operación en modo exclusivamente eléctrico, siempre y cuando las baterías hayan sido recargadas utilizando electricidad renovable.
+Adicionalmente, la combinación de la tecnología del híbrido eléctrico enchufable con motores de combustible flexible que usen biocombustibles sustentables (tal como el etanol producido a partir de caña de azúcar) puede resultar en reducciones adicionales de emisiones de gases de efecto invernadero.
+
+
+==== Eliminación del temor de agotar la batería ====
+Una de las principales barreras para la adopción generalizade de los vehículos 100% eléctricos es el temor de los conductores de que la batería agote su carga antes de alcanzar su destino, denominado en inglés como "range anxiety". Los vehículos híbridos enchufables resuelven este problema debido a que cuentan con un motor que utiliza combustible convencional, el cual entra en funcionamiento en caso que se agote la batería o, como en el caso del Chevrolet Volt, el motor de combustión interna funciona como generador que permite recargar la batería, ampliando así de forma significativa el alcance de los híbridos enchufables en comparación con los vehículos eléctricos.
+
+
+== Remolque extensor de autonomía ==
+Existe la posibilidad de convertir un vehículo eléctrico en híbrido enchufable utilizando un remolque extensor de autonomía.
+
+
+== Ventas ==
+La familia Volt/Ampera es el vehículo híbrido eléctrico enchufable más vendido en el mundo, con más de 70.000 unidades vendidas en Norte América y Europa hasta enero de 2014. Las ventas del Volt son lideradas por los Estados Unidos, con 58.158 unidades vendidas hasta marzo de 2014.    El siguiente cuadro muestra un resumen de los modelos híbridos enchufables de mayor venta por país desde la introducción del primer PHEV en diciembre de 2008:
+
+
+== Galería ==
+
+
+== Véase también ==
+Eficiencia energética
+Estación de carga
+New European Driving Cycle
+Vehículo de cero emisiones
+Vehículo de combustible flexible
+Vehículo de combustible alternativo
+Vehículo de hidrógeno
+Vehículo eléctrico
+Vehículo híbrido eléctrico
+VIA Motors
+
+
+== Referencias ==
+
+
+== Enlaces externos ==
+ Wikimedia Commons alberga contenido multimedia sobre Vehículo híbrido eléctrico enchufable. Commons
+VIDEO Automóviles híbridos en 3 minutos
+El remolque extensor de autonomía se moderniza con Power Nomadic
+Los fabricantes de coches y los híbridos, tabla resumen, por la Asociación de híbridos enchufables CalCars.
+Los molinos de viento buscan coches con enchufe: REVE (Regulación Eólica con Vehículos Eléctricos).
+Chevrolet Volt, repostar por el precio de un café
+Vehículo Híbrido Enchufable de Toyota, en fase previa a su producción en masa
+Ford pide apoyo al Gobierno estadounidense para el desarrollo de vehículos híbridos enchufables
+La normativa alemana de eficiencia energética fuerzan a BMW, VW, Audi y Mercedes-Benz a desarrollar Híbridos Enchufables]
+Todo Sobre Híbridos Enchufables (PHEVs) - CalCars
+Plug-in Hybrid Electric Vehicles.
+Alternative Fuels and Advanced Vehicles Data Center (AFDC), including list of books and publications.
+DoE Grant for Plug In Hybrid Electric Vehicle (PHEV) Technology Acceleration And Deployment Activity.
+Energy Storage and Transportation - Idaho National Laboratory
+Plug-In.com - Plug-in and Hybrid News, Comparisons, Discussion.
+Lista de vehículos plug-in (en inglés) - Plug In America.
+PHEV Research Center. (en inglés)
+
+
+=== Noticias ===
+La carrera híbrida enchufable no ha hecho más que comenzar.
+"High-tech vehicles growing more common in region: Plug-in cars give owners a real jolt of satisfaction" (Seattle Post-Intelligencer, September 9, 2008)
+"The Plug-in Revolution:A grand plan for America’s energy woes" (Washington Monthly, October 2008)
+
+
+=== Videos ===
+Boschert, S. (March 12, 2007) "Plug-In Hybrids" Corte Madera, California: fora.tv
+Ford Escape plug-in hybrid electric sport utility vehicle (Ford Environmental, January 5, 2008)
+New Chevy Volt exterior wind tunnel testing (April 2008)
+The Race For The Electric Car (60 Minutes, CBS News, October 6, 2008)
+Daimler VideoCast: The new Sprinter Plug-In-Hybrid commercial van (19 February 2009)
+
+
+=== Libros ===
+David B. Sandalow (Editor) (2009). Plug-In Electric Vehicles: What Role for Washington? (1ra. edición). The Brookings Institution. ISBN 978-0-8157-0305-1. 
+Cefo, Nevres (2009). Two Cents per Mile: Will President Obama Make it Happen With the Stroke of a Pen?. Nevlin LLC,. ISBN 978-0615293912. 
+Boschert, Sherry (2007). Plug-in Hybrids: The Cars that will Recharge America (1ra. edición). New Society Publishers. ISBN 0865715718.

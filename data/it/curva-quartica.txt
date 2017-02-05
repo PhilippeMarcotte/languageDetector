@@ -1,0 +1,3318 @@
+In matematica una curva quartica è una curva algebrica piana di quarto grado. Può essere definita da un polinomio della forma:
+
+  
+    
+      
+        A
+        
+          x
+          
+            4
+          
+        
+        +
+        B
+        
+          x
+          
+            3
+          
+        
+        y
+        +
+        C
+        
+          x
+          
+            2
+          
+        
+        
+          y
+          
+            2
+          
+        
+        +
+        D
+        x
+        
+          y
+          
+            3
+          
+        
+        +
+        E
+        
+          y
+          
+            4
+          
+        
+        +
+        F
+        
+          x
+          
+            3
+          
+        
+        +
+        G
+        
+          x
+          
+            2
+          
+        
+        y
+        +
+        H
+        x
+        
+          y
+          
+            2
+          
+        
+        +
+        I
+        
+          y
+          
+            3
+          
+        
+        +
+        J
+        
+          x
+          
+            2
+          
+        
+        +
+        K
+        x
+        y
+        +
+        L
+        
+          y
+          
+            2
+          
+        
+        +
+        M
+        x
+        +
+        N
+        y
+        +
+        O
+        =
+        0.
+      
+    
+    {\displaystyle Ax^{4}+Bx^{3}y+Cx^{2}y^{2}+Dxy^{3}+Ey^{4}+Fx^{3}+Gx^{2}y+Hxy^{2}+Iy^{3}+Jx^{2}+Kxy+Ly^{2}+Mx+Ny+O=0.}
+  
+Una curva quartica (n=4) irriducibile può avere al massimo:
+(n-1)(n-2)/2 + 1 = 4 componenti connesse;
+(n-1)(n-2)/2 = 3 punti doppi;
+n(n-2)(n-3)(n+3)/2 = 28 rette bitangenti;
+3n(n-2) = 24 punti di flesso.
+L'equazione ha 15 coefficienti, ma la curva non cambia se li moltiplichiamo tutti per una costante non nulla. Quindi i coefficienti essenziali sono 14 e le quartiche sono 
+  
+    
+      
+        
+          ∞
+          
+            14
+          
+        
+      
+    
+    {\displaystyle \infty ^{14}}
+  . E una di esse è individuata dal suo passaggio per 14 punti generici.
+
+
+== Esempi ==
+Curva a bicorno o a feluca
+
+  
+    
+      
+        
+          y
+          
+            2
+          
+        
+        (
+        
+          a
+          
+            2
+          
+        
+        −
+        
+          x
+          
+            2
+          
+        
+        )
+        −
+        (
+        
+          x
+          
+            2
+          
+        
+        +
+        2
+        a
+        y
+        −
+        
+          a
+          
+            2
+          
+        
+        
+          )
+          
+            2
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle y^{2}(a^{2}-x^{2})-(x^{2}+2ay-a^{2})^{2}=0}
+  
+Curva a kappa o di Gutschoven
+
+  
+    
+      
+        
+          y
+          
+            2
+          
+        
+        (
+        
+          x
+          
+            2
+          
+        
+        +
+        
+          y
+          
+            2
+          
+        
+        )
+        −
+        
+          a
+          
+            2
+          
+        
+        
+          x
+          
+            2
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle y^{2}(x^{2}+y^{2})-a^{2}x^{2}=0}
+  
+Curva a sabbia cadente
+
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        
+          y
+          
+            2
+          
+        
+        −
+        
+          a
+          
+            2
+          
+        
+        
+          y
+          
+            2
+          
+        
+        +
+        1
+        =
+        0
+      
+    
+    {\displaystyle x^{2}y^{2}-a^{2}y^{2}+1=0}
+  
+Pallottole punta a punta
+
+  
+    
+      
+        
+          a
+          
+            2
+          
+        
+        
+          y
+          
+            2
+          
+        
+        −
+        
+          b
+          
+            2
+          
+        
+        
+          x
+          
+            2
+          
+        
+        −
+        
+          x
+          
+            2
+          
+        
+        
+          y
+          
+            2
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle a^{2}y^{2}-b^{2}x^{2}-x^{2}y^{2}=0}
+  
+Trisettrice di Delange
+
+  
+    
+      
+        
+          y
+          
+            2
+          
+        
+        (
+        
+          x
+          
+            2
+          
+        
+        +
+        
+          y
+          
+            2
+          
+        
+        )
+        −
+        4
+        
+          a
+          
+            2
+          
+        
+        (
+        
+          x
+          
+            2
+          
+        
+        +
+        
+          y
+          
+            2
+          
+        
+        −
+        1
+        )
+        =
+        0
+      
+    
+    {\displaystyle y^{2}(x^{2}+y^{2})-4a^{2}(x^{2}+y^{2}-1)=0}
+  
+Curva di Edge quadriconnessa
+
+  
+    
+      
+        25
+        (
+        
+          x
+          
+            4
+          
+        
+        +
+        
+          y
+          
+            4
+          
+        
+        +
+        1
+        )
+        −
+        34
+        (
+        
+          x
+          
+            2
+          
+        
+        
+          y
+          
+            2
+          
+        
+        +
+        
+          x
+          
+            2
+          
+        
+        +
+        
+          y
+          
+            2
+          
+        
+        )
+        =
+        0
+      
+    
+    {\displaystyle 25(x^{4}+y^{4}+1)-34(x^{2}y^{2}+x^{2}+y^{2})=0}
+  
+Curva a uovo storto
+
+  
+    
+      
+        
+          x
+          
+            4
+          
+        
+        +
+        
+          y
+          
+            4
+          
+        
+        +
+        2
+        
+          x
+          
+            2
+          
+        
+        
+          y
+          
+            2
+          
+        
+        −
+        
+          x
+          
+            3
+          
+        
+        −
+        
+          y
+          
+            3
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle x^{4}+y^{4}+2x^{2}y^{2}-x^{3}-y^{3}=0}
+  
+Curva a uovo dritto
+
+  
+    
+      
+        5
+        
+          x
+          
+            4
+          
+        
+        +
+        
+          y
+          
+            4
+          
+        
+        +
+        10
+        
+          x
+          
+            2
+          
+        
+        
+          y
+          
+            2
+          
+        
+        −
+        y
+        =
+        0
+      
+    
+    {\displaystyle 5x^{4}+y^{4}+10x^{2}y^{2}-y=0}
+  
+Uovo di Keplero
+
+  
+    
+      
+        (
+        
+          x
+          
+            2
+          
+        
+        +
+        
+          y
+          
+            2
+          
+        
+        
+          )
+          
+            2
+          
+        
+        −
+        a
+        
+          x
+          
+            3
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle (x^{2}+y^{2})^{2}-ax^{3}=0}
+  
+Curva a uovo doppio
+
+  
+    
+      
+        [
+        
+          y
+          
+            2
+          
+        
+        (
+        1
+        −
+        2
+        a
+        )
+        −
+        
+          x
+          
+            2
+          
+        
+        +
+        
+          a
+          
+            2
+          
+        
+        
+          b
+          
+            2
+          
+        
+        −
+        1
+        
+          ]
+          
+            2
+          
+        
+        +
+        4
+        
+          x
+          
+            2
+          
+        
+        [
+        
+          y
+          
+            2
+          
+        
+        (
+        1
+        −
+        b
+        
+          )
+          
+            2
+          
+        
+        −
+        1
+        ]
+        =
+        0
+      
+    
+    {\displaystyle [y^{2}(1-2a)-x^{2}+a^{2}b^{2}-1]^{2}+4x^{2}[y^{2}(1-b)^{2}-1]=0}
+  
+Curva di Granville
+
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        
+          y
+          
+            2
+          
+        
+        +
+        (
+        x
+        −
+        a
+        )
+        (
+        x
+        −
+        1
+        )
+        =
+        0
+      
+    
+    {\displaystyle x^{2}y^{2}+(x-a)(x-1)=0}
+  
+Curva di Helton-Vinnikov
+
+  
+    
+      
+        2
+        
+          x
+          
+            4
+          
+        
+        +
+        
+          y
+          
+            4
+          
+        
+        +
+        1
+        −
+        3
+        
+          x
+          
+            2
+          
+        
+        
+          y
+          
+            2
+          
+        
+        −
+        3
+        
+          x
+          
+            2
+          
+        
+        +
+        
+          y
+          
+            2
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle 2x^{4}+y^{4}+1-3x^{2}y^{2}-3x^{2}+y^{2}=0}
+  
+Curva di Klein
+
+  
+    
+      
+        
+          x
+          
+            3
+          
+        
+        y
+        +
+        a
+        
+          y
+          
+            3
+          
+        
+        +
+        
+          a
+          
+            3
+          
+        
+        x
+        =
+        0
+      
+    
+    {\displaystyle x^{3}y+ay^{3}+a^{3}x=0}
+  
+Curva a fagiolo o a pisello
+
+  
+    
+      
+        
+          x
+          
+            4
+          
+        
+        +
+        
+          y
+          
+            4
+          
+        
+        +
+        
+          x
+          
+            2
+          
+        
+        
+          y
+          
+            2
+          
+        
+        −
+        x
+        (
+        
+          x
+          
+            2
+          
+        
+        +
+        
+          y
+          
+            2
+          
+        
+        )
+        =
+        0
+      
+    
+    {\displaystyle x^{4}+y^{4}+x^{2}y^{2}-x(x^{2}+y^{2})=0}
+  
+Superellisse o Curva di Lamè
+
+  
+    
+      
+        
+          x
+          
+            4
+          
+        
+        
+          /
+        
+        
+          a
+          
+            4
+          
+        
+        +
+        
+          y
+          
+            4
+          
+        
+        
+          /
+        
+        
+          b
+          
+            4
+          
+        
+        −
+        
+          c
+          
+            4
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle x^{4}/a^{4}+y^{4}/b^{4}-c^{4}=0}
+  
+Supercerchio
+
+  
+    
+      
+        
+          x
+          
+            4
+          
+        
+        +
+        
+          y
+          
+            4
+          
+        
+        −
+        
+          c
+          
+            4
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle x^{4}+y^{4}-c^{4}=0}
+  
+Curva a fiocco
+
+  
+    
+      
+        
+          x
+          
+            4
+          
+        
+        +
+        
+          y
+          
+            3
+          
+        
+        −
+        
+          x
+          
+            2
+          
+        
+        y
+        =
+        0
+      
+    
+    {\displaystyle x^{4}+y^{3}-x^{2}y=0}
+  
+Curva intrecciata
+
+  
+    
+      
+        (
+        
+          x
+          
+            2
+          
+        
+        +
+        
+          y
+          
+            2
+          
+        
+        
+          )
+          
+            2
+          
+        
+        −
+        2
+        
+          x
+          
+            3
+          
+        
+        −
+        6
+        
+          y
+          
+            2
+          
+        
+        x
+        +
+        
+          x
+          
+            2
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle (x^{2}+y^{2})^{2}-2x^{3}-6y^{2}x+x^{2}=0}
+  
+Curva a nodo
+
+  
+    
+      
+        (
+        
+          x
+          
+            2
+          
+        
+        −
+        1
+        
+          )
+          
+            2
+          
+        
+        −
+        
+          y
+          
+            2
+          
+        
+        (
+        2
+        y
+        +
+        3
+        )
+        =
+        0
+      
+    
+    {\displaystyle (x^{2}-1)^{2}-y^{2}(2y+3)=0}
+  
+Campila di Eudosso
+
+  
+    
+      
+        
+          x
+          
+            4
+          
+        
+        −
+        
+          x
+          
+            2
+          
+        
+        −
+        
+          y
+          
+            2
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle x^{4}-x^{2}-y^{2}=0}
+  
+Curva Cardioide
+
+  
+    
+      
+        (
+        
+          x
+          
+            2
+          
+        
+        +
+        
+          y
+          
+            2
+          
+        
+        −
+        x
+        
+          )
+          
+            2
+          
+        
+        −
+        
+          x
+          
+            2
+          
+        
+        −
+        
+          y
+          
+            2
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle (x^{2}+y^{2}-x)^{2}-x^{2}-y^{2}=0}
+  
+Curva Ampersand trinodata
+
+  
+    
+      
+        (
+        
+          y
+          
+            2
+          
+        
+        −
+        
+          x
+          
+            2
+          
+        
+        )
+        (
+        x
+        −
+        1
+        )
+        (
+        2
+        x
+        −
+        3
+        )
+        −
+        4
+        (
+        
+          x
+          
+            2
+          
+        
+        +
+        
+          y
+          
+            2
+          
+        
+        −
+        2
+        x
+        
+          )
+          
+            2
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle (y^{2}-x^{2})(x-1)(2x-3)-4(x^{2}+y^{2}-2x)^{2}=0}
+  
+Curva di Jerabek
+
+  
+    
+      
+        (
+        
+          x
+          
+            2
+          
+        
+        +
+        
+          y
+          
+            2
+          
+        
+        )
+        (
+        x
+        −
+        1
+        
+          )
+          
+            2
+          
+        
+        −
+        4
+        (
+        
+          x
+          
+            2
+          
+        
+        +
+        
+          y
+          
+            2
+          
+        
+        −
+        x
+        
+          )
+          
+            2
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle (x^{2}+y^{2})(x-1)^{2}-4(x^{2}+y^{2}-x)^{2}=0}
+  
+Curva a svastica
+
+  
+    
+      
+        
+          x
+          
+            4
+          
+        
+        −
+        
+          y
+          
+            4
+          
+        
+        −
+        x
+        y
+        =
+        0
+      
+    
+    {\displaystyle x^{4}-y^{4}-xy=0}
+  
+Curva di Jubel
+
+  
+    
+      
+        (
+        
+          x
+          
+            2
+          
+        
+        −
+        
+          y
+          
+            2
+          
+        
+        
+          )
+          
+            2
+          
+        
+        −
+        
+          a
+          
+            2
+          
+        
+        
+          x
+          
+            2
+          
+        
+        −
+        
+          b
+          
+            2
+          
+        
+        
+          y
+          
+            2
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle (x^{2}-y^{2})^{2}-a^{2}x^{2}-b^{2}y^{2}=0}
+  
+Ovale di Mandelbrot
+
+  
+    
+      
+        (
+        
+          x
+          
+            2
+          
+        
+        +
+        
+          y
+          
+            2
+          
+        
+        +
+        x
+        
+          )
+          
+            2
+          
+        
+        +
+        
+          y
+          
+            2
+          
+        
+        −
+        4
+        =
+        0
+      
+    
+    {\displaystyle (x^{2}+y^{2}+x)^{2}+y^{2}-4=0}
+  
+Curva bicuspidata
+
+  
+    
+      
+        (
+        
+          x
+          
+            2
+          
+        
+        −
+        1
+        )
+        (
+        x
+        −
+        1
+        
+          )
+          
+            2
+          
+        
+        +
+        (
+        
+          y
+          
+            2
+          
+        
+        −
+        1
+        
+          )
+          
+            2
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle (x^{2}-1)(x-1)^{2}+(y^{2}-1)^{2}=0}
+  
+Curva deltoide tricuspidata o di Steiner
+
+  
+    
+      
+        (
+        
+          x
+          
+            2
+          
+        
+        +
+        
+          y
+          
+            2
+          
+        
+        
+          )
+          
+            2
+          
+        
+        +
+        18
+        
+          a
+          
+            2
+          
+        
+        (
+        
+          x
+          
+            2
+          
+        
+        +
+        
+          y
+          
+            2
+          
+        
+        )
+        −
+        8
+        a
+        (
+        
+          x
+          
+            3
+          
+        
+        −
+        3
+        x
+        
+          y
+          
+            2
+          
+        
+        )
+        −
+        27
+        
+          a
+          
+            4
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle (x^{2}+y^{2})^{2}+18a^{2}(x^{2}+y^{2})-8a(x^{3}-3xy^{2})-27a^{4}=0}
+  
+Lemniscata di Bernoulli
+
+  
+    
+      
+        (
+        
+          x
+          
+            2
+          
+        
+        +
+        
+          y
+          
+            2
+          
+        
+        
+          )
+          
+            2
+          
+        
+        −
+        a
+        (
+        
+          x
+          
+            2
+          
+        
+        −
+        
+          y
+          
+            2
+          
+        
+        )
+        =
+        0
+      
+    
+    {\displaystyle (x^{2}+y^{2})^{2}-a(x^{2}-y^{2})=0}
+  
+Lemniscata di Gerono o Curva a otto
+
+  
+    
+      
+        
+          x
+          
+            4
+          
+        
+        −
+        a
+        (
+        
+          x
+          
+            2
+          
+        
+        −
+        
+          y
+          
+            2
+          
+        
+        )
+        =
+        0
+      
+    
+    {\displaystyle x^{4}-a(x^{2}-y^{2})=0}
+  
+Lemniscata di Booth o Ippopede di Proclo
+
+  
+    
+      
+        (
+        
+          x
+          
+            2
+          
+        
+        +
+        
+          y
+          
+            2
+          
+        
+        
+          )
+          
+            2
+          
+        
+        −
+        a
+        
+          x
+          
+            2
+          
+        
+        −
+        b
+        
+          y
+          
+            2
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle (x^{2}+y^{2})^{2}-ax^{2}-by^{2}=0}
+  
+Curva di Wassenaar
+
+  
+    
+      
+        (
+        
+          x
+          
+            2
+          
+        
+        −
+        y
+        
+          )
+          
+            2
+          
+        
+        +
+        a
+        
+          x
+          
+            2
+          
+        
+        −
+        1
+        =
+        0
+      
+    
+    {\displaystyle (x^{2}-y)^{2}+ax^{2}-1=0}
+  
+Curva Multiovale
+
+  
+    
+      
+        a
+        (
+        
+          x
+          
+            4
+          
+        
+        +
+        
+          y
+          
+            4
+          
+        
+        )
+        +
+        b
+        
+          y
+          
+            3
+          
+        
+        +
+        c
+        
+          x
+          
+            2
+          
+        
+        y
+        +
+        d
+        
+          x
+          
+            2
+          
+        
+        +
+        e
+        
+          y
+          
+            2
+          
+        
+        +
+        f
+        =
+        0
+      
+    
+    {\displaystyle a(x^{4}+y^{4})+by^{3}+cx^{2}y+dx^{2}+ey^{2}+f=0}
+  
+Lumaca di Pascal o di Durer o Concoide del cerchio
+
+  
+    
+      
+        (
+        
+          x
+          
+            2
+          
+        
+        +
+        
+          y
+          
+            2
+          
+        
+        −
+        a
+        x
+        
+          )
+          
+            2
+          
+        
+        −
+        
+          b
+          
+            2
+          
+        
+        (
+        
+          x
+          
+            2
+          
+        
+        +
+        
+          y
+          
+            2
+          
+        
+        )
+        =
+        0
+      
+    
+    {\displaystyle (x^{2}+y^{2}-ax)^{2}-b^{2}(x^{2}+y^{2})=0}
+  
+Curva piriforme o a goccia d'acqua
+
+  
+    
+      
+        (
+        
+          x
+          
+            2
+          
+        
+        +
+        
+          y
+          
+            2
+          
+        
+        
+          )
+          
+            2
+          
+        
+        −
+        a
+        (
+        
+          x
+          
+            2
+          
+        
+        −
+        
+          y
+          
+            2
+          
+        
+        )
+        =
+        0
+      
+    
+    {\displaystyle (x^{2}+y^{2})^{2}-a(x^{2}-y^{2})=0}
+  
+Curve bifogliate
+
+  
+    
+      
+        
+          x
+          
+            4
+          
+        
+        +
+        
+          y
+          
+            4
+          
+        
+        +
+        c
+        
+          x
+          
+            2
+          
+        
+        
+          y
+          
+            2
+          
+        
+        +
+        d
+        x
+        
+          y
+          
+            2
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle x^{4}+y^{4}+cx^{2}y^{2}+dxy^{2}=0}
+  
+Curve trifogliate
+
+  
+    
+      
+        
+          x
+          
+            4
+          
+        
+        +
+        
+          y
+          
+            4
+          
+        
+        +
+        d
+        
+          x
+          
+            2
+          
+        
+        
+          y
+          
+            2
+          
+        
+        +
+        e
+        x
+        
+          y
+          
+            2
+          
+        
+        +
+        f
+        
+          x
+          
+            3
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle x^{4}+y^{4}+dx^{2}y^{2}+exy^{2}+fx^{3}=0}
+  
+Curva del diavolo
+
+  
+    
+      
+        
+          x
+          
+            4
+          
+        
+        −
+        
+          y
+          
+            4
+          
+        
+        +
+        
+          a
+          
+            2
+          
+        
+        
+          y
+          
+            2
+          
+        
+        −
+        
+          b
+          
+            2
+          
+        
+        
+          x
+          
+            2
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle x^{4}-y^{4}+a^{2}y^{2}-b^{2}x^{2}=0}
+  
+Motore elettrico
+
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        (
+        
+          x
+          
+            2
+          
+        
+        −
+        100
+        )
+        −
+        
+          y
+          
+            2
+          
+        
+        (
+        
+          y
+          
+            2
+          
+        
+        −
+        96
+        )
+        =
+        0
+      
+    
+    {\displaystyle x^{2}(x^{2}-100)-y^{2}(y^{2}-96)=0}
+  
+Curva Capricornoide
+
+  
+    
+      
+        
+          a
+          
+            2
+          
+        
+        
+          x
+          
+            2
+          
+        
+        (
+        
+          x
+          
+            2
+          
+        
+        +
+        
+          y
+          
+            2
+          
+        
+        )
+        −
+        b
+        (
+        a
+        y
+        −
+        
+          x
+          
+            2
+          
+        
+        −
+        
+          y
+          
+            2
+          
+        
+        
+          )
+          
+            2
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle a^{2}x^{2}(x^{2}+y^{2})-b(ay-x^{2}-y^{2})^{2}=0}
+  
+Perle di Sluze
+
+  
+    
+      
+        
+          y
+          
+            L
+          
+        
+        −
+        a
+        (
+        b
+        −
+        x
+        
+          )
+          
+            M
+          
+        
+        
+          x
+          
+            N
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle y^{L}-a(b-x)^{M}x^{N}=0}
+  
+ove L e M+N sono interi non superiori a 4
+Curva di Plucker
+
+  
+    
+      
+        (
+        
+          x
+          
+            2
+          
+        
+        −
+        
+          a
+          
+            2
+          
+        
+        
+          )
+          
+            2
+          
+        
+        +
+        (
+        
+          y
+          
+            2
+          
+        
+        −
+        
+          a
+          
+            2
+          
+        
+        
+          )
+          
+            2
+          
+        
+        −
+        
+          b
+          
+            2
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle (x^{2}-a^{2})^{2}+(y^{2}-a^{2})^{2}-b^{2}=0}
+  
+Curva a pesce
+
+  
+    
+      
+        (
+        
+          x
+          
+            2
+          
+        
+        −
+        
+          y
+          
+            2
+          
+        
+        +
+        
+          a
+          
+            2
+          
+        
+        −
+        a
+        b
+        
+          )
+          
+            2
+          
+        
+        −
+        (
+        
+          a
+          
+            2
+          
+        
+        −
+        
+          y
+          
+            2
+          
+        
+        )
+        (
+        2
+        x
+        +
+        b
+        
+          )
+          
+            2
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle (x^{2}-y^{2}+a^{2}-ab)^{2}-(a^{2}-y^{2})(2x+b)^{2}=0}
+  
+Concoide di Durer
+
+  
+    
+      
+        
+          y
+          
+            2
+          
+        
+        −
+        y
+        x
+        −
+        a
+        y
+        −
+        
+          b
+          
+            2
+          
+        
+        
+          )
+          
+            2
+          
+        
+        +
+        (
+        
+          y
+          
+            2
+          
+        
+        −
+        
+          b
+          
+            2
+          
+        
+        )
+        (
+        a
+        −
+        y
+        −
+        x
+        
+          )
+          
+            2
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle y^{2}-yx-ay-b^{2})^{2}+(y^{2}-b^{2})(a-y-x)^{2}=0}
+  
+Concoide di Kulp
+
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        
+          y
+          
+            2
+          
+        
+        +
+        
+          a
+          
+            2
+          
+        
+        
+          y
+          
+            2
+          
+        
+        −
+        
+          b
+          
+            2
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle x^{2}y^{2}+a^{2}y^{2}-b^{2}=0}
+  
+Concoide di Nicomede
+
+  
+    
+      
+        (
+        x
+        −
+        a
+        
+          )
+          
+            2
+          
+        
+        (
+        
+          x
+          
+            2
+          
+        
+        +
+        
+          y
+          
+            2
+          
+        
+        )
+        −
+        
+          b
+          
+            2
+          
+        
+        
+          x
+          
+            2
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle (x-a)^{2}(x^{2}+y^{2})-b^{2}x^{2}=0}
+  
+Curva cruciforme
+
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        
+          y
+          
+            2
+          
+        
+        −
+        
+          a
+          
+            2
+          
+        
+        (
+        
+          x
+          
+            2
+          
+        
+        +
+        
+          y
+          
+            2
+          
+        
+        )
+        =
+        0
+      
+    
+    {\displaystyle x^{2}y^{2}-a^{2}(x^{2}+y^{2})=0}
+  
+Sezione spirica o di Perseo
+
+  
+    
+      
+        (
+        
+          x
+          
+            2
+          
+        
+        +
+        
+          y
+          
+            2
+          
+        
+        
+          )
+          
+            2
+          
+        
+        +
+        d
+        
+          x
+          
+            2
+          
+        
+        +
+        e
+        
+          y
+          
+            2
+          
+        
+        +
+        f
+        =
+        0
+      
+    
+    {\displaystyle (x^{2}+y^{2})^{2}+dx^{2}+ey^{2}+f=0}
+  
+Sezione torica
+
+  
+    
+      
+        (
+        
+          x
+          
+            2
+          
+        
+        +
+        
+          y
+          
+            2
+          
+        
+        
+          )
+          
+            2
+          
+        
+        +
+        a
+        
+          x
+          
+            2
+          
+        
+        +
+        b
+        
+          y
+          
+            2
+          
+        
+        +
+        c
+        x
+        +
+        d
+        y
+        +
+        e
+        =
+        0
+      
+    
+    {\displaystyle (x^{2}+y^{2})^{2}+ax^{2}+by^{2}+cx+dy+e=0}
+  
+Ovali di Cartesio
+
+  
+    
+      
+        [
+        (
+        1
+        −
+        
+          a
+          
+            2
+          
+        
+        )
+        (
+        
+          x
+          
+            2
+          
+        
+        +
+        
+          y
+          
+            2
+          
+        
+        )
+        +
+        2
+        
+          a
+          
+            2
+          
+        
+        b
+        x
+        +
+        
+          c
+          
+            2
+          
+        
+        −
+        
+          a
+          
+            2
+          
+        
+        
+          b
+          
+            2
+          
+        
+        
+          ]
+          
+            2
+          
+        
+        −
+        4
+        
+          c
+          
+            2
+          
+        
+        (
+        
+          x
+          
+            2
+          
+        
+        +
+        
+          y
+          
+            2
+          
+        
+        )
+        =
+        0
+      
+    
+    {\displaystyle [(1-a^{2})(x^{2}+y^{2})+2a^{2}bx+c^{2}-a^{2}b^{2}]^{2}-4c^{2}(x^{2}+y^{2})=0}
+  
+Ovali di Cassini
+
+  
+    
+      
+        (
+        
+          x
+          
+            2
+          
+        
+        +
+        
+          y
+          
+            2
+          
+        
+        +
+        
+          a
+          
+            2
+          
+        
+        
+          )
+          
+            2
+          
+        
+        −
+        4
+        
+          a
+          
+            2
+          
+        
+        
+          x
+          
+            2
+          
+        
+        −
+        
+          b
+          
+            4
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle (x^{2}+y^{2}+a^{2})^{2}-4a^{2}x^{2}-b^{4}=0}
+  
+Curve di Jacobi
+
+  
+    
+      
+        
+          y
+          
+            2
+          
+        
+        =
+        a
+        
+          x
+          
+            4
+          
+        
+        −
+        2
+        b
+        
+          x
+          
+            2
+          
+        
+        +
+        1
+      
+    
+    {\displaystyle y^{2}=ax^{4}-2bx^{2}+1}
+  
+Curve di Edwards
+
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        +
+        
+          y
+          
+            2
+          
+        
+        =
+        a
+        (
+        1
+        −
+        b
+        
+          x
+          
+            2
+          
+        
+        
+          y
+          
+            2
+          
+        
+        )
+      
+    
+    {\displaystyle x^{2}+y^{2}=a(1-bx^{2}y^{2})}
+  
+Curve di Edwards ritorte
+
+  
+    
+      
+        a
+        
+          x
+          
+            2
+          
+        
+        
+          y
+          
+            2
+          
+        
+        =
+        b
+        
+          x
+          
+            2
+          
+        
+        +
+        
+          y
+          
+            2
+          
+        
+        −
+        1
+      
+    
+    {\displaystyle ax^{2}y^{2}=bx^{2}+y^{2}-1}
+  
+Curva di Trott a 28 bitangenti
+
+  
+    
+      
+        144
+        (
+        
+          x
+          
+            4
+          
+        
+        +
+        
+          y
+          
+            4
+          
+        
+        )
+        −
+        225
+        (
+        
+          x
+          
+            2
+          
+        
+        +
+        
+          y
+          
+            2
+          
+        
+        )
+        +
+        350
+        
+          x
+          
+            2
+          
+        
+        
+          y
+          
+            2
+          
+        
+        +
+        81
+        =
+        0
+      
+    
+    {\displaystyle 144(x^{4}+y^{4})-225(x^{2}+y^{2})+350x^{2}y^{2}+81=0}
+  
+Curva a 8 flessi
+
+  
+    
+      
+        
+          x
+          
+            4
+          
+        
+        +
+        
+          y
+          
+            4
+          
+        
+        −
+        
+          x
+          
+            2
+          
+        
+        
+          y
+          
+            2
+          
+        
+        −
+        
+          x
+          
+            2
+          
+        
+        −
+        
+          y
+          
+            2
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle x^{4}+y^{4}-x^{2}y^{2}-x^{2}-y^{2}=0}
+  
+Pedali del cerchio
+
+  
+    
+      
+        
+          a
+          
+            2
+          
+        
+        [
+        (
+        u
+        −
+        x
+        
+          )
+          
+            2
+          
+        
+        +
+        (
+        v
+        −
+        y
+        
+          )
+          
+            2
+          
+        
+        ]
+        −
+        (
+        
+          x
+          
+            2
+          
+        
+        +
+        
+          y
+          
+            2
+          
+        
+        −
+        u
+        x
+        −
+        v
+        y
+        
+          )
+          
+            2
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle a^{2}[(u-x)^{2}+(v-y)^{2}]-(x^{2}+y^{2}-ux-vy)^{2}=0}
+  
+ove il cerchio è ... 
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        +
+        
+          y
+          
+            2
+          
+        
+        =
+        
+          a
+          
+            2
+          
+        
+      
+    
+    {\displaystyle x^{2}+y^{2}=a^{2}}
+   ... e il punto pedale è ... 
+  
+    
+      
+        (
+        u
+        ,
+        v
+        )
+      
+    
+    {\displaystyle (u,v)}
+  
+Pedali dell'ellisse
+
+  
+    
+      
+        
+          a
+          
+            2
+          
+        
+        (
+        u
+        −
+        x
+        
+          )
+          
+            2
+          
+        
+        +
+        
+          b
+          
+            2
+          
+        
+        (
+        v
+        −
+        y
+        
+          )
+          
+            2
+          
+        
+        −
+        (
+        
+          x
+          
+            2
+          
+        
+        +
+        
+          y
+          
+            2
+          
+        
+        −
+        u
+        x
+        −
+        v
+        y
+        
+          )
+          
+            2
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle a^{2}(u-x)^{2}+b^{2}(v-y)^{2}-(x^{2}+y^{2}-ux-vy)^{2}=0}
+  
+ove l'ellisse è ...
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        
+          /
+        
+        
+          a
+          
+            2
+          
+        
+        +
+        
+          y
+          
+            2
+          
+        
+        
+          /
+        
+        
+          b
+          
+            2
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle x^{2}/a^{2}+y^{2}/b^{2}=1}
+  ... e il punto pedale è ... 
+  
+    
+      
+        (
+        u
+        ,
+        v
+        )
+      
+    
+    {\displaystyle (u,v)}
+  
+Pedali dell'iperbole
+
+  
+    
+      
+        
+          a
+          
+            2
+          
+        
+        (
+        u
+        −
+        x
+        
+          )
+          
+            2
+          
+        
+        −
+        
+          b
+          
+            2
+          
+        
+        (
+        v
+        −
+        y
+        
+          )
+          
+            2
+          
+        
+        −
+        (
+        
+          x
+          
+            2
+          
+        
+        +
+        
+          y
+          
+            2
+          
+        
+        −
+        u
+        x
+        −
+        v
+        y
+        
+          )
+          
+            2
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle a^{2}(u-x)^{2}-b^{2}(v-y)^{2}-(x^{2}+y^{2}-ux-vy)^{2}=0}
+  
+ove l'iperbole è ...
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        
+          /
+        
+        
+          a
+          
+            2
+          
+        
+        −
+        
+          y
+          
+            2
+          
+        
+        
+          /
+        
+        
+          b
+          
+            2
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle x^{2}/a^{2}-y^{2}/b^{2}=1}
+  ... e il punto pedale è ... 
+  
+    
+      
+        (
+        u
+        ,
+        v
+        )
+      
+    
+    {\displaystyle (u,v)}
+  
+
+
+== In Geometria descrittiva ==
+
+Nella generalità dei casi, la quartica è una curve d'intersezione tra superfici quadriche. I punti di questa quartica si ottengono come punti comuni a sezioni complanari di tali superfici eseguite con un fascio di piani.
+Le dette quartiche d'intersezione possono classificarsi secondo le seguenti situazioni reciproche:
+1. Quando soltanto alcune generatrici di una superficie sono secanti l'altra, per cui la quartica in comune è formata da un solo ramo e viene detta monogrammica.
+2. Quando tutte le generatrici di una superficie sono secanti l'altra. la quartica comune è composta da due rami detta digrammica.
+3. Finestra di Viviani, un caso particolare di quartica digrammica, in cui una generatrice di una delle due superfici intersecanti, tange l'altra.
+Le quartiche possono ammettere uno o due piani di simmetria, e questo dipende dalla reciproca posizione degli assi delle due superfici. Per esempio se gli assi sono complanari, la quartica d'intersezione ammette un piano di simmetria, la giacitura dell'altro piano di simmetria si riscontra nei casi in cui gli assi sono perpendicolari tra di loro.
+La determinazione dei punti costituenti la quartica avviene con l'ausilio di un fascio di piani ausiliari secanti le due superfici. la scelta della giacitura di detti piani è fatta col fine di avere delle sezioni semplici da rappresentare. Ad esempio le sezioni con piani ortogonali all'asse di rotazione sono circonferenze e vengono rappresentate senza difficoltà se detto asse è perpendicolare ad uno dei piani di proiezione principali, altrimenti, si assumono altri piani di proiezione, ausiliari, di cui almeno uno abbia la giacitura perpendicolare all'asse; le sezioni proiettate su questi piani ausiliari risultano in vera forma
+
+
+== Voci correlate ==
+Curva quintica
+Curva sestica
+
+
+== Altri progetti ==
+
+ Wikimedia Commons contiene immagini o altri file su Curva quartica
+
+
+== Collegamenti esterni ==
+(EN) Breve definizione delle curve quartiche, mathworld.wolfram.com.
+Programma per tracciare le curve quartiche, ascifoni.com.
+Casi d'intersezione tra superfici di rotazione, assex.altervista.org.

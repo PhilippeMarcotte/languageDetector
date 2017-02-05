@@ -1,0 +1,170 @@
+Une chaîne de transport d'électrons est une série d'enzymes et de coenzymes qui réalise globalement deux actions simultanément : elle transfère des électrons depuis des donneurs d'électrons vers des accepteurs d'électrons au cours de réactions d'oxydoréduction successives, et elle assure le pompage de protons ou d'autres cations à travers une membrane biologique. Ceci a pour effet de générer un gradient de concentration de protons à travers cette membrane, d'où un gradient électrochimique dont l'énergie potentielle peut être récupérée par des ATP synthases pour phosphoryler des molécules d'ADP en ATP. L'accepteur final d'électrons est généralement l'oxygène chez les organismes aérobies, mais peut être un autre oxydant chez certaines espèces.
+Les chaînes de transport d'électrons ont pour fonction d'extraire l'énergie des électrons à haut potentiel de transfert issus essentiellement d'une part de la dégradation des biomolécules dans le cadre de la respiration cellulaire, et d'autre part de l'excitation des centres réactionnels des photosystèmes dans le cadre de la photosynthèse. Chez les eucaryotes, il existe ainsi une importante chaîne de transport d'électrons dans la membrane mitochondriale interne où se déroule la phosphorylation oxydative utilisant une ATP synthase, tandis que les plantes ont une seconde chaîne de transfert d'électrons dans la membrane des thylakoïdes au sein de leurs chloroplastes, où se déroule la photosynthèse. Chez les bactéries, la chaîne de transport d'électrons se trouve dans leur membrane plasmique.
+Dans les chloroplastes, la lumière permet d'oxyder l'eau en oxygène d'une part, et de réduire le NADP+ en NADPH d'autre part, avec injection concomitante de protons dans le lumen des thylakoïdes. Dans les mitochondries, l'oxygène est réduit en eau tandis que le NADH est oxydé en NAD+ et que le succinate est converti en fumarate, avec expulsion concomitante de protons hors de la matrice mitochondriale.
+Les chaînes de transport d'électrons sont des sources importantes de dérivés réactifs de l'oxygène par transfert inopiné d'électrons à des molécules d'oxygène conduisant à la formation d'ions superoxyde O2• – et peroxyde O22– susceptibles d'aggraver le stress oxydant.
+
+
+== Introduction ==
+Une chaîne de transport d'électrons est constituée d'une suite de réactions d'oxydoréduction isolées spatialement au cours desquelles des électrons sont transférés de donneurs d'électrons à des accepteurs d'électrons. La force sous-jacente à ces réactions est la variation d'enthalpie libre ΔG : toute réaction conduisant à une baisse d'enthalpie libre entre substrats et produits de réaction peut se produire spontanément du point de vue thermodynamique.
+Le rôle des chaînes de transport d'électrons est de générer un gradient électrochimique résultant d'un gradient de concentration de protons à travers une membrane biologique — membrane mitochondriale interne chez les eucaryotes, membrane des thylakoïdes chez les plantes, membrane plasmique chez les procaryotes — au cours de ces réactions d'oxydoréduction. Le reflux des protons à travers la membrane permet d'actionner un rotor moléculaire dans une ATP synthase, enzyme hautement conservée à travers les trois domaines du vivant, et ainsi de fournir l'énergie nécessaire à la phosphorylation de l'ADP en ATP.
+
+
+== Chaînes respiratoires de la phosphorylation oxydative ==
+
+
+=== Dans les mitochondries ===
+
+La chaîne respiratoire détaillée ici est celle des mitochondries de mammifères :
+NADH → NADH déshydrogénase → ubiquinone (coenzyme Q10) → coenzyme Q-cytochrome c réductase → cytochrome c → cytochrome c oxydase → O2 ;
+succinate → succinate déshydrogénase → ubiquinone (coenzyme Q10) → coenzyme Q-cytochrome c réductase → cytochrome c → cytochrome c oxydase → O2.
+Elle se compose des éléments suivants :
+Les électrons à haut potentiel de transfert du NADH sont transmis à la coenzyme Q10 (ubiquinone) par la NADH déshydrogénase, ou complexe I. La coenzyme Q10 réduite est l'ubiquinol Q10H2.
+Les électrons à haut potentiel de transfert du succinate sont transmis à la coenzyme Q10 par la succinate déshydrogénase, ou coenzyme II, donnant également de l'ubiquinol Q10H2.
+L'ubiquinol Q10H2 transfère ses électrons à deux cytochromes c sous l'action de la coenzyme Q-cytochrome c réductase, ou complexe III.
+Quatre cytochromes c transfèrent chacun leur électron à une molécule d'oxygène sous l'action de la cytochrome c oxydase, ou complexe IV. Il se forme deux molécules d'eau.
+Chacun de ces quatre complexes respiratoires présente une structure extrêmement complexe partiellement incluse dans la membrane mitochondriale interne. Hormis le complexe II, ce sont des pompes à protons. Les électrons circulent entre ces structures sur des transporteurs d'électrons liposolubles ou hydrophiles selon les cas.
+L'énergie libérée par la circulation des électrons le long de la chaîne respiratoire permet de pomper des protons de la matrice mitochondriale à travers la membrane mitochondriale interne pour les injecter dans l'espace intermembranaire mitochondrial. Ceci génère un gradient de concentration de protons à travers cette membrane, correspondant à un gradient électrochimique noté ΔΨ. Le reflux des protons vers la matrice mitochondriale à travers la membrane mitochondriale interne fournit l'énergie nécessaire à la biosynthèse de l'ATP par l'ATP synthase.
+La réaction ADP3- + H+ + Pi2- → ATP4- + H2O de synthèse de l'ATP est une réaction endergonique, elle a besoin d'énergie pour avoir lieu. Sa variation d'enthalpie libre standard (ΔG°) est égale à +30 kJ·mol-1. Trois étapes de la chaîne respiratoire libèrent suffisamment d'énergie (leur variation d'enthalpie libre standard ΔG° est inférieure ou égale à -30 kJ·mol-1) pour former de l'ATP :
+
+
+==== NADH déshydrogénase ====
+
+Le complexe I, ou NADH déshydrogénase, transfère deux électrons du NADH à une molécule d'ubiquinone, la coenzyme Q10, qui est un transporteur d'électrons liposoluble. Cette dernière est par conséquent réduite en ubiquinol Q10H2, qui diffuse librement dans la membrane mitochondriale interne. Le complexe I pompe quatre protons de la matrice mitochondriale vers l'espace intermembranaire, ce qui contribue à générer un gradient de concentration de protons à travers la membrane interne. Ce complexe est la principale source d'ions superoxyde O2• – et peroxyde O22– par fuite d'électrons sur l'oxygène.
+Le mécanisme réactionnel fait circuler les électrons du NADH tout d'abord vers un FMN, réduit en FMNH2 par un transfert de deux électrons en une seule étape. Le FMNH2 est ensuite oxydé par deux transferts successifs d'un électron à un cluster fer-soufre via une semiquinone, qui est un radical libre. Les deux électrons sont finalement transférés à une ubiquinone, convertie successivement en semiquinone et en ubiquinol par transfert successif d'un électron à chaque fois.
+
+
+==== Succinate déshydrogénase ====
+
+Le complexe II, ou succinate déshydrogénase, convertit également une molécule d'ubiquinone en ubiquinol, cette fois à partir d'électrons issus du succinate via un cofacteur FAD. Ces électrons peuvent également provenir d'autres sources, telles que le glycérol-3-phosphate ou la dégradation des acides gras. Contrairement au précédent, ce complexe n'est pas une pompe à protons.
+
+
+==== Coenzyme Q-cytochrome c réductase ====
+
+Le complexe III, ou coenzyme Q-cytochrome c réductase, transfère séquentiellement les deux électrons à haut potentiel de l'ubiquinol Q10H2 à deux cytochromes c en injectant quatre protons dans l'espace intermembranaire,. Il possède un mécanisme réactionnel en deux étapes appelé cycle Q qui double sa contribution à la génération du gradient électrochimique. Ce complexe génère également des ions superoxyde et peroxyde lorsque le transfert d'électrons est réduit, que ce soit en raison d'un potentiel électrochimique de membrane trop élevé ou à la suite d'un empoisonnement.
+
+
+==== Cytochrome c oxydase ====
+
+Le complexe IV, ou cytochrome c oxydase, transfère quatre électrons de quatre cytochromes c à une molécule d'oxygène O2 pour former deux molécules d'eau H2O tandis que quatre protons sont pompés vers l'espace intermembranaire.
+
+
+==== Couplage avec la phosphorylation de l'ADP en ATP ====
+
+Selon la théorie chimiosmotique, proposée en 1961 par le biochimiste britannique Peter Mitchell à qui elle a valu le prix Nobel de chimie en 1978, la chaîne respiratoire et la phosphorylation de l'ADP en ATP sont couplées par le gradient de concentration de protons à travers la membrane mitochondriale interne selon un processus global appelé phosphorylation oxydative. Ce gradient de concentration génère un gradient électrochimique utilisé par l'ATP synthase pour produire de l'ATP. La région FO de l'ATP synthase fonctionne comme un canal ionique permettant le reflux des protons vers la matrice mitochondriale. Ceci permet de libérer l'énergie accumulée dans le potentiel électrochimique de membrane et d'actionner un rotor moléculaire dans la région F1 de l'ATP synthase qui transmet l'énergie nécessaire à la formation de l'ATP.
+Le couplage de la chaîne respiratoire avec la phosphorylation de l'ADP en ATP est crucial pour l'efficacité du mécanisme de production d'ATP dans la cellule. Cependant, dans certains cas particulier, le découplage de ces deux processus peut être biologiquement utile. Des protéines découplantes, telles que la thermogénine du tissu adipeux brun, permet aux protons de refluer vers la matrice mitochondriale en traversant la membrane interne, ce qui assure la thermogenèse plutôt que la production d'ATP. Il existe des agents de découplage synthétiques tels que le 2,4-dinitrophénol, qui sont létaux à forte dose.
+
+
+=== Chez les bactéries ===
+La situation est plus complexe chez les bactéries car les électrons peuvent entrer dans la chaîne respiratoire à trois niveaux au lieu de deux : au niveau d'une déshydrogénase, au niveau d'une ubiquinone, ou au niveau d'un cytochrome transporteur d'électrons, par ordre de potentiel standard croissant, c'est-à-dire avec une variation d'enthalpie libre décroissante avec l'accepteur d'électrons final.
+Les bactéries ont recours à plusieurs chaînes respiratoires, souvent de façon simultanée. Elles peuvent utiliser différents donneurs d'électrons, différentes déshydrogénases, différentes cytochrome oxydases, différentes cytochrome réductases, et différents accepteurs d'électrons. Ainsi, Escherichia coli peut utiliser deux NADH déshydrogénases différentes et deux quinol oxydases distinctes, ce qui correspond à quatre chaînes respiratoires fonctionnant simultanément.
+Les chaînes respiratoires bactériennes possèdent au moins une pompe à protons parmi les différentes enzymes qui les composent, mais peuvent en compter jusqu'à trois, comme celles des mitochondries.
+On distingue notamment :
+la chaîne respiratoire des bactéries dites « oxydase + » (Pseudomonas, Vibrio, etc.), qui est sensiblement la même que celle des mitochondries ;
+la chaîne respiratoire des bactéries dites « oxydase – » (Enterobacteriaceae, etc.), qui est plus courte : il n'y a pas de complexe IV, correspondant à la cytochrome oxydase.
+Dans certains cas (respiration anaérobie), l'accepteur final de la chaîne respiratoire n'est pas du dioxygène mais un composé organique.
+
+
+==== Donneurs et accepteurs d'électrons : couples rédox ====
+
+Les donneurs d'électrons les plus communs dans le milieu naturel sont des composés organiques. Les êtres vivants qui utilisent de telles molécules comme donneurs d'électrons sont dit organotrophes. Ce sont notamment les protistes, les champignons et les animaux ; avec les phototrophes — essentiellement les plantes et les algues, qui génèrent leurs électrons à haut potentiel de transfert à partir d'interactions électromagnétiques — ils constituent la quasi totalité de toutes les formes de vie connues.
+Certains procaryotes, dits lithotrophes, peuvent utiliser des substances inorganiques comme source d'énergie, comme l'hydrogène H2, le monoxyde de carbone CO, l'ammoniac NH3, l'ion nitrite NO2–, le soufre S, l'ion sulfure S2–, l'ion phosphite HPO32– ou encore l'ion ferreux Fe2+,,,,. On a trouvé de tels organismes dans des formations rocheuses plusieurs milliers de mètres sous la surface, comme c'est notamment le cas de la bactérie sulfato-réductrice Desulforudis audaxviator.
+Dans la mesure où les chaînes de transport d'électrons sont des réactions d'oxydoréduction, elles peuvent être décrites comme le couplage de deux couples rédox. Ainsi, la chaîne de transport d'électrons mitochondriale peut être décrite comme résultante des couples NAD+/NADH et O2/H2O, où le NADH est le donneur d'électrons et O2 est l'accepteur d'électrons.
+Toutes les combinaisons donneur/accepteur ne sont pas thermodynamiquement possibles. Le potentiel d'oxydoréduction de l'accepteur doit être supérieur en valeur algébrique à celui du donneur. Par ailleurs, les conditions biologiques peuvent s'éloigner sensiblement des conditions standard, et les potentiels d'oxydoréductions peuvent par conséquent différer sensiblement des potentiels standard.
+L'utilisation de donneurs d'électrons inorganiques est particulièrement intéressante du point de vue de l'évolution dans la mesure où ce type de métabolisme a vraisemblablement précédé l'utilisation de donneurs d'électrons organiques.
+
+
+==== Enzymes et coenzymes ====
+
+Lorsque le donneur d'électrons est le NADH ou le succinate, les électrons entrent dans la chaîne respiratoire au niveau d'une NADH déshydrogénase semblable au complexe I ou d'une succinate déshydrogénase semblable au complexe II des mitochondries. D'autres déshydrogénases peuvent être utilisées pour traiter différentes sources d'énergies : formiate déshydrogénase, lactate déshydrogénase, glycérol-3-phosphate déshydrogénase, hydrogénases, etc. Certaines agissent également comme pompes à protons, tandis que d'autres réduisent des quinones. La diversité de ces déshydrogénases permettrait aux bactéries de s'adapter aux modifications chimiques de leur environnement.
+Les quinones sont des transporteurs d'électrons liposolubles qui permettent la circulation d'électrons et de protons entre les gros complexes protéiques relativement immobiles inclus dans la membrane plasmique. Les bactéries utilisent des ubiquinones telles que la coenzyme Q10, qui est également la quinone des mitochondries, mais utilisent également d'autres quinones, telles que la ménaquinone, ou vitamine K2.
+On appelle pompe à protons tout système moléculaire susceptible de générer un gradient de concentration de protons à travers une membrane biologique. Les protons peuvent être déplacés physiquement à travers la membrane, comme c'est le cas pour les complexes I et IV de la chaîne respiratoire mitochondriale. Il est également possible de déplacer physiquement des électrons dans le sens opposé, ce qui a pour effet de générer un proton à partir d'un atome d'hydrogène au départ de l'électron et de convertir un proton en atome d'hydrogène à l'arrive de l'électron : c'est le mécanisme utilisé par le complexe III de la chaîne respiratoire mitochondriale à travers le cycle Q. La génération d'un gradient électrochimique à travers la membrane dans laquelle se déroule la chaîne de transport d'électrons est à la base du couplage chimiosmotique de la phosphorylation oxydative.
+Les cytochromes sont des pigments biologiques contenant du fer. Ils peuvent jouer pour les uns le rôle de transporteurs d'électrons hydrophiles mobiles entre les grands complexes protéiques inclus dans la membrane, pour les autres le rôle de relais intramoléculaires dans la circulation des électrons à travers certains de ces grands complexes protéiques intramembranaires, comme le complexe III et le complexe IV. Les électrons peuvent entrer dans la chaîne respiratoire à partir d'un cytochrome réduit, comme c'est le cas à partir de donneurs d'électrons minéraux (comme l'ion nitrite NO2– et l'ion ferreux Fe2+) ou d'un quinol.
+
+
+== Chaînes de transport d'électrons de la photophosphorylation ==
+
+La photophosphorylation est l'équivalent, pour la photosynthèse, de la phosphorylation oxydative pour la respiration cellulaire. Elle constitue la « phase lumineuse » de la photosynthèse, c'est-à-dire qu'elle regroupe les réactions dépendantes de la lumière.
+
+
+=== Dans les chloroplastes ===
+
+Chez les plantes, la photophosphorylation se déroule dans la membrane des thylakoïdes, à l'intérieur des chloroplastes :
+H2O → photosystème II (P680 (en)) → plastoquinone → complexe cytochrome b6f → plastocyanine → photosystème I (P700 (en)) → ferrédoxine → ferrédoxine-NADP+ réductase → NADP+ ;
+photophosphorylation cyclique : (ferrédoxine →) plastoquinone → complexe cytochrome b6f → plastocyanine → photosystème I (P700 (en)) → ferrédoxine (→ plastoquinone).
+
+
+==== Photosystème II ====
+
+Le photosystème II est le premier complexe enzymatique intervenant dans la photophosphorylation. Il absorbe des photons dont l'énergie excite des électrons qui sont ensuite transférés à travers tout un ensemble de coenzymes et de cofacteurs jusqu'à une plastoquinone réduite en plastoquinol. Dans la photophosphorylation non cyclique, ces électrons sont remplacés par oxydation de molécules d'eau du lumen des thylakoïdes, ce qui a pour effet de libérer de l'oxygène O2 et des protons H+. Le photosystème II fournit ainsi les électrons pour toutes les réactions de photosynthèse et agit comme une pompe à protons qui contribue à former un gradient de concentration de protons à travers la membrane des thylakoïdes en favorisant l'acidification du lumen de ces sous-organites. Les électrons à haut potentiel transférés à la plastoquinone sont utilisés en dernier ressort par le photosystème I pour réduire le NADP+ en NADPH. Dans la photophosphorylation cyclique, ces électrons sont excités dans le photosystème I puis circulent à travers la ferrédoxine, le complexe cytochrome b6f et la plastocyanine, avant de retourner dans le photosystème I.
+
+
+==== Plastoquinone ====
+
+La plastoquinone est une coenzyme liposoluble de la famille des quinones jouant le rôle de transporteur d'électrons diffusant librement dans la membrane des thylakoïdes. Elle reçoit les électrons provenant du photosystème II et les transfère sur le complexe cytochrome b6f. Le couple plastoquinone / plastoquinol joue dans la photophosphorylation un rôle analogue à celui du couple ubiquinone / ubiquinol de la chaîne respiratoire.
+
+
+==== Complexe cytochrome b6f ====
+
+Le complexe cytochrome b6f intervient dans le transfert des électrons entre deux centres réactionnels, du photosystème II au photosystème I, tout en pompant des protons à travers la membrane des thylakoïdes depuis le stroma des chloroplastes vers le lumen des thylakoïdes. Plus précisément, il reçoit les électrons du plastoquinol et les transfère à la plastocyanine. Il joue un rôle analogue au complexe III (coenzyme Q-cytochrome c réductase) de la chaîne respiratoire, qui est également la deuxième pompe à protons de cette voie métabolique.
+
+
+==== Plastocyanine ====
+
+La plastocyanine est une petite métalloprotéine contenant un cation de cuivre susceptible d'osciller entre les états d'oxydation Cu+ et Cu2+. Elle assure le transfert d'un électron du cytochrome f du complexe cytochrome b6f et le P700 (en) du photosystème I. Il s'agit d'une protéine monomérique comptant une centaine de résidus d'acides aminés pour une masse moléculaire d'environ 10,5 kDa. Elle se trouve au contact de la membrane des thylakoïdes dans le lumen. Sa taille et son caractère hydrophile la rapprochent du cytochrome c de la chaîne respiratoire, mais elle ne contient pas d'hème, contrairement à celui-ci.
+
+
+==== Photosystème I ====
+
+Le photosystème I est un complexe protéique membranaire intégral qui utilise l'énergie lumineuse pour transférer un électron d'une plastocyanine du lumen des thylakoïdes à une ferrédoxine du stroma des chloroplastes. Il contient plus de 110 cofacteurs, sensiblement plus que le photosystème II. Ces différents composants ont des fonctions variées. Ceux impliqués dans les transferts d'électrons du centre réactionnel du photosystème I sont le dimère de chlorophylle P700 (en) comme donneur primaire d'électron et cinq accepteurs d'électron : la chlorophylle A0, la phylloquinone A1 et trois clusters fer-soufre [4Fe-4S] notés Fx, Fa et Fb.
+
+
+==== Ferrédoxine ====
+
+La ferrédoxine des plantes est située dans le stroma des chloroplastes. Elle contiennent des clusters [2Fe-2S] dans lesquels les cations de fer sont tétracoordonnés avec deux anions sulfure S2– et quatre groupes thiol –SH de résidus de cystéine. Dans les chloroplastes, ces ferrédoxines servent de transporteurs d'électrons dans la photophosphorylation et comme donneurs d'électrons pour plusieurs enzymes, telles que la glutamate synthase, la nitrate réductase et la sulfite réductase (en).
+
+
+==== Ferrédoxine-NADP+ réductase ====
+
+La ferrédoxine-NADP+ réductase utilise les électrons à haut potentiel de transfert issus du photosystème I dans la ferrédoxine pour réduire le NADP+ en NADPH, ce dernier étant par la suite utilisé dans le cycle de Calvin. La réduction du NADP+ a lieu à la lumière en partie parce que l'activité de la ferrédoxine-NADP+ réductase est inhibée dans l'obscurité. Chez les organismes non photosynthétiques, cette enzyme fonctionne en sens inverse pour fournir de la ferrédoxine réduite pour diverses voies métaboliques, telles que la fixation de l'azote, la biosynthèse des terpénoïdes, le métabolisme des stéroïdes, la réponse au stress oxydant ou encore la biogenèse des protéines fer-soufre.
+
+
+==== Couplage avec la phosphorylation de l'ADP en ATP ====
+
+La photophosphorylation non cyclique s'achève avec la phosphorylation de l'ADP en ATP sous l'action de l'ATP synthase, une enzyme membranaire qui permet le reflux des protons accumulés dans le lumen du thylakoïde vers le stroma du chloroplaste : le gradient électrochimique de la membrane du thylakoïde résultant du gradient de concentration de protons permet d'actionner un rotor moléculaire dans l'ATP synthase, rotor qui fournit l'énergie chimique nécessaire à la biosynthèse de l'ATP, selon un mécanisme analogue à celui mis en œuvre dans le cadre de la phosphorylation oxydative.
+
+
+=== Chez les bactéries ===
+
+Les bactéries sont des procaryotes et ne possèdent donc pas d'organites semblables aux chloroplastes des procaryotes. Les bactéries photosynthétiques — cyanobactéries, bactéries vertes sulfureuses (Chlorobi), bactéries vertes non sulfureuses (Chloroflexi), bactéries pourpres — présentent en revanche des ressemblances frappantes avec les chloroplastes eux-mêmes, ce qui est à l'origine de la théorie endosymbiotique.
+
+
+==== Cyanobactéries ====
+
+Les cyanobactéries sont les seules bactéries capables de photosynthèse oxygénique. À l'instar des chloroplastes, elles possèdent des thylakoïdes, dont la chaîne de transport d'électrons est essentiellement la même que celle des plantes — le cytochrome b6 est apparenté au complexe cytochrome b6f — à la différence près qu'elles utilisent le cytochrome c6 à la place de la plastocyanine :
+H2O → photosystème II (P680 (en)) → plastoquinone → cytochrome b6 → cytochrome c6 → photosystème I (P700 (en)) → ferrédoxine → NADP+ ;
+photophosphorylation cyclique : (ferrédoxine →) plastoquinone → cytochrome b6 → cytochrome c6 → photosystème I (P700 (en)) → ferrédoxine (→ plastoquinone).
+Elles utilisent en revanche des pigments différents dans leurs antennes collectrices pour capter l'énergie électromagnétique de la lumière incidente, préférant les phycobilines aux chlorophylles. Elles sont également capables d'utiliser leur chaîne de transport d'électrons comme chaîne respiratoire et générer de l'ATP par oxydation du NADH avec conversion concomitante d'une molécule d'oxygène O2 en deux molécules d'eau H2O :
+NADH → NADH déshydrogénase → plastoquinone → cytochrome b6 → cytochrome c6 → cytochrome aa3 → O2.
+Cette chaîne présente des analogies avec la chaîne respiratoire mitochondriale dans la mesure où on y retrouve une NADH déshydrogénase apparentée au complexe I, le couple plastoquinone / plastoquinol apparenté au couple ubiquinone / ubiquinol, le cytochrome b6 apparenté à la coenzyme Q-cytochrome c réductase (complexe III), le cytochrome c6 qui est un cytochrome c et le cytochrome aa3 apparenté à la cytochrome c oxydase (complexe IV).
+
+
+==== Bactéries vertes sulfureuses ====
+
+Les bactéries vertes sulfureuses n'utilisent qu'un photosystème, semblable au photosystème I des plantes :
+H2S → P840 → ferrédoxine → NAD+.
+photophosphorylation cyclique : (ferrédoxine →) ménaquinone → cytochrome bc1 → cytochrome c553 → P840 → ferrédoxine (→ ménaquinone).
+La photophosphorylation cyclique de ces bactéries présente des analogies avec la chaîne respiratoire mitochondriale dans la mesure où le couple ménaquinone / ménaquinol est apparenté au couple ubiquinone / ubiquinol, le cytochrome bc1 est apparenté à (mais distinct de) la coenzyme Q-cytochrome c réductase (complexe III) et le cytochrome c553 est un cytochrome c.
+
+
+==== Bactéries pourpres ====
+
+Les bactéries pourpres utilisent un photosystème unique apparenté au photosystème II des cyanobactéries et des chloroplastes :
+photophosphorylation cyclique : (cytochrome c2 →) P870 → ubiquinone → cytochrome bc1 (→ cytochrome c2).
+Il s'agit d'un processus cyclique entre un centre réactionnel P870 de bactériochlorophylle et une pompe à protons au niveau du cytochrome bc1, semblable à la coenzyme Q-cytochrome c réductase (complexe III) de la chaîne respiratoire mitochondriale mais néanmoins distincte de celle-ci.
+Le NADPH est produit par une chaîne de transport d'électrons fonctionnant à partir de donneurs d'électrons tels que l'hydrogène H2, le sulfure d'hydrogène H2S, l'anion sulfure S2–, l'ion sulfite SO32–, ou des composés organiques tels que le succinate –OOC–CH2–CH2–COO– et le lactate H3C–CHOH–COO–.
+
+
+== Notes et références ==
+
+ Portail de la biochimie
+ Portail de la biologie cellulaire et moléculaire

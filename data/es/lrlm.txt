@@ -1,0 +1,6 @@
+La estrategia LRLM (left to right, longest match, o de izquierda a derecha, concordancia más larga) es una estrategia voraz para la segmentación (y subsecuente análisis) de una cadena de entrada.
+Esta estrategia analiza la cadena de entrada de izquierda a derecha (o en el sentido usual de lectura) leyéndola sólo una vez buscando la coincidencia más larga con la lista de patrones existentes.
+Por ejemplo, ante la entrada una memoria de traducción, si tenemos como patrones de análisis una memoria y una memoria de traducción, la estrategia LRLM identificaría el patrón más largo y lo seleccionaría, en este caso, una memoria de traducción. Ante la entrada una memoria de ordenador, la estrategia LRLM devolvería una memoria y la cadena restante (de ordenador) volvería a ser analizada.
+Si la entrada restante no concuerda con ninguno de los patrones, se salta una unidad de la entrada (una palabra o un carácter, dependiendo de la aplicación) y se continúa inmediatamente después.
+Esta estrategia es la usada en los analizadores léxicos generados por programas como lex, usado en la implementación de procesadores de lenguajes.
+Generalmente esta estrategia se implementa como un autómata finito, por ejemplo, si se realiza análisis simultáneamente a la segmentación, como un transductor de estados finitos.

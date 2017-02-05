@@ -1,0 +1,9 @@
+Das Constructive Alignment ist ein vom australischen pädagogischen Psychologen John Burville Biggs entwickeltes didaktisches Konzept. Es weist einige Ähnlichkeiten zur lernzielorientierten Didaktik auf, beruht theoretisch aber auf einer Verbindung eines konstruktivistischen Lehr-Lernverständnisses mit einem ergebnisorientierten Lehrdesign. Kerngehalt des Konzepts ist die Abstimmung nicht nur von Teaching-Learning-Activities, sondern auch von Assessments mit intendierten Learning Outcomes. Unter dem Schlagwort „assessment drives learning“ wurde sein Konzept vor allem im Bereich der Hochschuldidaktik weltweit rezipiert. Es gehört zu den Grundpfeilern auch der Bologna-Reform.
+Am Constuctive Alignment wird seitens der Erkenntnistheorie kritisiert, dass die Formulierung sinnvoller Learning Outcomes überhaupt nicht möglich sei, da sich Fähigkeiten immer nur in einzelnen Handlungen aktualisierten und sie daher nicht abprüfbar seien.
+
+
+== Literatur ==
+Balthasar Eugster, Leistungsnachweise und ihr Ort in der Studiengangentwicklung - Überlegungen zu einer Kritik des curricularen Alignments, in: Tobina Brinker (Hrsg.), Einführung in die Studiengangentwicklung, Bielefeld 2012, 45-62.
+John Biggs, Enhancing teaching through constructive alignment, in: Higher Education 32 (1996), 347-364.
+John Biggs / Catherine Tang, Teaching for Quality Learning at University, Maidenhead 2011.
+Johannes Wildt / Beatrix Wildt, Lernprozessorientiertes Prüfen im "Constructive Alignment", in: Brigitte Berendt / Hans-Peter Voss / Johannes Wildt (Hrsg.), Neues Handbuch Hochschullehre, Teil H: Prüfungen und Leistungskontrollen. Weiterentwicklung des Prüfungssystems in der Konsequenz des Bologna-Prozesses, Berlin 2011, S. 1-46.

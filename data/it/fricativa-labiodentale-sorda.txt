@@ -1,0 +1,76 @@
+La fricativa labiodentale sorda è una consonante molto frequente in numerose lingue, che in base all'alfabeto fonetico internazionale è rappresentata col simbolo [f].
+Nell'ortografia della lingua italiana, tale fono è reso con la lettera F.
+
+
+== Caratteristiche ==
+La consonante fricativa labiodentale sorda presenta le seguenti caratteristiche:
+il suo modo di articolazione è fricativo, perché questo fono è dovuto al restringimento del canale orale (la bocca);
+il suo luogo di articolazione è labiodentale, perché nel pronunciare tale suono i denti incisivi superiori si accostano al labbro inferiore;
+è una consonante sorda, in quanto questo suono è prodotto senza vibrazione da parte delle corde vocali.
+Nella fonologia generativa tale fonema è formato dalla sequenza dei tratti: +consonantico, -nasale, -compatto, +grave, -sonoro, +continuo.
+
+
+== In italiano ==
+In lingua italiana, /f/ è un fonema, e si oppone, ad esempio, sia alla fricativa labiodentale sonora /v/ sia all'occlusiva bilabiale sorda /p/; un esempio di tale suono si trova nella parola "fino" [ˈfiːno].
+
+
+== Altre lingue ==
+
+
+=== Francese ===
+In lingua francese tale fono è reso con la grafia 〈f〉 oppure con il digramma 〈ph〉:
+fou "pazzo" [fu]
+famille "famiglia" [faˈmij]
+
+
+=== Spagnolo ===
+In lingua spagnola tale fono è reso con la grafia 〈f〉:
+fin "fine" [fin]
+fosa [ˈfosa]
+
+
+=== Inglese ===
+In lingua inglese tale fono è reso con la grafia 〈f〉 oppure con il digramma 〈ph〉:
+fun "divertimento" [fʌn]
+fill [fɪɫ]
+
+
+=== Tedesco ===
+In lingua tedesca tale fono è reso con la grafia 〈f〉 o 〈v〉 oppure con il digramma 〈ph〉:
+fade "insipido" [ˈfaːdə]
+von "di" [fɔn]
+
+
+=== Ceco ===
+In lingua ceca tale fono è reso con la grafia 〈f〉:
+foukat [ˈfou̯kat]
+
+
+=== Polacco ===
+In lingua polacca tale fono è reso con la grafia 〈f〉 o 〈w〉 (solo in fin di parola o accanto a consonante sorda):
+alfabet "alfabeto" [alˈfabɛt]
+krew "sangue" [krɛf]
+
+
+=== Greco ===
+In lingua greca moderna tale fono è reso 〈φ〉 o 〈-υ〉 nell'alfabeto greco:
+φάρος (traslitterato pháros) "faro" [ˈfɐros]
+εύπιστος (traslitterato eúpistos) "credulo" [ˈɛfpistos]
+άνευ (traslitterato áneu) "senza" [ˈɐnef]
+
+
+=== Russo ===
+In lingua russa tale fono è reso 〈ф〉 о 〈в〉 (solo in fin di parola o seguita da consonante sorda) nell'alfabeto cirillico:
+ифрами [ɪˈframʲɪ]
+
+
+=== Ebraico ===
+In lingua ebraica tale fono è un allofono della occlusiva bilabiale sorda /p/, di cui rappresenta la realizzazione dopo vocale.
+
+
+=== Arabo ===
+In lingua araba:
+ظَرْف "busta" [ðˤɑrf]
+
+
+== Note ==

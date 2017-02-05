@@ -1,0 +1,33 @@
+Streaming Text Oriented Message Protocol (STOMP), auparavant connu sous le nom de TTMP, est un protocole textuel au-dessus de TCP, conçu pour permettre l'interaction avec un middleware orienté messages. Il fournit un format interopérable qui permet aux clients STOMP de dialoguer avec n'importe quel fournisseur de message supportant le protocole.
+
+
+== Utilisation ==
+Le protocole ressemble beaucoup à HTTP, et fonctionne sous TCP avec les commandes suivantes :
+CONNECT
+SEND
+SUBSCRIBE
+UNSUBSCRIBE
+BEGIN
+COMMIT
+ABORT
+ACK
+DISCONNECT
+La communication entre le client et le serveur se fait au travers d'une frame spéciale constituée d'une série de ligne. La première ligne contient la commande, suivie par des en-têtes de la forme <key>: <value> (une par ligne), suivie d'une ligne blanche, puis le contenu finissant par un caractère nul. La communication entre le serveur et le client se fait au travers de frames MESSAGE, RECEIPT ou ERROR avec un format similaire pour les en-têtes et le contenu.
+Stomp est similaire au protocole OpenWire, utilisé par ActiveMQ.
+
+
+== Voir aussi ==
+AMQP
+
+
+== Liens externes ==
+STOMP
+Ruby server, aussi connu comme « stompserver »
+Apache ActiveMQ
+POE::Component::MessageQueue (une implémentation serveur en Perl)
+Erlstomp (une implementation open-source en Erlang)
+MorbidQ (serveur Stomp utilisant Python et Twisted)
+RabbitMQ (un message broker, écrit en Erlang, qui supporte le protocole Stomp)
+Joram (un broker de messages multi-protocole qui implante l'API JMS et supporte les protocoles AMQP, MQTT et Stomp)
+ Portail de l’informatique
+ Portail des télécommunications

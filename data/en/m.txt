@@ -1,0 +1,54 @@
+M (named em /ˈɛm/) is the thirteenth letter of the modern English alphabet and the ISO basic Latin alphabet.
+
+
+== History ==
+The letter M is derived from the Phoenician Mem, via the Greek Mu (Μ, μ). Semitic Mem is most likely derived from a "Proto-Sinaitic" (Bronze Age) adoption of the "water" ideogram in Egyptian writing. The Egyptian sign had the acrophonic value /n/, from the Egyptian word for "water", nt; the adoption as the Semitic letter for /m/ was presumably also on acrophonic grounds, from the Semitic word for "water", *mā(y)-.
+
+
+== Use in writing systems ==
+The letter ⟨m⟩ represents the bilabial nasal consonant sound [m] in the orthography of Latin as well as in that of many modern languages, and also in the International Phonetic Alphabet. In English, the Oxford English Dictionary (first edition) says that ⟨m⟩ is sometimes a vowel in words like spasm and in the suffix -ism. In modern terminology, this is described as a syllabic consonant (IPA [m̩]).
+
+
+== Other uses ==
+The Roman numeral Ⅿ represents the number 1000, though it was not used in Roman times.
+
+
+== Related characters ==
+
+
+=== Descendants and related characters in the Latin alphabet ===
+M with diacritics: Ḿ ḿ Ṁ ṁ Ṃ ṃ
+IPA-specific symbols related to M: ɱ
+
+
+=== Ancestors and siblings in other alphabets ===
+𐤌 : Semitic letter Mem, from which the following symbols originally derive
+Μ μ : Greek letter Mu, from which M derives
+Ⲙ ⲙ : Coptic letter Me, which derives from Greek Mu
+М м : Cyrillic letter Em, also derived from Mu
+𐌌 : Old Italic M, which derives from Greek Mu, and is the ancestor of modern Latin M
+ᛗ : Runic letter Mannaz, which derives from old Italic M
+
+𐌼 : Gothic letter manna, which derives from Greek Mu
+
+
+=== Ligatures and abbreviations ===
+₥ : Mill (currency)
+™ : Trademark symbol
+℠ : Service mark symbol
+
+
+== Computing codes ==
+1 Also for encodings based on ASCII, including the DOS, Windows, ISO-8859 and Macintosh families of encodings.
+
+
+== Other representations ==
+
+
+== References ==
+
+
+== External links ==
+ Media related to M at Wikimedia Commons
+ The dictionary definition of M at Wiktionary
+ The dictionary definition of m at Wiktionary

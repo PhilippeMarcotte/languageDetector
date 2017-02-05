@@ -1,0 +1,138 @@
+Eine Auflistung der Abwurfmunition, die von der Kaiserlich Japanischen Marine im Zweiten Weltkrieg für die Kaiserlich Japanischen Marineluftstreitkräfte entwickelt wurde. Die Kaiserlich Japanische Armee produzierte für ihre Fliegerverbände eigene Abwurfmunition, die sich von der der Marine unterschied.
+
+
+== Typenunterscheidung ==
+Der überwiegende Teil der produzierten Abwurfmunition waren Fliegerbomben. Sie waren nach der Marinenomenklatur in drei Gruppen unterteilt:
+Landbomben – Bomben gegen Bodenziele an Land: meist einfach, aus dünnwandigem Stahl produziert. Nase, Rumpf und Heck der Bomben waren hier oft nur mit Schrauben oder gar Nieten zusammengehalten, so dass ein Aufschlag auf gepanzerten Oberflächen den schwach konstruierten Bombenkörper zu zerstören drohte, ohne dass eine Explosion erfolgte.
+Standardbomben – Bombentypen, die sowohl gegen Land- als auch Seeziele eingesetzt werden konnten. Sie reichten von einfachen Konstruktionen bis zu aufwendig gefertigten Modellen mit Bombenkörpern aus gehärtetem Stahl, geeignet um auch die schweren Panzerungen großer Kriegsschiffe zu durchdringen.
+Spezialbomben – als Sammelbegriff für alle anderen Bombentypen
+
+
+== Farbkennungen von Bomben ==
+Die Bomben der Kaiserlich Japanischen Marine und der Armee waren mit einem Farbsystem kodiert, das es erlaubte, den Typ einer Bombe auf den ersten Blick zu bestimmen. Dazu wurden Farbbänder an vorbestimmten Stellen auf den graugestrichenen Bombenkörper aufgebracht.
+Neben diesen Bändern, die in der folgenden Tabelle aufgeschlüsselt werden, waren in vielen Fällen bis zur Einführung des alternativen Kennzeichnungsschemas zwei dünne rote Streifen – je einer auf den gegenüberliegenden Seiten der Bombe – aufgebracht, die von der Spitze des Bombenkörpers bis zu dessen Ende reichten. Bei korrekter Montage der Bombe am Flugzeug waren sie in der Horizontalen zu sehen und funktionierten so als Hilfslinien bei der Sichtkontrolle der Montage.
+
+
+== Bombentypen ==
+
+
+=== Bezeichnungen ===
+Die japanische Marine kennzeichnete ihre Bomben mit den folgenden Kennungen:
+Typ in Kombination mit der Jahreszahl der Entwicklung der Bombe nach japanischer Zeitrechnung. So ergibt beispielsweise das Jahr Kōki 2597 bzw. 1937 nach gregorianischem Kalender, die Bezeichnung Typ 97.
+Nummer (No.) in Kombination mit dem gerundeten Gewicht der Bombe in ihrer Gewichtsklasse, geteilt durch 10. So wird aus einer 805-kg-Bombe eine No.-80-Bombe.
+Modell wird an die Kennung angehängt, wenn es größere Änderungen beim Aufbau einer Bombe gegeben hat.
+Modifikation (Mod.) wird an die Kennung angehängt, wenn es kleine Änderungen beim Aufbau einer Bombe gegeben hat.
+Baumuster (BM), analog zum englischen „Mark“, wird an die Kennung angehängt, wenn es sich um ein Modell für einen speziellen Einsatzzweck handelt, beispielsweise die Bekämpfung von U-Booten, Flugzeugverbänden oder besonders gut geschützten Zielen.
+
+
+=== Sprengstoffe ===
+Die verwendeten Sprengstofftypen für die Hauptladung der Bomben beschränkten sich auf „Schimose“ (Pikrinsäure), Typ-91-Sprengstoff (Trinitroanisol) oder Typ-98-Sprengstoff, einer Mischung aus 70 % Trinitroanisol und 30 % HND.
+
+
+=== Aufhängungen ===
+Die Bomben bis zur Gewichtsklasse No. 25 (etwa 250 kg) besaßen eine U-förmige Aufhängung über ihrem Schwerpunkt, mit der sie an entsprechende Haken an Flugzeugen angehängt wurden. Diese Aufhängung konnte bis zu 630 kg Gewicht tragen. Bei schwereren Bomben wurde ein Haltegurt um den Bombenkörper gelegt und an zwei Greifern fixiert. Zusätzlich befanden sich Anfasser an den Haltevorrichtungen der Flugzeuge, um Schlingerbewegungen der montierten Bomben oder Torpedos zu verhindern.
+
+
+=== Land- und Standardbomben ===
+
+Die folgende Tabelle listet japanische Land- und Standardtypen von Bomben auf, die im Zweiten Weltkrieg zum Einsatz kamen. Sofern eine Experteneinschätzung über die genaue Einsatzart einer Bombe vorlag, ist sie zusätzlich zur Land- bzw. Standardkennung vermerkt.
+
+
+=== Raketen und raketenunterstützte Bomben ===
+Die Japaner entwickelten eine begrenzte Anzahl von Bomben, deren Fallgeschwindigkeit durch einen Raketenmotor künstlich gesteigert wurde und einige ungelenkte Raketenmodelle, die für die Bekämpfung von Land-, See- oder Luftzielen vorgesehen waren. Sie gehören streng genommen nicht zur „Abwurfmunition“, wurden aber in den entsprechenden Untersuchungsberichten der US-Marine nach dem Krieg gemeinsam mit Fliegerbomben als „rocket bombs“ aufgelistet. Nur drei dieser Modelle kamen tatsächlich zum Einsatz – die panzerbrechende Bombe Typ 3 No. 25 BM 4, die Luft-Luft-Rakete Typ 3 No. 6 BM 27 und die Rakete Yokosuka MXY-7 für Selbstopfereinsätze.
+
+
+=== Brandbomben ===
+
+
+=== Kampfstoffbomben ===
+
+
+=== Streubomben ===
+
+
+=== Übungsbomben ===
+
+
+=== Leuchtbomben ===
+Typ 96, 6-kg-Leuchtbombe, (kein Schirm), Brenndauer 1 min 20 s, Farbe des Lichts ist weiß/grün
+Modell 2 Mod. 1, 5-kg-Fallschirmleuchtbombe (ein Hauptschirm), Brenndauer 1 min 30 s, Farbe des Lichts ist weiß
+Typ 0 Modell 1, Fallschirmleuchtbombe (ein Hauptschirm)
+Typ 0 Modell 1 Mod. 1, Fallschirmleuchtbombe (Hilfsschirm und Hauptschirm)
+Typ 0 Modell 2, Fallschirmleuchtbombe
+Typ 0 Modell 3 Mod. 1, Fallschirmleuchtbombe
+Experimentelle Modell 11, Fallschirmleuchtbombe (Hilfsschirm und Hauptschirm), Brenndauer 4 min 11 s, Farbe des Lichts ist weiß
+Typ 94, Leuchtbombe mit Schwimmer, Calciumphosphid- bzw. Calciumcarbid-Ladung, Farbe des Lichts ist rot
+Experimentelle Modifikation 1, Leuchtbombe mit Schwimmer
+Typ 94 Modell 2, Leuchtbombe mit Schwimmer, Calciumphosphid- bzw. Calciumcarbid-Ladung, Farbe des Lichts ist rot
+Typ 0 Modell 1, Leuchtbombe mit verbessertem Schwimmer, Calciumphosphid- bzw. Calciumcarbid-Ladung, Farbe des Lichts ist rot
+
+
+=== Rauchbomben mit Schwimmer und Markierungsbomben ===
+2-kg-Rauchbombe mit Schwimmer
+43-kg-Rauchbombe mit Schwimmer
+Typ 0 Modell 1, Rauchbombe mit Schwimmer
+Typ 0 Modell 2, Rauchbombe mit Schwimmer
+Seemarkierungsbombe aus Pappe
+Typ 3 No. 6, Zielmarkierungsbombe
+Typ 2, 2-kg-Zielmarkierungsbombe
+
+
+=== Andere ===
+2-kg-Düppel-Bombe
+
+
+== Zünder ==
+Wie die Bomben wurden auch die Zündvorrichtungen von der Kaiserlichen Marine in Eigenregie produziert.
+
+
+=== Bezeichnungen ===
+Die japanische Marine gab ihren Zündern Bezeichnungen, die denen der Bomben entsprachen, für die sie vorgesehen, oder für die sie ursprünglich entwickelt worden waren. Den Alliierten waren diese Bezeichnungen im Krieg allerdings noch unbekannt. So entwickelten sie ihr eigenes Bezeichnungssystem, das die Zünder nach Art der Montage und Funktion unterschied. Die Zünder mit den Kennung „A“ und „D“ sind Kopfzünder, die in die Spitze einer Bombe geschraubt wurden. Die Zünder mit den Kennungen „B“ sind Bodenzünder, die in das hintere Ende einer Bombe geschraubt wurden.
+
+
+=== Experimentelle Zünder und Bombenleitsysteme ===
+Typ 3 – Abstandszünder
+Ein neuartiger Typ von Zünder, bei dem die Konstrukteure vollkommen mit den bisherigen Entwicklungen brachen, war der Typ-3-Zünder. Er wurde gegen Kriegsende einsatzbereit und löste die Explosion einer Bombe elektrisch aus, sobald ein Sensor an seiner Spitze ein optisches Signal registrierte. So sollte eine Bombe wenige Meter vor dem Aufschlag auf den Boden gezündet werden, um eine optimale Wirkung zu erzielen.
+Der Kopf dieses Zünders unterteilte sich in eine Sende- und eine Empfangseinheit:
+Die Sendeeinheit beinhaltete eine Glühlampe für 12 Volt 50 Watt, mit einer Lichtstärke von 170 Kerzenstärken, deren Licht durch eine Linse mit 2,5 cm Brennweite fokussiert wurde. Der Lichtstrahl wurde nun durch eine sich schnell drehende Lochscheibe geleitet, so dass ein pulsierender Strahl aus 900–1000 Lichtblitzen pro Sekunde die Zünderspitze in Richtung Boden verließ. Dort traf es auf und wurde reflektiert.
+Die Empfängereinheit im benachbarten Teil des Zünders empfing ihrerseits Licht durch eine nach unten gerichtete Öffnung, von wo aus es durch eine Linse mit einer Brennweite von 15 cm auf einer mit Caesium beschichteten PL-50-V1-Fotozelle konzentriert wurde. Ein XB-767A-Argon-Thyratron war der Photozelle nachgeschaltet. Es versorgte die Zündvorrichtung der Bombe mit Strom, sobald Licht mit der Pulsfrequenz von 900 bis 1000 von der Photozelle in ausreichender Stärke empfangen wurde. Tageslicht oder Scheinwerferlicht hatte damit keinen Einfluss auf den Zünder. Die tatsächliche Höhe, in der die Bombe explodierte, hing von der Art der Oberfläche ab, die den Lichtstrahl reflektierte. War die Reflexion stark, zündete die Bombe in größerer Höhe als bei einer schwachen Reflexion.
+Der Typ-3-Zünder wurde ab Juli 1944 begrenzt eingesetzt. Er kam auf zwei Sprengbombentypen zum Einsatz: der Typ 3 No. 80 Baumuster 31 Modell 1 (676 kg) und der Typ 3 No. 25 Baumuster 31 Modell 1 (190 kg). Beide Bomben trugen zusätzlich einen konventionellen Bodenzünder, um beim Versagen des Typ 3 die Explosion beim Aufschlag auszulösen. Da die Bauteile in den Bomben vor dem Einsatz auf Betriebstemperatur vorgewärmt werden mussten, konnten sie nur von größeren Flugzeugen mit entsprechenden Vorrichtungen eingesetzt werden:
+Typ 1 Bomber (Mitsubishi G4M): 4 × No. 25 oder eine No. 80
+Ginga (Yokosuka P1Y): 2 × No. 25 oder eine No. 80
+Oya-Ko – Abstandszünder
+Die „Mutter“ (Oya) – „Tochter“ (Ko)-Bombe, Typ 5 No. 25 Baumuster 33, wurde mit dem gleichen Ziel wie der Typ-3-Zünder entwickelt: den Wirkungsgrad einer Bombe zu steigern, indem sie wenige Meter vor dem Aufschlag auf den Boden zur Explosion gebracht wurde. Hier wollte man das Problem mechanisch lösen und baute in die Spitze einer 220-kg-Bombe eine 20-kg-Kugel ein, die mit einem 30 Meter langen Kabel mit dem Zünder in der Trägerbombe verbunden war. Nach dem Abwurf der Bombe löste ein Aneroidbarometer in der Schwanzflosse der Trägerbombe auf etwa 1.000 Metern Höhe mehrere Bremsklappen aus, welche die Fallgeschwindigkeit der Trägerbombe schlagartig reduzierten, wobei die Tochterbombe sich aus ihrer Verankerung an der Spitze löste und der Mutterbombe voraus zum Boden fiel. Beim Aufschlag der Tochterbombe schickte ein Zünder in ihrer Spitze ein Signal durch das Kabel in die Mutterbombe, das diese noch in der Luft zur Explosion brachte. Für den Fall des Versagens des Abstandszünders war ein konventioneller Bodenzünder eingebaut. Die Bombe wurde im Krieg nicht mehr eingesetzt, die Entwicklung hatte aber bei Kriegsende schon ein fortgeschrittenes Stadium erreicht.
+
+Kego – Zielsuchende Bombe
+„Kego“ („Junge Seidenraupe“) war die Bezeichnung für eine Serie von zielsuchenden Bomben, die ein Zielschiff über dessen Hitzeabstrahlung erkennen und selbstständig angreifen sollten. Der Testträger „Kego-109“ mit 5,5 Metern Länge und 800 kg Gewicht war mit etwa 60 produzierten Mustern die häufigste Version. Die Bombe wurde nach dem Abwurf durch Bremsklappen verlangsamt, vier Flügel und vier Steuerflossen mit hydraulisch betriebenen Flächen konnten dann die Flugbahn im Fall beeinflussen. Ein Bolometer in der Nase der Bombe suchte nach Hitzequellen und steuerte die Bombe entsprechend. Die Waffe erreichte nie einen Entwicklungsstand, der ihren Einsatz im Krieg erlaubt hätte, dennoch wurde unter optimalen Testbedingungen eine Trefferquote von 10 % auf einem mit brennender Kohle gefüllten Zielschiff erreicht und die Ingenieure waren zuversichtlich, eine funktionierende Waffe entwickeln zu können.
+
+
+== Lufttorpedos ==
+Die Kaiserlich Japanische Marine produzierte eine Reihe von Torpedos, die von Flugzeugen abgeworfen werden konnten. Der Sprengkopf enthielt bei allen Modellen Typ-97-Sprengstoff – eine Mischung aus 60 % TNT und 40 % Hexyl, die bis 1944 durch einen Aufschlagzünder gezündet wurde. Ab 1944 trugen die Typ-91-Modelle einen Zünder, der die Explosion auslöste, wenn ein kleiner Schwimmkörper, der oberhalb der Nase des Torpedos geschleppt wurde, auf den Rumpf des Zielschiffs traf. So wurde die schlechter geschützte Unterseite der Ziele getroffen und größere Wirkung erzielt.
+Der Typ-4-Torpedo, der kurz vor dem Kriegsende in Dienst gestellt wurde, trug als einziges Modell einen Hohlladungssprengkopf, der durch den Neumanns-Effekt die Zerstörungskraft der Ladung auf einen Punkt konzentrieren und so auch gegen tiefgestaffelte Schutzsysteme schwerer Kriegsschiffe besonders wirksam sein sollte.
+
+
+== Siehe auch ==
+Deutsche Abwurfmunition des Zweiten Weltkrieges
+
+
+== Belege und Verweise ==
+
+
+=== Bemerkungen ===
+
+
+=== Literatur ===
+Bomben und Zünder:
+USNTMJ Report O-23 „JAPANESE BOMBS“, 1946
+Navy Department: BUREAU OF ORDNANCE „JAPANESE EXPLOSIVE ORDNANCE“ – Vol. 1 – ORDNANCE PAMPHLET 1667. 14. Juni 1946
+Typ 3-Zünder:
+USNTMJ Report O-24: DESCRIPTION AND OPERATION OF JAPANESE TYPE 3 PHOTOELECTRIC FUZE. 1946
+Oya-Ko-Bombe:
+USNTMJ Report O-18: JAPANESE ORDNANCE FUZES. 1946
+Kego-Bombe:
+USNTMJ Report X-02-1: JAPANESE INFRA RED DEVICES – Article 1 – CONTROL FOR GUIDED MISSILES. 1946
+Torpedos:
+USNTMJ Report O-01-2: JAPANESE TORPEDOS AND TORPEDO TUBES – Article 2 – Aircraft torpedos. 1946
+
+
+=== Einzelnachweise ===

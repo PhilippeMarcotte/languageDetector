@@ -1,0 +1,41 @@
+Anatoly Snigirev (französisch Anatoly Sniguirev, russisch Снигирев Анатолий Александрович, transkribiert Anatoli Alexandrowitsch Snigirew; * 19. März 1957) ist ein russisch-französischer Physiker im Bereich der experimentellen Röntgenoptik und der Anwendung kohärenter Röntgenstrahlung. Snigirev und seinen Mitarbeitern gelang als erster Forschungsgruppe die Realisierung refraktiver Röntgenlinsen.
+
+
+== Werdegang ==
+Mit einer Doktorarbeit auf dem Bereich der dynamischen Theorie der Röntgenbeugung an Kristallen wurde Snigirev 1986 am Institut für Festkörperphysik der Russischen Akademie der Wissenschaften in Tschernogolowka promoviert. Von 1986 bis 1993 leitete er die Kristalloptik-Gruppe am Institut für Mikroelektronik-Technologie in Tschernogolowka. Während dieser Zeit erforschte er Röntgenbeugung an Silizium-Mikrostrukturen, was schließlich zur Entwicklung sogenannter Bragg-Fresnel-Optiken zum Fokussieren von Röntgenstrahlen führte .
+1990 erhielt er ein Stipendium der Alexander-von-Humboldt-Stiftung, das ihm einen einjährigen Forschungsaufenthalt an der Universität Dortmund bei Ulrich Bonse gestattete .
+Seit 1993 ist Snigirev an der europäischen Synchrotronstrahlungsquelle ESRF in Grenoble in Frankreich tätig , wo er den Großteil seiner wissenschaftlichen Leistungen erbracht hat.
+Snigirev ist verheiratet mit der Physikerin Irina Snigireva, die in vielen seiner Publikationen Mitautorin ist.
+
+
+== Leistungen ==
+
+
+=== Refraktive Röntgenlinsen ===
+In einem Fachartikel  in der Zeitschrift Nature stellte Snigirev 1996 gemeinsam mit Koautoren von ESRF, dem Kurtschatow-Institut und der RWTH Aachen experimentelle Ergebnisse vor, die das erfolgreiche Fokussieren harter Röntgenstrahlung mittels brechender (refraktiver) Linsen demonstrierten. Mit diesem Ergebnis war zum ersten Mal experimentell die von Wilhelm Conrad Röntgen nach dessen ersten Versuchen mit den von ihm entdeckten Strahlen fast genau 100 Jahre zuvor aufgestellte These widerlegt, dass sich Röntgenstrahlung nicht mit Linsen sammeln lasse .
+Snigirevs Ergebnissen vorangegangen waren Vorschläge anderer Gruppen zur Konstruktion refraktiver Röntgenlinsen  sowie eine in der Fachliteratur geführte Diskussion darüber, ob brechende Röntgenlinsen überhaupt sinnvoll funktionieren könnten – eine Meinung, der namhafte Röntgenoptiker teils virulent widersprochen hatten .
+In den Folgejahren wirkte Snigirev maßgeblich an der Weiterentwicklung der refraktiven Röntgenlinse und der Etablierung ihres Gebrauchs mit, zunächst bei der Verbesserung von sphärischen Zylinderlinsen zu parabolischen rotationssymmetrischen Linsen ohne sphärische Aberrationen und bei ersten Demonstrationen der Anwendbarkeit als Objektiv in einem Röntgenmikroskop , später bei der Erforschung verschiedener Materialien für die Linsenherstellung  sowie der Konstruktion von Strahlführungsoptiken unter Verwendung refraktiver Linsen .
+
+
+=== Röntgen-Phasenkontrast ===
+Im Jahr 1995 veröffentlichte Snigirev mit seiner Frau sowie Fachkollegen aus Russland einen Artikel , in dem Röntgenbilder von Objekten gezeigt wurden, die zu klein und leicht waren, um in gewöhnlichem Absorptionskontrast sichtbar zu sein. In den experimentellen Bildern, die an der damals neuen Synchrotronstrahlungsquelle ESRF aufgenommen waren, waren Kanten und Grenzflächen der Objekte jedoch deutlich zu erkennen. In ihrem Artikel lieferten die Autoren auch die Erklärung für das Phänomen, nämlich Fresnel-Beugung der partiell kohärenten Röntgenstrahlung aus der Synchrotron-Quelle an den beobachteten Objekten. In ihrem Artikel bezeichneten die Autoren die neu entdeckte Technik als „Röntgen-Phasenkontrast“; dieser Begriff hat sich seither eingebürgert für alle Techniken des Röntgens, die auf Brechung oder Beugung der Strahlung beruhen. Zur Abgrenzung von anderen Röntgen-Phasenkontrastmethoden wird die von Snigirev beschriebene Technik oft als Propagations-Phasenkontrast (englisch propagation-based phase contrast) oder Inline-Phasenkontrast bezeichnet .
+Im Anschluss an die Entdeckung machte Snigirev mit seiner Gruppe und Kollaborationspartnern die Inline-Phasenkontrasttechnik für Anwendungen in bildgebenden Verfahren mit Synchrotronstrahlung, insbesondere der Mikrotomographie, nutzbar .
+
+
+=== Röntgen-Holographie, -Mikroskopie und -Interferometrie ===
+Um das Jahr 2000 zeigte Snigirevs Arbeitsgruppe bei ESRF, dass mit Zonenplatten als Linsen oder Strahlteiler für Röntgenstrahlen mikroskopische und interferometrische Röntgenbilder aufgenommen werden können .
+Im Jahr 2009 präsentierte Snigirev ein Röntgen-Interferometer, das auf dem Prinzip der refraktiven Röntgenlinse beruht .
+
+
+== Auszeichnungen ==
+Für die Entwicklung der refraktiven Röntgenlinse erhielt Snigirev im Jahr 2010 gemeinsam mit den Mitautoren seines Artikels in Nature von 1996 den seit 2001 jährlich vergebenen Innovationspreis Synchrotronstrahlung des Helmholtz-Zentrums Berlin (bis 2008: BESSY-Innovationspreis) .
+
+
+== Publikationen ==
+Die Literatur- und Zitationsdatenbank Web of Science weist Anatoly Snigirev als Autor oder Mitautor von über 260 wissenschaftlichen Fachartikeln mit einem h-Index von 36 aus.
+
+
+=== Ausgewählte Fachartikel ===
+
+
+== Einzelnachweise ==

@@ -1,0 +1,61 @@
+Cicada 3301 è il nome dato ad una misteriosa organizzazione che in tre diverse occasioni ha pubblicato una serie di enigmi molto complessi al fine di reclutare capaci criptoanalisti. Il primo di questi quesiti venne diffuso su Internet il 5 gennaio 2012 e ci restò per circa un mese. Il secondo apparve esattamente un anno dopo, il 5 gennaio 2013 mentre il terzo è tuttora in circolazione, dati alcuni indizi postati su Twitter il 5 gennaio 2014. L'intento, come già accennato, è quello di reclutare "individui intelligenti" tramite alcuni enigmi che devono essere risolti in ordine al fine di trovare il successivo. Gli enigmi vertono principalmente su sicurezza dei dati, crittografia e steganografia.
+La difficoltà di tali problemi è tale che sono stati reputati come "i più elaborati e misteriosi enigmi di tutta l'era di Internet" e Cicada 3301 è stata inserita dal quotidiano statunitense Washington Post nella "Top 5 dei misteri irrisolti più inquietanti di Internet". Sono state fatte molte ipotesi e speculazioni sull'identità di questa organizzazione e molte la indicano come uno strumento di reclutamento utilizzato da agenzie di sicurezza nazionale come la NSA, la CIA o la MI6, oppure da cyber-gruppi mercenari. Altri ritengono che essa sia una sorta di gioco che collega il web al mondo reale, una sorta di Alternate reality game (ARG), ma questo dubbio sarebbe facilmente smentibile dal fatto che nessuna società o individuo abbia mai annunciato di averla creata o abbia cercato di monetizzarla e che chi ha risolto gli enigmi non si sia poi fatto avanti. Altri ancora sostengono che faccia parte di un'azienda bancaria di criptovaluta.
+
+
+== Nascita ==
+Come è ovvio, non si sa nulla sulla nascita e lo sviluppo di Cicada 3301. La prima segnalazione dell'esistenza di questa organizzazione è stata fatta dall' informatico e compositore svedese Joel Eriksson, che trovò postato sul sito imageboard 4chan un'inserzione in cui si diceva che si era alla ricerca di persone intelligenti e si invitavano per questo gli utenti a scovare un messaggio nascosto nell'immagine (il primo enigma) che li avrebbe portati sulla strada per trovare l'organizzazione. Da qui è scaturita una sorta di fenomeno virale su Internet, fomentato da siti e persone che riproducevano il disegno su numerose schede e siti. I concorrenti che hanno tentato di risolvere i puzzle hanno formato grandi gruppi su Mibbit e su n0v4 reti IRC, a loro volta divisi in altri gruppetti che si avvalsero di canali IRC privati, forum, e gruppi Skype.
+
+
+=== Il primo enigma: 2012 ===
+Alcuni utenti hanno scoperto che aprendo l'immagine in una editor di testo appariva la scritta «TIBERIVS CLAVDIVS CAESAR says "lxxt>33m2mqkyv2gsq3q=w]O2ntk" ». Applicando poi il cifrario di Cesare con il numero 4 (Claudio era infatti il quarto imperatore romano) si otteneva un URL che portava però ad un vicolo cieco: una foto di una papera di legno e una scritta: "Woops, solo esche in questo modo. Sembra che tu non possa intuire il contenuto del messaggio.".
+L'altro metodo che effettivamente era poi quello corretto era la steganografia con Outguess, che ha permesso di trovare un secondo messaggio all'interno dell'immagine: un argomento Reddit contenente sequenze di numeri e lettere in lingua maya e due foto dal titolo "benvenuto" e "problemi? ".
+La risoluzione di queste due seguendo il medesimo procedimento portava, attraverso vari riferimenti a Re Artù e il Santo Graal, ad un numero di telefono, con cui Cicada 3301 controllava le chatroom delle persone che cercavano di risolvere i suoi puzzle. Ma quando questo fu scoperto da un utente, Jeff Kinkle, con il consenso della comunità, i forum vennero spostati in un server meno controllato.
+Curiosamente, se si telefonava al numero trovato, all'altro capo non c'era nessuno e si poteva udire un messaggio vocale che recitava:
+Gli altri due numeri primi erano 509 e 503, le dimensioni in pixel dell'immagine. L'indirizzo web che saltò fuori dalla moltiplicazione di questi con 3301 portava ad una foto di una cicala che, se aperta con Outguess, rivelava un nuovo messaggio:
+Il conto alla rovescia ha rivelato ben quattordici luoghi di città sparse in tutto il mondo con il sistema Global Positioning System, che si aggiorna automaticamente. Fra queste ci sono: :
+Varsavia
+Seul
+Parigi
+Sydney
+Hawaii
+Miami
+New Orleans
+Seattle
+Le affiancano delle coordinate GPS, che conducono a dei pali della luce, in cui sono attaccati dei manifesti bianchi con l'immagine di una cicala e svariati codici QR, ognuno delle quali nasconde l'indirizzo di siti con delle immagini da aprire con Outguess.
+
+
+=== Il secondo enigma: 2013 ===
+Un nuovo enigma diviso in parti molto simile al precedente è stato lanciato il 5 gennaio 2013 su Twitter.
+
+
+=== Il terzo enigma: 2014 ===
+Sono state lanciate due edizioni rispettivamente il 6 gennaio 2012 e il 6 gennaio 2013, alcuni si aspettavano una terza nel mese di gennaio 2014.
+Di fatto venne postato per la seconda volta il messaggio del 6 gennaio 2013 esattamente un anno dopo su Twitter per dare avvio al terzo enigma di Cicada 3301 basato sulla crittografia, sul software Tor e sulla scomposizione in fattori primi., tuttora nel 2015 è stato pubblicato un nuovo enigma il 16 agosto.
+
+
+== Scopo ==
+Lo scopo dichiarato di questi enigmi è quello di identificare "individui estremamente intelligenti" anche se il perché rimane ancora oscuro. Si pensa che Cicada 3301 sia una società segreta anonima e privata che cerca di migliorarsi nella decrittografia.
+Sta di fatto che coloro i quali affermano di aver risolto tutti gli enigmi alla fine si sono ritrovati con niente, in quanto una verifica da parte dell'organizzazione non è stata mai fatta. Soltanto nel 2012 è stata inviata una email ai "vincitori" in cui era riportata una valutazione sulla loro personalità seguita da un commento, secondo il quale essi sarebbero stati ammessi nell'organizzazione.
+
+
+== Tipi di indizi ==
+Gli indizi di Cicada 3301 hanno attraversato moltissimi mezzi di comunicazione differenti come Internet, telefonia, musica, CD Linux, immagini digitali, manifesti cartacei e addirittura di libri criptici mai pubblicati. Oltre a utilizzare svariate tecniche per cifrare, codificare i dati o nasconderli, questi hanno fatto riferimento anche una vasta gamma di libri, poesie, opere d'arte e brani musicali. Ogni indizio è stato firmato dalla stessa chiave privata GnuPG per confermarne l'autenticità.
+Qui di seguito l'elenco di alcune delle opere citate:
+
+
+== Accuse di attività illegali ==
+Le autorità di Los Andes Province, città del Cile, sostennero che Cicada 3301 sia un "gruppo di hacker" dedito ad attività illegali sul web. Ma l'organizzazione rispose mediante l'emissione di un PGP firmato in cui si negava qualsiasi coinvolgimento in attività illegali.
+
+
+== Influenza ==
+La United States Navy per reclutare nuovi membri nel 2014 indisse un concorso di crittografia, il Project Architeuthis, in cui i concorrenti dovevano risolvere enigmi basati su quelli di Cicada 3301.
+
+
+== Note ==
+
+3301 rappresenta l'effetto lucifero
+
+
+== Voci correlate ==
+Cicadidae
+Società segreta

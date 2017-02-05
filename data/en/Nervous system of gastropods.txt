@@ -1,0 +1,25 @@
+The nervous system of gastropods consists of a series of paired ganglia connected by major nerve cords, and a number of smaller branching nerves.
+
+The brain of a gastropod consists of three pairs of ganglia, all located close to the oesophagus and forming a nerve ring around it. In some primitive forms, these ganglia are relatively discrete, but in most species they have become so closely bound together as to effectively form separate lobes of a single structure.
+The cerebral ganglia are located above the oesophagus and supply nerves to the eyes, tentacles, and other sensory organs in the head. Beneath the oesophagus, at the forward part of the foot, lie the pedal ganglia. As their name implies, these supply nerves to the foot muscles.
+The third pair of ganglia within the brain lie slightly behind and below the cerebral ganglia. These are the pleural ganglia, and supply nerves to the mantle cavity. Bundles of nerves connect the cerebral, pedal, and pleural ganglia together, as well as running above and below the oesophagus to connect the right and left cerebral and pedal ganglia to each other.
+In most gastropods, a short pair of nerve cords passes forward from the cerebral ganglia to a pair of buccal ganglia located above the back of the mouth. These supply nerves to the radula and other parts of the mouth.
+The main nerve cords of the central nervous system run through the length of the body from the pleural ganglia. In the ancestral gastropod, these would presumably have run down either side of the animal, but because of the torsion of the visceral mass found in many modern forms, they now cross over each other. However, a number of species have undergone de-torsion, restoring their original bilateral symmetry.
+A pair of parietal ganglia lie along the length of the main nerve cords, supplying nerves to the gill and associated olfactory organ. Because of the torsion of the nerve cords, one parietal ganglion is typically higher in the body than the other. Finally, the nerve cords terminate in a linked pair of visceral ganglia, which supply nerves to the remaining organs of the visceral mass.
+A study, published in 2016 in Nature, has shown that in air-breathing freshwater snails of the genus Lymnaea Lamarck, 1799 goal-directed decision-making during the hunt for food is performed by just two neuron types. Through measuring the action potentials between neurons, the researchers found that just two neurons were able to come to a complicated form of decision making. One neuron in the brain tells the snail if food is nearby, the second neuron signals whether the snail is hungry or not. Such decision making helps the snail save energy by reducing complex brain activity when there is no food nearby and adapts its behavior in the absence of food. Thus the snail can switch between a low-use mode and a high-use mode depending on the decision. According to lead researcher György Kemenes, this could help engineers design more efficient "robot brains" in future. 
+Neurons of Helix, Helix aspersa, are used for study of epileptogenesis, because they are sensistive to epileptogenic drugs including pentylenetetrazol.
+
+
+== References ==
+
+Barnes, Robert D. (1982). Invertebrate Zoology. Philadelphia, PA: Holt-Saunders International. pp. 366–368. ISBN 0-03-056747-5. 
+
+
+== Further reading ==
+Benjamin, P. R.; Kemenes, G.; Kemenes, I. (2008). "Non-synaptic neuronal mechanisms of learning and memory in gastropod molluscs". Frontiers in Bioscience. 13: 4051–4057. doi:10.2741/2993. PMID 18508499. 
+Richter S., Loesel R., Purschke G., Schmidt-Rhaesa A., Scholtz G., Stach T., Vogt L., Wanninger A., Brenneis G., Döring C., Faller S., Fritsch M., Grobe P., Heuer C. M., Kaul S., Møller O. S., Müller C. H., Rieger V., Rothe B. H., Stegner M. E. & Harzsch S. (2010). "Invertebrate neurophylogeny: suggested terms and definitions for a neuroanatomical glossary". Frontiers in Zoology 7: 29 doi:10.1186/1742-9994-7-29.
+Weatherill, D.; Geoffroy, E.; Antkowiak, T.; Chase, R. (2004). "Why the Ovotestis of Helix aspersa is Innervated". Acta Biologica Hungarica. 55 (1–4): 239–249. doi:10.1556/ABiol.55.2004.1-4.29. PMID 15270240. .
+
+
+== External links ==
+Schoarpedia: Gastropod Neuroscience
